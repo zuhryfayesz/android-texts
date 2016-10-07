@@ -19,88 +19,12 @@
 
     <string name="title_dashboard">New Project</string>
 
-    <string name="title_empty_button">BUTTON</string>
-    <string name="title_empty_rgb">ZERGBA</string>
-    <string name="title_empty_label">VALUE</string>
-    <string name="title_empty_gauge">GAUGE</string>
-    <string name="title_empty_slider">SLIDER</string>
-    <string name="title_empty_notification">NOTIFICATION</string>
-    <string name="title_empty_mail">EMAIL</string>
-    <string name="title_empty_video">VIDEO</string>
-    <string name="title_empty_bridge">BRIDGE</string>
-    <string name="title_empty_terminal">TERMINAL</string>
-    <string name="title_empty_led">LED</string>
-    <string name="title_empty_rtc">RTC</string>
-    <string name="title_empty_graph">GRAPH</string>
-    <string name="title_empty_timer">TIMER</string>
-    <string name="title_empty_twitter">TWITTER</string>
-    <string name="title_empty_joystick">JOYSTICK</string>
-    <string name="title_empty_lcd">LCD</string>
-
-    <string name="title_empty_labeled_display">LABELED</string>
-    <string name="title_empty_menu">MENU</string>
-    <string name="title_empty_eventor">EVENTOR</string>
-    <string name="title_empty_time_input">TIME INPUT</string>
-    <string name="title_empty_webhook">WEBHOOK</string>
-    <string name="title_empty_gps_stream">GPS Stream</string>
-    <string name="title_empty_gps_trigger">GPS Trigger</string>
-
-    <string name="title_empty_light_sensor">Light</string>
-    <string name="title_empty_temp_sensor">Temperature</string>
-    <string name="title_empty_proximity_sensor">Proximity</string>
-    <string name="title_empty_accelerometer_sensor">Accelerometer</string>
-    <string name="title_empty_gravity_sensor">Gravity</string>
-    <string name="title_empty_barometer_sensor">Barometer</string>
-
     <string name="title_pin_picker">Select pin</string>
     <string name="title_time_picker">Select time</string>
     <string name="title_hardware_picker">Select your hardware</string>
     <string name="title_frequency_picker">Frequency of requests</string>
 
     <string name="title_themes_picker">Select theme</string>
-
-
-    <string name="title_button_settings">Button Settings</string>
-    <string name="title_rgb_settings">zeRGBa Settings</string>
-    <string name="title_label_settings">Value Display Settings</string>
-    <string name="title_seek_settings">Slider Settings</string>
-    <string name="title_timer_settings">Timer Settings</string>
-    <string name="title_twitter_settings">Twitter Settings</string>
-    <string name="title_led_settings">LED Settings</string>
-    <string name="title_rtc_settings">RTC Settings</string>
-    <string name="title_graph_settings">Graph Settings</string>
-    <string name="title_dashboard_settings">Project Settings</string>
-    <string name="title_dashboard_create">Create New Project</string>
-    <string name="title_joystick_settings">Joystick Settings</string>
-    <string name="title_notification_settings">Notification Settings</string>
-    <string name="title_mail_settings">Email Settings</string>
-    <string name="title_terminal_settings">Terminal Settings</string>
-    <string name="title_logger_settings">History Graph Settings</string>
-    <string name="title_bridge_settings">Bridge Settings</string>
-    <string name="title_image_settings">Image Settings</string>
-    <string name="title_labeled_display_settings">Labeled Value Settings</string>
-    <string name="title_menu_settings">Menu Settings</string>
-    <string name="title_bluetooth_settings">BLE Settings</string>
-    <string name="title_bluetooth_serial_settings">Bluetooth Settings</string>
-    <string name="title_player_settings">Player Settings</string>
-    <string name="title_lcd_settings">LCD Settings</string>
-    <string name="title_tabs_settings">Tabs Settings</string>
-    <string name="title_eventor_settings">Eventor Settings</string>
-    <string name="title_table_settings">Table Settings</string>
-    <string name="title_time_input_settings">Time Input Settings</string>
-    <string name="title_oneaxisjoystick_settings">One Axis Joystick Settings</string>
-    <string name="title_twoaxisjoystick_settings">Two Axis Joystick Settings</string>
-    <string name="title_webhook_settings">WebHook Settings</string>
-    <string name="title_gauge_settings">Gauge Settings</string>
-    <string name="title_gps_stream_settings">GPS Stream Settings</string>
-    <string name="title_gps_trigger_settings">GPS Trigger Settings</string>
-    <string name="title_light_sensor_settings">Light Sensor Settings</string>
-    <string name="title_temp_sensor_settings">Temperature Sensor Settings</string>
-    <string name="title_proximity_sensor_settings">Proximity Sensor Settings</string>
-    <string name="title_accelerometer_sensor_settings">Accelerometer Sensor Settings</string>
-    <string name="title_gravity_sensor_settings">Gravity Sensor Settings</string>
-    <string name="title_barometer_sensor_settings">Barometer Sensor Settings</string>
-    <string name="title_video_settings">Video Streaming Settings</string>
 
     <string name="prompt_widget_info_not_available">Documentation for this widget is not available</string>
 
@@ -173,13 +97,6 @@
     <string name="prompt_screen">Screen</string>
     <string name="prompt_text">Text</string>
 
-    <string name="prompt_pin_lcd_description">Example:\nlcd.print(0, 0, \"Hello LCD!\");</string>
-
-    <string name="hint_pin_lcd_format_line1">Use /pin0/ to insert pin data</string>
-    <string name="hint_pin_lcd_format_line2">Example: Temp: /pin1/ C</string>
-    <string name="hint_pin1_pattern">/pin0/</string>
-    <string name="hint_pin2_pattern">/pin1/</string>
-
     <string name="prompt_cover">SOON</string>
 
     <string name="mode_on">ON</string>
@@ -199,7 +116,6 @@
 
     <string name="mode_graph_type_bar">BAR</string>
     <string name="mode_graph_type_line">LINE</string>
-
 
     <string name="slider_setting_pwm_title">PWM Mapping</string>
 
@@ -224,7 +140,7 @@
     <string name="problems_logging_in">Problems signing in?</string>
     <string name="contact_support">Contact support</string>
     <string name="reset_pass">Reset password</string>
-    <string name="support_email">hello@blynk.cc</string>
+
     <string name="login_problems_email_subject">Problems signing in to Blynk</string>
     <string name="send_email">Send e-mail to Blynk support</string>
     <string name="mail_sent">EMail was sent to your login acc.</string>
@@ -243,13 +159,6 @@
     <string name="pin_digital">Digital</string>
     <string name="pin_is_busy">BUSY</string>
     <string name="pin_is_pwm">PWM</string>
-
-    <string name="btn_1h">1h</string>
-    <string name="btn_6h">6h</string>
-    <string name="btn_1d">1d</string>
-    <string name="btn_1w">1w</string>
-    <string name="btn_1m">1m</string>
-    <string name="btn_3m">3m</string>
 
     <string name="dlg_control_not_space">No enough space for this widget</string>
     <string name="dlg_control_only_one">Only one widget of that type is allowed</string>
@@ -298,14 +207,6 @@
 
     <string name="prompt_empty_push">It is an empty push notification</string>
 
-    <string name="share_token_title">Auth Token for %s project</string>
-    <string name="share_token_message" formatted="false">Auth Token for %s project “%s”\n
-\n
-Happy Blynking!\n
-—\n
-blynk.cc\n
-twitter.com/blynk_app\n
-www.facebook.com/blynkapp</string>
     <string name="log_in">Log In</string>
     <string name="i_am_new_here">Create Account</string>
 
@@ -318,22 +219,6 @@ www.facebook.com/blynkapp</string>
     <string name="notification_title">New Notification</string>
 
     <string name="inform_active_dashboard">You could not add new widgets while the project is active</string>
-
-    <string name="index_name_red">R</string>
-    <string name="index_name_green">G</string>
-    <string name="index_name_blue">B</string>
-    <string name="prompt_rgb_pin_description">r = param[0].asInt();\ng = param[1].asInt();\nb = param[2].asInt();</string>
-
-    <string name="prompt_terminal_pin_description">Example:\nterminal.print(\"Hello World\")</string>
-    <string name="prompt_twoaxisjoystick_pin_description">To access values use:\nx = param[0].asInt();\ny = param[1].asInt();</string>
-
-    <string name="action_select_hardware">@string/title_hardware_picker</string>
-
-    <string name="prompt_empty_logger">No Data</string>
-    <string name="prompt_no_enough_data">Not enough data to display</string>
-
-    <string name="edit_title_legend">SHOW LEGEND</string>
-    <string name="edit_title_logdata">Data to show</string>
 
     <string name="prompt_installed">Installed</string>
 
@@ -375,23 +260,6 @@ www.facebook.com/blynkapp</string>
 
     <string name="error_redentials_empty">You need to provide your email and password</string>
 
-    <string name="share_message_title">Check out %s app I\'ve made.</string>
-    <string name="share_message_text" formatted="false">
-        Hey,\n\n
-        I\'ve made %s app. You are welcome to try it out!\n\n
-        To start using it:\n
-        1. Download Blynk App: http://j.mp/blynk_Android or http://j.mp/blynk_iOS\n
-        2. Touch the QR icon and point the camera to the code below\n
-        3. Enjoy my app!
-    </string>
-    <string name="share_message_text_url" formatted="false">
-        Hey,\n\n
-        I\'ve made %s app. You are welcome to try it out!\n\n
-        To start using it:\n
-        1. Download Blynk App: http://j.mp/blynk_Android or http://j.mp/blynk_iOS\n
-        2. Touch the QR icon and point the camera to the code below or open the link below - %s\n
-        3. Enjoy my app!
-    </string>
     <string name="share_selector_title">Send&#8230;</string>
 
     <string name="error_qr_not_blynk">Not a valid Blynk code</string>
@@ -490,38 +358,6 @@ It\'s free, open source and can be installed in 1 minute.</string>
 
     <string name="dialog_confirm_clear_history">Are you sure you want to erase the data?</string>
 
-    <string name="prompt_sparkfun_thanks_title">Thanks for choosing SparkFun hardware!</string>
-    <string name="prompt_sparkfun_thanks_text1">Enjoy the complimentary</string>
-    <string name="prompt_sparkfun_thanks_text2">15,000 of Energy!</string>
-
-    <string name="prompt_sparkfun_howto_text">1. Power up SparkFun Blynk Board by connecting USB cable to a computer or wall adapter.\n\n2. Check that the board is blinking a four color sequence.\n\n3. Make sure your smartphone is connected to the Internet.</string>
-
-    <string name="prompt_sparkfun_device">Choose your device. It should be named \"BlynkMe\"</string>
-
-    <string name="prompt_sparkfun_device_connecting">Connecting to\n %s</string>
-    <string name="prompt_sparkfun_device_connected">Connected to\n %s</string>
-    <string name="prompt_sparkfun_device_wait">This may take a moment…</string>
-
-    <string name="prompt_sparkfun_network">Choose WiFi network to connect your device to. For example, your home WiFi</string>
-
-    <string name="prompt_sparkfun_network_connecting">Connecting SparkFun Blynk Board to %s</string>
-    <string name="prompt_sparkfun_network_connected">Finished!</string>
-    <string name="prompt_sparkfun_network_wait">This may take a moment…</string>
-    <string name="prompt_sparkfun_network_howto">Questions?\nPlease visit sparkfun.com/blynk</string>
-
-    <string name="prompt_sparkfun_cant_connect">Can\'t connect :(</string>
-    <string name="prompt_sparkfun_start_over">Try starting over.</string>
-
-    <string name="prompt_sparkfun_issues">Questions?\nPlease visit sparkfun.com/blynk</string>
-
-    <string name="title_sparkfun_thanks">Congrats!</string>
-    <string name="title_sparkfun_howto">Pre-flight check</string>
-    <string name="title_sparkfun_device_choose">Choose device</string>
-    <string name="title_sparkfun_wifi_connecting">Connecting</string>
-    <string name="title_sparkfun_wifi_connect">Connect to WiFi</string>
-    <string name="title_sparkfun_success">Success</string>
-    <string name="title_sparkfun_finish">Finish</string>
-
     <string name="action_setup_device">Set up new Device</string>
     <string name="action_choose_device">Choose device</string>
     <string name="action_not_now">Not now</string>
@@ -566,32 +402,6 @@ It\'s free, open source and can be installed in 1 minute.</string>
 
     <string name="title_scan_qr">Scan QR code</string>
 
-    <string name="hint_labeled_display_format">e.g: Temp: /pin/ ºC</string>
-    <string name="prompt_format">Label</string>
-
-    <string name="prompt_start_stop_time_labels">START/STOP TIMERS</string>
-
-    <string name="prompt_timezone">TimeZone</string>
-    <string name="prompt_timeformat">Time Format</string>
-
-    <string name="prompt_menu_pin_desc">When list item is selected, its\’ [index] will be sent to the pin</string>
-    <string name="prompt_menu_pin_hightlight">[index]</string>
-
-    <string name="prompt_menu_hint">Hint Text</string>
-    <string name="prompt_menu_edit_hint">Make a selection…</string>
-    <string name="prompt_menu_edit_item_1">Item 1</string>
-    <string name="prompt_menu_edit_item_2">Item 2</string>
-
-    <string name="prompt_menu_items">Menu Items</string>
-    <string name="format_menu_item_hint">Item %s</string>
-    <string name="action_add_menu_item">+ Add item</string>
-
-    <string name="prompt_send_on_release">Send on Release</string>
-
-    <string name="prompt_tabs_items">Tabs</string>
-    <string name="format_tabs_item_hint">Tab %s</string>
-    <string name="action_add_tabs_item">+ Add Tab</string>
-
     <string name="prompt_confirm_tab_remove">All widgets on this page will be deleted.\nThis cannot be undone</string>
     <string name="prompt_confirm_tabs_remove">Only widgets on first page will be left.\nThis cannot be undone</string>
 
@@ -600,34 +410,6 @@ It\'s free, open source and can be installed in 1 minute.</string>
 
     <string name="dlg_fb_login_email_empty_title">Can\’t log in, sorry</string>
     <string name="dlg_fb_login_email_empty_msg">Please check that you have E-mail address in your Facebook profile and retry.</string>
-    <string name="action_connect_ble">Connect BLE device</string>
-    <string name="action_connect_bluetooth">Connect Bluetooth device</string>
-    <string name="title_connect_ble">Select BLE device</string>
-    <string name="title_connect_bluetooth">Select Bluetooth device</string>
-    <string name="error_bluetooth_off">Turn ON Bluetooth in phone settings</string>
-    <string name="error_bluetooth_connect">Can\'t connect. Please retry or choose another device</string>
-
-    <string name="prompt_title_bluetooth_device">Bluetooth device</string>
-
-    <string name="prompt_ble_connecting">Connecting to your bluetooth device</string>
-    <string name="prompt_ble_connected">Connected to your bluetooth device</string>
-    <string name="prompt_ble_disconnected">Disconnected from your bluetooth device</string>
-    <string name="prompt_ble_not_paired">Project is not connected to a bluetooth device</string>
-
-    <string name="prompt_stop_ble_project">Another bluetooth connected project is active. Stop it?</string>
-
-    <string name="prompt_ble_not_supported">Is not supported on your device</string>
-    <string name="prompt_widget_conflict">not available for %s boards</string>
-    <string name="message_ble_not_supported">BLE is not supported on your device</string>
-
-    <string name="action_disconnect">Disconnect</string>
-
-    <string name="format_ble_error">Can\'t connect.\n%s</string>
-
-    <string name="prompt_ble_scan_empty">No scan results</string>
-
-    <string name="dlg_ble_title">BLE</string>
-    <string name="dlg_ble_location_message">Please enable location services for scanning bluetooth devices.</string>
 
     <string name="action_setup_new_device">Setup new device</string>
 
@@ -654,27 +436,8 @@ It\'s free, open source and can be installed in 1 minute.</string>
     <string name="title_select_stop">Stop at</string>
     <string name="title_select_timezone">Time zone</string>
 
-    <string name="monday">Mon</string>
-    <string name="tuesday">Tue</string>
-    <string name="wednesday">Wed</string>
-    <string name="thusday">Thu</string>
-    <string name="friday">Fri</string>
-    <string name="saturday">Sat</string>
-    <string name="sunday">Sun</string>
-
-    <string name="sunset">Sunset</string>
-    <string name="sunrise">Sunrise</string>
-
     <string name="inform_location_disabled">Location services are disabled on your device</string>
     <string name="action_enable">Enable</string>
-
-    <string name="format_celsius">%s°C</string>
-    <string name="format_fahrenheit">%s°F</string>
-    <string name="format_lux">%slx</string>
-    <string name="format_barometer">%smbar</string>
-
-    <string name="prompt_near">Near</string>
-    <string name="prompt_far">Far</string>
 
     <string name="title_gps_error_suspened">GPS disconnected</string>
     <string name="prompt_gps_error_suspended_network">Network connection is lost</string>
@@ -686,4 +449,11 @@ It\'s free, open source and can be installed in 1 minute.</string>
     <string name="prompt_wifi_location_perm">Blynk will need your location to be able to scan the WiFi networks around. It\’s an Android OS requirement.</string>
     <string name="prompt_ble_location_perm">Blynk will need your location to be able to scan the Bluetooth devices around. It’s an Android OS requirement.</string>
     <string name="action_grant_permission">Grant permission</string>
+
+    <string name="title_purchase_not_inited">Billing not initialised</string>
+    <string name="title_purchase_failed">Payment failed</string>
+
+    <string name="prompt_purchase_not_inited">Purchase hasn\'t been initialized.\nPlease update your Play Store and Google Services apps and try again.\nAlso in-app purchases could be not available in your country.\nYou could contact us if the problem still exists.</string>
+    <string name="prompt_purchase_failed">Please update your Play Store and Google Services apps and try again.\nAlso in-app purchases could be not available in your country.\nYou could contact us if the problem still exists.</string>
+    <string name="format_google_services">Google Services</string>
 </resources>
