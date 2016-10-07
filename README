@@ -1,0 +1,7 @@
+Before any actions please check this link: https://developer.android.com/training/basics/supporting-devices/languages.html
+
+How to add new localization:
+1. Copy 'values' directory as 'values-YOUR_LOCALE_CODE', locale codes examples: en, es, fr, uk, ru.
+2. Translate the texts in the xml files in your locale's 'values' directory.
+3. Make pull request.
+4. PROFIT
