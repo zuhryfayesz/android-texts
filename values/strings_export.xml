@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="prompt_comissioning">You need to setup your device</string>
+
+    <string name="action_ready">Ready</string>
+    <string name="action_begin">Begin</string>
+    <string name="action_notnow">Not now</string>
+    <string name="action_connect_to_device">Connect to device</string>
+
+    <string name="title_comissioning">Welcome!</string>
+
+    <string name="title_comissioning_howto">Let\'s connect your\n%s</string>
+    <string name="prompt_comissioning_howto">We will guide you through the steps to connect %s to your Wi-Fi network.</string>
+
+    <string name="title_comissioning_wifi">Choose the WiFi network</string>
+    <string name="prompt_comissioning_wifi">Choose a home WiFi network to connect your %s</string>
+
+    <string name="title_comissioning_device">Connect to device</string>
+    <string name="prompt_comissioning_device">Choose a WiFi network called %s from the list</string>
+
+    <string name="title_comissioning_error">Can\'t connect :(</string>
+    <string name="prompt_comissioning_error">Try starting over.\nIf you experiencing issues, please email us here:\n%s</string>
+
+    <string name="title_comissioning_connecting">Connecting…</string>
+    <string name="title_comissioning_connecting_device">Setting up your\n%s</string>
+
+    <string name="prompt_comissioning_wait">This may take a minute…</string>
+
+    <string name="prompt_comissioning_progress_device">Waiting for Wifi</string>
+    <string name="prompt_comissioning_progress_wifi">Connecting to the cloud</string>
+    <string name="prompt_comissioning_progress_online">Final check</string>
+
+    <string name="prompt_comissioning_connected_device">Wifi ready</string>
+    <string name="prompt_comissioning_connected_wifi">Cloud connected</string>
+    <string name="prompt_comissioning_connected_online">Connected</string>
+
+    <string name="title_comissioning_success">Finish</string>
+    <string name="prompt_comissioning_success">Connected!\nYou are all set.</string>
+
+</resources>

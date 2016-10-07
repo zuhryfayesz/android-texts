@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_start">Start</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_connect_twitter">Connect Twitter</string>
+    <string name="action_connecting_twitter">Connecting…</string>
+    <string name="action_disconnect_twitter">Disconnect</string>
+    <string name="action_add_control">Add Control</string>
+    <string name="action_add_dashboard">Add Dashboard</string>
+    <string name="action_create">Create</string>
+    <string name="action_create_in_progress">Creating</string>
+    <string name="action_ok">OK</string>
+    <string name="action_select_theme">Theme</string>
+
+    <string name="title_server_settings">Server Settings</string>
+
+    <string name="title_dashboard">New Project</string>
+
+    <string name="title_empty_button">BUTTON</string>
+    <string name="title_empty_rgb">ZERGBA</string>
+    <string name="title_empty_label">VALUE</string>
+    <string name="title_empty_gauge">GAUGE</string>
+    <string name="title_empty_slider">SLIDER</string>
+    <string name="title_empty_notification">NOTIFICATION</string>
+    <string name="title_empty_mail">EMAIL</string>
+    <string name="title_empty_video">VIDEO</string>
+    <string name="title_empty_bridge">BRIDGE</string>
+    <string name="title_empty_terminal">TERMINAL</string>
+    <string name="title_empty_led">LED</string>
+    <string name="title_empty_rtc">RTC</string>
+    <string name="title_empty_graph">GRAPH</string>
+    <string name="title_empty_timer">TIMER</string>
+    <string name="title_empty_twitter">TWITTER</string>
+    <string name="title_empty_joystick">JOYSTICK</string>
+    <string name="title_empty_lcd">LCD</string>
+
+    <string name="title_empty_labeled_display">LABELED</string>
+    <string name="title_empty_menu">MENU</string>
+    <string name="title_empty_eventor">EVENTOR</string>
+    <string name="title_empty_time_input">TIME INPUT</string>
+    <string name="title_empty_webhook">WEBHOOK</string>
+    <string name="title_empty_gps_stream">GPS Stream</string>
+    <string name="title_empty_gps_trigger">GPS Trigger</string>
+
+    <string name="title_empty_light_sensor">Light</string>
+    <string name="title_empty_temp_sensor">Temperature</string>
+    <string name="title_empty_proximity_sensor">Proximity</string>
+    <string name="title_empty_accelerometer_sensor">Accelerometer</string>
+    <string name="title_empty_gravity_sensor">Gravity</string>
+    <string name="title_empty_barometer_sensor">Barometer</string>
+
+    <string name="title_pin_picker">Select pin</string>
+    <string name="title_time_picker">Select time</string>
+    <string name="title_hardware_picker">Select your hardware</string>
+    <string name="title_frequency_picker">Frequency of requests</string>
+
+    <string name="title_themes_picker">Select theme</string>
+
+
+    <string name="title_button_settings">Button Settings</string>
+    <string name="title_rgb_settings">zeRGBa Settings</string>
+    <string name="title_label_settings">Value Display Settings</string>
+    <string name="title_seek_settings">Slider Settings</string>
+    <string name="title_timer_settings">Timer Settings</string>
+    <string name="title_twitter_settings">Twitter Settings</string>
+    <string name="title_led_settings">LED Settings</string>
+    <string name="title_rtc_settings">RTC Settings</string>
+    <string name="title_graph_settings">Graph Settings</string>
+    <string name="title_dashboard_settings">Project Settings</string>
+    <string name="title_dashboard_create">Create New Project</string>
+    <string name="title_joystick_settings">Joystick Settings</string>
+    <string name="title_notification_settings">Notification Settings</string>
+    <string name="title_mail_settings">Email Settings</string>
+    <string name="title_terminal_settings">Terminal Settings</string>
+    <string name="title_logger_settings">History Graph Settings</string>
+    <string name="title_bridge_settings">Bridge Settings</string>
+    <string name="title_image_settings">Image Settings</string>
+    <string name="title_labeled_display_settings">Labeled Value Settings</string>
+    <string name="title_menu_settings">Menu Settings</string>
+    <string name="title_bluetooth_settings">BLE Settings</string>
+    <string name="title_bluetooth_serial_settings">Bluetooth Settings</string>
+    <string name="title_player_settings">Player Settings</string>
+    <string name="title_lcd_settings">LCD Settings</string>
+    <string name="title_tabs_settings">Tabs Settings</string>
+    <string name="title_eventor_settings">Eventor Settings</string>
+    <string name="title_table_settings">Table Settings</string>
+    <string name="title_time_input_settings">Time Input Settings</string>
+    <string name="title_oneaxisjoystick_settings">One Axis Joystick Settings</string>
+    <string name="title_twoaxisjoystick_settings">Two Axis Joystick Settings</string>
+    <string name="title_webhook_settings">WebHook Settings</string>
+    <string name="title_gauge_settings">Gauge Settings</string>
+    <string name="title_gps_stream_settings">GPS Stream Settings</string>
+    <string name="title_gps_trigger_settings">GPS Trigger Settings</string>
+    <string name="title_light_sensor_settings">Light Sensor Settings</string>
+    <string name="title_temp_sensor_settings">Temperature Sensor Settings</string>
+    <string name="title_proximity_sensor_settings">Proximity Sensor Settings</string>
+    <string name="title_accelerometer_sensor_settings">Accelerometer Sensor Settings</string>
+    <string name="title_gravity_sensor_settings">Gravity Sensor Settings</string>
+    <string name="title_barometer_sensor_settings">Barometer Sensor Settings</string>
+    <string name="title_video_settings">Video Streaming Settings</string>
+
+    <string name="prompt_widget_info_not_available">Documentation for this widget is not available</string>
+
+    <string name="dlg_logout">Are you sure you want to log out?</string>
+
+    <string name="dlg_remove_message">Are you sure?</string>
+    <string name="action_continue">Continue</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_logout">Logout</string>
+
+    <string name="dlg_hardware_change_message">This will reset all widget settings in your project</string>
+
+    <string name="label_empty">----</string>
+    <string name="pin_default">PIN</string>
+    <string name="frequency_default">PUSH</string>
+    <string name="frequency_ms">Ms</string>
+    <string name="frequency_sec">Sec</string>
+
+    <string name="format_ms">%s ms</string>
+    <string name="format_sec">%s sec</string>
+
+    <string name="hint_min">MIN</string>
+    <string name="hint_max">MAX</string>
+    <string name="txt_min">0</string>
+    <string name="txt_max">255</string>
+
+    <string name="edit_button_title_onoff">ON/OFF LABELS</string>
+
+    <string name="edit_title_orientation">ORIENTATION</string>
+    <string name="edit_title_split">SPLIT</string>
+    <string name="edit_title_autoreturn">AUTORETURN</string>
+    <string name="edit_title_tilt">ROTATE ON TILT</string>
+
+    <string name="edit_title_model">HARDWARE MODEL</string>
+    <string name="edit_title_token">AUTH TOKEN</string>
+    <string name="edit_title_frequency">READING FREQUENCY</string>
+    <string name="edit_title_theme">THEME</string>
+
+    <string name="edit_title_graph_type">STYLE</string>
+
+    <string name="edit_notification_connect_btn">NOTIFICATION ACCOUNT</string>
+
+    <string name="edit_title_time">TIME</string>
+    <string name="edit_title_timer_start">START</string>
+    <string name="edit_title_timer_stop">STOP</string>
+
+    <string name="edit_twitter_connect_btn">TWITTER ACCOUNT</string>
+
+    <string name="edit_title_colors">COLORS</string>
+
+    <string name="edit_title_format">MESSAGE</string>
+
+    <string name="prompt_input_line">INPUT LINE</string>
+    <string name="prompt_auto_scroll">AUTOSCROLL</string>
+
+    <string name="prompt_notify_when_offline">NOTIFY WHEN HARDWARE GOES OFFLINE</string>
+
+    <string name="prompt_priority">PRIORITY</string>
+
+    <string name="prompt_mode">MODE</string>
+    <string name="prompt_mode_input">INPUT</string>
+    <string name="prompt_mode_output">OUTPUT</string>
+
+    <string name="prompt_orientation_horizonal">HOR</string>
+    <string name="prompt_orientation_vertical">VERT</string>
+
+    <string name="prompt_mode_simple">SIMPLE</string>
+    <string name="prompt_mode_advanced">ADVANCED</string>
+    
+    <string name="prompt_screen">Screen</string>
+    <string name="prompt_text">Text</string>
+
+    <string name="prompt_pin_lcd_description">Example:\nlcd.print(0, 0, \"Hello LCD!\");</string>
+
+    <string name="hint_pin_lcd_format_line1">Use /pin0/ to insert pin data</string>
+    <string name="hint_pin_lcd_format_line2">Example: Temp: /pin1/ C</string>
+    <string name="hint_pin1_pattern">/pin0/</string>
+    <string name="hint_pin2_pattern">/pin1/</string>
+
+    <string name="prompt_cover">SOON</string>
+
+    <string name="mode_on">ON</string>
+    <string name="mode_off">OFF</string>
+
+    <string name="mode_normal">NORMAL</string>
+    <string name="mode_high">HIGH</string>
+
+    <string name="mode_push">PUSH</string>
+    <string name="mode_switch">SWITCH</string>
+
+    <string name="mode_split">SPLIT</string>
+    <string name="mode_merge">MERGE</string>
+
+    <string name="mode_server_blynk">BLYNK</string>
+    <string name="mode_server_custom">CUSTOM</string>
+
+    <string name="mode_graph_type_bar">BAR</string>
+    <string name="mode_graph_type_line">LINE</string>
+
+
+    <string name="slider_setting_pwm_title">PWM Mapping</string>
+
+    <string name="graph_frequency">Reading frequency:</string>
+    <string name="graph_y">Y:</string>
+
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+
+    <string name="hint_name_dashboard">Project Name</string>
+    <string name="hint_email">e-mail</string>
+    <string name="hint_psw">password</string>
+    <string name="hint_ip">Host address</string>
+    <string name="hint_port">Port</string>
+    <string name="hint_type_here">Type here</string>
+
+    <string name="dashboard_title_default">New Project</string>
+
+    <string name="btn_login">Log In</string>
+    <string name="btn_reset_pass">Reset Password</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="problems_logging_in">Problems signing in?</string>
+    <string name="contact_support">Contact support</string>
+    <string name="reset_pass">Reset password</string>
+    <string name="support_email">hello@blynk.cc</string>
+    <string name="login_problems_email_subject">Problems signing in to Blynk</string>
+    <string name="send_email">Send e-mail to Blynk support</string>
+    <string name="mail_sent">EMail was sent to your login acc.</string>
+    <string name="mail_failed">EMail was not sent to your login acc. Please check your network connection.</string>
+
+    <string name="models_not_loaded">Hardware models have not been loaded. Try later.</string>
+
+    <string name="btn_send_email">E-mail</string>
+    <string name="btn_refresh_token">Refresh</string>
+    <string name="btn_share">Share</string>
+
+    <string name="btn_text_color">T</string>
+
+    <string name="pin_analog">Analog</string>
+    <string name="pin_virtual">Virtual</string>
+    <string name="pin_digital">Digital</string>
+    <string name="pin_is_busy">BUSY</string>
+    <string name="pin_is_pwm">PWM</string>
+
+    <string name="btn_1h">1h</string>
+    <string name="btn_6h">6h</string>
+    <string name="btn_1d">1d</string>
+    <string name="btn_1w">1w</string>
+    <string name="btn_1m">1m</string>
+    <string name="btn_3m">3m</string>
+
+    <string name="dlg_control_not_space">No enough space for this widget</string>
+    <string name="dlg_control_only_one">Only one widget of that type is allowed</string>
+    <string name="dlg_control_unexpected">Unexpected error occurred</string>
+
+    <string name="prompt_token_updating">Updating token…</string>
+    <string name="prompt_connecting">Connecting…</string>
+
+    <string name="prompt_sending">Sending…</string>
+    <string name="prompt_sent">Sent</string>
+
+    <string name="prompt_add_project">Create New Project</string>
+
+    <string name="error_no_route_to_host">Couldn\'t connect to the server. Please, check the settings of your wifi-router.</string>
+
+    <string name="error_command_malformed">Command is bad formed, check syntax and passed params</string>
+    <string name="error_too_many_requests">You are currently performing too many requests.</string>
+    <string name="error_user_not_registered">User is not registered</string>
+    <string name="error_user_already_registered">User with such name is already registered</string>
+    <string name="error_user_not_logined">Authentication failed. Please check your login and pass.</string>
+    <string name="error_user_not_allowed">User not allowed to perform this operation</string>
+    <string name="error_board_is_off">Your %s is not in network</string>
+    <string name="error_device_went_offline">Your %s was disconnected.</string>
+    <string name="error_no_active_dashboard">Please activate project again.</string>
+    <string name="error_illegal_body_command">Error processing client command.</string>
+    <string name="error_server_error">Sorry, Server can\'t talk now. Try later</string>
+    <string name="error_get_graph_data_exception">Problem getting graph history data.</string>
+    <string name="error_no_data">No data.</string>
+    <string name="error_invalid_token">Please check authentication token</string>
+
+    <string name="error_server_connect_error">Sorry, app could not initialize ssl connection to the server.</string>
+    <string name="error_server_read_error">Something went wrong when connecting to the server. Please try again later.</string>
+
+    <string name="error_network_is_off">You have no internet connection</string>
+    <string name="error_account_taken">This account is already taken</string>
+    <string name="error_unknown">Something went wrong. Try later</string>
+
+    <string name="error_network_is_off_try">No Internet connection.\nPlease try later</string>
+
+    <string name="inform_registration_success">You have successfully registered</string>
+    <string name="inform_reset_success">Email sent</string>
+    <string name="inform_reset_error">Error sending reset email.</string>
+    <string name="inform_reset_no_email">Please input your email.</string>
+    <string name="inform_token_copied">Token was copied to the clipboard</string>
+    <string name="inform_loading">Loading…</string>
+
+    <string name="prompt_empty_push">It is an empty push notification</string>
+
+    <string name="share_token_title">Auth Token for %s project</string>
+    <string name="share_token_message" formatted="false">Auth Token for %s project “%s”\n
+\n
+Happy Blynking!\n
+—\n
+blynk.cc\n
+twitter.com/blynk_app\n
+www.facebook.com/blynkapp</string>
+    <string name="log_in">Log In</string>
+    <string name="i_am_new_here">Create Account</string>
+
+    <string name="title_acknowledgements">Acknowledgements</string>
+    <string name="inform_token_not_received_yet">Project\'s auth token hasn\'t been received yet</string>
+    <string name="inform_reconnect">Reconnecting to the server&#8230;</string>
+
+    <string name="error_server_invalid">Invalid format of the server address</string>
+
+    <string name="notification_title">New Notification</string>
+
+    <string name="inform_active_dashboard">You could not add new widgets while the project is active</string>
+
+    <string name="index_name_red">R</string>
+    <string name="index_name_green">G</string>
+    <string name="index_name_blue">B</string>
+    <string name="prompt_rgb_pin_description">r = param[0].asInt();\ng = param[1].asInt();\nb = param[2].asInt();</string>
+
+    <string name="prompt_terminal_pin_description">Example:\nterminal.print(\"Hello World\")</string>
+    <string name="prompt_twoaxisjoystick_pin_description">To access values use:\nx = param[0].asInt();\ny = param[1].asInt();</string>
+
+    <string name="action_select_hardware">@string/title_hardware_picker</string>
+
+    <string name="prompt_empty_logger">No Data</string>
+    <string name="prompt_no_enough_data">Not enough data to display</string>
+
+    <string name="edit_title_legend">SHOW LEGEND</string>
+    <string name="edit_title_logdata">Data to show</string>
+
+    <string name="prompt_installed">Installed</string>
+
+    <string name="prompt_keep_screen">KEEP SCREEN ALWAYS ON</string>
+
+    <string name="error_email_empty">You need to provide your email</string>
+    <string name="error_email_validation_failed">It\'s not a valid e-mail address</string>
+    <string name="error_password_empty">You need to provide a password</string>
+
+    <string name="action_rescan">Scan Again</string>
+    <string name="action_login_via_qr">Scan the QR code</string>
+    <string name="title_login_via_qr">@string/action_login_via_qr</string>
+
+    <string name="prompt_share_trial">Free 30 days trial</string>
+    <string name="prompt_share_dashboard">SHARED ACCESS</string>
+    <string name="action_enable_share">PUBLIC</string>
+    <string name="action_disable_share">PRIVATE</string>
+    <string name="action_share_generate">Generate Link</string>
+
+    <string name="prompt_share_tutorial">How it Works</string>
+    <string name="title_share_tutorial">How Sharing Works</string>
+
+    <string name="title_share_link">Public Code</string>
+    <string name="prompt_share_token">Share this code with others and they will get a full copy of your Project</string>
+    <string name="prompt_share_token_sub">We never share your Auth Token</string>
+    <string name="action_save">Save</string>
+
+    <string name="prompt_project_share_token">Share access to your Project. Just send them this code</string>
+    <string name="prompt_project_share_token_sub">This is a beta version. It\'s free for 30 days. After that it will be available by subscription.</string>
+
+    <string-array name="share_tutorial">
+        <item>You can share your project as an App with family, friends and customers.</item>
+        <item>\u2022 Set everything up\n\u2022 Activate your New App</item>
+        <item>Your friends will get a link and be able to use it.\n\nHappy Blynking!</item>
+    </string-array>
+
+    <string name="prompt_shared_dasboard_not_active">Project is deactivated.</string>
+    <string name="error_sharing_disabled">Project sharing was revoked.</string>
+
+    <string name="error_redentials_empty">You need to provide your email and password</string>
+
+    <string name="share_message_title">Check out %s app I\'ve made.</string>
+    <string name="share_message_text" formatted="false">
+        Hey,\n\n
+        I\'ve made %s app. You are welcome to try it out!\n\n
+        To start using it:\n
+        1. Download Blynk App: http://j.mp/blynk_Android or http://j.mp/blynk_iOS\n
+        2. Touch the QR icon and point the camera to the code below\n
+        3. Enjoy my app!
+    </string>
+    <string name="share_message_text_url" formatted="false">
+        Hey,\n\n
+        I\'ve made %s app. You are welcome to try it out!\n\n
+        To start using it:\n
+        1. Download Blynk App: http://j.mp/blynk_Android or http://j.mp/blynk_iOS\n
+        2. Touch the QR icon and point the camera to the code below or open the link below - %s\n
+        3. Enjoy my app!
+    </string>
+    <string name="share_selector_title">Send&#8230;</string>
+
+    <string name="error_qr_not_blynk">Not a valid Blynk code</string>
+    <string name="error_qr_not_public">This QR code gives access to shared Blynk projects. You need to scan it from Log In screen.\nRead more: docs.blynk.cc/#sharing</string>
+
+    <string name="title_create_from_qr">QR</string>
+
+    <string name="error_share_qr_not_generated">Problems with creating QR code for sharing.\nTry Refreshing or try later.</string>
+
+    <string name="error_share_qr_too_big">Too large project for QR.</string>
+
+    <string name="error_no_camera">No Camera were found</string>
+    <string name="inform_qr_public">It\'s a public project, please login and then scan this QR code</string>
+    <string name="error_hardware_model_unknown">Unknown hardware model. Please check it.</string>
+
+    <string name="action_create_account">Create New Account</string>
+    <string name="action_create_project">Create New Project</string>
+    <string name="action_scan_qr">Scan QR Code</string>
+    <string name="action_generate_link">Generate Link</string>
+
+    <string name="action_soon">Soon</string>
+
+    <string name="error_server_timeout">Connection timed out. Try again</string>
+    <string name="error_server_close">Sorry, server connection was closed. Try later</string>
+
+    <string name="notification_permission">Permission not granted</string>
+    <string name="error_permission_network_state">Access Network State permission was not granted to Blynk app. It could cause abnormal work.</string>
+    <string name="error_permission_internet">Internet permission was not granted to Blynk app. It could not work without it.</string>
+    <string name="error_permission_bluetooth">Bluetooth permission was not granted to Blynk app. It could not work without it.</string>
+    <string name="error_permission_camera">Camera permission was not granted to Blynk app. This functionality could not work without it.</string>
+    <string name="server_error">Something went wrong on server. Please report it in community.blynk.cc</string>
+
+    <string name="app_error">Something went wrong. Please report it in community.blynk.cc</string>
+
+    <string name="error_empty_uri">Empty url for the shared project</string>
+
+    <string name="tutorial_share_title_1">Share your "App" with friends, family and customers</string>
+    <string name="tutorial_share_text_1">They can control it, but can\'t modify.\nYou are the Boss!</string>
+    <string name="tutorial_share_title_2">Send them a link, they scan it and your Project magically opens</string>
+    <string name="tutorial_share_text_2">They will need to download Blynk app</string>
+    <string name="tutorial_share_title_3">Every time you update the Project, your users get an instant update!</string>
+    <string name="tutorial_share_text_3">You can maximize performance and security by using local Blynk Server.\nIt\'s easy and free.</string>
+
+    <string name="prompt_qr_login">Please login or register to open a shared Project</string>
+
+    <string name="title_dashboard_share">Clone Project</string>
+    <string name="title_project_share">Share Project</string>
+    
+    <string name="prompt_help_account">Account is needed to provide you with a reliable and secure access to your hardware from anywhere in the world, no matter which device or OS you use.\n\n
+If you need more privacy – install your own Private Blynk Server locally.\n
+It\'s free, open source and can be installed in 1 minute.</string>
+    <string name="prompt_help_server">Read about Private Blynk Server</string>
+
+    <string name="action_account_help">Why do I need an account?</string>
+    <string name="action_close">Close</string>
+
+    <string name="inform_qr_dashboard_empty">Something went wrong with project QR</string>
+    <string name="confirm_refresh_share_token">Are you sure you want to refresh the code?\nThis action will revoke access for everyone you\'ve shared it with.</string>
+    <string name="inform_shared_dashboard_deactivate">Shared project is not currently active</string>
+    <string name="inform_shared_dashboard_activated">Shared project is active again</string>
+
+    <string name="inform_unavailable_dashboard_default">Project is unavailable</string>
+    <string name="inform_revoked_dashboard">%s app is no longer available, sorry</string>
+    <string name="inform_unavailable_dashboard">%s app is stopped by the author.\n\nYou may try to reload it later</string>
+    <string name="action_contact_author">Contact the author</string>
+    <string name="email_revoked_title">I have an issue loading %s app</string>
+    <string name="title_refresh">Refresh</string>
+
+    <string name="error_connection_problem">Couldn\'t connect to the server. Please check your internet connection, or try again.</string>
+    <string name="action_refresh">Refresh</string>
+
+    <string name="alert_exit_shared">Are you sure you want to exit?\nYou will need to re-scan the QR code again</string>
+    <string name="action_exit">Exit</string>
+
+    <string name="error_not_supported_api_version">Not supported version. Please update.</string>
+
+    <string name="divider_tag">divider</string>
+    <string name="label_tag">label</string>
+
+    <string name="action_upgrade_app">Update app</string>
+
+    <string name="dialog_dashboard_limit_content">You exceeded limit of dashboards that could be created.</string>
+
+    <string name="dialog_content_retry">%s\nTry later.</string>
+
+    <string name="action_reset">Reset</string>
+
+    <string name="inform_dashboard_could_be_created">Project could not be created. Please wait until token will be received</string>
+
+    <string name="error_server_outdated">Your local server is outdated, please update.</string>
+    <string name="error_app_outdated">Your app is outdated, please update.</string>
+
+    <string name="prompt_twitter_connected">%s connected</string>
+
+    <string name="action_clear_history">Erase data</string>
+
+    <string name="dialog_confirm_clear_history">Are you sure you want to erase the data?</string>
+
+    <string name="prompt_sparkfun_thanks_title">Thanks for choosing SparkFun hardware!</string>
+    <string name="prompt_sparkfun_thanks_text1">Enjoy the complimentary</string>
+    <string name="prompt_sparkfun_thanks_text2">15,000 of Energy!</string>
+
+    <string name="prompt_sparkfun_howto_text">1. Power up SparkFun Blynk Board by connecting USB cable to a computer or wall adapter.\n\n2. Check that the board is blinking a four color sequence.\n\n3. Make sure your smartphone is connected to the Internet.</string>
+
+    <string name="prompt_sparkfun_device">Choose your device. It should be named \"BlynkMe\"</string>
+
+    <string name="prompt_sparkfun_device_connecting">Connecting to\n %s</string>
+    <string name="prompt_sparkfun_device_connected">Connected to\n %s</string>
+    <string name="prompt_sparkfun_device_wait">This may take a moment…</string>
+
+    <string name="prompt_sparkfun_network">Choose WiFi network to connect your device to. For example, your home WiFi</string>
+
+    <string name="prompt_sparkfun_network_connecting">Connecting SparkFun Blynk Board to %s</string>
+    <string name="prompt_sparkfun_network_connected">Finished!</string>
+    <string name="prompt_sparkfun_network_wait">This may take a moment…</string>
+    <string name="prompt_sparkfun_network_howto">Questions?\nPlease visit sparkfun.com/blynk</string>
+
+    <string name="prompt_sparkfun_cant_connect">Can\'t connect :(</string>
+    <string name="prompt_sparkfun_start_over">Try starting over.</string>
+
+    <string name="prompt_sparkfun_issues">Questions?\nPlease visit sparkfun.com/blynk</string>
+
+    <string name="title_sparkfun_thanks">Congrats!</string>
+    <string name="title_sparkfun_howto">Pre-flight check</string>
+    <string name="title_sparkfun_device_choose">Choose device</string>
+    <string name="title_sparkfun_wifi_connecting">Connecting</string>
+    <string name="title_sparkfun_wifi_connect">Connect to WiFi</string>
+    <string name="title_sparkfun_success">Success</string>
+    <string name="title_sparkfun_finish">Finish</string>
+
+    <string name="action_setup_device">Set up new Device</string>
+    <string name="action_choose_device">Choose device</string>
+    <string name="action_not_now">Not now</string>
+    <string name="action_done">Done</string>
+    <string name="action_start_over">Start over</string>
+
+    <string name="prompt_battery_unlimited">Unlimited</string>
+    <string name="prompt_battery_enjoy"> Added. Enjoy!</string>
+    <string name="action_add">+ Add</string>
+    <string name="action_buy">Buy</string>
+
+    <string name="inform_energy_not_enough">Not enough energy</string>
+
+    <string name="prompt_energy_by_ads">Get energy by watching video ads</string>
+    <string name="format_price">$%s</string>
+    <string name="format_energy"> x %s</string>
+    <string name="prompt_free">Free</string>
+
+    <string name="title_energy_purchases">Add power</string>
+
+    <string name="prompt_energy_balance">Your Energy Balance</string>
+    <string name="prompt_select_purchase">Choose Energy Pack</string>
+
+    <string name="title_low_energy">You need more energy…</string>
+    <string name="action_add_energy">+ Add Energy</string>
+
+    <string name="title_energy_tutorial">How energy works</string>
+    <string name="prompt_energy_tutorial">Each widget needs Energy to operate\n\nWhen you delete a widget Energy is returned\n\nYou can always get more Energy in our Store.</string>
+    <string name="action_energy_tutoril_ok">Cool! Got it.</string>
+
+    <string name="title_campaign_reward">Thank you!</string>
+    <string name="prompt_campaign_reward_title">Thank you for supporting us during %s Kickstarter campaign!</string>
+    <string name="prompt_campaign_reward_text">Enjoy complimentary %s Energy!</string>
+    <string name="action_claim_reward">Get %s Energy</string>
+
+    <string name="format_error_try_later">%s\nTry later</string>
+
+    <string name="prompt_enable_wifi">You need turn on Wi-Fi connection to continue.</string>
+    <string name="action_enable_wifi">Open WiFi settings</string>
+
+    <string name="error_code_redeemed">This code was already redeemed.\nHave questions - email to hello@blynk.cc</string>
+
+    <string name="title_scan_qr">Scan QR code</string>
+
+    <string name="hint_labeled_display_format">e.g: Temp: /pin/ ºC</string>
+    <string name="prompt_format">Label</string>
+
+    <string name="prompt_start_stop_time_labels">START/STOP TIMERS</string>
+
+    <string name="prompt_timezone">TimeZone</string>
+    <string name="prompt_timeformat">Time Format</string>
+
+    <string name="prompt_menu_pin_desc">When list item is selected, its\’ [index] will be sent to the pin</string>
+    <string name="prompt_menu_pin_hightlight">[index]</string>
+
+    <string name="prompt_menu_hint">Hint Text</string>
+    <string name="prompt_menu_edit_hint">Make a selection…</string>
+    <string name="prompt_menu_edit_item_1">Item 1</string>
+    <string name="prompt_menu_edit_item_2">Item 2</string>
+
+    <string name="prompt_menu_items">Menu Items</string>
+    <string name="format_menu_item_hint">Item %s</string>
+    <string name="action_add_menu_item">+ Add item</string>
+
+    <string name="prompt_send_on_release">Send on Release</string>
+
+    <string name="prompt_tabs_items">Tabs</string>
+    <string name="format_tabs_item_hint">Tab %s</string>
+    <string name="action_add_tabs_item">+ Add Tab</string>
+
+    <string name="prompt_confirm_tab_remove">All widgets on this page will be deleted.\nThis cannot be undone</string>
+    <string name="prompt_confirm_tabs_remove">Only widgets on first page will be left.\nThis cannot be undone</string>
+
+    <string name="error_facebook_login">Facebook login failed</string>
+    <string name="action_facebook_login">Log In with Facebook</string>
+
+    <string name="dlg_fb_login_email_empty_title">Can\’t log in, sorry</string>
+    <string name="dlg_fb_login_email_empty_msg">Please check that you have E-mail address in your Facebook profile and retry.</string>
+    <string name="action_connect_ble">Connect BLE device</string>
+    <string name="action_connect_bluetooth">Connect Bluetooth device</string>
+    <string name="title_connect_ble">Select BLE device</string>
+    <string name="title_connect_bluetooth">Select Bluetooth device</string>
+    <string name="error_bluetooth_off">Turn ON Bluetooth in phone settings</string>
+    <string name="error_bluetooth_connect">Can\'t connect. Please retry or choose another device</string>
+
+    <string name="prompt_title_bluetooth_device">Bluetooth device</string>
+
+    <string name="prompt_ble_connecting">Connecting to your bluetooth device</string>
+    <string name="prompt_ble_connected">Connected to your bluetooth device</string>
+    <string name="prompt_ble_disconnected">Disconnected from your bluetooth device</string>
+    <string name="prompt_ble_not_paired">Project is not connected to a bluetooth device</string>
+
+    <string name="prompt_stop_ble_project">Another bluetooth connected project is active. Stop it?</string>
+
+    <string name="prompt_ble_not_supported">Is not supported on your device</string>
+    <string name="prompt_widget_conflict">not available for %s boards</string>
+    <string name="message_ble_not_supported">BLE is not supported on your device</string>
+
+    <string name="action_disconnect">Disconnect</string>
+
+    <string name="format_ble_error">Can\'t connect.\n%s</string>
+
+    <string name="prompt_ble_scan_empty">No scan results</string>
+
+    <string name="dlg_ble_title">BLE</string>
+    <string name="dlg_ble_location_message">Please enable location services for scanning bluetooth devices.</string>
+
+    <string name="action_setup_new_device">Setup new device</string>
+
+    <string name="dlg_sharing_energy_notice">Energy for sharing is not recoverable and will not be returned. Are you sure?</string>
+
+    <string name="dlg_wifi_location_message">Please enable location services for scanning wifi.</string>
+
+    <string name="alert_select_wifi">Please, choose the WiFi network</string>
+    <string name="alert_select_device">Please, choose appropriate WiFi network</string>
+
+    <string name="alert_export_title">Export data</string>
+    <string name="alert_export_message">CSV files will be sent to your email address</string>
+    <string name="action_send_csv_data">Export to CSV</string>
+
+    <string name="title_mail_to">To</string>
+    <string name="hint_mail_edit">E-mail</string>
+
+    <string name="prompt_wifi_ap">Please disable Access Point mode to enable scanning for Wi-Fi networks</string>
+    <string name="prompt_wifi_scan_empty">No scan results</string>
+
+    <string name="title_set_time">Set the time</string>
+    <string name="title_select_day">Choose days of the week</string>
+    <string name="title_select_start">Start at</string>
+    <string name="title_select_stop">Stop at</string>
+    <string name="title_select_timezone">Time zone</string>
+
+    <string name="monday">Mon</string>
+    <string name="tuesday">Tue</string>
+    <string name="wednesday">Wed</string>
+    <string name="thusday">Thu</string>
+    <string name="friday">Fri</string>
+    <string name="saturday">Sat</string>
+    <string name="sunday">Sun</string>
+
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+
+    <string name="inform_location_disabled">Location services are disabled on your device</string>
+    <string name="action_enable">Enable</string>
+
+    <string name="format_celsius">%s°C</string>
+    <string name="format_fahrenheit">%s°F</string>
+    <string name="format_lux">%slx</string>
+    <string name="format_barometer">%smbar</string>
+
+    <string name="prompt_near">Near</string>
+    <string name="prompt_far">Far</string>
+
+    <string name="title_gps_error_suspened">GPS disconnected</string>
+    <string name="prompt_gps_error_suspended_network">Network connection is lost</string>
+    <string name="prompt_gps_error_suspended_service">GPS service has been killed</string>
+
+    <string name="title_gps_error_connection">GPS not inited</string>
+
+    <string name="prompt_gps_perm">We would need access to your smartphone\’s GPS to enable location-based functionality.</string>
+    <string name="prompt_wifi_location_perm">Blynk will need your location to be able to scan the WiFi networks around. It\’s an Android OS requirement.</string>
+    <string name="prompt_ble_location_perm">Blynk will need your location to be able to scan the Bluetooth devices around. It’s an Android OS requirement.</string>
+    <string name="action_grant_permission">Grant permission</string>
+</resources>

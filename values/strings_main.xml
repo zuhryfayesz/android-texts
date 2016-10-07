@@ -1,0 +1,201 @@
+<resources>
+    <string name="title_purchase_not_inited">Billing not initialised</string>
+    <string name="title_purchase_failed">Payment failed</string>
+
+    <string name="prompt_purchase_not_inited">Purchase hasn\'t been initialized.\nPlease update your Play Store and Google Services apps and try again.\nAlso in-app purchases could be not available in your country.\nYou could contact us if the problem still exists.</string>
+    <string name="prompt_purchase_failed">Please update your Play Store and Google Services apps and try again.\nAlso in-app purchases could be not available in your country.\nYou could contact us if the problem still exists.</string>
+    <string name="format_google_services">Google Services</string>
+    <string name="link_google_services">market://details?id=com.google.android.gms</string>
+
+    <string name="action_add_new_item">+ Add New Event</string>
+
+    <string name="eventor_trigger_format">When %s</string>
+
+    <string name="eventor_condition_lt">is lower than %s</string>
+    <string name="eventor_condition_gt">is higher than %s</string>
+    <string name="eventor_condition_lte">is lower than or equal to %s</string>
+    <string name="eventor_condition_gte">is higher than or equal to %s</string>
+    <string name="eventor_condition_eq">is equal to %s</string>
+    <string name="eventor_condition_neq">is not equal to %s</string>
+
+    <string name="eventor_action_setpin" formatted="false">set %s to %s</string>
+    <string name="eventor_action_turn_on">turn ON %s</string>
+    <string name="eventor_action_turn_off">turn OFF %s</string>
+    <string name="eventor_action_notify">send notification: %s</string>
+    <string name="eventor_action_notify_highlight">notification</string>
+    <string name="eventor_action_notify_collapsed">send notification</string>
+
+    <string name="eventor_hint_trigger">Tap to choose a pin or a widget that will act as a trigger</string>
+    <string name="eventor_hint_condition">Choose a condition</string>
+    <string name="eventor_hint_enter_value">Input value</string>
+    <string name="eventor_hint_action">Choose action</string>
+    <string name="eventor_hint_select_pin">Select pin</string>
+    <string name="eventor_hint_set_value">Set value</string>
+
+    <string name="eventor_elem_when">When…</string>
+    <string name="eventor_elem_when_format">When %s</string>
+    <string name="eventor_elem_vpin">Vpin value</string>
+    <string name="eventor_elem_vpin_highlight">Vpin</string>
+
+    <string name="eventor_elem_setpin">set Vpin to…</string>
+    <string name="eventor_elem_setpin_highlight">Vpin</string>
+    <string name="eventor_elem_notify">send notification</string>
+    <string name="eventor_elem_notify_highlight">notification</string>
+
+    <string name="eventor_elem_turn_on">turn ON pin</string>
+    <string name="eventor_elem_turn_on_highlight">pin</string>
+    <string name="eventor_elem_turn_off">turn OFF pin</string>
+    <string name="eventor_elem_turn_off_highlight">pin</string>
+
+    <string name="eventor_hint_write_message">Type in what to send. You can also use /pin/ to include pin value.\n\nFor example: \"Alert! temperature is below /pin/०C\"</string>
+
+    <string name="alert_eventor_notify_push">Please don\'t forget to add Push widget to your project!</string>
+
+    <string name="eventor_prompt_ready">Event is ready. Nice!</string>
+    <string name="prompt_eventor_items">Events</string>
+
+    <string name="prompt_rule_active">Active</string>
+    <string name="prompt_rule_inactive">Inactive</string>
+    <string name="format_rule_index">Event %s</string>
+    <string name="title_new_rule">New event</string>
+
+    <string name="eventor_delete_confirm">Delete the event? This cannot be undone.</string>
+
+    <string name="title_table_columns">Columns</string>
+    <string name="title_table_reordering">Allow reordering</string>
+    <string name="title_table_clickable">Clickable rows</string>
+
+    <string name="alert_table_columns">Set up columns</string>
+    <string name="table_column_name">name</string>
+    <string name="table_column_value">value</string>
+    <string name="table_column_icon">icon</string>
+    <string name="table_column_empty">&lt;empty&gt;</string>
+    <string name="table_column_separtor">|</string>
+
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+
+    <string name="title_selection_format">Format</string>
+    <string name="title_selection_startstop">Allow start/stop input</string>
+    <string name="title_selection_daysofweek">Allow day of week selection</string>
+    <string name="title_selection_sunsetsunrise">Allow sunset/sunrise selection</string>
+    <string name="title_selection_timezone">Allow timezone selection</string>
+
+    <string name="prompt_method">Method</string>
+    <string name="prompt_content_type">Content Type</string>
+    <string name="prompt_url">Url</string>
+    <string name="prompt_body">Body</string>
+
+    <string name="hint_url">http://your.url</string>
+
+    <string name="title_content_type_picker">Select Content Type</string>
+
+    <string name="webhook_toast_url_malformed">Wrong format of url</string>
+    <string name="webhook_toast_body_malformed">Body json malformed</string>
+    <string name="webhook_hint_url">Use /pin/ or %s to insert pin data</string>
+    <string name="webhook_hint_body">Use /pin/ to insert pin data</string>
+
+    <string name="title_gps_settings">GPS Settings</string>
+
+    <string name="edit_title_trigger">TRIGGER WHEN</string>
+    <string name="edit_battery">BATTERY CONSUMPTION</string>
+    <string name="trigger_enter">ENTER</string>
+    <string name="trigger_exit">EXIT</string>
+    <string name="mode_stream">STREAM</string>
+    <string name="mode_trigger">TRIGGER</string>
+    <string-array name="gps_descriptions">
+        <item>GPS.getLat()</item>
+        <item>GPS.getLon()</item>
+        <item>GPS.getAltitude()</item>
+        <item>GPS.getSpeed()</item>
+    </string-array>
+    <string name="gps_accuracy_high">High Accuracy</string>
+    <string name="gps_accuracy_low">Low Power</string>
+    <string name="gps_accuracy_balanced">Balanced</string>
+
+    <string name="prompt_radius" formatted="false">Radius: %s%s</string>
+    <string name="format_meter">m</string>
+    <string name="format_kilometer">km</string>
+
+    <string name="edit_title_mode">MODE</string>
+    <string name="title_empty_gps">GPS</string>
+    <string name="title_accuracy_picker">Select accuracy</string>
+
+    <string name="prompt_temperature">Temperature</string>
+    <string name="prompt_temperature_c">Celsius</string>
+    <string name="prompt_temperature_f">Fahrenheit</string>
+
+    <string-array name="accelerometer_descriptions">
+        <item>X axis</item>
+        <item>Y axis</item>
+        <item>Z axis</item>
+    </string-array>
+
+    <string-array name="gravity_descriptions">
+        <item>X axis</item>
+        <item>Y axis</item>
+        <item>Z axis</item>
+    </string-array>
+
+    <string name="prompt_image_id">Image id</string>
+    <string name="image_hint_id">Enter image name or id</string>
+
+    <string name="title_video_custom_url">Custom url</string> 
+    <string name="hint_video_edit">Custom streaming url</string>
+
+    <string name="title_add_widget">Widget Box</string>
+    <string name="section_controllers">Controllers</string>
+    <string name="section_displays">Displays</string>
+    <string name="section_sensors">Sensors</string>
+    <string name="section_notifications">Notifications</string>
+    <string name="section_audio">Audio</string>
+    <string name="section_other">Other</string>
+    <string name="section_interface">Interface</string>
+
+    <string name="item_button_large_title">Button L</string>
+    <string name="item_button_title">Button</string>
+    <string name="item_rgb_title">zeRGBa</string>
+    <string name="item_slider_title">Slider S</string>
+    <string name="item_led_title">LED</string>
+    <string name="item_graph_title">Graph</string>
+    <string name="item_display_title">Value Display S</string>
+    <string name="item_display_2x_title">Value Display M</string>
+    <string name="item_timer_title">Timer</string>
+    <string name="item_twitter_title">Twitter</string>
+    <string name="item_terminal_title">Terminal</string>
+    <string name="item_gauge_title">Gauge</string>
+    <string name="item_notification_title">Notification</string>
+    <string name="item_mail_title">Email</string>
+    <string name="item_bridge_title">Bridge</string>
+    <string name="item_rtc_title">Real-time clock</string>
+    <string name="item_logger_title">History Graph</string>
+    <string name="item_bluetooth_title">BLE (beta)</string>
+    <string name="item_bluetooth_serial_title">Bluetooth (beta)</string>
+    <string name="item_eventor_title">Eventor</string>
+    <string name="item_large_slider_title">Slider L</string>
+    <string name="item_vertical_slider_title">Vertical Slider</string>
+    <string name="item_joystick_title">Joystick</string>
+    <string name="item_lcd_title">LCD</string>
+    <string name="item_gps_title">GPS</string>
+    <string name="item_labeled_display_title">Labeled Value M</string>
+    <string name="item_labeled_display_large_title">Labeled Value L</string>
+    <string name="item_menu_title">Menu M</string>
+    <string name="item_menu_large_title">Menu L</string>
+    <string name="item_table_title">Table</string>
+    <string name="item_tabs_title">Tabs</string>
+    <string name="item_player_title">Music Player</string>
+    <string name="item_oneaxisjoystick_title">One Axis Joystick</string>
+    <string name="item_twoaxisjoystick_title">Two Axis Joystick</string>
+    <string name="item_time_input_title">Time Input</string>
+    <string name="item_webhook_title">WebHook</string>
+    <string name="item_image_title">Image</string>
+    <string name="item_video_title">Video Streaming</string>
+    <string name="item_light_sensor_title">Light Sensor</string>
+    <string name="item_temp_sensor_title">Temperature Sensor</string>
+    <string name="item_proximity_sensor">Proximity Sensor</string>
+    <string name="item_accelerometer_sensor">Accelerometer Sensor</string>
+    <string name="item_gravity_sensor">Gravity Sensor</string>
+    <string name="item_barometer_sensor">Barometer Sensor</string>
+    <string name="item_gps_stream_title">GPS Stream</string>
+    <string name="item_gps_trigger_title">GPS Trigger</string>
+</resources>
