@@ -90,6 +90,9 @@
 
     <string name="error_not_supported_api_version">Not supported version. Please update.</string>
 
+    <string name="error_widget_user_not_logined">Authentication failed. Please login via Blynk app.</string>
+    <string name="error_widget_empty_profile">Your profile is empty. Please use Blynk app to create a project.</string>
+
     <string name="app_error">Something went wrong. Please report it in community.blynk.cc</string>
 
     <string name="prompt_empty_push">It is an empty push notification</string>

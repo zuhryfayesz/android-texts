@@ -441,4 +441,6 @@
 
     <string name="prompt_send_on_release">Send on Release</string>
 
+    <string name="alert_confirm_homescreenwidget">This widget is used on Home Screen. Are you sure to proceed with it\'s removal?</string>
+
 </resources>
