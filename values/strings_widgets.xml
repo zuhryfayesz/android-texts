@@ -440,6 +440,10 @@
 
     <string name="prompt_send_on_release">Send on Release</string>
 
+    <!--HOME SCREEN WIDGET-->
+
     <string name="alert_confirm_homescreenwidget">This widget is used on Home Screen. Are you sure to proceed with it\'s removal?</string>
 
+    <string name="homescreen_widget_button">@string/widget_button_title</string>
+    <string name="homescreen_widget_valuedisplay">Value Display</string>
 </resources>
