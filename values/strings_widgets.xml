@@ -36,7 +36,7 @@
     <string name="widget_image_title">Image</string>
     <string name="widget_video_title">Video Streaming</string>
     <string name="widget_light_sensor_title">Light Sensor</string>
-    <string name="item_temp_sensor_title">Temperature Sensor</string>
+    <string name="widget_temp_sensor_title">Temperature Sensor</string>
     <string name="widget_proximity_sensor_title">Proximity Sensor</string>
     <string name="widget_accelerometer_sensor_title">Accelerometer Sensor</string>
     <string name="widget_gravity_sensor_title">Gravity Sensor</string>
@@ -45,6 +45,18 @@
     <string name="widget_gps_trigger_title">GPS Trigger</string>
 
     <string name="format_title_widget_settings">%s Settings</string>
+
+    <string name="title_empty_slider">Slider</string>
+    <string name="title_empty_labeled_display">Labeled</string>
+    <string name="title_empty_display">Value</string>
+    <string name="title_empty_light_sensor">Light</string>
+    <string name="title_empty_temp_sensor">Temperature</string>
+    <string name="title_empty_proximity_sensor">Proximity</string>
+    <string name="title_empty_accelerometer_sensor">Accelerometer</string>
+    <string name="title_empty_gravity_sensor">Gravity</string>
+    <string name="title_empty_barometer_sensor">Barometer</string>
+    <string name="title_empty_menu">Menu</string>
+    <string name="title_empty_gps">GPS</string>
 
     <!--WIDGETBOX-->
 
@@ -190,7 +202,6 @@
     <string name="format_meter">m</string>
     <string name="format_kilometer">km</string>
 
-    <string name="title_empty_gps">GPS</string>
     <string name="title_accuracy_picker">Select accuracy</string>
 
     <string name="title_gps_error_suspened">GPS disconnected</string>
