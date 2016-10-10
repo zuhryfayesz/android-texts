@@ -450,4 +450,5 @@
 
     <string name="homescreen_widget_button">@string/widget_button_title</string>
     <string name="homescreen_widget_valuedisplay">Value Display</string>
+    <string name="homescreen_widget_labeledvalue">Labeled Value</string>
 </resources>
