@@ -422,6 +422,8 @@
 
     <string name="format_ms">%s ms</string>
     <string name="format_sec">%s sec</string>
+    <string name="format_min">%s min</string>
+    <string name="format_hour">%s hour</string>
 
     <string name="prompt_screen">Screen</string>
     <string name="prompt_text">Text</string>
