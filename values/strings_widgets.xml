@@ -449,6 +449,7 @@
     <string name="alert_confirm_homescreenwidget_energy">Home screen widget will take 200 energy. Energy for home screen widget is not recoverable and will not be returned. Are you sure?</string>
 
     <string name="homescreen_widget_button">@string/widget_button_title</string>
+    <string name="homescreen_widget_led">@string/widget_led_title</string>
     <string name="homescreen_widget_valuedisplay">Value Display</string>
     <string name="homescreen_widget_labeledvalue">Labeled Value</string>
 </resources>
