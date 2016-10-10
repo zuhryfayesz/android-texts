@@ -185,6 +185,7 @@ It\'s free, open source and can be installed in 1 minute.</string>
     <string name="error_share_qr_too_big">Too large project for QR.</string>
 
     <string name="error_no_camera">No Camera were found</string>
+    <string name="error_camera_failed">Camera initialization failed. Please try again.</string>
     <string name="inform_qr_public">It\'s a public project, please login and then scan this QR code</string>
 
     <!--PROJECT SETTINGS-->
