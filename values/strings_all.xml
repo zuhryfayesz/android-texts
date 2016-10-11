@@ -45,6 +45,8 @@
     <string name="off">OFF</string>
     <string name="on">ON</string>
 
+    <string name="action_info">Info</string>
+
     <string name="hint_project_name">Project Name</string>
 
     <string name="error_no_route_to_host">Couldn\'t connect to the server. Please, check the settings of your wifi-router.</string>
