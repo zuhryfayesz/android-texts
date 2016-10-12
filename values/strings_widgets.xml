@@ -457,7 +457,7 @@
 
     <string name="alert_confirm_homescreenwidget_remove">This widget is used on Home Screen. Are you sure to proceed with it\'s removal?</string>
 
-    <string name="alert_confirm_homescreenwidget_energy">Home screen widget will take %s energy.\nEnergy for home screen widget is not recoverable and will not be returned. Are you sure?</string>
+    <string name="alert_confirm_homescreenwidget_energy">Adding this home screen widget costs %s Energy\n\nAfter you add it, Energy will not be refunded \n\nContinue?</string>
 
     <string name="homescreen_widget_button">@string/widget_button_title</string>
     <string name="homescreen_widget_led">@string/widget_led_title</string>
