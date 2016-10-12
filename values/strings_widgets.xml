@@ -463,4 +463,8 @@
     <string name="homescreen_widget_led">@string/widget_led_title</string>
     <string name="homescreen_widget_valuedisplay">Value Display</string>
     <string name="homescreen_widget_labeledvalue">Labeled Value</string>
+
+    <string name="format_add_homescreen_widget">Add %s Widget</string>
+
+    <string name="alert_homescreen_add_help">Choose the widget you want to add on the home screen and tap on it.</string>
 </resources>
