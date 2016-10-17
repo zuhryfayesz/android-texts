@@ -73,7 +73,7 @@
 
     <string name="prompt_installed">Installed</string>
     <string name="prompt_widget_not_supported">Is not supported on your device</string>
-    <string name="prompt_widget_conflict">not available for %s boards</string>
+    <string name="prompt_widget_conflict">Doesn\'t work with %s. Yet.</string>
 
     <!--EVENT WIDGET SETTINGS-->
     <string name="action_add_new_event">+ Add New Event</string>
