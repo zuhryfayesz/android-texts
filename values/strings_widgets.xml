@@ -37,6 +37,7 @@
     <string name="widget_video_title">Video Streaming</string>
     <string name="widget_light_sensor_title">Light Sensor</string>
     <string name="widget_temp_sensor_title">Temperature Sensor</string>
+    <string name="widget_humidity_sensor_title">Humidity Sensor</string>
     <string name="widget_proximity_sensor_title">Proximity Sensor</string>
     <string name="widget_accelerometer_sensor_title">Accelerometer Sensor</string>
     <string name="widget_gravity_sensor_title">Gravity Sensor</string>
@@ -55,6 +56,7 @@
     <string name="title_empty_accelerometer_sensor">Accelerometer</string>
     <string name="title_empty_gravity_sensor">Gravity</string>
     <string name="title_empty_barometer_sensor">Barometer</string>
+    <string name="title_empty_humidity_sensor">Humidity</string>
     <string name="title_empty_menu">Menu</string>
     <string name="title_empty_gps">GPS</string>
 
@@ -64,7 +66,7 @@
 
     <string name="section_controllers">Controllers</string>
     <string name="section_displays">Displays</string>
-    <string name="section_sensors">Sensors</string>
+    <string name="section_sensors">Smartphone Sensors</string>
     <string name="section_notifications">Notifications</string>
     <string name="section_other">Other</string>
     <string name="section_interface">Interface</string>
