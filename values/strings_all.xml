@@ -334,4 +334,6 @@ It\'s free, open source and can be installed in 1 minute.</string>
     <string name="action_claim_reward">Get %s Energy</string>
 
     <string name="alert_confirm_share_energy">Energy for sharing is not recoverable and will not be returned. Are you sure?</string>
+
+    <string name="prompt_energy_drain_option">Enabling this option will drain your battery when not connected to power source.</string>
 </resources>
