@@ -244,8 +244,8 @@
 
     <!--VIDEO WIDGET SETTINGS-->
 
-    <string name="title_video_custom_url">Custom url</string> 
-    <string name="hint_video_edit">Custom streaming url</string>
+    <string name="title_video_custom_url">URL address</string> 
+    <string name="hint_video_edit">http://yourvideostream.url</string>
 
     <string name="video_url_empty">No video stream available. Input URL</string>
 
