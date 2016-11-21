@@ -49,6 +49,8 @@
     <string name="widget_gps_stream_title">GPS Stream (beta)</string>
     <string name="widget_gps_trigger_title">GPS Trigger (beta)</string>
 
+    <string name="widget_map_title">Map</string>
+
     <string name="format_title_widget_settings">%s Settings</string>
 
     <string name="title_empty_labeled_display">Labeled</string>
@@ -414,6 +416,10 @@
 
     <string name="mode_normal">NORMAL</string>
     <string name="mode_high">HIGH</string>
+
+    <!--MAP WIDGET SETTINGS -->
+
+    <string name="map_description">Blynk.location(index, lat, lon, value)</string>
 
     <!-- WIDGET SETTINGS -->
 
