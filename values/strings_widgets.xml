@@ -420,6 +420,7 @@
     <!--MAP WIDGET SETTINGS -->
 
     <string name="map_description">Blynk.location(index, lat, lon, value)</string>
+    <string name="prompt_my_location">Show my location</string>
 
     <!-- WIDGET SETTINGS -->
 
