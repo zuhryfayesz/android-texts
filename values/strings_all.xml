@@ -251,6 +251,42 @@ It\'s free, open source and can be installed in 1 minute.</string>
     <string name="pin_is_busy">BUSY</string>
     <string name="pin_is_pwm">PWM</string>
 
+    <!--DEVICE SETTINGS-->
+
+    <string name="hint_device_name">Device Name</string>
+
+    <string name="prompt_device">Device</string>
+    <string name="prompt_connection">Connection Type</string>
+
+    <string name="title_connection">Select connection type</string>
+
+    <string name="action_new_device">+ New Device</string>
+
+    <string name="alert_device_removal">This device is used by %s.\n
+Please remove them before deleting the device.</string>
+
+    <string name="title_devices">Devices</string>
+    <string name="title_my_devices">My Devices</string>
+
+    <plurals name="devices">
+        <item quantity="one">%s device</item>
+        <item quantity="other">%s devices</item>
+        <item quantity="many">%s devices</item>
+    </plurals>
+
+    <plurals name="widgets">
+        <item quantity="one">%s widget</item>
+        <item quantity="other">%s widgets</item>
+        <item quantity="many">%s widgets</item>
+    </plurals>
+
+    <string name="connection_ethernet">Ethernet Shield</string>
+    <string name="connection_wifi">WiFi</string>
+    <string name="connection_usb">USB</string>
+    <string name="connection_bluetooth">Bluetooth</string>
+    <string name="connection_ble">BLE</string>
+    <string name="connection_gsm">GSM</string>
+
     <!--PROJECT SHARE or CLONE-->
 
     <string name="title_project_clone">Clone Project</string>
