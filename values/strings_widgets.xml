@@ -467,6 +467,9 @@
 
     <string name="prompt_send_on_release">Send on Release</string>
 
+    <string name="title_select_target">Select target</string>
+    <string name="prompt_target">Target</string>
+
     <!--HOME SCREEN WIDGET-->
 
     <string name="alert_confirm_homescreenwidget_remove">This widget is used on Home Screen. Are you sure to proceed with it\'s removal?</string>
