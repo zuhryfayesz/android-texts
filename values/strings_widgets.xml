@@ -251,7 +251,9 @@
     <string name="title_video_custom_url">URL address</string> 
     <string name="hint_video_edit">http://yourvideostream.url</string>
 
-    <string name="video_url_empty">No video stream available. Input URL</string>
+    <string name="video_url_empty">No video stream available :(</string>
+    
+    <string name="prompt_video_setup">Tap here to specify video stream URL</string>
 
     <!--BLE&BLUETOOTH WIDGET SETTINGS-->
 
