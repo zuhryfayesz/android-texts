@@ -18,7 +18,7 @@
     <string name="action_create_account">Create New Account</string>
     <string name="action_create_project">Create New Project</string>
     <string name="action_scan_qr">Scan QR Code</string>
-    <string name="action_generate_link">Generate Link</string>
+    <string name="action_clone">Clone</string>
 
     <string name="action_exit">Exit</string>
 
@@ -243,6 +243,7 @@ It\'s free, open source and can be installed in 1 minute.</string>
     <string name="share_selector_title">Send&#8230;</string>
 
     <string name="error_hardware_model_unknown">Unknown hardware model. Please check it.</string>
+    <string name="prompt_project_actions">Actions with project</string>
 
 
     <string name="pin_analog">Analog</string>

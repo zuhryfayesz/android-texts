@@ -58,7 +58,7 @@
     <string name="title_empty_light_sensor">Light</string>
     <string name="title_empty_temp_sensor">Temperature</string>
     <string name="title_empty_proximity_sensor">Proximity</string>
-    <string name="title_empty_accelerometer_sensor">Accelerometer</string>
+    <string name="title_empty_accelerometer_sensor">Accelermtr</string>
     <string name="title_empty_gravity_sensor">Gravity</string>
     <string name="title_empty_barometer_sensor">Barometer</string>
     <string name="title_empty_humidity_sensor">Humidity</string>
