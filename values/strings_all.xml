@@ -262,7 +262,7 @@ It\'s free, open source and can be installed in 1 minute.</string>
 
     <string name="title_connection">Select connection type</string>
 
-    <string name="action_new_device">+ New Device</string>
+    <string name="action_new_device">New Device</string>
 
     <string name="alert_device_removal">This device is used by %s.\n
 Please remove them before deleting the device.</string>
