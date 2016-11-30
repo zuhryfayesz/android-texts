@@ -215,7 +215,7 @@
     <string name="title_gps_error_suspened">GPS disconnected</string>
     <string name="title_gps_error_connection">GPS not inited</string>
     <string name="prompt_gps_error_suspended_network">Network connection is lost</string>
-    <string name="prompt_gps_error_suspended_service">GPS service has been killed</string>
+    <string name="prompt_gps_error_suspended_service">GPS service has been suspended</string>
 
     <!--SENSORS WIDGET SETTINGS-->
 
