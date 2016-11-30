@@ -58,8 +58,12 @@
     <string name="error_user_already_registered">User with such name is already registered</string>
     <string name="error_user_not_logined">Authentication failed. Please check your login and pass.</string>
     <string name="error_user_not_allowed">User not allowed to perform this operation</string>
-    <string name="error_board_is_off">Your %s is not in network</string>
-    <string name="error_device_went_offline">Your %s was disconnected.</string>
+    <string name="error_board_is_off">One of your devices is offline</string>
+    <string name="error_device_went_offline">One of your devices was disconnected.</string>
+
+    <string name="error_project_board_is_off">One of your devices of %s is offline</string>
+    <string name="error_project_device_went_offline">One of your devices of %s was disconnected.</string>
+
     <string name="error_no_active_project">Please activate project again.</string>
     <string name="error_illegal_body_command">Error processing client command.</string>
     <string name="error_server_error">Sorry, Server can\'t talk now. Try later</string>
