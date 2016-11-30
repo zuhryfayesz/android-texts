@@ -134,6 +134,8 @@
 
     <string name="eventor_delete_confirm">Delete the event? This cannot be undone.</string>
 
+    <string name="eventor_device_change_confirm">All rules with pins not available in new deivce will be removed. Are you sure?</string>
+
     <!--TABLE WIDGET SETTINGS-->
 
     <string name="title_table_columns">Columns</string>
