@@ -253,7 +253,7 @@ It\'s free, open source and can be installed in 1 minute.</string>
 
     <string name="share_selector_title">Send&#8230;</string>
 
-    <string name="error_hardware_model_unknown">Unknown hardware model. Please check it.</string>
+    <string name="error_hardware_model_unknown">Unknown project\'s hardware. Please check it.</string>
     <string name="prompt_project_actions">Actions with project</string>
 
 
@@ -287,6 +287,7 @@ Please remove them before deleting the device.</string>
     <string name="title_my_devices">My Devices</string>
 
     <plurals name="devices">
+        <item quantity="zero">Add device</item>
         <item quantity="one">%s device</item>
         <item quantity="other">%s devices</item>
         <item quantity="many">%s devices</item>
