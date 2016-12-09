@@ -189,6 +189,7 @@ It\'s free, open source and can be installed in 1 minute.</string>
 
     <string name="error_qr_not_blynk">Not a valid Blynk code</string>
     <string name="error_qr_not_public">This QR code gives access to shared Blynk projects. You need to scan it from Log In screen.\nRead more: docs.blynk.cc/#sharing</string>
+    <string name="error_qr_old">Too old Blynk code</string>
 
     <string name="prompt_qr">QR</string>
 
