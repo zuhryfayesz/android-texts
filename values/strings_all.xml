@@ -391,4 +391,6 @@ Please remove them before deleting the device.</string>
     <string name="alert_confirm_share_energy">Energy for sharing is not recoverable and will not be returned. Are you sure?</string>
 
     <string name="prompt_energy_drain_option">Enabling this option will drain your battery when not connected to power source.</string>
+
+    <string name="prompt_low_storage_gs">Google Services dependencies cannot be downloaded due to low device storage</string>
 </resources>
