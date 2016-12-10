@@ -364,6 +364,11 @@
     <string name="period_1m">1m</string>
     <string name="period_3m">3m</string>
 
+    <string name="auto">AUTO</string>
+    <string name="fixed">FIXED</string>
+
+    <string name="prompt_ycoords">Y COORDS</string>
+
     <!--LCD WIDGET SETTINGS-->
 
     <string name="prompt_pin_lcd_description">Example:\nlcd.print(0, 0, \"Hello LCD!\");</string>
