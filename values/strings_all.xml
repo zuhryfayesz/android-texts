@@ -259,6 +259,19 @@ It\'s free, open source and can be installed in 1 minute.</string>
     <string name="error_hardware_model_unknown">Unknown project\'s hardware. Please check it.</string>
     <string name="prompt_project_actions">Actions with project</string>
 
+    <string name="prompt_tokens">Auth tokens</string>
+    <string name="action_copy_tokens">Copy all</string>
+    <string name="action_email_tokens">Email all</string>
+
+    <plurals name="tokens_email">
+        <item quantity="one">Token sent to your email</item>
+        <item quantity="other">%s tokens sent to your email</item>
+    </plurals>
+
+    <plurals name="tokens_copy">
+        <item quantity="one">Token copied to clipboard</item>
+        <item quantity="other">%s tokens copied to clipboard</item>
+    </plurals>
 
     <string name="pin_analog">Analog</string>
     <string name="pin_virtual">Virtual</string>
