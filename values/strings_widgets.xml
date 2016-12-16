@@ -286,6 +286,9 @@
     <string name="alert_ble_title">BLE</string>
     <string name="alert_ble_enable_location_message">Please enable location services for scanning bluetooth devices.</string>
 
+    <string name="prompt_no_ble_device">No BLE device</string>
+    <string name="prompt_no_bluetooth_device">No Bluetooth device</string>
+
     <!--LABELED DISPLAY WIDGET SETTINGS-->
 
     <string name="hint_labeled_display_format">e.g: Temp: /pin/ ºC</string>
