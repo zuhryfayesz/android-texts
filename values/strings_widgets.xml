@@ -370,9 +370,9 @@
     <string name="period_3m">3m</string>
 
     <string name="auto">AUTO</string>
-    <string name="fixed">FIXED</string>
+    <string name="fixed">CUSTOM</string>
 
-    <string name="prompt_ycoords">Y COORDS</string>
+    <string name="prompt_ycoords">Y-AXIS MIN/MAX</string>
 
     <!--LCD WIDGET SETTINGS-->
 
