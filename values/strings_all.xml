@@ -301,6 +301,7 @@ Please remove them before deleting the device.</string>
 
     <string name="prompt_online">Online</string>
     <string name="prompt_offline">Offline since %s</string>
+    <string name="prompt_offline_never">Wasn\'t online yet</string>
 
     <string name="title_devices">Devices</string>
     <string name="title_my_devices">My Devices</string>
