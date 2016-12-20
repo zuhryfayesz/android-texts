@@ -96,6 +96,9 @@
     <string name="error_server_timeout">Connection timed out. Try again</string>
     <string name="error_server_close">Sorry, server connection was closed. Try later</string>
 
+    <string name="error_bluetooth_read_error">Something went wrong when connecting to your bluetooth device. Please try again later.</string>
+    <string name="error_bluetooth_timeout">Bluetooth connection timed out. Try again.</string>
+
     <string name="server_error">Something went wrong on server. Please report it in community.blynk.cc</string>
 
     <string name="error_connection_problem">Couldn\'t connect to the server. Please check your internet connection, or try again.</string>
