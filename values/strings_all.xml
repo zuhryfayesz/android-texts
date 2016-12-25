@@ -132,6 +132,8 @@
     <string name="no">No</string>
     <string name="yes">Yes</string>
 
+    <string name="and">and</string>
+
     <!--LOGIN/REGISTER/ETC-->
 
     <string name="action_login">Log In</string>
@@ -343,6 +345,12 @@ Please remove them before deleting the device.</string>
     <string name="alert_tag_removal_confirm">Delete this tag? This cannot be undone</string>
 
     <string name="alert_tag_name_conflict">Not a enique tag\'s name</string>
+
+
+    <plurals name="tags">
+        <item quantity="one">%s tag</item>
+        <item quantity="other">%s tags</item>
+    </plurals>
 
     <!--PROJECT SHARE or CLONE-->
 
