@@ -342,6 +342,8 @@ Please remove them before deleting the device.</string>
 Please remove them before deleting the device.</string>
     <string name="alert_tag_removal_confirm">Delete this tag? This cannot be undone</string>
 
+    <string name="alert_tag_name_conflict">Not a enique tag\'s name</string>
+
     <!--PROJECT SHARE or CLONE-->
 
     <string name="title_project_clone">Clone Project</string>
