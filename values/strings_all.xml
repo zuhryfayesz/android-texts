@@ -329,6 +329,19 @@ Please remove them before deleting the device.</string>
     <string name="connection_ble">BLE</string>
     <string name="connection_gsm">GSM</string>
 
+    <!--TAG SETTINGS-->
+
+    <string name="hint_tag_name">Tag Name</string>
+    <string name="default_tag_name">New Tag</string>
+
+    <string name="title_my_tags">My Tags</string>
+
+    <string name="action_new_tag">New Tag</string>
+
+    <string name="alert_tag_removal">This tag is used by %s.\n
+Please remove them before deleting the device.</string>
+    <string name="alert_tag_removal_confirm">Delete this tag? This cannot be undone</string>
+
     <!--PROJECT SHARE or CLONE-->
 
     <string name="title_project_clone">Clone Project</string>
