@@ -1,16 +1,11 @@
 <resources>
 
-    <string name="widget_button_large_title">Button L</string>
     <string name="widget_button_title">Button</string>
     <string name="widget_rgb_title">zeRGBa</string>
     <string name="widget_slider_title">Slider</string>
-    <string name="widget_slider_small_title">Slider S</string>
-    <string name="widget_slider_large_title">Slider L</string>
     <string name="widget_led_title">LED</string>
     <string name="widget_graph_title">Graph</string>
     <string name="widget_display_title">Value Display</string>
-    <string name="widget_display_small_title">Value Display S</string>
-    <string name="widget_display_2x_title">Value Display M</string>
     <string name="widget_timer_title">Timer</string>
     <string name="widget_twitter_title">Twitter</string>
     <string name="widget_terminal_title">Terminal</string>
@@ -26,11 +21,7 @@
     <string name="widget_joystick_title">Joystick</string>
     <string name="widget_lcd_title">LCD</string>
     <string name="widget_labeled_display_title">Labeled Value</string>
-    <string name="widget_labeled_display_medium_title">Labeled Value M</string>
-    <string name="widget_labeled_display_large_title">Labeled Value L</string>
     <string name="widget_menu_title">Menu</string>
-    <string name="widget_menu_medium_title">Menu M</string>
-    <string name="widget_menu_large_title">Menu L</string>
     <string name="widget_table_title">Table</string>
     <string name="widget_tabs_title">Tabs</string>
     <string name="widget_player_title">Music Player</string>
