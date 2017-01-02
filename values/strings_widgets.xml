@@ -129,7 +129,7 @@
 
     <string name="prompt_rule_active">Active</string>
     <string name="prompt_rule_inactive">Inactive</string>
-    <string name="format_rule_index">Event %s</string>
+    <string name="format_rule_index">Event %d</string>
     <string name="title_new_rule">New event</string>
 
     <string name="eventor_delete_confirm">Delete the event? This cannot be undone.</string>
