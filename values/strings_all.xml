@@ -345,7 +345,7 @@ Please remove them before deleting the device.</string>
     <string name="alert_tag_removal_confirm">Delete this tag? This cannot be undone</string>
 
     <string name="alert_tag_name_conflict">Not a enique tag\'s name</string>
-
+    <string name="alert_tag_name_empty">You need to provide tag\'s name</string>
 
     <plurals name="tags">
         <item quantity="one">%s tag</item>
