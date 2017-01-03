@@ -40,8 +40,8 @@
     <string name="widget_barometer_sensor_title">Barometer Sensor</string>
     <string name="widget_gps_stream_title">GPS Stream</string>
     <string name="widget_gps_trigger_title">GPS Trigger</string>
-
     <string name="widget_map_title">Map</string>
+    <string name="widget_device_selector_title">Device Selector</string>
 
     <string name="format_title_widget_settings">%s Settings</string>
 
@@ -55,6 +55,7 @@
     <string name="title_empty_barometer_sensor">Barometer</string>
     <string name="title_empty_humidity_sensor">Humidity</string>
     <string name="title_empty_gps">GPS</string>
+    <string name="title_empty_device_selector">Selector</string>
 
     <!--WIDGETBOX-->
 
