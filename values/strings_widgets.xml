@@ -459,10 +459,10 @@
     <string name="prompt_orientation_horizonal">HOR</string>
     <string name="prompt_orientation_vertical">VERT</string>
 
-    <string name="format_ms">%s ms</string>
-    <string name="format_sec">%s sec</string>
-    <string name="format_min">%s min</string>
-    <string name="format_hour">%s hour</string>
+    <string name="format_ms">%d ms</string>
+    <string name="format_sec">%d sec</string>
+    <string name="format_min">%d min</string>
+    <string name="format_hour">%d hour</string>
 
     <string name="prompt_screen">Screen</string>
     <string name="prompt_text">Text</string>
