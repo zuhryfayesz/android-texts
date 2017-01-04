@@ -42,8 +42,8 @@
     <string name="widget_gps_trigger_title">GPS Trigger</string>
     <string name="widget_map_title">Map</string>
     <string name="widget_device_selector_title">Device Selector</string>
-    <string name="widget_level_display_title">Level Display</string>
-    <string name="widget_vertical_level_display_title">Vertical Level Display</string>
+    <string name="widget_level_display_title">Level H</string>
+    <string name="widget_vertical_level_display_title">Level V</string>
 
     <string name="format_title_widget_settings">%s Settings</string>
 
