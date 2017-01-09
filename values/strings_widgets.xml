@@ -44,6 +44,8 @@
     <string name="widget_device_selector_title">Device Selector</string>
     <string name="widget_level_display_title">Level H</string>
     <string name="widget_vertical_level_display_title">Level V</string>
+    <string name="widget_step_title">Step H</string>
+    <string name="widget_vertical_step_title">Step V</string>
 
     <string name="format_title_widget_settings">%s Settings</string>
 
@@ -59,6 +61,7 @@
     <string name="title_empty_gps">GPS</string>
     <string name="title_empty_device_selector">Selector</string>
     <string name="title_empty_level_display">Level</string>
+    <string name="title_empty_step">Step</string>
 
     <!--WIDGETBOX-->
 
@@ -436,6 +439,14 @@
     <!-- LEVEL DISPLAY WIDGET SETTINGS -->
 
     <string name="prompt_flip_axis">Flip Axis</string>
+
+    <!-- STEP CONTROL -->
+
+    <string name="prompt_arrows">\u2191\u2193</string>
+    <string name="prompt_plusminus">\u207A/\u208B</string>
+    <string name="prompt_step">Step</string>
+    <string name="prompt_loop">Loop values</string>
+    <string name="prompt_icons">Icons</string>
 
     <!-- WIDGET SETTINGS -->
 
