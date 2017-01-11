@@ -46,6 +46,7 @@
     <string name="widget_vertical_level_display_title">Level V</string>
     <string name="widget_step_title">Step H</string>
     <string name="widget_vertical_step_title">Step V</string>
+    <string name="widget_input_field_title">Input Field</string>
 
     <string name="format_title_widget_settings">%s Settings</string>
 
