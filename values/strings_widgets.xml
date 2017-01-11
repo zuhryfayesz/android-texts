@@ -35,7 +35,7 @@
     <string name="widget_temp_sensor_title">Temperature Sensor</string>
     <string name="widget_humidity_sensor_title">Humidity Sensor</string>
     <string name="widget_proximity_sensor_title">Proximity Sensor</string>
-    <string name="widget_accelerometer_sensor_title">Accelerometer Sensor</string>
+    <string name="widget_accelerometer_sensor_title">Accelerometer</string>
     <string name="widget_gravity_sensor_title">Gravity Sensor</string>
     <string name="widget_barometer_sensor_title">Barometer Sensor</string>
     <string name="widget_gps_stream_title">GPS Stream</string>
