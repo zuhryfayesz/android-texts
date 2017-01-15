@@ -139,7 +139,6 @@
     <string name="action_login">Log In</string>
     <string name="action_reset_pass">Reset Password</string>
     <string name="action_signup">Sign Up</string>
-    <string name="prompt_problems_login">Problems signing in?</string>
     <string name="prompt_contact_support">Contact support</string>
 
     <string name="hint_email">e-mail</string>
