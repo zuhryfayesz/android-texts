@@ -290,7 +290,7 @@ It\'s free, open source and can be installed in 1 minute.</string>
 
     <string name="default_device_name">New Device</string>
 
-    <string name="device_hardware_format" formatted="false">%s + %s</string>
+    <string name="device_hardware_format" formatted="false">%s (%s)</string>
 
     <string name="prompt_device">Device</string>
     <string name="prompt_connection">Connection Type</string>
