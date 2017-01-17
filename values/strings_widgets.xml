@@ -321,7 +321,7 @@
     <!--TABS WIDGET SETTINGS-->
 
     <string name="prompt_tabs_items">Tabs</string>
-    <string name="format_tabs_item_hint">Tab %s</string>
+    <string name="format_tabs_item_hint">Tab %d</string>
     <string name="action_add_tabs_item">+ Add Tab</string>
 
     <string name="alert_confirm_tab_remove">All widgets on this page will be deleted.\nThis cannot be undone</string>
