@@ -511,4 +511,6 @@
 
     <string name="alert_homescreen_add_help">Choose the widget you want to add on the home screen and tap on it.</string>
     <string name="alert_homescreen_bluetooth_not_supported">Widgets from projects with BLE or Bluetooth are not permited for Home Screen widgets.</string>
+
+    <string name="alert_homescreen_local_server">Projects on a local server are not permited for Home Screen widgets.</string>
 </resources>
