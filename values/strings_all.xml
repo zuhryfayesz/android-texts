@@ -148,7 +148,7 @@
 
     <string name="title_server_settings">Server Settings</string>
 
-    <string name="mail_login_problems_subject">Problems signing in to Blynk</string>
+    <string name="mail_login_problems_subject">Problems signing in to %s</string>
     <string name="action_send_email_support">Send e-mail to Blynk support</string>
     <string name="prompt_mail_failed">EMail was not sent to your login acc. Please check your network connection.</string>
 
@@ -387,6 +387,18 @@ Please remove them before deleting the device.</string>
     <string name="tutorial_share_text_2">They will need to download Blynk app</string>
     <string name="tutorial_share_title_3">Every time you update the Project, your users get an instant update!</string>
     <string name="tutorial_share_text_3">You can maximize performance and security by using local Blynk Server.\nIt\'s easy and free.</string>
+
+    <!--ABOUT-->
+
+    <string name="title_about">About</string>
+
+    <string name="format_version">Version: %s</string>
+    <string name="format_account">Account: %s</string>
+    <string name="format_server">Server: %s</string>
+
+    <string name="action_open_blynk_community">Blynk Community</string>
+    <string name="action_open_acknowledgements">Third party libraries</string>
+    <string name="action_send_logs">Send logs to developer</string>
 
     <!--PERMISSIONS-->
 
