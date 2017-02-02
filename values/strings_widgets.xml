@@ -1,3 +1,4 @@
+
 <resources>
 
     <string name="widget_button_title">Button</string>
@@ -457,7 +458,7 @@
     <string name="prompt_orientation">ORIENTATION</string>
     <string name="pin_default">PIN</string>
 
-    <string name="prompt_reading_frequency">READING FREQUENCY</string>
+    <string name="prompt_reading_frequency">READING RATE</string>
     <string name="frequency_default">PUSH</string>
     <string name="frequency_ms">Ms</string>
     <string name="frequency_sec">Sec</string>
