@@ -106,8 +106,11 @@
     <string name="eventor_hint_select_pin">Select pin</string>
     <string name="eventor_hint_set_value">Set value</string>
 
+    <string name="eventor_hint_select_time">Select time</string>
+
     <string name="eventor_elem_when">When…</string>
     <string name="eventor_elem_when_format">When %s</string>
+    <string name="eventor_elem_when_time_format" formatted="false">At %s %s %s</string>
     <string name="eventor_elem_vpin">Vpin value</string>
     <string name="eventor_elem_vpin_highlight">Vpin</string>
 
