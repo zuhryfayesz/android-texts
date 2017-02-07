@@ -54,8 +54,8 @@
 
     <string name="error_command_malformed">Command is bad formed, check syntax and passed params</string>
     <string name="error_too_many_requests">You are currently performing too many requests.</string>
-    <string name="error_user_not_registered">User is not registered. Or it also could be also Geo DNS issue.</string>
-    <string name="error_user_not_registered_click">Geo DNS issue</string>
+    <string name="error_user_not_registered">User is not registered. Please also check if it\'s not a GeoDNS issue.</string>
+    <string name="error_user_not_registered_click">issue</string>
     <string name="error_user_already_registered">User with such name is already registered</string>
     <string name="error_user_not_logined">Authentication failed. Please check your login and pass.</string>
     <string name="error_user_not_allowed">User not allowed to perform this operation</string>
