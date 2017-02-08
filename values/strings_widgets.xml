@@ -504,6 +504,8 @@
     <string name="prompt_target">Target</string>
     <string name="prompt_source">Source</string>
 
+    <string name="alert_timer">Please use Eventor for timer events</string>
+
     <!--HOME SCREEN WIDGET-->
 
     <string name="alert_confirm_homescreenwidget_remove">This widget is used on Home Screen. Are you sure to proceed with it\'s removal?</string>
