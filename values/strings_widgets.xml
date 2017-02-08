@@ -84,6 +84,7 @@
     <string name="action_add_new_event">+ Add New Event</string>
 
     <string name="eventor_trigger_format">When %s</string>
+    <string name="eventor_trigger_time">Time</string>
 
     <string name="eventor_condition_lt">is lower than %s</string>
     <string name="eventor_condition_gt">is higher than %s</string>
