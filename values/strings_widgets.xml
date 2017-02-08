@@ -111,7 +111,7 @@
 
     <string name="eventor_elem_when">When…</string>
     <string name="eventor_elem_when_format">When %s</string>
-    <string name="eventor_elem_when_time_format" formatted="false">At %s %s %s</string>
+    <string name="eventor_elem_when_time_format">At %s</string>
     <string name="eventor_elem_vpin">Vpin value</string>
     <string name="eventor_elem_vpin_highlight">Vpin</string>
 
@@ -136,6 +136,9 @@
     <string name="prompt_rule_inactive">Inactive</string>
     <string name="format_rule_index">Event %d</string>
     <string name="title_new_rule">New event</string>
+
+    <string name="eventor_time_everyday">Everyday</string>
+    <string name="eventor_time_workingdays">Mon to Fri</string>
 
     <string name="eventor_delete_confirm">Delete the event? This cannot be undone.</string>
 
