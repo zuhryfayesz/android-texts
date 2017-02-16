@@ -115,8 +115,8 @@
     <string name="eventor_elem_vpin">Vpin value</string>
     <string name="eventor_elem_vpin_highlight">Vpin</string>
 
-    <string name="eventor_elem_setpin">set Vpin to…</string>
-    <string name="eventor_elem_setpin_highlight">Vpin</string>
+    <string name="eventor_elem_setpin">set pin to…</string>
+    <string name="eventor_elem_setpin_highlight">pin</string>
     <string name="eventor_elem_notify">send notification</string>
     <string name="eventor_elem_notify_highlight">notification</string>
 
