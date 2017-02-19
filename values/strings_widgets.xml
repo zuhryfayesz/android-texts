@@ -435,7 +435,7 @@
 
     <string name="prompt_notify_when_offline">NOTIFY WHEN HARDWARE GOES OFFLINE</string>
     <string name="prompt_priority">PRIORITY</string>
-    <string name="prompt_notify_offline_timeout">Notify when offline ignore period</string>
+    <string name="prompt_notify_offline_timeout">Offline ignore period</string>
 
     <string name="mode_normal">NORMAL</string>
     <string name="mode_high">HIGH</string>
