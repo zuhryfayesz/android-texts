@@ -459,6 +459,7 @@
     <string name="prompt_step">Step</string>
     <string name="prompt_loop">Loop values</string>
     <string name="prompt_icons">Icons</string>
+    <string name="prompt_send_step">Send step</string>
 
     <!-- WIDGET SETTINGS -->
 
