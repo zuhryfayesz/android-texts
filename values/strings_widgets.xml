@@ -144,6 +144,9 @@
 
     <string name="eventor_device_change_confirm">All rules with pins not available in new deivce will be removed. Are you sure?</string>
 
+    <string name="eventor_hint_add_more_actions">But you can add 1 more action. How cool is that!</string>
+
+    <string name="eventor_additional_action_prefix">also </string>
     <!--TABLE WIDGET SETTINGS-->
 
     <string name="title_table_columns">Columns</string>
