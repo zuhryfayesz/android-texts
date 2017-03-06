@@ -286,6 +286,10 @@ It\'s free, open source and can be installed in 1 minute.</string>
     <string name="pin_is_busy">BUSY</string>
     <string name="pin_is_pwm">PWM</string>
 
+    <string name="prompt_auth_token_sent">Auth Token was sent to:\n%s</string>
+    <string name="prompt_token_search">You can also find it in %s</string>
+    <string name="prompt_dont_show">Don\'t show again</string>
+
     <!--DEVICE SETTINGS-->
 
     <string name="hint_device_name">Device Name</string>
