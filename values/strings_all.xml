@@ -196,6 +196,8 @@ It\'s free, open source and can be installed in 1 minute.</string>
     <string name="error_qr_not_public">This QR code gives access to shared Blynk projects. You need to scan it from Log In screen.\nRead more: docs.blynk.cc/#sharing</string>
     <string name="error_qr_old">Too old Blynk code</string>
 
+    <string name="error_qr_not_valid">Scanned QR is not valid</string>
+
     <string name="prompt_qr">QR</string>
 
     <string name="error_share_qr_not_generated">Problems with creating QR code for sharing.\nTry Refreshing or try later.</string>
@@ -455,4 +457,11 @@ Please remove them before deleting the device.</string>
     <string name="prompt_energy_drain_option">Enabling this option will drain your battery when not connected to power source.</string>
 
     <string name="prompt_low_storage_gs">Google Services dependencies cannot be downloaded due to low device storage</string>
+
+    <!-- EXPORT APP -->
+
+    <string name="prompt_setup_device_via_qr">To setup this project you need to scan QR</string>
+    <string name="prompt_setup_devices_via_qr">This project has one more device.\nPlease scan one more QR</string>
+
+    <string name="prompt_setuped_project">This project is setuped</string>
 </resources>
