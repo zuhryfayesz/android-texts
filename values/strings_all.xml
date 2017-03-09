@@ -468,4 +468,6 @@ Please remove them before deleting the device.</string>
     <string name="prompt_setup_devices_via_qr">This project has one more device.\nPlease scan one more QR</string>
 
     <string name="prompt_setuped_project">This project is setuped</string>
+
+    <string name="alert_setuped_device_success">Congratulations. %s device was successfully provisioned</string>
 </resources>
