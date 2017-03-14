@@ -464,10 +464,10 @@ Please remove them before deleting the device.</string>
 
     <!-- EXPORT APP -->
 
-    <string name="prompt_setup_device_via_qr">To setup this project you need to scan QR</string>
-    <string name="prompt_setup_devices_via_qr">This project has one more device.\nPlease scan one more QR</string>
+    <string name="prompt_setup_device_via_qr">Scan the QR code to configure the device</string>
 
-    <string name="prompt_setuped_project">This project is setuped</string>
+    <string name="alert_setuped_device_success">Done!\nDevice is ready.</string>
 
-    <string name="alert_setuped_device_success">Congratulations. %s device was successfully provisioned</string>
+    <string name="action_add_another_device">Add another device</string>
+    <string name="action_open_camera">Open camera</string>
 </resources>
