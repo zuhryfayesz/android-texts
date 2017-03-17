@@ -464,7 +464,7 @@ Please remove them before deleting the device.</string>
 
     <!-- EXPORT APP -->
 
-    <string name="prompt_setup_device_via_qr">Scan the QR code to configure the device</string>
+    <string name="prompt_setup_device_via_qr">Scan the QR code to\n configure the device</string>
 
     <string name="alert_setuped_device_success">Done!\nDevice is ready.</string>
     <string name="alert_setuped_devices_success">Done!\nDevices are ready.</string>
