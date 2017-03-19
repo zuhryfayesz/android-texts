@@ -160,6 +160,10 @@
     <string name="table_column_empty">&lt;empty&gt;</string>
     <string name="table_column_separtor">|</string>
 
+    <string name="prompt_table_pin_desc">Example:\n
+table.addRow(id, column, value)
+table.addRow(1, name, "temp")</string>
+
     <!--TIME INPUT WIDGET SETTINGS-->
 
     <string name="title_selection_format">Format</string>
