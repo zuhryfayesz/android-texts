@@ -471,4 +471,6 @@ Please remove them before deleting the device.</string>
 
     <string name="action_add_another_device">Add another device</string>
     <string name="action_open_camera">Open camera</string>
+
+    <string name="action_make_app">Make App</string>
 </resources>
