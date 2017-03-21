@@ -473,6 +473,7 @@ Please remove them before deleting the device.</string>
     <string name="action_open_camera">Open camera</string>
 
     <string name="action_make_app">Make App</string>
+    <string name="action_start_preview">Start App Preview</string>
 
     <string name="title_export_make_app">App Preview</string>
     <string name="title_export_theme">Theme</string>
@@ -489,4 +490,9 @@ Please remove them before deleting the device.</string>
 
     <string name="prompt_type_static">Static</string>
     <string name="prompt_type_dynamic">Dynamic</string>
+
+    <string name="prompt_export_ready">Your App is ready</string>
+    <string name="prompt_export_check">Check your email on the instructions on how to prepare your firmware.</string>
+    <string name="prompt_export_firmware_ready">My Firmware is ready</string>
+    <string name="prompt_export_preview_later">I will preview later</string>
 </resources>
