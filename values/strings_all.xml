@@ -473,4 +473,6 @@ Please remove them before deleting the device.</string>
     <string name="action_open_camera">Open camera</string>
 
     <string name="action_make_app">Make App</string>
+
+    <string name="prompt_make_app">Make your own App</string>
 </resources>
