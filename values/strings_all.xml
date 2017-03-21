@@ -495,4 +495,11 @@ Please remove them before deleting the device.</string>
     <string name="prompt_export_check">Check your email on the instructions on how to prepare your firmware.</string>
     <string name="prompt_export_firmware_ready">My Firmware is ready</string>
     <string name="prompt_export_preview_later">I will preview later</string>
+
+    <string name="hint_app_name">App Name</string>
+
+    <string name="text_export_about">Every project made in Blynk app can be exported as a standalone app and published to App Store and Google Play.\nIt will have your icon, logo, name, description, screenshots, etc.\nYour customers will visit app stores and download your app as any other app.</string>
+
+    <string name="text_export_dynamic">This type is used for devices that connect to the Internet over WiFi and can act as an WiFi Access Point (AP). For example: ESP8266 by Espressif.\nMajor advantage of Dynamic Auth Token Provisioning is that <b>you don\'t have to add Auth Token</b> to every device. Everything is handled by Blynk IOT platform. All you need to do is use the Firmware Template we provide and adapt it for yourself. It\'s really easy.</string>
+    <string name="text_export_static">Static Auth Token Provisioning is used for devices that connect to the Internet over the Ethernet, cellular networks and other connectivity types.\nIn this workflow, <b>every product you deliver to the customer will be pre-flashed with Auth Token</b>.</string>
 </resources>
