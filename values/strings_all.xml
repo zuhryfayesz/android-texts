@@ -474,5 +474,19 @@ Please remove them before deleting the device.</string>
 
     <string name="action_make_app">Make App</string>
 
-    <string name="prompt_make_app">Make your own App</string>
+    <string name="title_export_make_app">App Preview</string>
+    <string name="title_export_theme">Theme</string>
+    <string name="title_export_provisioning">Provisioning</string>
+    <string name="title_export_final">App preview is ready</string>
+
+    <string name="prompt_export_make_app">Make your own App</string>
+    <string name="prompt_export_project">Project</string>
+    <string name="prompt_export_theme">Main Theme</string>
+    <string name="prompt_export_provisioning">Provisioning type</string>
+
+    <string name="prompt_light">Light</string>
+    <string name="prompt_dark">Dark</string>
+
+    <string name="prompt_type_static">Static</string>
+    <string name="prompt_type_dynamic">Dynamic</string>
 </resources>
