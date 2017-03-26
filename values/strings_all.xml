@@ -504,4 +504,6 @@ Please remove them before deleting the device.</string>
     <string name="text_export_static">Static Auth Token Provisioning is used for devices that connect to the Internet over the Ethernet, cellular networks and other connectivity types.\nIn this workflow, <b>every product you deliver to the customer will be pre-flashed with Auth Token</b>.</string>
 
     <string name="action_remove_app">Remove App</string>
+
+    <string name="format_app_preview_name">%s Preview</string>
 </resources>
