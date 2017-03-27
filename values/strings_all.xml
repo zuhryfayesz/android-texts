@@ -507,7 +507,8 @@ Please remove them before deleting the device.</string>
     <string name="title_export_static">Static Auth Token Provisioning</string>
     <string name="title_export_dynamic">Dynamic Auth Token Provisioning</string>
 
-    <string name="action_remove_app">Remove App</string>
+    <string name="action_remove_app">Remove Preview App</string>
+    <string name="action_edit_app">Edit Preview App</string>
 
     <string name="format_app_preview_name">%s Preview</string>
 
