@@ -480,10 +480,11 @@ Please remove them before deleting the device.</string>
     <string name="title_export_provisioning">Provisioning</string>
     <string name="title_export_final">App preview is ready</string>
 
-    <string name="prompt_export_make_app">Make your own App</string>
+    <string name="prompt_export_make_app">Build your own App</string>
     <string name="prompt_export_project">Project</string>
-    <string name="prompt_export_theme">Main Theme</string>
-    <string name="prompt_export_provisioning">Provisioning type</string>
+    <string name="prompt_export_appname">App Name</string>
+    <string name="prompt_export_theme">Base Theme</string>
+    <string name="prompt_export_provisioning">Choose Provisioning type</string>
 
     <string name="prompt_light">Light</string>
     <string name="prompt_dark">Dark</string>
@@ -493,17 +494,28 @@ Please remove them before deleting the device.</string>
 
     <string name="prompt_export_ready">Your App is ready</string>
     <string name="prompt_export_check">Check your email on the instructions on how to prepare your firmware.</string>
-    <string name="prompt_export_firmware_ready">My Firmware is ready</string>
+    <string name="prompt_export_firmware_ready">My firmware is ready and uploaded</string>
     <string name="prompt_export_preview_later">I will preview later</string>
 
     <string name="hint_app_name">App Name</string>
 
-    <string name="text_export_about">Every project made in Blynk app can be exported as a standalone app and published to App Store and Google Play.\nIt will have your icon, logo, name, description, screenshots, etc.\nYour customers will visit app stores and download your app as any other app.</string>
+    <string name="text_export_about">Every project you build in Blynk can be exported into your own Mobile App.\n\nThen it can be published to app stores with your icon, logo, colors, etc.</string>
 
-    <string name="text_export_dynamic">This type is used for devices that connect to the Internet over WiFi and can act as an WiFi Access Point (AP). For example: ESP8266 by Espressif.\nMajor advantage of Dynamic Auth Token Provisioning is that <b>you don\'t have to add Auth Token</b> to every device. Everything is handled by Blynk IOT platform. All you need to do is use the Firmware Template we provide and adapt it for yourself. It\'s really easy.</string>
-    <string name="text_export_static">Static Auth Token Provisioning is used for devices that connect to the Internet over the Ethernet, cellular networks and other connectivity types.\nIn this workflow, <b>every product you deliver to the customer will be pre-flashed with Auth Token</b>.</string>
+    <string name="text_export_dynamic">This type is used for devices that connect to the Internet over WiFi and can act as an WiFi Access Point . For example: ESP8266.\n\nWith Dynamic Provisioning you don\'t have to flash Auth Token to every device.\n\nBlynk provides firmware that automaucally adds new Auth Token to every new device.</string>
+    <string name="text_export_static">This type is primarily used for devices that connect to the Internet over the Ethernet or cellular networks.\n\nIn this workflow, every product you deliver to the customer should be pre-flashed with Auth Token.\n\nBlynk will provide you with Auth Tokens for that</string>
+
+    <string name="title_export_static">Static Auth Token Provisioning</string>
+    <string name="title_export_dynamic">Dynamic Auth Token Provisioning</string>
 
     <string name="action_remove_app">Remove App</string>
 
     <string name="format_app_preview_name">%s Preview</string>
+
+    <string name="prompt_read_more">Learn More</string>
+    <string name="prompt_free_preview">App Preview is FREE</string>
+
+    <string name="prompt_device_provisioning">Device Provisioning</string>
+    <string name="text_export_provisioning">Device provisioning is a process of passing a set of data to your hardware to connect it to the Internet and Authenticate it in Blynk Cloud.</string>
+    <string name="prompt_provision_read_more">Learn more about Provisioning</string>
+    <string name="prompt_export_provision_ready">I fully understand Provisioning</string>
 </resources>
