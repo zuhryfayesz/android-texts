@@ -519,4 +519,6 @@ Please remove them before deleting the device.</string>
     <string name="text_export_provisioning">Device provisioning is a process of passing a set of data to your hardware to connect it to the Internet and Authenticate it in Blynk Cloud.</string>
     <string name="prompt_provision_read_more">Learn more about Provisioning</string>
     <string name="prompt_export_provision_ready">I fully understand Provisioning</string>
+
+    <string name="prompt_remove_app_confirm">Are you sure you want to remove app preview?\nIt won\'t be accessible for anyone.</string>
 </resources>
