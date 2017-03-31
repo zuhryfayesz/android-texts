@@ -487,8 +487,8 @@ Please remove them before deleting the device.</string>
     <string name="prompt_export_theme">Base Theme</string>
     <string name="prompt_export_provisioning">Choose Provisioning type</string>
 
-    <string name="prompt_light">Light</string>
-    <string name="prompt_dark">Dark</string>
+    <string name="prompt_light">LIGHT</string>
+    <string name="prompt_dark">DARK</string>
 
     <string name="prompt_type_static">Static</string>
     <string name="prompt_type_dynamic">Dynamic</string>
