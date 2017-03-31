@@ -20,7 +20,7 @@
 
     <string name="title_provisioning_welcome">Welcome!</string>
 
-    <string name="title_provisioning_howto">Let\'s connect\n%s</string>
+    <string name="title_provisioning_howto">Let\'s connect the device\nto your WiFi network</string>
     <string name="prompt_provisioning_howto">We will guide you through the steps to connect %s to your Wi-Fi network.</string>
 
     <string name="title_provisioning_wifi">Choose the WiFi network</string>
