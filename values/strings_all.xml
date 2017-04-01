@@ -439,7 +439,7 @@ Please remove them before deleting the device.</string>
     <string name="format_energy"> x %s</string>
     <string name="prompt_free">Free</string>
 
-    <string name="title_energy_purchases">Add power</string>
+    <string name="title_energy_purchases">Add energy</string>
 
     <string name="prompt_energy_balance">Your Energy Balance</string>
     <string name="prompt_select_purchase">Choose Energy Pack</string>
@@ -458,7 +458,7 @@ Please remove them before deleting the device.</string>
 
     <string name="alert_confirm_share_energy">Energy for sharing is not recoverable and will not be returned. Are you sure?</string>
 
-    <string name="prompt_energy_drain_option">Enabling this option will drain your battery when not connected to power source.</string>
+    <string name="prompt_battery_drain_option">Enabling this option will drain your battery when not connected to power source.</string>
 
     <string name="prompt_low_storage_gs">Google Services dependencies cannot be downloaded due to low device storage</string>
 
