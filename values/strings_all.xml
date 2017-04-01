@@ -467,7 +467,7 @@ Please remove them before deleting the device.</string>
     <string name="prompt_setup_device_via_qr">Scan the QR code to\n configure the device</string>
 
     <string name="alert_setuped_device_success">Ready!\nDevice was successfully added</string>
-    <string name="alert_setuped_devices_success">Done!\nAll Devices were successfully added.</string>
+    <string name="alert_setuped_devices_success">Done!\nAll Devices were successfully added</string>
 
     <string name="action_add_another_device">Add another device</string>
     <string name="action_open_camera">Open camera</string>
