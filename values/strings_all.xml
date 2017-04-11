@@ -242,6 +242,7 @@ It\'s free, open source and can be installed in 1 minute.</string>
     <string name="action_share">Share</string>
 
     <string name="alert_project_no_space">Not enough space</string>
+    <string name="alert_tabs_no_space">First row is not empty</string>
     <string name="alert_widget_singular">Only one widget of that type is allowed</string>
     <string name="alert_unexpected_error">Unexpected error occurred</string>
 
