@@ -151,7 +151,7 @@
 
     <string name="mail_login_problems_subject">Problems signing in to %s</string>
     <string name="action_send_email_support">Send e-mail to Blynk support</string>
-    <string name="prompt_mail_failed">EMail was not sent to your login acc. Please check your network connection.</string>
+    <string name="prompt_mail_failed">E-mail was not sent to your login acc. Please check your network connection.</string>
 
     <string name="inform_registration_success">You have successfully registered</string>
     <string name="inform_reset_success">Email sent</string>
@@ -180,6 +180,10 @@ It\'s free, open source and can be installed in 1 minute.</string>
 
     <string name="mode_server_blynk">BLYNK</string>
     <string name="mode_server_custom">CUSTOM</string>
+
+    <string name="prompt_reset_desc">We will send you an email with the link to reset your password</string>
+    <string name="prompt_reset_success">We will send an email with the link to reset your password to %s</string>
+    <string name="action_got_it">Got It!</string>
 
     <!--QR-->
 
