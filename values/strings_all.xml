@@ -483,19 +483,25 @@ Please remove them before deleting the device.</string>
     <string name="action_open_camera">Open camera</string>
 
     <string name="action_make_app">Make App</string>
+    <string name="action_create_preview">Create App Preview</string>
     <string name="action_start_preview">Start App Preview</string>
+    <string name="action_help">Help</string>
 
     <string name="title_export_make_app">App Preview</string>
-    <string name="title_export_theme">Theme</string>
+    <string name="title_export_app">@string/prompt_new_app</string>
+    <string name="title_export_project">Choose Face</string>
     <string name="title_export_provisioning">Provisioning</string>
     <string name="title_export_final">App preview is ready</string>
 
     <string name="prompt_export_make_app">Build your own App</string>
     <string name="prompt_export_project">Project</string>
     <string name="prompt_export_appname">App Name</string>
+    <string name="prompt_new_app">New App</string>
+    <string name="prompt_export_icon">Choose icon</string>
     <string name="prompt_export_color">Choose primary colors</string>
     <string name="prompt_export_theme">Choose base theme</string>
     <string name="prompt_export_provisioning">Choose Provisioning type</string>
+    <string name="prompt_export_faces">@string/title_export_project</string>
 
     <string name="prompt_light">LIGHT</string>
     <string name="prompt_dark">DARK</string>
@@ -510,10 +516,12 @@ Please remove them before deleting the device.</string>
 
     <string name="hint_app_name">App Name</string>
 
-    <string name="text_export_about">Every project you build in Blynk can be exported into your own Mobile App.\n\nThen it can be published to app stores with your icon, logo, colors, etc.</string>
+    <string name="text_export_about">Every project you build in Blynk can be exported into your own Mobile App.\n\nThen it can be published to app stores with your icon, logo, colors, etc.\n\nStart by creating App Preview and learn how to prepare and test everything before publishing.</string>
 
     <string name="text_export_dynamic">This type is used for devices that connect to the Internet over WiFi and can act as an WiFi Access Point . For example: ESP8266.\n\nWith Dynamic Provisioning you don\'t have to flash Auth Token to every device.\n\nBlynk provides firmware that automaucally adds new Auth Token to every new device.</string>
     <string name="text_export_static">This type is primarily used for devices that connect to the Internet over the Ethernet or cellular networks.\n\nIn this workflow, every product you deliver to the customer should be pre-flashed with Auth Token.\n\nBlynk will provide you with Auth Tokens for that</string>
+
+    <string name="text_export_faces">With Blynk you can have a single app which will work for different clients or with multiple products.\n\nThis feature is called <b>Blynk.Faces</b>. And every Project you add becomes a new Face in your app.\n\nIn preview mode you can add <b>only one</b> Face. After you export and publish the app, multiple Faces can be added.</string>
 
     <string name="title_export_static">Static Auth Token Provisioning</string>
     <string name="title_export_dynamic">Dynamic Auth Token Provisioning</string>
@@ -527,7 +535,7 @@ Please remove them before deleting the device.</string>
     <string name="prompt_free_preview">App Preview is FREE</string>
 
     <string name="prompt_device_provisioning">Device Provisioning</string>
-    <string name="text_export_provisioning">Device provisioning is a process of passing a set of data to your hardware to connect it to the Internet and Authenticate it in Blynk Cloud.</string>
+    <string name="text_export_provisioning">Device Provisioning is a way to generate and assign Auth Tokens to new devices.</string>
     <string name="prompt_provision_read_more">Learn more about Provisioning</string>
     <string name="prompt_export_provision_ready">I fully understand Provisioning</string>
 
