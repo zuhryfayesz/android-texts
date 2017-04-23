@@ -236,6 +236,8 @@ It\'s free, open source and can be installed in 1 minute.</string>
 
     <string name="prompt_keep_screen">KEEP SCREEN ALWAYS ON</string>
 
+    <string name="prompt_send_connected">Send app connected command</string>
+
     <string name="inform_token_not_received_yet">Project\'s auth token hasn\'t been received yet</string>
     <string name="inform_reconnect">Reconnecting to the server&#8230;</string>
 
