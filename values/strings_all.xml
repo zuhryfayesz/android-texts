@@ -423,6 +423,8 @@ Please remove them before deleting the device.</string>
     <string name="prompt_ble_location_permission">Blynk will need your location to be able to scan the Bluetooth devices around. It’s an Android OS requirement.</string>
     <string name="action_grant_permission">Grant permission</string>
 
+    <string name="prompt_url_permission">Blynk app has no permission for viewing links using your selected browser app.</string>
+
     <string name="error_permission_network_state">Access Network State permission was not granted to Blynk app. It could cause abnormal work.</string>
     <string name="error_permission_internet">Internet permission was not granted to Blynk app. It could not work without it.</string>
     <string name="error_permission_bluetooth">Bluetooth permission was not granted to Blynk app. It could not work without it.</string>
