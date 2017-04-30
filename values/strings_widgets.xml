@@ -392,7 +392,7 @@
     <string name="prompt_pin_lcd_description">Example:\nlcd.print(0, 0, \"Hello LCD!\");</string>
 
     <string name="hint_pin_lcd_format_line1">Use /pin0/ to insert pin data</string>
-    <string name="hint_pin_lcd_format_line2">Example: Temp: /pin1/ C</string>
+    <string name="hint_pin_lcd_format_line2">Example: Temp: /pin1/ °C</string>
     <string name="hint_pin1_pattern">/pin0/</string>
     <string name="hint_pin2_pattern">/pin1/</string>
 
