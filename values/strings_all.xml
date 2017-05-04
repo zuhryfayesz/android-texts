@@ -164,7 +164,8 @@
 
     <string name="error_credentials_empty">You need to provide your email and password</string>
 
-    <string name="error_facebook_login">Facebook login failed</string>
+    <string name="error_facebook_login_failed">Facebook login failed</string>
+    <string name="error_facebook_login_with_psw">Look like you registered via Facebook. Please use Facebook Login button for login.</string>
     <string name="action_facebook_login">Log In with Facebook</string>
 
     <string name="alert_fb_login_failed_title">Can\’t log in, sorry</string>
