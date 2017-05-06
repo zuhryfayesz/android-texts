@@ -118,6 +118,7 @@
     <string name="title_acknowledgements">Acknowledgements</string>
 
     <string name="notification_title">New Notification</string>
+    <string name="notification_date">Sent at %s</string>
 
     <string name="alert_project_limit_exceded">You exceeded limit of projects that could be created.</string>
 
