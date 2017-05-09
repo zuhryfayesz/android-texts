@@ -81,7 +81,7 @@
     <string name="error_invalid_token">Please check authentication token</string>
 
     <string name="error_server_connect_error">Sorry, app could not initialize ssl connection to the server.</string>
-    <string name="error_server_read_error">Something went wrong when connecting to the server. Please check 8443 port is opened in your network.</string>
+    <string name="error_server_read_error">Something went wrong when connecting to the server. Please check 8443 port is open in your network.</string>
 
     <string name="error_network_is_off">You have no internet connection</string>
     <string name="error_account_taken">This account is already taken</string>
