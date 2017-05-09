@@ -554,4 +554,8 @@ Please remove them before deleting the device.</string>
     <string name="action_publish">Publish</string>
     <string name="action_run">Run</string>
 
+    <string name="prompt_publish_header">Another awesome app! Let\'s publish it.</string>
+    <string name="prompt_publish_paid">App publishing is a paid service</string>
+    <string name="prompt_publish_plans">Our plans start from $199 / Month\nChoose your plan at blynk.io.</string>
+    <string name="action_publish_app">Publish My App</string>
 </resources>
