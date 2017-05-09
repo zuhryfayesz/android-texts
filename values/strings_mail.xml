@@ -29,4 +29,13 @@
         3. Enjoy my app!
     </string>
 
+    <string name="publish_message_title">%s publishing request</string>
+    <string name="publish_message_text" formatted="false">
+        App name: %s\n
+        Provisioning type: %s\n
+        Email: %s\n
+        Theme: %s\n
+        Color: %s
+    </string>
+
 </resources>
