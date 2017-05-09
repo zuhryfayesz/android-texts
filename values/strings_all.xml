@@ -37,6 +37,7 @@
     <string name="title_time_picker">Select time</string>
     <string name="title_hardware_picker">Select your hardware</string>
     <string name="title_frequency_picker">Rate of requests</string>
+    <string name="title_write_frequency_picker">Write interval</string>
     <string name="title_themes_picker">Select theme</string>
 
     <string name="prompt_widget_info_not_available">Documentation for this widget is not available</string>

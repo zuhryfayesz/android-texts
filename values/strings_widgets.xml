@@ -475,6 +475,7 @@
     <string name="pin_default">PIN</string>
 
     <string name="prompt_reading_frequency">READING RATE</string>
+    <string name="prompt_write_frequency">WRITE INTERVAL</string>
     <string name="frequency_default">PUSH</string>
     <string name="frequency_ms">Ms</string>
     <string name="frequency_sec">Sec</string>
