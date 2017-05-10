@@ -565,4 +565,6 @@ Please remove them before deleting the device.</string>
 
     <string name="alert_publish_sent">We will contact you shortly</string>
     <string name="prompt_thanks">Thanks</string>
+
+    <string name="title_faces">Faces</string>
 </resources>
