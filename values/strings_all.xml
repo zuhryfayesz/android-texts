@@ -568,4 +568,5 @@ Please remove them before deleting the device.</string>
     <string name="prompt_thanks">Thanks</string>
 
     <string name="title_faces">Faces</string>
+    <string name="prompt_scan_project">Please scan your project\'s QR code</string>
 </resources>
