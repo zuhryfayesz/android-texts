@@ -562,4 +562,7 @@ Please remove them before deleting the device.</string>
     <string name="inform_project_qr_no_devices">Please add new device</string>
     <string name="inform_project_wifi_no_devices">Please configure the device</string>
     <string name="action_configure_device">Configure The Device</string>
+
+    <string name="alert_publish_sent">We will contact you shortly</string>
+    <string name="prompt_thanks">Thanks</string>
 </resources>
