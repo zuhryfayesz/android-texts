@@ -342,6 +342,12 @@ Please remove them before deleting the device.</string>
         <item quantity="many">%s widgets</item>
     </plurals>
 
+    <plurals name="projects">
+        <item quantity="one">%s project</item>
+        <item quantity="other">%s projects</item>
+        <item quantity="many">%s projects</item>
+    </plurals>
+
     <string name="connection_ethernet">Ethernet</string>
     <string name="connection_wifi">WiFi</string>
     <string name="connection_usb">USB</string>
