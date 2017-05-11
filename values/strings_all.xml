@@ -569,4 +569,8 @@ Please remove them before deleting the device.</string>
 
     <string name="title_faces">Faces</string>
     <string name="prompt_scan_project">Please scan your project\'s QR code</string>
+
+    <string name="prompt_export_faces_type">Select app type</string>
+    <string name="prompt_singlefaces">Single</string>
+    <string name="prompt_multifaces">Multi.Faces</string>
 </resources>
