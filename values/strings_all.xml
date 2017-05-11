@@ -513,7 +513,7 @@ Please remove them before deleting the device.</string>
     <string name="prompt_export_appname">App Name</string>
     <string name="prompt_new_app">New App</string>
     <string name="prompt_export_icon">Choose icon</string>
-    <string name="prompt_export_color">Choose primary colors</string>
+    <string name="prompt_export_color">Choose primary color</string>
     <string name="prompt_export_theme">Choose base theme</string>
     <string name="prompt_export_provisioning">Choose Provisioning type</string>
     <string name="prompt_export_faces">@string/title_export_project</string>
