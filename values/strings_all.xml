@@ -133,6 +133,7 @@
     <string name="inform_location_disabled">Location services are disabled on your device</string>
     <string name="action_enable">Enable</string>
 
+    <string name="prompt_still_working">Still working&#8230;</string>
 
     <string name="no">No</string>
     <string name="yes">Yes</string>
