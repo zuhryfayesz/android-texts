@@ -582,4 +582,6 @@ Please remove them before deleting the device.</string>
     <string name="prompt_export_faces_type">Select app type</string>
     <string name="prompt_singlefaces">Single</string>
     <string name="prompt_multifaces">Multi.Faces</string>
+
+    <string name="prompt_multiface_update_failed">Adding new faces failed. Please try again later.</string>
 </resources>
