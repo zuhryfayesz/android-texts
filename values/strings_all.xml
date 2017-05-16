@@ -585,4 +585,7 @@ Please remove them before deleting the device.</string>
 
     <string name="prompt_multiface_update_failed">Adding new faces failed. Please try again later.</string>
     <string name="prompt_app_face_qr_sent">Check your email.</string>
+
+    <string name="alert_project_dynamic_not_supported">Selected project does not support dynamic provisioning</string>
+    <string name="alert_projects_dynamic_not_supported">Selected projects does not support dynamic provisioning</string>
 </resources>
