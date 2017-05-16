@@ -562,7 +562,7 @@ Please remove them before deleting the device.</string>
     <string name="title_my_apps">My Apps</string>
 
     <string name="action_publish">Publish</string>
-    <string name="action_run">Run</string>
+    <string name="action_preview">Preview</string>
 
     <string name="prompt_publish_header">Another awesome app! Let\'s publish it.</string>
     <string name="prompt_publish_paid">App publishing is a paid service</string>
