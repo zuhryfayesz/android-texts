@@ -539,7 +539,7 @@ Please remove them before deleting the device.</string>
     <string name="text_export_dynamic">Use it for WiFi devices that can act as a WiFi Access Point. For example: ESP8266 and similar.\n\nYour app will help users to connect device to home WiFi network and will automatically generate a new Auth Token.</string>
     <string name="text_export_static">This type is used for devices that can connect to the Internet over Ethernet or Cellular networks.\n\nIn this workflow, every device should be pre-flashed with Auth Token.\n\nYou will receive new Auth Tokens to your email address.</string>
 
-    <string name="text_export_faces">With Blynk you can have a single app which will work for different clients or with multiple products.\n\nThis feature is called <b>Blynk.Faces</b>. And every Project you add becomes a new Face in your app.\n\nIn preview mode you can add <b>only one</b> Face. After you export and publish the app, multiple Faces can be added.</string>
+    <string name="text_export_faces">With Blynk you can have a single app which will work for different clients or with multiple products.\n\nThis feature is called <b>Blynk.Faces</b>. And every Project you add becomes a new Face in your app.</string>
 
     <string name="title_export_static">Static Auth Token Provisioning</string>
     <string name="title_export_dynamic">Dynamic Auth Token Provisioning</string>
