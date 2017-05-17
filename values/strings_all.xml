@@ -579,9 +579,9 @@ Please remove them before deleting the device.</string>
     <string name="title_faces">Faces</string>
     <string name="prompt_scan_project">Please scan your project\'s QR code</string>
 
-    <string name="prompt_export_faces_type">Enable Blynk.Faces</string>
+    <string name="prompt_export_faces_type">Allow Blynk.Faces</string>
     <string name="prompt_singlefaces">Single</string>
-    <string name="prompt_multifaces">Multi.Faces</string>
+    <string name="prompt_multifaces">Blynk.Faces</string>
 
     <string name="prompt_multiface_update_failed">Adding new faces failed. Please try again later.</string>
     <string name="prompt_app_face_qr_sent">Check your email.</string>
