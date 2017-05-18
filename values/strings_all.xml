@@ -579,7 +579,7 @@ Please remove them before deleting the device.</string>
     <string name="alert_publish_sent">We will contact you shortly</string>
     <string name="prompt_thanks">Thanks</string>
 
-    <string name="title_faces">Faces</string>
+    <string name="title_projects">Projects</string>
     <string name="prompt_scan_project">Start by scanning provided QR code</string>
     <string name="action_scan_project">Scan QR code</string>
 
