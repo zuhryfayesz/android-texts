@@ -585,6 +585,9 @@ Please remove them before deleting the device.</string>
 
     <string name="prompt_multiface_update_failed">Adding new faces failed. Please try again later.</string>
     <string name="prompt_app_face_qr_sent">Check your email.</string>
+    <string name="prompt_app_face_qr_failed">Sending the token to your email failed.</string>
 
     <string name="alert_dynamic_not_supported">Dynamic provisioning is not supported by your Faces selection</string>
+
+    <string name="action_try_again">Try again</string>
 </resources>
