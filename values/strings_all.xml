@@ -590,4 +590,6 @@ Please remove them before deleting the device.</string>
     <string name="alert_dynamic_not_supported">Dynamic provisioning is not supported by your Faces selection</string>
 
     <string name="action_try_again">Try again</string>
+
+    <string name="prompt_icon_desc">You can add your own app icon before publishing</string>
 </resources>
