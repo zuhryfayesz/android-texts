@@ -597,7 +597,7 @@ Please remove them before deleting the device.</string>
     <string name="prompt_icon_desc">You can add your own app icon before publishing</string>
 
     <string name="action_update_faces">Update Apps</string>
-
-    <string name="prompt_faces_updated">Apps update succeed</string>
+    <string name="prompt_faces_updated">Apps are updated</string>
+    <string name="prompt_faces_updating">Updating&#8230;</string>
     <string name="prompt_faces_failed">Apps update failed</string>
 </resources>
