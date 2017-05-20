@@ -112,6 +112,8 @@
     <string name="error_widget_user_not_logined">Authentication failed. Please login via Blynk app.</string>
     <string name="error_widget_empty_profile">Your profile is empty. Please use Blynk app to create a project.</string>
 
+    <string name="error_no_email_intent">No email app on your device</string>
+
     <string name="app_error">Something went wrong. Please report it in community.blynk.cc</string>
 
     <string name="prompt_empty_push">It is an empty push notification</string>
@@ -593,4 +595,9 @@ Please remove them before deleting the device.</string>
     <string name="action_try_again">Try again</string>
 
     <string name="prompt_icon_desc">You can add your own app icon before publishing</string>
+
+    <string name="action_update_faces">Update Apps</string>
+
+    <string name="prompt_faces_updated">Apps update succeed</string>
+    <string name="prompt_faces_failed">Apps update failed</string>
 </resources>
