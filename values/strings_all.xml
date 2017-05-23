@@ -487,8 +487,8 @@ Please remove them before deleting the device.</string>
 
     <!-- EXPORT APP -->
 
-    <string name="prompt_singlefaces">Single</string>
-    <string name="prompt_multifaces">Blynk.Faces™</string>
+    <string name="prompt_singlefaces">Single Face</string>
+    <string name="prompt_multifaces">Blynk.Faces</string>
 
     <string name="prompt_setup_project">Scan the QR code</string>
     <string name="prompt_setup_device_via_qr">Scan the provided QR code\nto add new device</string>
@@ -519,13 +519,15 @@ Please remove them before deleting the device.</string>
     <string name="prompt_export_appname">App Name</string>
     <string name="prompt_new_app">New App</string>
     <string name="prompt_export_icon">Choose icon</string>
-    <string name="prompt_export_color">Choose primary color</string>
+    <string name="prompt_export_color">Choose temporary icon</string>
     <string name="prompt_export_theme">Choose base theme</string>
     <string name="prompt_export_provisioning">Choose Provisioning type</string>
     <string name="prompt_export_faces">Choose projects</string>
     <string name="prompt_export_face">Choose project</string>
     <string name="prompt_app_provisioning">Provisioning type</string>
     <string name="prompt_app_type">App type</string>
+    <string name="prompt_app_theme">Base Theme</string>
+    <string name="prompt_app_color">Primary Color</string>
 
     <string name="prompt_light">LIGHT</string>
     <string name="prompt_dark">DARK</string>
@@ -543,7 +545,7 @@ Please remove them before deleting the device.</string>
     <string name="text_export_about">Every project you build in Blynk can be exported into your own Mobile App.\n\nThen it can be published to app stores with your icon, logo, colors, etc.\n\nStart by creating App Preview and learn how to prepare and test everything before publishing.</string>
 
     <string name="text_export_dynamic">Use it for WiFi devices that can act as a WiFi Access Point. For example: ESP8266 and similar.\n\n<b>Blynk.Inject™</b> will help your customers to connect device to home WiFi network and will dynamically generate new Auth Token.</string>
-    <string name="text_export_static">This type is used for devices that connect to the Internet over the Ethernet cable or Cellular network.\n\nIn this workflow, every device should be pre-flashed with Auth Token.\n\nYou will receive new Auth Tokens to your email address.</string>
+    <string name="text_export_static">Static Auth Token is used for devices that connect to the Internet over the Ethernet cable or Cellular network.\n\nIn this workflow, every device should be pre-flashed with Auth Token.\n\nYou will receive new Auth Tokens to your email address.</string>
 
     <string name="text_export_faces">Choose one of your Projects to include in the app.\n\nYou can also enable <b>Blynk.Faces™</b> - a feature to include multiple Projects inside a single app, which will work for different clients or with multiple products.\n\nEvery Project you add becomes a new <b>Face</b> in your app.</string>
 
@@ -594,7 +596,7 @@ Please remove them before deleting the device.</string>
 
     <string name="action_try_again">Try again</string>
 
-    <string name="prompt_icon_desc">You can add your own app icon before publishing</string>
+    <string name="prompt_icon_desc">You will be able to upload your own icon before publishing to app stores</string>
 
     <string name="action_update_faces">Update Apps</string>
     <string name="prompt_faces_updated">Apps are updated</string>
