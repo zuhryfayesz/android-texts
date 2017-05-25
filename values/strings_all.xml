@@ -521,10 +521,10 @@ Please remove them before deleting the device.</string>
     <string name="prompt_export_icon">Choose temporary icon</string>
     <string name="prompt_export_color">Choose color</string>
     <string name="prompt_export_theme">Choose base theme</string>
-    <string name="prompt_export_provisioning">Choose Provisioning type</string>
+    <string name="prompt_export_provisioning">Provisioning type</string>
     <string name="prompt_export_faces">Choose projects</string>
     <string name="prompt_export_face">Choose project</string>
-    <string name="prompt_app_provisioning">Provisioning type</string>
+    <string name="prompt_app_provisioning">@string/prompt_export_provisioning</string>
     <string name="prompt_app_type">App type</string>
     <string name="prompt_app_theme">Base Theme</string>
     <string name="prompt_app_color">Primary Color</string>
