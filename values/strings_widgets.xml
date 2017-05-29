@@ -446,6 +446,7 @@
     <string name="mode_high">HIGH</string>
 
     <string name="prompt_notify_instant">Instant</string>
+    <string name="prompt_sound">Sound</string>
 
     <!--MAP WIDGET SETTINGS -->
 
