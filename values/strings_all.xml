@@ -441,6 +441,7 @@ Please remove them before deleting the device.</string>
     <string name="error_permission_internet">Internet permission was not granted to Blynk app. It could not work without it.</string>
     <string name="error_permission_bluetooth">Bluetooth permission was not granted to Blynk app. It could not work without it.</string>
     <string name="error_permission_camera">Camera permission was not granted to Blynk app. This functionality could not work without it.</string>
+    <string name="error_permission_read_sound">Read storage permission was not granted to Blynk app. Custom sound for notificatinos could not work without it.</string>
 
     <!--ENERGY & BILLING-->
 
