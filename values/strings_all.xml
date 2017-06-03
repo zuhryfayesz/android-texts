@@ -460,7 +460,7 @@ Please remove them before deleting the device.</string>
     <string name="inform_energy_not_enough">Not enough energy</string>
 
     <string name="format_price">$%s</string>
-    <string name="format_energy"> x %d</string>
+    <string name="format_energy"> x %s</string>
     <string name="prompt_free">Free</string>
 
     <string name="title_energy_purchases">Add energy</string>
