@@ -458,7 +458,7 @@
 
     <string name="prompt_flip_axis">Flip Axis</string>
 
-    <!-- STEP CONTROL -->
+    <!-- STEP SETTINGS -->
 
     <string name="prompt_arrows">\u2191\u2193</string>
     <string name="prompt_plusminus">\u207A/\u208B</string>
@@ -466,6 +466,10 @@
     <string name="prompt_loop">Loop values</string>
     <string name="prompt_icons">Icons</string>
     <string name="prompt_send_step">Send step</string>
+
+    <!-- DEVICE SELECTOR SETTINGS -->
+
+    <string name="prompt_select">Select</string>
 
     <!-- WIDGET SETTINGS -->
 
