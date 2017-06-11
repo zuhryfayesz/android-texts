@@ -100,6 +100,11 @@
     <string name="eventor_action_notify_highlight">notification</string>
     <string name="eventor_action_notify_collapsed">send notification</string>
 
+
+    <string name="eventor_action_twit">send tweet: %s</string>
+    <string name="eventor_action_twit_highlight">tweet</string>
+    <string name="eventor_action_twit_collapsed">send tweet</string>
+
     <string name="eventor_hint_trigger">Tap to choose a pin or a widget that will act as a trigger</string>
     <string name="eventor_hint_condition">Choose a condition</string>
     <string name="eventor_hint_enter_value">Input value</string>
@@ -120,6 +125,10 @@
     <string name="eventor_elem_notify">send notification</string>
     <string name="eventor_elem_notify_highlight">notification</string>
 
+
+    <string name="eventor_elem_twit">send tweet</string>
+    <string name="eventor_elem_twit_highlight">tweet</string>
+
     <string name="eventor_elem_turn_on">turn ON pin</string>
     <string name="eventor_elem_turn_on_highlight">pin</string>
     <string name="eventor_elem_turn_off">turn OFF pin</string>
@@ -128,6 +137,7 @@
     <string name="eventor_hint_write_message">Type in what to send. You can also use /pin/ to include pin value.\n\nFor example: \"Alert! temperature is below /pin/०C\"</string>
 
     <string name="alert_eventor_notify_push">Please don\'t forget to add Push widget to your project!</string>
+    <string name="alert_eventor_notify_twit">Please don\'t forget to add Twitter widget to your project!</string>
 
     <string name="eventor_prompt_ready">Event is ready. Nice!</string>
     <string name="prompt_eventor_items">Events</string>
