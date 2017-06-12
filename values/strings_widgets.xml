@@ -159,12 +159,14 @@
 
     <string name="eventor_mail_subject_default">Eventor event triggered</string>
 
-    <string name="eventor_elem_mail">send e-mail with subject \"Eventor event triggered\": %s</string>
+    <string name="eventor_elem_mail">send e-mail</string>
     <string name="eventor_elem_mail_highlight">e-mail</string>
 
     <string name="eventor_action_mail">send e-mail with subject \"Eventor event triggered\" and message: %s</string>
     <string name="eventor_action_mail_highlight">@string/eventor_elem_mail_highlight</string>
-    <string name="eventor_action_mail_collapsed">@string/eventor_elem_mail</string>
+    <string name="eventor_action_mail_collapsed">send e-mail with subject \"Eventor event triggered\"</string>
+
+    <string name="eventor_multiple_actions_format">- %s</string>
 
     <!--TABLE WIDGET SETTINGS-->
 
