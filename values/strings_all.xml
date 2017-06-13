@@ -306,7 +306,9 @@ It\'s free, open source and can be installed in 1 minute.</string>
     <string name="prompt_dont_show">Don\'t show again</string>
 
     <string name="title_shortcut">Home Screen shortcut</string>
-    <string name="action_shortcut">Add Shortcut</string>
+    <string name="action_shortcut_add">Add Shortcut</string>
+    <string name="action_shortcut_remove">Remove Shortcut</string>
+    <string name="prompt_shortcut_limit">Shortcuts limit exceeded</string>
 
     <!--DEVICE SETTINGS-->
 
