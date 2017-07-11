@@ -519,7 +519,7 @@
 
     <string name="prompt_datastreams">Datastreams</string>
     <string name="hint_datastream_name">Name</string>
-    <string name="action_add_datastream">Add Datastream</string>
+    <string name="action_add_datastream">+ Add DataStream</string>
 
     <string name="title_select_stacking">@string/prompt_stacking</string>
 
