@@ -523,6 +523,17 @@
 
     <string name="title_select_stacking">@string/prompt_stacking</string>
 
+    <string name="prompt_design">Design</string>
+    <string name="prompt_style_line">Style: Line</string>
+    <string name="prompt_color">Color</string>
+    <string name="prompt_math">Math</string>
+    <string name="hint_math">Example: (/pin/*2)/6</string>
+    <string name="prompt_suffix">Suffix</string>
+    <string name="hint_suffix">°C</string>
+    <string name="prompt_cubic_smooth">Cubic smoothing</string>
+    <string name="prompt_connect_missing">Connect missing data points</string>
+    <string name="prompt_y_axis">Y-Axis</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_min">MIN</string>
