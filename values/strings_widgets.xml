@@ -388,7 +388,7 @@
     <string name="prompt_no_data">No Data</string>
     <string name="prompt_no_enough_data">Not enough data to display</string>
 
-    <string name="prompt_legend">SHOW LEGEND</string>
+    <string name="prompt_show_legend">SHOW LEGEND</string>
     <string name="prompt_logdata">Data to show</string>
 
     <string name="action_clear_history">Erase data</string>
@@ -493,6 +493,35 @@
     <!-- DEVICE SELECTOR SETTINGS -->
 
     <string name="prompt_select">Select</string>
+
+    <!-- SUPER GRAPH SETTINGS -->
+
+    <string name="prompt_font_size">Font size</string>
+    <string name="prompt_alignment">Alignment</string>
+
+    <string name="action_font_size">T</string>
+
+    <string name="prompt_stacking">Stacking</string>
+    <string name="prompt_stacking_disabled">Don\'t stack</string>
+    <string name="prompt_stacking_enabled">Stack</string>
+    <string name="prompt_stacking_enabled_100">Stack 100</string>
+
+    <string name="prompt_show">Show</string>
+    <string name="prompt_hide">Hide</string>
+
+    <string name="prompt_title">Title</string>
+    <string name="prompt_legend">Legend</string>
+    <string name="prompt_y_values">Y-axis values</string>
+    <string name="prompt_allow_fullscreen">Allow full screen mode</string>
+
+    <string name="prompt_goal_line">Goal line</string>
+    <string name="hint_goal_line">No Value</string>
+
+    <string name="prompt_datastreams">Datastreams</string>
+    <string name="hint_datastream_name">Name</string>
+    <string name="action_add_datastream">Add Datastream</string>
+
+    <string name="title_select_stacking">@string/prompt_stacking</string>
 
     <!-- WIDGET SETTINGS -->
 
