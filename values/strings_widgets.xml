@@ -512,6 +512,7 @@
     <string name="prompt_title">Title</string>
     <string name="prompt_legend">Legend</string>
     <string name="prompt_y_values">Y-axis values</string>
+    <string name="prompt_x_values">X-axis values</string>
     <string name="prompt_allow_fullscreen">Allow full screen mode</string>
 
     <string name="prompt_goal_line">Goal line</string>
