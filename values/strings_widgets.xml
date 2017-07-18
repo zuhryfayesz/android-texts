@@ -534,6 +534,15 @@
     <string name="prompt_cubic_smooth">Cubic smoothing</string>
     <string name="prompt_connect_missing">Connect missing data points</string>
     <string name="prompt_y_axis">Y-Axis</string>
+    
+    <string name="prompt_y_axis_strict">values</string>
+    <string name="prompt_y_axis_percent">history %</string>
+
+    <string name="hint_flip">FLIP</string>
+
+    <string name="prompt_state_labels">State Labels</string>
+    <string name="prompt_true">True</string>
+    <string name="prompt_false">False</string>
 
     <!-- WIDGET SETTINGS -->
 
