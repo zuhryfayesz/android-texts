@@ -525,7 +525,12 @@
     <string name="title_select_stacking">@string/prompt_stacking</string>
 
     <string name="prompt_design">Design</string>
-    <string name="prompt_style_line">Style: Line</string>
+    <string name="format_style">Style: %s</string>
+    <string name="style_line">Line</string>
+    <string name="style_area">Area</string>
+    <string name="style_bar">Bar</string>
+    <string name="style_binary">Binary</string>
+
     <string name="prompt_color">Color</string>
     <string name="prompt_math">Math</string>
     <string name="hint_math">Example: (/pin/*2)/6</string>
