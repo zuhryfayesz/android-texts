@@ -283,6 +283,8 @@
     <string name="prompt_image_id">Image id</string>
     <string name="hint_image_id">Enter image name or id</string>
 
+    <string name="prompt_color_overlay">COLOR OVERLAY</string>
+
     <!--VIDEO WIDGET SETTINGS-->
 
     <string name="title_video_custom_url">URL address</string> 
