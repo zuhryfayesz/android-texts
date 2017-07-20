@@ -543,7 +543,7 @@
     <string name="prompt_y_axis">Y-Axis</string>
     
     <string name="prompt_y_axis_strict">values</string>
-    <string name="prompt_y_axis_percent">history %</string>
+    <string name="prompt_y_axis_percent">height, %</string>
 
     <string name="hint_flip">FLIP</string>
 
