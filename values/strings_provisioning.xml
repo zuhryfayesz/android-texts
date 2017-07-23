@@ -7,6 +7,7 @@
     <string name="action_setup_device">Set up new Device</string>
     <string name="action_choose_device">Choose device</string>
     <string name="action_start_over">Start over</string>
+    <string name="action_choose_device_network">Choose device\'s network</string>
 
     <string name="alert_wifi_location_enable">Please enable location services for scanning wifi.</string>
 
@@ -72,7 +73,7 @@
 
     <string name="title_sparkfun_thanks">Congrats!</string>
     <string name="title_sparkfun_howto">Pre-flight check</string>
-    <string name="title_sparkfun_device_choose">Choose device</string>
+    <string name="title_sparkfun_device_choose">@string/action_choose_device</string>
     <string name="title_sparkfun_wifi_connecting">Connecting</string>
     <string name="title_sparkfun_wifi_connect">Connect to WiFi</string>
     <string name="title_sparkfun_success">Success</string>
