@@ -551,6 +551,9 @@
     <string name="prompt_true">True</string>
     <string name="prompt_false">False</string>
 
+    <string name="hint_formula">Formula</string>
+    <string name="title_select_formula">Select formula</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_min">MIN</string>
