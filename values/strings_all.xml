@@ -310,6 +310,8 @@ It\'s free, open source and can be installed in 1 minute.</string>
     <string name="action_shortcut_remove">Remove Shortcut</string>
     <string name="prompt_shortcut_limit">Shortcuts limit exceeded</string>
 
+    <string name="prompt_shortcut_old_api">Your Launcher app may not support adding shortcuts</string>
+
     <!--DEVICE SETTINGS-->
 
     <string name="hint_device_name">Device Name</string>
