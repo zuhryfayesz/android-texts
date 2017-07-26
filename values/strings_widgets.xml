@@ -388,7 +388,7 @@
     <!--HISTORY GRAPH WIDGET SETTINGS-->
 
     <string name="prompt_no_data">No Data</string>
-    <string name="prompt_no_enough_data">Not enough data to display</string>
+    <string name="prompt_no_enough_data">No data yet</string>
 
     <string name="prompt_show_legend">SHOW LEGEND</string>
     <string name="prompt_logdata">Data to show</string>
