@@ -485,7 +485,12 @@ Please remove them before deleting the device.</string>
     <string name="title_campaign_reward">Thank you!</string>
     <string name="prompt_campaign_reward_title">Thank you for supporting us during %s Kickstarter campaign!</string>
     <string name="prompt_campaign_reward_text">Enjoy complimentary %s Energy!</string>
-    <string name="action_claim_reward">Get %s Energy</string>
+    <string name="action_campaign_claim_reward">Get %s Energy</string>
+
+    <string name="title_reward">@string/title_campaign_reward</string>
+    <string name="prompt_reward_title" formatted="false">Congrats!\n\nYou got %s Energy\nfrom %s</string>
+    <string name="prompt_reward_text">Happy Blynking!</string>
+    <string name="action_claim_reward">Claim Reward</string>
 
     <string name="alert_confirm_share_energy">Energy for sharing is not recoverable and will not be returned. Are you sure?</string>
 
