@@ -553,6 +553,7 @@
 
     <string name="hint_formula">Formula</string>
     <string name="title_select_formula">Select formula</string>
+    <string name="title_actions">Actions</string>
 
     <!-- WIDGET SETTINGS -->
 
