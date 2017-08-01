@@ -555,6 +555,8 @@
     <string name="title_select_formula">Select formula</string>
     <string name="title_actions">Actions</string>
 
+    <string name="toast_no_data_range">No data for older range</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_min">MIN</string>
