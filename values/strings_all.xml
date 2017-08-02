@@ -213,6 +213,7 @@ It\'s free, open source and can be installed in 1 minute.</string>
     <string name="prompt_qr">QR</string>
 
     <string name="error_share_qr_not_generated">Problems with creating QR code for sharing.\nTry Refreshing or try later.</string>
+    <string name="error_clone_qr_not_generated">Problems with creating QR code for cloning.</string>
 
     <string name="error_share_qr_too_big">Too large project for QR.</string>
 
