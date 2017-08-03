@@ -616,4 +616,6 @@ Please remove them before deleting the device.</string>
     <string name="prompt_faces_updated">Apps are updated</string>
     <string name="prompt_faces_updating">Updating&#8230;</string>
     <string name="prompt_faces_failed">Apps update failed</string>
+
+    <string name="notification_channel_projects">Projects</string>
 </resources>
