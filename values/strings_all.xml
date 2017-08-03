@@ -339,6 +339,7 @@ Please remove them before deleting the device.</string>
 
     <string name="title_devices">Devices</string>
     <string name="title_my_devices">My Devices</string>
+    <string name="title_tag_devices">Tagged Devices</string>
 
     <plurals name="devices">
         <item quantity="zero">Add device</item>
