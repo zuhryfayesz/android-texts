@@ -539,7 +539,7 @@
     <string name="hint_math">Example: (/pin/*2)/6</string>
     <string name="prompt_suffix">Suffix</string>
     <string name="hint_suffix">°C</string>
-    <string name="prompt_cubic_smooth">Cubic smoothing</string>
+    <string name="prompt_smoothing">Smoothing</string>
     <string name="prompt_connect_missing">Connect missing data points</string>
     <string name="prompt_y_axis">Y-Axis</string>
     
