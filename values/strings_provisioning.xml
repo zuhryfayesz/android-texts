@@ -79,4 +79,11 @@
     <string name="title_sparkfun_success">Success</string>
     <string name="title_sparkfun_finish">Finish</string>
 
+    <string name="prompt_particle_sim_imei">Input SIM card IMEI number or scan barcode located on the device</string>
+    <string name="hint_imei">IMEI Number</string>
+
+    <string name="action_scan_barcode">Scan Barcode</string>
+    <string name="error_invalid_barcode">Not a valid barcode</string>
+    <string name="action_continue_arrow">Continue&#8594;</string>
+
 </resources>
