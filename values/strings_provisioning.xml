@@ -80,10 +80,16 @@
     <string name="title_sparkfun_finish">Finish</string>
 
     <string name="prompt_particle_sim_imei">Input SIM card IMEI number or scan barcode located on the device</string>
+    <string name="prompt_particle_authenticating">Authenticating Device…</string>
+    <string name="prompt_particle_authenticated">Authenticated</string>
+    <string name="error_particle_activated">This SIM card was already activated</string>
+    <string name="prompt_particle_set_device_name">Give Device a meaningful name</string>
+    <string name="action_particle_try_another">Try another SIM card</string>
     <string name="hint_imei">IMEI Number</string>
 
     <string name="action_scan_barcode">Scan Barcode</string>
     <string name="error_invalid_barcode">Not a valid barcode</string>
     <string name="action_continue_arrow">Continue&#8594;</string>
+    <string name="action_save_continue_arrow">Save and continue&#8594;</string>
 
 </resources>
