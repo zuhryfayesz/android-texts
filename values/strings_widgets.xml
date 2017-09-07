@@ -473,6 +473,8 @@
     <string name="prompt_notify_instant">Instant</string>
     <string name="prompt_sound">Sound</string>
 
+    <string name="prompt_select_sound">Select Sound</string>
+
     <!--MAP WIDGET SETTINGS -->
 
     <string name="map_description">Blynk.location(index, lat, lon, value)</string>
