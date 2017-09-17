@@ -1,6 +1,4 @@
-
 <resources>
-
     <string name="widget_button_title">Button</string>
     <string name="widget_rgb_title">zeRGBa</string>
     <string name="widget_slider_title">Slider</string>
@@ -560,6 +558,27 @@
     <string name="title_actions">Actions</string>
 
     <string name="toast_no_data_range">No data for older range</string>
+
+    <!--DEVICE TILES SETTINGS-->
+
+    <string name="title_templates">Templates</string>
+    <string name="format_template">Template %s</string>
+
+    <string name="title_columns_num">Number of columns</string>
+    <string name="title_rows_num">Number of rows</string>
+
+    <string name="title_template_name">Device Template Name</string>
+    <string name="prompt_template_name">Every click on the tile with the device named \"Sensor Model A\" will open similar page template</string>
+    <string name="title_show_device_name">Show Device Name</string>
+    <string name="title_template_pin">Tile Data Input</string>
+    <string name="title_template_value_name">Tile Value Name</string>
+    <string name="title_template_value_sufix">Tile Value Suffix</string>
+    <string name="title_template_design">Tile Design</string>
+    <string name="title_template_offline">Disable When Device is Offline</string>
+
+    <string name="action_new_template">Add Page</string>
+
+    <string name="prompt_dynamic">Dynamic</string>
 
     <!-- WIDGET SETTINGS -->
 
