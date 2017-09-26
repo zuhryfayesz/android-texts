@@ -578,6 +578,9 @@
 
     <string name="action_new_template">Add Page</string>
 
+    <string name="hint_template_value_name">None</string>
+    <string name="hint_template_value_suffix">for example: ºC</string>
+
     <string name="prompt_dynamic">Dynamic</string>
 
     <string name="prompt_tile_design">Tile Design</string>
