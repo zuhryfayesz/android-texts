@@ -572,13 +572,15 @@
     <string name="title_show_device_name">Show Device Name</string>
     <string name="title_template_pin">Tile Data Input</string>
     <string name="title_template_value_name">Tile Value Name</string>
-    <string name="title_template_value_sufix">Tile Value Suffix</string>
+    <string name="title_template_value_suffix">Tile Value Suffix</string>
     <string name="title_template_design">Tile Design</string>
     <string name="title_template_offline">Disable When Device is Offline</string>
 
     <string name="action_new_template">Add Page</string>
 
     <string name="prompt_dynamic">Dynamic</string>
+
+    <string name="prompt_tile_design">Tile Design</string>
 
     <!-- WIDGET SETTINGS -->
 
