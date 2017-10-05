@@ -584,6 +584,9 @@
     <string name="prompt_dynamic">Dynamic</string>
 
     <string name="prompt_tile_design">Tile Design</string>
+    <string name="title_template_devices">Apply Template to</string>
+    <string name="prompt_select_devices">Select Devices</string>
+    <string name="action_add_template">Add Template</string>
 
     <!-- WIDGET SETTINGS -->
 
