@@ -587,6 +587,13 @@
     <string name="title_template_devices">Apply Template to</string>
     <string name="prompt_select_devices">Select Devices</string>
     <string name="action_add_template">Add Template</string>
+    <string name="action_sort">Sort</string>
+
+    <string name="sort_name_asc">Name: A-Z</string>
+    <string name="sort_name_desc">Name: Z-A</string>
+    <string name="sort_type_asc">Device Type \u2193</string>
+    <string name="sort_type_desc">Device Type \u2191</string>
+    <string name="sort_manual">Manual</string>
 
     <!-- WIDGET SETTINGS -->
 
