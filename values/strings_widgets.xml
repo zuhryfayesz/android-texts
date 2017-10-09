@@ -563,6 +563,7 @@
 
     <string name="title_templates">Tile Templates</string>
     <string name="format_template">Template %s</string>
+    <string name="hint_template">New Template</string>
 
     <string name="title_columns_num">Number of columns</string>
     <string name="title_rows_num">Number of rows</string>
