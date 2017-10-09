@@ -595,6 +595,8 @@
     <string name="sort_type_desc">Device Type \u2191</string>
     <string name="sort_manual">Manual</string>
 
+    <string name="empty">--</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_min">MIN</string>
