@@ -598,6 +598,8 @@
 
     <string name="empty">--</string>
 
+    <string name="prompt_select_template">Select template</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_min">MIN</string>
