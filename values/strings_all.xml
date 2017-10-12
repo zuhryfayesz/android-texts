@@ -372,6 +372,8 @@ Please remove them before deleting the device.</string>
     <string name="alert_selector_removal">This device selector is used by %s.\n
 Please remove them before it\'s deleting.</string>
 
+    <string name="action_edit">Edit</string>
+
     <!--TAG SETTINGS-->
 
     <string name="hint_tag_name">Tag Name</string>
