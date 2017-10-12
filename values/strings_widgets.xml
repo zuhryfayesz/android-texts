@@ -75,6 +75,7 @@
     <string name="section_notifications">Notifications</string>
     <string name="section_other">Other</string>
     <string name="section_interface">Interface</string>
+    <string name="section_device_management">Device Management</string>
 
     <string name="prompt_installed">Installed</string>
     <string name="prompt_widget_not_supported">Is not supported on your device</string>
