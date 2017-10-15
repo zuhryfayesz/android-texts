@@ -329,6 +329,7 @@
 
     <string name="alert_ble_bluetooth_confirm">This will reset the connection in this widget.</string>
 
+    <string name="prompt_not_supported_with_tiles">Not supported with Device Tiles</string>
     <!--LABELED DISPLAY WIDGET SETTINGS-->
 
     <string name="hint_labeled_display_format">e.g: Temp: /pin/ ºC</string>
