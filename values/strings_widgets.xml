@@ -563,7 +563,7 @@
 
     <!--DEVICE TILES SETTINGS-->
 
-    <string name="title_templates">Tile Templates</string>
+    <string name="title_templates">Templates</string>
     <string name="format_template">Template %s</string>
     <string name="hint_template">New Template</string>
 
