@@ -329,7 +329,9 @@ It\'s free, open source and can be installed in 1 minute.</string>
     <string name="action_new_device">New Device</string>
 
     <string name="alert_device_removal">This device is used by %s.\n
-Please remove them before deleting the device.</string>
+Please attach them to other target before deleting the device.</string>
+    <string name="alert_device_selector_removal">This device selector is used by %s.\n
+Please attach them to other target before deleting the device selector.</string>
 
     <string name="alert_device_removal_confirm">Delete this device? This cannot be undone</string>
 
@@ -384,7 +386,7 @@ Please remove them before it\'s deleting.</string>
     <string name="action_new_tag">New Tag</string>
 
     <string name="alert_tag_removal">This tag is used by %s.\n
-Please remove them before deleting the device.</string>
+Please attach them to other target before deleting the tag.</string>
     <string name="alert_tag_removal_confirm">Delete this tag? This cannot be undone</string>
 
     <string name="alert_tag_name_conflict">Not a enique tag\'s name</string>
