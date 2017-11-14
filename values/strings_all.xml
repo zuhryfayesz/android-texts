@@ -334,6 +334,8 @@ Please attach them to other target before deleting the device selector.</string>
 
     <string name="alert_device_removal_confirm">Delete this device? This cannot be undone</string>
 
+    <string name="alert_device_limit_exceded">You exceeded limit of devices that could be created.</string>
+
     <string name="prompt_online">Online</string>
     <string name="prompt_offline">Offline</string>
     <string name="format_offline">Offline since %s</string>
