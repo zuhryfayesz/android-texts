@@ -252,6 +252,9 @@
     <string name="prompt_gps_error_suspended_network">Network connection is lost</string>
     <string name="prompt_gps_error_suspended_service">GPS service has been suspended</string>
 
+    <string name="title_interval">UPDATE INTERVAL</string>
+    <string name="title_select_interval">Select Interval</string>
+
     <!--SENSORS WIDGET SETTINGS-->
 
     <string-array name="accelerometer_descriptions">
