@@ -67,6 +67,9 @@
     <string name="error_board_is_off">One of your devices is offline</string>
     <string name="error_device_went_offline">One of your devices was disconnected.</string>
 
+    <string name="error_format_device_offline">%s has disconnected.</string>
+    <string name="error_format_device_online">%s has connected.</string>
+
     <string name="error_project_board_one_is_off">Device of %s is offline</string>
     <string name="error_project_device_one_went_offline">Device of %s was disconnected.</string>
     <string name="error_project_board_is_off">One of your devices of %s is offline</string>
