@@ -226,6 +226,8 @@ It\'s free, open source and can be installed in 1 minute.</string>
     <string name="action_autofocus_on">Autofocus ON</string>
     <string name="action_autofocus_off">Autofocus OFF</string>
 
+    <string name="action_scan_file">Scan from file</string>
+
     <!--PROJECT SETTINGS-->
 
     <string name="title_project_settings">Project Settings</string>
