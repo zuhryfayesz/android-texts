@@ -16,6 +16,7 @@
 
     <string name="prompt_wifi_ap">Please disable Access Point mode to enable scanning for Wi-Fi networks</string>
     <string name="prompt_wifi_scan_empty">No scan results</string>
+    <string name="prompt_provisioning_wifi_scan_empty">No suitable networks</string>
 
     <string name="prompt_provisioning">You need to setup your device</string>
 
