@@ -32,7 +32,8 @@
     <string name="prompt_provisioning_device">Choose a WiFi network called %s from the list</string>
 
     <string name="title_provisioning_error">Can\'t connect :(</string>
-    <string name="prompt_provisioning_error">Try starting over.\nIf you experiencing issues, please email us here:\n%s</string>
+    <string name="prompt_provisioning_error_email">Try starting over.\nIf you experiencing issues, please email us here:\n%s</string>
+    <string name="prompt_provisioning_error_page">Try starting over.\nIf you experiencing issues, please check out the support page:\n%s</string>
 
     <string name="title_provisioning_settingup">Setting up\n%s</string>
 
