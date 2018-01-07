@@ -637,4 +637,6 @@ Please attach them to other target before deleting the tag.</string>
     <string name="prompt_faces_failed">Apps update failed</string>
 
     <string name="notification_channel_projects">Projects</string>
+
+    <string name="error_intent_no_web">There are no apps that responds to open web link request</string>
 </resources>

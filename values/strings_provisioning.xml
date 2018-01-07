@@ -94,4 +94,6 @@
     <string name="action_continue_arrow">Continue&#8594;</string>
     <string name="action_save_continue_arrow">Save and continue&#8594;</string>
 
+    <string name="error_provisioning_wrong_board">Wrong board</string>
+    <string name="error_provisioning_connect_failed">Could not connect to device\'s Wi-Fi</string>
 </resources>
