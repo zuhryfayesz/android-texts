@@ -93,6 +93,8 @@
     <string name="eventor_condition_gte">is higher than or equal to %s</string>
     <string name="eventor_condition_eq">is equal to %s</string>
     <string name="eventor_condition_neq">is not equal to %s</string>
+    <string name="eventor_condition_str_eq">is like %s</string>
+    <string name="eventor_condition_str_neq">is not like %s</string>
 
     <string name="eventor_action_setpin" formatted="false">set %s to %s</string>
     <string name="eventor_action_turn_on">turn ON %s</string>
