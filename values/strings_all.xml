@@ -639,4 +639,5 @@ Please attach them to other target before deleting the tag.</string>
     <string name="notification_channel_projects">Projects</string>
 
     <string name="error_intent_no_web">There are no apps that responds to open web link request</string>
+    <string name="alert_app_outdated">Your app is outdated. Please update to the latest app version. Ignoring this notice may affect your projects.</string>
 </resources>
