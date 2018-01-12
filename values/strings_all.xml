@@ -344,6 +344,7 @@ Please attach them to other target before deleting the device selector.</string>
     <string name="alert_device_limit_exceded">You exceeded limit of devices that could be created.</string>
 
     <string name="alert_tiles_device_create_failed">Tile creation failed. Please try again later.</string>
+    <string name="alert_selector_no_devices">Thare are no devices connected to the device selector</string>
 
     <string name="prompt_online">Online</string>
     <string name="prompt_offline">Offline</string>
