@@ -497,6 +497,7 @@ Please attach them to other target before deleting the tag.</string>
     <string name="prompt_select_purchase">Choose Energy Pack</string>
 
     <string name="title_low_energy">You need more energy…</string>
+    <string name="prompt_low_energy">You need %d</string>
     <string name="action_add_energy">+ Add Energy</string>
 
     <string name="title_energy_tutorial">How energy works</string>
