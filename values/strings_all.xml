@@ -470,11 +470,14 @@ Please attach them to other target before deleting the tag.</string>
 
     <!--ENERGY & BILLING-->
 
-    <string name="title_purchase_default">Billing</string>
+    <string name="title_purchase">Billing</string>
     <string name="title_purchase_failed">Payment failed</string>
+    <string name="title_billing_not_available">Payments are not available</string>
+    <string name="title_billing_disconnected">Billing has diconnected</string>
 
     <string name="prompt_purchase_not_inited">Purchase hasn\'t been initialized.</string>
-    <string name="prompt_purchase_not_available">Billing is not available.</string>
+    <string name="prompt_billing_not_available">Make sure your Google Play app is setup correctly\n\nYou could contact us if the problem still exists.</string>
+
     <string name="prompt_purchase_failed">Please update your Play Store and Google Services apps and try again.\nAlso in-app purchases could be not available in your country.\n\nYou could contact us if the problem still exists.</string>
     <string name="prompt_google_services">Google Services</string>
 
