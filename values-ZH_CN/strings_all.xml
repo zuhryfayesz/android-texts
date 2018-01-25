@@ -372,7 +372,7 @@
     <string-array name="share_tutorial">
         <item>您可以将您的项目作为应用共享给家人、朋友和客户。</item>
         <item>\u2022 设置好所有内容\n\u2022 激活到您的新应用程序</item>
-        <item>您的朋友将获得一个链接，并能够使用它。\n\nHappy Blynking!</item>
+        <item>您的朋友将获得一个链接，并能够使用它。\n\n享用Blynk吧!</item>
     </string-array>
 
     <string name="prompt_shared_dasboard_not_active">项目已停用</string>

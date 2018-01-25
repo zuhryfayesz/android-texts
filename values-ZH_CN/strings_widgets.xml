@@ -380,7 +380,7 @@
 
     <!--TERMINAL WIDGET SETTINGS-->
 
-    <string name="prompt_terminal_pin_description">Example:\nterminal.print(\"Hello World\")</string>
+    <string name="prompt_terminal_pin_description">比如:\nterminal.print(\"Hello World\")</string>
 
     <string name="hint_type_here">请输入</string>
 
@@ -397,7 +397,7 @@
     <string name="prompt_no_enough_data">暂无数据</string>
 
     <string name="prompt_show_legend">SHOW LEGEND</string>
-    <string name="prompt_logdata">Data to show</string>
+    <string name="prompt_logdata">显示的数据</string>
 
     <string name="action_clear_history">清除数据</string>
     <string name="alert_confirm_clear_history">你确定要清除数据吗？</string>
@@ -416,31 +416,31 @@
     <string name="auto">AUTO</string>
     <string name="fixed">CUSTOM</string>
 
-    <string name="prompt_ycoords">Y-AXIS MIN/MAX</string>
+    <string name="prompt_ycoords">Y-轴 最小/最大</string>
 
     <!--LCD WIDGET SETTINGS-->
 
-    <string name="prompt_pin_lcd_description">Example:\nlcd.print(0, 0, \"Hello LCD!\");</string>
+    <string name="prompt_pin_lcd_description">比如:\nlcd.print(0, 0, \"Hello LCD!\");</string>
 
-    <string name="hint_pin_lcd_format_line1">Use /pin0/ to insert pin data</string>
-    <string name="hint_pin_lcd_format_line2">Example: Temp: /pin1/ °C</string>
+    <string name="hint_pin_lcd_format_line1">用 /pin0/ 插入管脚数据</string>
+    <string name="hint_pin_lcd_format_line2">比如:温度: /pin1/ °C</string>
     <string name="hint_pin1_pattern">/pin0/</string>
     <string name="hint_pin2_pattern">/pin1/</string>
 
-    <string name="prompt_message">MESSAGE</string>
+    <string name="prompt_message">消息</string>
 
     <string name="prompt_mode_simple">SIMPLE</string>
-    <string name="prompt_mode_advanced">ADVANCED</string>
+    <string name="prompt_mode_advanced">高级</string>
 
     <!--TWITTER WIDGET SETTINGS-->
 
     <string name="action_connect_twitter">连接Twitter</string>
     <string name="action_connecting_twitter">连接中…</string>
-    <string name="action_disconnect_twitter">Disconnect</string>
+    <string name="action_disconnect_twitter">取消连接</string>
 
-    <string name="prompt_twitter_acc">TWITTER ACCOUNT</string>
+    <string name="prompt_twitter_acc">TWITTER 账号</string>
 
-    <string name="prompt_twitter_connected">%s connected</string>
+    <string name="prompt_twitter_connected">%s 已连接</string>
 
     <!--MAIL WIDGET SETTINGS-->
 
