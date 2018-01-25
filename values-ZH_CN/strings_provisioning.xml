@@ -87,12 +87,12 @@
     <string name="error_particle_activated">This SIM card was already activated</string>
     <string name="prompt_particle_set_device_name">Give Device a meaningful name</string>
     <string name="action_particle_try_another">Try another SIM card</string>
-    <string name="hint_imei">IMEI Number</string>
+    <string name="hint_imei">IMEI 序号</string>
 
     <string name="action_scan_barcode">Scan Barcode</string>
     <string name="error_invalid_barcode">Not a valid barcode</string>
-    <string name="action_continue_arrow">Continue&#8594;</string>
-    <string name="action_save_continue_arrow">Save and continue&#8594;</string>
+    <string name="action_continue_arrow">继续&#8594;</string>
+    <string name="action_save_continue_arrow">保存并继续&#8594;</string>
 
     <string name="error_provisioning_wrong_board">Wrong board</string>
     <string name="error_provisioning_connect_failed">Could not connect to device\'s Wi-Fi</string>

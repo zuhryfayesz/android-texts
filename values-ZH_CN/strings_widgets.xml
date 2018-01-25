@@ -635,8 +635,8 @@
     <string name="format_min">%d min</string>
     <string name="format_hour">%d hour</string>
 
-    <string name="prompt_screen">Screen</string>
-    <string name="prompt_text">Text</string>
+    <string name="prompt_screen">屏幕</string>
+    <string name="prompt_text">文字</string>
 
     <string name="prompt_cover">SOON</string>
 
@@ -652,8 +652,8 @@
 
     <string name="prompt_send_on_release">Send on Release</string>
 
-    <string name="prompt_target">Target</string>
-    <string name="prompt_source">Source</string>
+    <string name="prompt_target">目标</string>
+    <string name="prompt_source">源</string>
 
     <string name="alert_timer">Please use Eventor for timer events</string>
 
