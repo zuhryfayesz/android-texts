@@ -40,7 +40,7 @@
     <string name="widget_gps_stream_title">GPS Stream</string>
     <string name="widget_gps_trigger_title">GPS触发器</string>
     <string name="widget_map_title">Map</string>
-    <string name="widget_device_selector_title">Device Selector</string>
+    <string name="widget_device_selector_title">设备选择器</string>
     <string name="widget_level_display_title">Level H</string>
     <string name="widget_vertical_level_display_title">Level V</string>
     <string name="widget_step_title">Step H</string>
@@ -61,7 +61,7 @@
     <string name="title_empty_barometer_sensor">气压</string>
     <string name="title_empty_humidity_sensor">湿度</string>
     <string name="title_empty_gps">GPS</string>
-    <string name="title_empty_device_selector">Selector</string>
+    <string name="title_empty_device_selector">选择器</string>
     <string name="title_empty_level_display">Level</string>
     <string name="title_empty_step">Step</string>
 
@@ -69,20 +69,20 @@
 
     <string name="title_widgetbox">Widget Box</string>
 
-    <string name="section_controllers">Controllers</string>
+    <string name="section_controllers">控制器</string>
     <string name="section_displays">Displays</string>
     <string name="section_sensors">Smartphone Sensors</string>
     <string name="section_notifications">通知</string>
     <string name="section_other">其他</string>
     <string name="section_interface">Interface</string>
-    <string name="section_device_management">Device Management</string>
+    <string name="section_device_management">设备管理</string>
 
     <string name="prompt_installed">已安装</string>
-    <string name="prompt_widget_not_supported">Is not supported on your device</string>
+    <string name="prompt_widget_not_supported">你的设备不支持</string>
     <string name="prompt_widget_conflict">Doesn\'t work with %s. Yet.</string>
 
     <!--EVENT WIDGET SETTINGS-->
-    <string name="action_add_new_event">+ Add New Event</string>
+    <string name="action_add_new_event">+ 新增事件</string>
 
     <string name="eventor_trigger_format">When %s</string>
     <string name="eventor_trigger_time">Time</string>
@@ -97,29 +97,29 @@
     <string name="eventor_condition_str_neq">is not like %s</string>
 
     <string name="eventor_action_setpin" formatted="false">set %s to %s</string>
-    <string name="eventor_action_turn_on">turn ON %s</string>
-    <string name="eventor_action_turn_off">turn OFF %s</string>
-    <string name="eventor_action_notify">send notification: %s</string>
-    <string name="eventor_action_notify_highlight">notification</string>
-    <string name="eventor_action_notify_collapsed">send notification</string>
+    <string name="eventor_action_turn_on">开启 %s</string>
+    <string name="eventor_action_turn_off">关闭 %s</string>
+    <string name="eventor_action_notify">发送通知: %s</string>
+    <string name="eventor_action_notify_highlight">通知</string>
+    <string name="eventor_action_notify_collapsed">发送通知</string>
 
     <string name="eventor_hint_trigger">Tap to choose a pin or a widget that will act as a trigger</string>
     <string name="eventor_hint_condition">Choose a condition</string>
-    <string name="eventor_hint_enter_value">Input value</string>
-    <string name="eventor_hint_action">Choose action</string>
-    <string name="eventor_hint_select_pin">Select pin</string>
-    <string name="eventor_hint_set_value">Set value</string>
+    <string name="eventor_hint_enter_value">输入值</string>
+    <string name="eventor_hint_action">选择动作</string>
+    <string name="eventor_hint_select_pin">选择管脚</string>
+    <string name="eventor_hint_set_value">设置值</string>
 
-    <string name="eventor_hint_select_time">Select time</string>
+    <string name="eventor_hint_select_time">选择时间</string>
 
     <string name="eventor_elem_when">When…</string>
     <string name="eventor_elem_when_format">When %s</string>
     <string name="eventor_elem_when_time_format">At %s</string>
-    <string name="eventor_elem_vpin">Vpin value</string>
-    <string name="eventor_elem_vpin_highlight">Vpin</string>
+    <string name="eventor_elem_vpin">虚拟管脚值</string>
+    <string name="eventor_elem_vpin_highlight">虚拟管脚</string>
 
     <string name="eventor_elem_setpin">set pin to…</string>
-    <string name="eventor_elem_setpin_highlight">pin</string>
+    <string name="eventor_elem_setpin_highlight">管脚</string>
     <string name="eventor_elem_notify">@string/eventor_action_notify_collapsed</string>
     <string name="eventor_elem_notify_highlight">@string/eventor_action_notify_highlight</string>
 
@@ -137,19 +137,19 @@
     <string name="eventor_prompt_ready">Event is ready. Nice!</string>
     <string name="prompt_eventor_items">Events</string>
 
-    <string name="prompt_rule_active">Active</string>
+    <string name="prompt_rule_active">激活</string>
     <string name="prompt_rule_inactive">Inactive</string>
     <string name="format_rule_index">Event %d</string>
     <string name="title_new_rule">New event</string>
 
-    <string name="eventor_time_everyday">Everyday</string>
-    <string name="eventor_time_workingdays">Mon to Fri</string>
+    <string name="eventor_time_everyday">每天</string>
+    <string name="eventor_time_workingdays">周一到周五</string>
 
-    <string name="eventor_delete_confirm">Delete the event? This cannot be undone.</string>
+    <string name="eventor_delete_confirm">删除事件？该操作无法撤销。</string>
 
-    <string name="eventor_device_change_confirm">All rules with pins not available in new deivce will be removed. Are you sure?</string>
+    <string name="eventor_device_change_confirm">在新设备中无法使用的管脚规则都将被删除，确定吗？</string>
 
-    <string name="eventor_hint_add_more_actions">But you can add 1 more action. How cool is that!</string>
+    <string name="eventor_hint_add_more_actions">但你还可以增加一个动作，多酷呀！</string>
 
     <string name="eventor_additional_action_prefix">also</string>
 
@@ -162,10 +162,10 @@
 
     <string name="eventor_mail_subject_default">Eventor event triggered</string>
 
-    <string name="eventor_elem_mail">send e-mail</string>
+    <string name="eventor_elem_mail">发送 e-mail</string>
     <string name="eventor_elem_mail_highlight">e-mail</string>
 
-    <string name="eventor_action_mail">send e-mail with subject \"Eventor event triggered\" and message: %s</string>
+    <string name="eventor_action_mail">发送主题邮件 \"Eventor event triggered\" and message: %s</string>
     <string name="eventor_action_mail_highlight">@string/eventor_elem_mail_highlight</string>
     <string name="eventor_action_mail_collapsed">send e-mail with subject \"Eventor event triggered\"</string>
 
@@ -174,53 +174,53 @@
     <!--TABLE WIDGET SETTINGS-->
 
     <string name="title_table_columns">Columns</string>
-    <string name="title_table_reordering">Allow reordering</string>
+    <string name="title_table_reordering">允许重排</string>
     <string name="title_table_clickable">Clickable rows</string>
 
     <string name="alert_table_columns">Set up columns</string>
     <string name="table_column_name">name</string>
     <string name="table_column_value">value</string>
-    <string name="table_column_icon">icon</string>
-    <string name="table_column_empty">&lt;empty&gt;</string>
+    <string name="table_column_icon">图标</string>
+    <string name="table_column_empty">&lt;空&gt;</string>
     <string name="table_column_separtor">|</string>
 
     <string name="prompt_table_pin_desc">Example:\ntable.addRow(id, column, value)\ntable.addRow(1, name, "temp")</string>
 
     <!--TIME INPUT WIDGET SETTINGS-->
 
-    <string name="title_selection_format">Format</string>
+    <string name="title_selection_format">格式</string>
     <string name="title_selection_startstop">Allow start/stop input</string>
     <string name="title_selection_daysofweek">Allow day of week selection</string>
-    <string name="title_selection_sunsetsunrise">Allow sunset/sunrise selection</string>
-    <string name="title_selection_timezone">Allow timezone selection</string>
+    <string name="title_selection_sunsetsunrise">允许选择日落/日出</string>
+    <string name="title_selection_timezone">允许选择时区</string>
 
-    <string name="title_set_time">Set the time</string>
+    <string name="title_set_time">设置时间</string>
     <string name="title_select_day">Choose days of the week</string>
-    <string name="title_select_start">Start at</string>
-    <string name="title_select_stop">Stop at</string>
-    <string name="title_select_timezone">Time zone</string>
+    <string name="title_select_start">始于</string>
+    <string name="title_select_stop">结束于</string>
+    <string name="title_select_timezone">时区</string>
 
-    <string name="monday">Mon</string>
-    <string name="tuesday">Tue</string>
-    <string name="wednesday">Wed</string>
-    <string name="thusday">Thu</string>
-    <string name="friday">Fri</string>
-    <string name="saturday">Sat</string>
-    <string name="sunday">Sun</string>
+    <string name="monday">周一</string>
+    <string name="tuesday">周二</string>
+    <string name="wednesday">周三</string>
+    <string name="thusday">周四</string>
+    <string name="friday">周五</string>
+    <string name="saturday">周六</string>
+    <string name="sunday">周日</string>
 
-    <string name="sunset">Sunset</string>
-    <string name="sunrise">Sunrise</string>
+    <string name="sunset">日落</string>
+    <string name="sunrise">日出</string>
 
     <!--WEBHOOK WIDGET SETTINGS-->
 
-    <string name="prompt_method">Method</string>
+    <string name="prompt_method">方法</string>
     <string name="prompt_content_type">Content Type</string>
     <string name="prompt_url">Url</string>
     <string name="prompt_body">Body</string>
 
     <string name="title_content_type_picker">Select Content Type</string>
 
-    <string name="webhook_toast_url_malformed">Wrong format of url. Should start with http:// or https://</string>
+    <string name="webhook_toast_url_malformed">URL格式错误。 请以 http:// 或https://开头。</string>
     <string name="webhook_toast_body_malformed">Body json malformed</string>
     <string name="webhook_hint_url">Use /pin/ or %s to insert pin data</string>
     <string name="webhook_hint_body">Use /pin/ to insert pin data</string>
@@ -260,18 +260,18 @@
     <!--SENSORS WIDGET SETTINGS-->
 
     <string-array name="accelerometer_descriptions">
-        <item>X axis</item>
-        <item>Y axis</item>
-        <item>Z axis</item>
+        <item>X 轴</item>
+        <item>Y 轴</item>
+        <item>Z 轴</item>
     </string-array>
 
     <string-array name="gravity_descriptions">
-        <item>X axis</item>
-        <item>Y axis</item>
-        <item>Z axis</item>
+        <item>X 轴</item>
+        <item>Y 轴</item>
+        <item>Z 轴</item>
     </string-array>
 
-    <string name="prompt_temperature">Temperature</string>
+    <string name="prompt_temperature">温度</string>
     <string name="prompt_temperature_c">Celsius</string>
     <string name="prompt_temperature_f">Fahrenheit</string>
 
@@ -280,73 +280,73 @@
     <string name="format_lux">%slx</string>
     <string name="format_barometer">%smbar</string>
 
-    <string name="prompt_near">Near</string>
-    <string name="prompt_far">Far</string>
+    <string name="prompt_near">近</string>
+    <string name="prompt_far">远</string>
 
     <!--IMAGE WIDGET SETTINGS-->
 
-    <string name="prompt_image_id">Image id</string>
-    <string name="hint_image_id">Enter image name or id</string>
+    <string name="prompt_image_id">图片 id</string>
+    <string name="hint_image_id">输入图片名称或id</string>
 
     <string name="prompt_color_overlay">COLOR OVERLAY</string>
 
     <!--VIDEO WIDGET SETTINGS-->
 
-    <string name="title_video_custom_url">URL address</string> 
+    <string name="title_video_custom_url">URL 地址</string>
     <string name="hint_video_edit">http://yourvideostream.url</string>
 
-    <string name="video_url_empty">No video stream available :(</string>
+    <string name="video_url_empty">无可用视频流:(</string>
     
     <string name="prompt_video_setup">Tap here to specify video stream URL</string>
 
     <!--BLE&BLUETOOTH WIDGET SETTINGS-->
 
-    <string name="action_connect_ble">Connect BLE device</string>
-    <string name="action_connect_bluetooth">Connect Bluetooth device</string>
-    <string name="title_connect_ble">Select BLE device</string>
-    <string name="title_connect_bluetooth">Select Bluetooth device</string>
-    <string name="error_bluetooth_off">Turn ON Bluetooth in phone settings</string>
-    <string name="error_bluetooth_connect">Can\'t connect. Please retry or choose another device</string>
+    <string name="action_connect_ble">连接BLE设备</string>
+    <string name="action_connect_bluetooth">连接蓝牙设备</string>
+    <string name="title_connect_ble">选择BLE设备</string>
+    <string name="title_connect_bluetooth">选择蓝牙设备</string>
+    <string name="error_bluetooth_off">在手机中开启蓝牙功能</string>
+    <string name="error_bluetooth_connect">无法连接。请重试或选择另一个设备。</string>
 
-    <string name="prompt_title_bluetooth_device">Bluetooth device</string>
+    <string name="prompt_title_bluetooth_device">蓝牙设备</string>
 
-    <string name="prompt_ble_connecting">Connecting to your bluetooth device</string>
-    <string name="prompt_ble_connected">Connected to your bluetooth device</string>
-    <string name="prompt_ble_disconnected">Disconnected from your bluetooth device</string>
-    <string name="prompt_ble_not_paired">Project is not connected to a bluetooth device</string>
-    <string name="prompt_ble_login_failed">Device is not connected. Please check if the auth token is correct.</string>
+    <string name="prompt_ble_connecting">正在连接你的蓝牙设备</string>
+    <string name="prompt_ble_connected">已经连接到你的蓝牙设备</string>
+    <string name="prompt_ble_disconnected">从你蓝牙设备断开连接</string>
+    <string name="prompt_ble_not_paired">项目尚未连接到蓝牙设备。</string>
+    <string name="prompt_ble_login_failed">设备尚未连接，请检查授权码是否正确。</string>
 
     <string name="prompt_stop_ble_project">Another bluetooth connected project is active. Stop it?</string>
 
-    <string name="message_ble_not_supported">BLE is not supported on your device</string>
+    <string name="message_ble_not_supported">你的设备不支持BLE</string>
 
     <string name="action_disconnect">Disconnect</string>
 
-    <string name="format_ble_error">Can\'t connect.\n%s</string>
+    <string name="format_ble_error">无法连接。\n%s</string>
 
-    <string name="prompt_ble_scan_empty">No scan results</string>
+    <string name="prompt_ble_scan_empty">扫描无结果</string>
 
     <string name="alert_ble_title">BLE</string>
-    <string name="alert_ble_enable_location_message">Please enable location services for scanning bluetooth devices.</string>
+    <string name="alert_ble_enable_location_message">请开启扫描蓝牙的本地服务。</string>
 
-    <string name="prompt_no_ble_device">No BLE device</string>
-    <string name="prompt_no_bluetooth_device">No Bluetooth device</string>
+    <string name="prompt_no_ble_device">无BLE设备</string>
+    <string name="prompt_no_bluetooth_device">无蓝牙设备</string>
 
     <string name="alert_ble_bluetooth_confirm">This will reset the connection in this widget.</string>
 
     <string name="prompt_not_supported_with_tiles">Not supported with Device Tiles</string>
     <!--LABELED DISPLAY WIDGET SETTINGS-->
 
-    <string name="hint_labeled_display_format">e.g: Temp: /pin/ ºC</string>
+    <string name="hint_labeled_display_format">如: Temp: /pin/ ºC</string>
 
     <!--TIMER WIDGET SETTINGS-->
 
     <string name="prompt_timer_startstop">START/STOP TIMERS</string>
-    <string name="prompt_timer_start">START</string>
-    <string name="prompt_timer_stop">STOP</string>
+    <string name="prompt_timer_start">开始</string>
+    <string name="prompt_timer_stop">停止</string>
 
-    <string name="prompt_timezone">TimeZone</string>
-    <string name="prompt_timeformat">Time Format</string>
+    <string name="prompt_timezone">时区</string>
+    <string name="prompt_timeformat">时间格式</string>
 
     <!--MENU WIDGET SETTINGS-->
 
@@ -354,9 +354,9 @@
     <string name="prompt_menu_pin_hightlight">[index]</string>
 
     <string name="prompt_menu_hint">Hint Text</string>
-    <string name="prompt_menu_edit_hint">Make a selection…</string>
-    <string name="prompt_menu_edit_item_1">Item 1</string>
-    <string name="prompt_menu_edit_item_2">Item 2</string>
+    <string name="prompt_menu_edit_hint">请选择...</string>
+    <string name="prompt_menu_edit_item_1">项目1</string>
+    <string name="prompt_menu_edit_item_2">项目2</string>
 
     <string name="prompt_menu_items">Menu Items</string>
     <string name="format_menu_item_hint">Item %s</string>
@@ -393,25 +393,25 @@
 
     <!--HISTORY GRAPH WIDGET SETTINGS-->
 
-    <string name="prompt_no_data">No Data</string>
-    <string name="prompt_no_enough_data">No data yet</string>
+    <string name="prompt_no_data">无数据</string>
+    <string name="prompt_no_enough_data">暂无数据</string>
 
     <string name="prompt_show_legend">SHOW LEGEND</string>
     <string name="prompt_logdata">Data to show</string>
 
-    <string name="action_clear_history">Erase data</string>
-    <string name="alert_confirm_clear_history">Are you sure you want to erase the data?</string>
+    <string name="action_clear_history">清除数据</string>
+    <string name="alert_confirm_clear_history">你确定要清除数据吗？</string>
 
-    <string name="alert_export_title">Export data</string>
-    <string name="alert_export_message">CSV files will be sent to your email address</string>
-    <string name="action_export_history">Export to CSV</string>
+    <string name="alert_export_title">导出数据</string>
+    <string name="alert_export_message">CSV 文件将会发送到你的邮箱中。</string>
+    <string name="action_export_history">导出到CSV文件</string>
 
-    <string name="period_1h">1h</string>
-    <string name="period_6h">6h</string>
-    <string name="period_1d">1d</string>
-    <string name="period_1w">1w</string>
-    <string name="period_1m">1m</string>
-    <string name="period_3m">3m</string>
+    <string name="period_1h">1小时</string>
+    <string name="period_6h">6小时</string>
+    <string name="period_1d">1天</string>
+    <string name="period_1w">1周</string>
+    <string name="period_1m">1月</string>
+    <string name="period_3m">3月</string>
 
     <string name="auto">AUTO</string>
     <string name="fixed">CUSTOM</string>
