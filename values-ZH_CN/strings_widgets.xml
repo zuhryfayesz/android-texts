@@ -597,20 +597,20 @@
     <string name="action_add_template">Add Template</string>
     <string name="action_sort">Sort</string>
 
-    <string name="sort_name_asc">Name: A-Z</string>
-    <string name="sort_name_desc">Name: Z-A</string>
-    <string name="sort_type_asc">Device Type \u2193</string>
-    <string name="sort_type_desc">Device Type \u2191</string>
+    <string name="sort_name_asc">名称: A-Z</string>
+    <string name="sort_name_desc">名称: Z-A</string>
+    <string name="sort_type_asc">设备类型 \u2193</string>
+    <string name="sort_type_desc">设备类型 \u2191</string>
     <string name="sort_manual">Manual</string>
 
     <string name="empty">--</string>
 
-    <string name="prompt_select_template">Select template</string>
+    <string name="prompt_select_template">选择模板</string>
 
     <!-- WIDGET SETTINGS -->
 
-    <string name="hint_min">MIN</string>
-    <string name="hint_max">MAX</string>
+    <string name="hint_min">最小</string>
+    <string name="hint_max">最大</string>
 
     <string name="prompt_orientation">ORIENTATION</string>
     <string name="pin_default">PIN</string>
@@ -618,25 +618,25 @@
     <string name="prompt_reading_frequency">READING RATE</string>
     <string name="prompt_write_frequency">WRITE INTERVAL</string>
     <string name="frequency_default">PUSH</string>
-    <string name="frequency_ms">Ms</string>
-    <string name="frequency_sec">Sec</string>
+    <string name="frequency_ms">毫秒</string>
+    <string name="frequency_sec">秒</string>
 
     <string name="prompt_colors">COLORS</string>
 
-    <string name="prompt_mode">MODE</string>
-    <string name="prompt_mode_input">INPUT</string>
-    <string name="prompt_mode_output">OUTPUT</string>
+    <string name="prompt_mode">模式</string>
+    <string name="prompt_mode_input">输入</string>
+    <string name="prompt_mode_output">输出</string>
 
-    <string name="prompt_orientation_horizonal">HOR</string>
-    <string name="prompt_orientation_vertical">VERT</string>
+    <string name="prompt_orientation_horizonal">水平</string>
+    <string name="prompt_orientation_vertical">垂直</string>
 
-    <string name="format_ms">%d ms</string>
-    <string name="format_sec">%d sec</string>
-    <string name="format_min">%d min</string>
-    <string name="format_hour">%d hour</string>
+    <string name="format_ms">%d 毫秒</string>
+    <string name="format_sec">%d 秒</string>
+    <string name="format_min">%d 分钟</string>
+    <string name="format_hour">%d 小时</string>
 
-    <string name="prompt_screen">Screen</string>
-    <string name="prompt_text">Text</string>
+    <string name="prompt_screen">屏幕</string>
+    <string name="prompt_text">文字</string>
 
     <string name="prompt_cover">SOON</string>
 
