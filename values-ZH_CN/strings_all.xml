@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">设置</string>
+    <string name="action_start">开始</string>
+    <string name="action_stop">停止</string>
+    <string name="action_delete">删除</string>
+    <string name="action_add_widget">添加部件</string>
+    <string name="action_add_project">添加项目</string>
+    <string name="action_create">创建</string>
+    <string name="action_create_in_progress">正在创建...</string>
+    <string name="action_ok">好</string>
+    <string name="action_continue">继续</string>
+    <string name="action_cancel">取消</string>
+    <string name="action_logout">注销</string>
+
+    <string name="action_save">保存</string>
+    <string name="action_create_account">建立新帐户</string>
+    <string name="action_create_project">建立新项目</string>
+    <string name="action_scan_qr">扫描二维码</string>
+    <string name="action_clone">克隆</string>
+    <string name="action_generate_link">生成链接</string>
+
+    <string name="action_exit">退出</string>
+
+    <string name="action_upgrade_app">更新应用</string>
+
+    <string name="action_reset">重置</string>
+
+    <string name="action_done">完成</string>
+
+    <string name="title_project">新项目</string>
+
+    <string name="title_pin_picker">选择引脚</string>
+    <string name="title_time_picker">选择时间</string>
+    <string name="title_hardware_picker">选择您的硬件</string>
+    <string name="title_frequency_picker">请求的频率</string>
+    <string name="title_themes_picker">选择主题</string>
+
+    <string name="prompt_widget_info_not_available">此部件的文档不可用</string>
+
+    <string name="alert_logout_confirm">您确定要退出吗？</string>
+    <string name="alert_default_confirm">你确定？</string>
+    <string name="alert_widgets_reset_confirm">这将重置项目中的所有部件设置</string>
+
+    <string name="off">关</string>
+    <string name="on">开</string>
+
+    <string name="action_info">信息</string>
+
+    <string name="hint_project_name">项目名称</string>
+
+    <string name="error_no_route_to_host">无法连接到服务器！请检查您的 WiFi 路由器设置。</string>
+
+    <string name="error_command_malformed">命令错误，请检查语法和传递的参数。</string>
+    <string name="error_too_many_requests">您目前执行的请求太多</string>
+    <string name="error_user_not_registered">用户未注册</string>
+    <string name="error_user_already_registered">此用户名已被注册</string>
+    <string name="error_user_not_logined">验证失败。请检查您的用户名和密码。</string>
+    <string name="error_user_not_allowed">用户不能执行此操作</string>
+
+    <string name="error_board_one_is_off">设备已离线</string>
+    <string name="error_device_one_went_offline">设备已断开连接</string>
+    <string name="error_board_is_off">您的其中一个设备以离线</string>
+    <string name="error_device_went_offline">您的其中一个设备已断开线</string>
+
+    <string name="error_project_board_one_is_off">%s 设备已离线</string>
+    <string name="error_project_device_one_went_offline">%s 设备已断开连接</string>
+    <string name="error_project_board_is_off">您的一个 %s 设备离线</string>
+    <string name="error_project_device_went_offline">您的一个 %s 设备已断开连接</string>
+
+    <string name="error_no_active_project">请重新启动项目</string>
+    <string name="error_illegal_body_command">处理客户端命令时出错</string>
+    <string name="error_server_error">很抱歉，服务器目前无法进行通信。请稍后再试。</string>
+    <string name="error_get_graph_data_exception">获取图表历史记录数据时出错。</string>
+    <string name="error_no_data">没有数据！</string>
+    <string name="error_invalid_token">请检查身份认证的 Token</string>
+
+    <string name="error_server_connect_error">很抱歉，应用无法初始化到服务器的 SSL 连接。</string>
+    <string name="error_server_read_error">连接到服务器时出错，请稍后再试。</string>
+
+    <string name="error_network_is_off">您没有连接到互联网</string>
+    <string name="error_account_taken">此帐户已被占用</string>
+    <string name="error_unknown">出错了，请稍后再试。</string>
+
+    <string name="error_network_is_off_try">有连接到互联网\n请稍后再试</string>
+
+    <string name="error_server_invalid">服务器地址格式无效</string>
+    <string name="error_email_empty">您需要提供您的电子邮件</string>
+    <string name="error_email_validation_failed">这不是有效的电子邮件地址</string>
+    <string name="error_password_empty">您需要提供密码</string>
+
+    <string name="error_server_outdated">您的本地服务器已经过时，请更新。</string>
+    <string name="error_app_outdated">您的应用程序已经过时，请更新。</string>
+
+    <string name="error_server_timeout">连接超时。请再试一次。</string>
+    <string name="error_server_close">很抱歉，服务器连接已关闭。请稍后再试。</string>
+
+    <string name="error_bluetooth_read_error">连接到您的蓝牙设备时出现问题。请稍后再试。</string>
+    <string name="error_bluetooth_timeout">蓝牙连接超时。请再试一次。</string>
+
+    <string name="server_error">服务器发生错误。请到 community.blynk.cc 报告问题。</string>
+
+    <string name="error_connection_problem">无法连接到服务器。请检查您的网络连接，或重试。</string>
+
+    <string name="error_not_supported_api_version">不支持的版本。请更新。</string>
+
+    <string name="error_widget_user_not_logined">验证失败。请通过 Blynk 应用程序登录。</string>
+    <string name="error_widget_empty_profile">您的个人资料为空。请使用 Blynk 应用程序创建一个项目。</string>
+
+    <string name="app_error">应用发生错误。请到 community.blynk.cc 报告问题。</string>
+
+    <string name="prompt_empty_push">这是一个空的推送通知</string>
+
+    <string name="title_acknowledgements">致谢</string>
+
+    <string name="notification_title">新通知</string>
+
+    <string name="alert_project_limit_exceded">您超出了可以创建的项目的限制。</string>
+
+    <string name="alert_retry">%s\n请稍后再试。</string>
+
+    <string name="format_error_try_later">%s\n请稍后再试</string>
+
+    <string name="prompt_enable_wifi">您需要开启 WiFi 连接才能继续。</string>
+    <string name="action_enable_wifi">打开 WiFi 设置</string>
+
+    <string name="inform_location_disabled">您的设备上的位置服务已停用</string>
+    <string name="action_enable">启用</string>
+
+
+    <string name="no">否</string>
+    <string name="yes">是</string>
+
+    <string name="and">和</string>
+
+    <!--LOGIN/REGISTER/ETC-->
+
+    <string name="action_login">登录</string>
+    <string name="action_reset_pass">重设密码</string>
+    <string name="action_signup">注册</string>
+    <string name="prompt_contact_support">联系技术支持</string>
+
+    <string name="hint_email">电子邮件</string>
+    <string name="hint_psw">密码</string>
+    <string name="hint_ip">主机地址</string>
+    <string name="hint_port">端口</string>
+
+    <string name="title_server_settings">服务器设置</string>
+
+    <string name="mail_login_problems_subject">登录到 Blynk 的密保问题</string>
+    <string name="action_send_email_support">发送电子邮件到 Blynk 技术支持</string>
+    <string name="prompt_mail_failed">电子邮件未发送到您的登录帐户。请检查您的网络连接。</string>
+
+    <string name="inform_registration_success">您已成功注册</string>
+    <string name="inform_reset_success">邮件已发送</string>
+    <string name="inform_reset_error">发送重置电子邮件时出错</string>
+    <string name="inform_reset_no_email">请输入您的电子邮件</string>
+    <string name="inform_token_copied">Token 已复制到剪贴板</string>
+    <string name="inform_loading">加载中...</string>
+
+    <string name="error_credentials_empty">您需要提供您的电子邮件和密码</string>
+
+    <string name="error_facebook_login">Facebook 登录失败</string>
+    <string name="action_facebook_login">用 Facebook 账号登陆</string>
+
+    <string name="alert_fb_login_failed_title">对不起，无法登录</string>
+    <string name="alert_fb_login_failed_message">请检查您的 Facebook 个人资料中是否有电子邮件地址，然后重试。</string>
+
+    <string name="prompt_help_account">无论您使用哪种设备或操作系统，都需要一个帐户为您提供服务，从世界任何地方都可以可靠和安全的访问您的硬件。\n\n
+如果您需要更多的隐私，可以在本地安装您自己的私人 Blynk 服务器。\n
+它是免费的、开源的、可以在 1 分钟内安装完成。</string>
+    <string name="prompt_help_server">阅读关于私人的 Blynk 服务器</string>
+
+    <string name="action_account_help">为什么我需要一个帐户？</string>
+    <string name="action_close">关闭</string>
+
+    <string name="alert_confirm_shared_app_logout">你确定要退出？\n您需要重新扫描二维码</string>
+
+    <string name="mode_server_blynk">BLYNK</string>
+    <string name="mode_server_custom">CUSTOM</string>
+
+    <!--QR-->
+
+    <string name="error_code_redeemed">此兑换码已被兑换。\n有问题请发电子邮件到 %s</string>
+
+    <string name="prompt_qr_login">请登录或注册以打开共享项目</string>
+
+    <string name="inform_project_qr_empty">二维码项目出错</string>
+
+    <string name="action_rescan">重新扫描</string>
+    <string name="action_login_via_qr">扫描二维码</string>
+
+    <string name="error_qr_not_blynk">这不是有效的 Blynk 代码</string>
+    <string name="error_qr_not_public">此二维码允许访问共享的 Blynk 项目。您需要从“登录”屏幕扫描它。\n阅读更多: docs.blynk.cc/#sharing</string>
+    <string name="error_qr_old">太旧的 Blynk 代码</string>
+
+    <string name="prompt_qr">QR</string>
+
+    <string name="error_share_qr_not_generated">创建共享二维码出错。\n请尝试刷新或稍后尝试。</string>
+
+    <string name="error_share_qr_too_big">项目大小超出二维码限制</string>
+
+    <string name="error_no_camera">找不到摄像头</string>
+    <string name="error_camera_failed">相机初始化失败。请再试一次。</string>
+    <string name="inform_qr_public">这是一个公共项目，请登录，然后扫描此二维码</string>
+
+    <string name="action_autofocus_on">开启自动对焦</string>
+    <string name="action_autofocus_off">关闭自动对焦</string>
+
+    <!--PROJECT SETTINGS-->
+
+    <string name="title_project_settings">项目设置</string>
+    <string name="title_project_create">创建新项目</string>
+
+    <string name="inform_project_token_not_received">无法创建项目。请等待，直到接收到 Token</string>
+
+    <string name="alert_confirm_refresh_sharetoken">您确定要刷新代码吗？\n此操作会撤消您与其共享的所有人的访问权限。</string>
+    <string name="inform_shared_project_deactivated">共享的项目当前未处于活动状态</string>
+    <string name="inform_shared_project_activated">共享项目再次处于活动状态</string>
+
+    <string name="inform_project_unavailable">项目不可用</string>
+    <string name="inform_project_revoked">对不起，%s 应用程序不再可用</string>
+    <string name="inform_project_stopped">%s 应用程序被作者关闭。\n\n您可以尝试稍后重新加载</string>
+    <string name="action_contact_author">联系作者</string>
+    <string name="email_revoked_title">我在载入 %s 应用程式时出错</string>
+
+    <string name="prompt_keep_screen">保持屏幕始终打开</string>
+
+    <string name="inform_token_not_received_yet">项目的验证 Token 尚未被收到</string>
+    <string name="inform_reconnect">重新连接到服务器&#8230;</string>
+
+    <string name="inform_active_project">在项目处于活动状态时，无法添加新的小部件</string>
+
+    <string name="models_not_loaded">硬件模块的型号尚未加载。稍后再试。</string>
+
+    <string name="action_send_email">电子邮件</string>
+    <string name="action_refresh">刷新</string>
+    <string name="action_share">分享</string>
+
+    <string name="alert_project_no_space">没有足够的空位</string>
+    <string name="alert_widget_singular">只允许一个该类型的部件存在</string>
+    <string name="alert_unexpected_error">发生意外错误</string>
+
+    <string name="prompt_token_updating">正在更新 Token ...</string>
+    <string name="prompt_connecting">正在连接...</string>
+
+    <string name="prompt_sending">正在发送...</string>
+    <string name="prompt_sent">发送</string>
+
+    <string name="prompt_project_model">硬件模型</string>
+    <string name="prompt_project_token">验证 Token</string>
+    <string name="prompt_project_theme">主题</string>
+
+    <string name="prompt_share_trial">免费 30 天试用</string>
+    <string name="prompt_share_access">共享访问</string>
+    <string name="action_enable_share">公开</string>
+    <string name="action_disable_share">私人</string>
+    <string name="action_share_generate">生成链接</string>
+
+    <string name="share_selector_title">发送&#8230;</string>
+
+    <string name="error_hardware_model_unknown">未知项目的硬件。请再检查一下。</string>
+    <string name="prompt_project_actions">操作和项目</string>
+
+    <string name="prompt_tokens">授权 Tokens</string>
+    <string name="action_copy_tokens">全部复制</string>
+    <string name="action_email_tokens">全部电子邮件</string>
+
+    <plurals name="tokens_email">
+        <item quantity="one">发送 Token 到您的电子邮件</item>
+        <item quantity="other">发送 %s tokens 到您的电子邮件</item>
+    </plurals>
+
+    <plurals name="tokens_copy">
+        <item quantity="one">已复制 Token 到剪贴板</item>
+        <item quantity="other">复制 %s tokens 到剪贴板</item>
+    </plurals>
+
+    <string name="pin_analog">模拟</string>
+    <string name="pin_virtual">虚拟</string>
+    <string name="pin_digital">数字</string>
+    <string name="pin_is_busy">忙</string>
+    <string name="pin_is_pwm">PWM</string>
+
+    <!--DEVICE SETTINGS-->
+
+    <string name="hint_device_name">设备名称</string>
+
+    <string name="default_device_name">新设备</string>
+
+    <string name="device_hardware_format" formatted="false">%s + %s</string>
+
+    <string name="prompt_device">设备</string>
+    <string name="prompt_connection">连接类型</string>
+
+    <string name="title_connection">选择连接类型</string>
+
+    <string name="action_new_device">新设备</string>
+
+    <string name="alert_device_removal">%s 正在使用此设备\n
+请先移除它们，然后再删除设备。</string>
+
+    <string name="alert_device_removal_confirm">要删除此设备吗？这将无法被撤消。</string>
+
+    <string name="prompt_online">在线</string>
+    <string name="prompt_offline">离线至 %s</string>
+    <string name="prompt_offline_never">尚未上线</string>
+
+    <string name="title_devices">设备</string>
+    <string name="title_my_devices">我的设备</string>
+
+    <plurals name="devices">
+        <item quantity="zero">添加设备</item>
+        <item quantity="one">%s 设备</item>
+        <item quantity="other">%s 设备</item>
+        <item quantity="many">%s 设备</item>
+    </plurals>
+
+    <plurals name="widgets">
+        <item quantity="one">%s 小部件</item>
+        <item quantity="other">%s 小部件</item>
+        <item quantity="many">%s 小部件</item>
+    </plurals>
+
+    <string name="connection_ethernet">有线网络</string>
+    <string name="connection_wifi">WiFi</string>
+    <string name="connection_usb">USB</string>
+    <string name="connection_bluetooth">蓝牙</string>
+    <string name="connection_ble">BLE</string>
+    <string name="connection_gsm">GSM</string>
+
+    <string name="title_selectors">设备选择器</string>
+    <string name="alert_selector_removal">该设备被使用于 %s \n
+请在移除之前将其删除。</string>
+
+    <!--TAG SETTINGS-->
+
+    <string name="hint_tag_name">标签名称</string>
+    <string name="default_tag_name">新标签</string>
+
+    <string name="title_my_tags">我的标签</string>
+
+    <string name="action_new_tag">新标签</string>
+
+    <string name="alert_tag_removal">该标签被用于 %s \n
+请先移除它们，然后再删除设备。</string>
+    <string name="alert_tag_removal_confirm">要删除此标签吗？这将无法被撤消。</string>
+
+    <string name="alert_tag_name_conflict">不是唯一的标记名称</string>
+    <string name="alert_tag_name_empty">您需要提供标签名称</string>
+
+    <plurals name="tags">
+        <item quantity="one">%s 标签</item>
+        <item quantity="other">%s 标签</item>
+    </plurals>
+
+    <!--PROJECT SHARE or CLONE-->
+
+    <string name="title_project_clone">克隆项目</string>
+    <string name="title_project_share">分享项目</string>
+
+    <string name="prompt_share_tutorial">它是如何工作的</string>
+    <string name="title_share_tutorial">如何共享工作</string>
+
+    <string name="title_share_link">公开代码</string>
+    <string name="prompt_share_token">分享此代码给他人，他们将获得您项目的完整副本。</string>
+    <string name="prompt_share_token_sub">我们从不分享你的认证 Token</string>
+
+    <string name="prompt_project_share_token">共享对您的项目的访问权限。只需发送这段代码给他们。</string>
+    <string name="prompt_project_share_token_sub">这是一个试用版。它可以免费试用 30 天，之后将通过订阅使用。</string>
+
+    <string-array name="share_tutorial">
+        <item>您可以将您的项目作为应用共享给家人、朋友和客户。</item>
+        <item>\u2022 设置好所有内容\n\u2022 激活到您的新应用程序</item>
+        <item>您的朋友将获得一个链接，并能够使用它。\n\nHappy Blynking!</item>
+    </string-array>
+
+    <string name="prompt_shared_dasboard_not_active">项目已停用</string>
+    <string name="error_sharing_disabled">项目共享被撤销</string>
+
+    <string name="error_empty_uri">共享的项目是一个空链接</string>
+
+    <string name="tutorial_share_title_1">分享您的“应用程序”给家人、朋友和客户。</string>
+    <string name="tutorial_share_text_1">他们可以控制它，但不能修改。\n你才是老大！</string>
+    <string name="tutorial_share_title_2">向他们发送链接，他们扫描后，你的项目将神奇的被打开。</string>
+    <string name="tutorial_share_text_2">他们将需要下载 Blynk 应用程序</string>
+    <string name="tutorial_share_title_3">您每次更新项目时，您的用户信息会被即时更新！</string>
+    <string name="tutorial_share_text_3">您可以通过使用本地 Blynk 服务器实现最大化性能和安全性。\n它容易使用并且免费。</string>
+
+    <!--PERMISSIONS-->
+
+    <string name="prompt_gps_permission">我们需要使用您手机的 GPS 才能启用定位的功能。</string>
+    <string name="prompt_wifi_location_permission">Blynk 需要扫描您周围的 WiFi 网络，这是 Android 系统的要求。</string>
+    <string name="prompt_ble_location_permission">Blynk 需要扫描您周围的蓝牙设备，这是 Android 系统的要求。</string>
+    <string name="action_grant_permission">给予授权</string>
+
+    <string name="error_permission_network_state">未授权 Blynk 应用程序访问当前网络状态的权限。这可能导致工作异常。</string>
+    <string name="error_permission_internet">未授权 Blynk 应用程序访问互联网的权限。这会导致功能无法使用。</string>
+    <string name="error_permission_bluetooth">未授权 Blynk 应用程序访问蓝牙的权限。这会导致功能无法使用。</string>
+    <string name="error_permission_camera">未授权 Blynk 应用程序访问相机的权限。这会导致功能无法使用。</string>
+
+    <!--ENERGY & BILLING-->
+
+    <string name="title_purchase_not_inited">帐单未初始化</string>
+    <string name="title_purchase_failed">支付失败</string>
+
+    <string name="prompt_purchase_not_inited">购买尚未初始化</string>
+    <string name="prompt_purchase_failed">Please update your Play Store and Google Services apps and try again.\nAlso in-app purchases could be not available in your country.\n\nYou could contact us if the problem still exists.</string>
+    <string name="prompt_google_services">Google 服务</string>
+
+
+    <string name="prompt_battery_unlimited">Unlimited</string>
+    <string name="prompt_battery_enjoy"> Added. Enjoy!</string>
+    <string name="action_add">+ Add</string>
+    <string name="action_buy">Buy</string>
+    <string name="inform_energy_not_enough">没有足够能量</string>
+
+    <string name="format_price">$%s</string>
+    <string name="format_energy"> x %s</string>
+    <string name="prompt_free">Free</string>
+
+    <string name="title_energy_purchases">增加能量</string>
+
+    <string name="prompt_energy_balance">Your Energy Balance</string>
+    <string name="prompt_select_purchase">Choose Energy Pack</string>
+
+    <string name="title_low_energy">You need more energy…</string>
+    <string name="action_add_energy">+ Add Energy</string>
+
+    <string name="title_energy_tutorial">How energy works</string>
+    <string name="prompt_energy_tutorial">Each widget needs Energy to operate\n\nWhen you delete a widget Energy is returned\n\nYou can always get more Energy in our Store.</string>
+    <string name="action_energy_tutorial_ok">Cool! Got it.</string>
+
+    <string name="title_campaign_reward">Thank you!</string>
+    <string name="prompt_campaign_reward_title">Thank you for supporting us during %s Kickstarter campaign!</string>
+    <string name="prompt_campaign_reward_text">Enjoy complimentary %s Energy!</string>
+    <string name="action_claim_reward">Get %s Energy</string>
+
+    <string name="alert_confirm_share_energy">Energy for sharing is not recoverable and will not be returned. Are you sure?</string>
+
+    <string name="prompt_energy_drain_option">Enabling this option will drain your battery when not connected to power source.</string>
+
+    <string name="prompt_low_storage_gs">Google Services dependencies cannot be downloaded due to low device storage</string>
+</resources>

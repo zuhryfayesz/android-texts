@@ -1,0 +1,677 @@
+<resources>
+    <string name="widget_button_title">按钮</string>
+    <string name="widget_rgb_title">zeRGBa</string>
+    <string name="widget_slider_title">滑块</string>
+    <string name="widget_vertical_slider_title">竖直滑块</string>
+    <string name="widget_led_title">LED</string>
+    <string name="widget_graph_title">图表</string>
+    <string name="widget_display_title">显示数值</string>
+    <string name="widget_timer_title">计时器</string>
+    <string name="widget_twitter_title">Twitter</string>
+    <string name="widget_terminal_title">终端</string>
+    <string name="widget_gauge_title">Gauge</string>
+    <string name="widget_notification_title">通知</string>
+    <string name="widget_mail_title">Email</string>
+    <string name="widget_bridge_title">Bridge</string>
+    <string name="widget_rtc_title">实时时钟</string>
+    <string name="widget_logger_title">历史图表</string>
+    <string name="widget_bluetooth_title">BLE</string>
+    <string name="widget_bluetooth_serial_title">蓝牙</string>
+    <string name="widget_eventor_title">Eventor</string>
+    <string name="widget_joystick_title">摇杆</string>
+    <string name="widget_lcd_title">LCD</string>
+    <string name="widget_labeled_display_title">标签值</string>
+    <string name="widget_menu_title">菜单</string>
+    <string name="widget_table_title">Table</string>
+    <string name="widget_tabs_title">Tabs</string>
+    <string name="widget_player_title">音乐播放器</string>
+    <string name="widget_twoaxisjoystick_title">摇杆</string>
+    <string name="widget_time_input_title">Time Input</string>
+    <string name="widget_webhook_title">WebHook</string>
+    <string name="widget_image_title">图片</string>
+    <string name="widget_video_title">视频流</string>
+    <string name="widget_light_sensor_title">光线传感器</string>
+    <string name="widget_temp_sensor_title">温度传感器</string>
+    <string name="widget_humidity_sensor_title">湿度传感器</string>
+    <string name="widget_proximity_sensor_title">接近传感器</string>
+    <string name="widget_accelerometer_sensor_title">加速度计</string>
+    <string name="widget_gravity_sensor_title">重力传感器</string>
+    <string name="widget_barometer_sensor_title">气压传感器</string>
+    <string name="widget_gps_stream_title">GPS Stream</string>
+    <string name="widget_gps_trigger_title">GPS触发器</string>
+    <string name="widget_map_title">Map</string>
+    <string name="widget_device_selector_title">Device Selector</string>
+    <string name="widget_level_display_title">Level H</string>
+    <string name="widget_vertical_level_display_title">Level V</string>
+    <string name="widget_step_title">Step H</string>
+    <string name="widget_vertical_step_title">Step V</string>
+    <string name="widget_input_field_title">输入框</string>
+    <string name="widget_supergraph_title">超级图表</string>
+    <string name="widget_device_tiles_title">Device Tiles</string>
+
+    <string name="format_title_widget_settings">%s 设置</string>
+
+    <string name="title_empty_labeled_display">Labeled</string>
+    <string name="title_empty_display">Value</string>
+    <string name="title_empty_light_sensor">Light</string>
+    <string name="title_empty_temp_sensor">Temperature</string>
+    <string name="title_empty_proximity_sensor">Proximity</string>
+    <string name="title_empty_accelerometer_sensor">Accelermtr</string>
+    <string name="title_empty_gravity_sensor">Gravity</string>
+    <string name="title_empty_barometer_sensor">Barometer</string>
+    <string name="title_empty_humidity_sensor">Humidity</string>
+    <string name="title_empty_gps">GPS</string>
+    <string name="title_empty_device_selector">Selector</string>
+    <string name="title_empty_level_display">Level</string>
+    <string name="title_empty_step">Step</string>
+
+    <!--WIDGETBOX-->
+
+    <string name="title_widgetbox">Widget Box</string>
+
+    <string name="section_controllers">Controllers</string>
+    <string name="section_displays">Displays</string>
+    <string name="section_sensors">Smartphone Sensors</string>
+    <string name="section_notifications">Notifications</string>
+    <string name="section_other">Other</string>
+    <string name="section_interface">Interface</string>
+    <string name="section_device_management">Device Management</string>
+
+    <string name="prompt_installed">Installed</string>
+    <string name="prompt_widget_not_supported">Is not supported on your device</string>
+    <string name="prompt_widget_conflict">Doesn\'t work with %s. Yet.</string>
+
+    <!--EVENT WIDGET SETTINGS-->
+    <string name="action_add_new_event">+ Add New Event</string>
+
+    <string name="eventor_trigger_format">When %s</string>
+    <string name="eventor_trigger_time">Time</string>
+
+    <string name="eventor_condition_lt">is lower than %s</string>
+    <string name="eventor_condition_gt">is higher than %s</string>
+    <string name="eventor_condition_lte">is lower than or equal to %s</string>
+    <string name="eventor_condition_gte">is higher than or equal to %s</string>
+    <string name="eventor_condition_eq">is equal to %s</string>
+    <string name="eventor_condition_neq">is not equal to %s</string>
+    <string name="eventor_condition_str_eq">is like %s</string>
+    <string name="eventor_condition_str_neq">is not like %s</string>
+
+    <string name="eventor_action_setpin" formatted="false">set %s to %s</string>
+    <string name="eventor_action_turn_on">turn ON %s</string>
+    <string name="eventor_action_turn_off">turn OFF %s</string>
+    <string name="eventor_action_notify">send notification: %s</string>
+    <string name="eventor_action_notify_highlight">notification</string>
+    <string name="eventor_action_notify_collapsed">send notification</string>
+
+    <string name="eventor_hint_trigger">Tap to choose a pin or a widget that will act as a trigger</string>
+    <string name="eventor_hint_condition">Choose a condition</string>
+    <string name="eventor_hint_enter_value">Input value</string>
+    <string name="eventor_hint_action">Choose action</string>
+    <string name="eventor_hint_select_pin">Select pin</string>
+    <string name="eventor_hint_set_value">Set value</string>
+
+    <string name="eventor_hint_select_time">Select time</string>
+
+    <string name="eventor_elem_when">When…</string>
+    <string name="eventor_elem_when_format">When %s</string>
+    <string name="eventor_elem_when_time_format">At %s</string>
+    <string name="eventor_elem_vpin">Vpin value</string>
+    <string name="eventor_elem_vpin_highlight">Vpin</string>
+
+    <string name="eventor_elem_setpin">set pin to…</string>
+    <string name="eventor_elem_setpin_highlight">pin</string>
+    <string name="eventor_elem_notify">@string/eventor_action_notify_collapsed</string>
+    <string name="eventor_elem_notify_highlight">@string/eventor_action_notify_highlight</string>
+
+    <string name="eventor_elem_turn_on">turn ON pin</string>
+    <string name="eventor_elem_turn_on_highlight">@string/eventor_elem_setpin_highlight</string>
+    <string name="eventor_elem_turn_off">turn OFF pin</string>
+    <string name="eventor_elem_turn_off_highlight">@string/eventor_elem_setpin_highlight</string>
+
+    <string name="eventor_hint_write_message">Type in what to send. You can also use /pin/ to include pin value.\n\nFor example: \"Alert! temperature is below /pin/०C\"</string>
+
+    <string name="alert_eventor_notify_push">Please don\'t forget to add Push widget to your project!</string>
+    <string name="alert_eventor_notify_twit">Please don\'t forget to add Twitter widget to your project!</string>
+    <string name="alert_eventor_notify_mail">Please don\'t forget to add Mail widget to your project!</string>
+
+    <string name="eventor_prompt_ready">Event is ready. Nice!</string>
+    <string name="prompt_eventor_items">Events</string>
+
+    <string name="prompt_rule_active">Active</string>
+    <string name="prompt_rule_inactive">Inactive</string>
+    <string name="format_rule_index">Event %d</string>
+    <string name="title_new_rule">New event</string>
+
+    <string name="eventor_time_everyday">Everyday</string>
+    <string name="eventor_time_workingdays">Mon to Fri</string>
+
+    <string name="eventor_delete_confirm">Delete the event? This cannot be undone.</string>
+
+    <string name="eventor_device_change_confirm">All rules with pins not available in new deivce will be removed. Are you sure?</string>
+
+    <string name="eventor_hint_add_more_actions">But you can add 1 more action. How cool is that!</string>
+
+    <string name="eventor_additional_action_prefix">also</string>
+
+    <string name="eventor_action_twit">send tweet: %s</string>
+    <string name="eventor_action_twit_highlight">tweet</string>
+    <string name="eventor_action_twit_collapsed">send tweet</string>
+
+    <string name="eventor_elem_twit">@string/eventor_action_twit_collapsed</string>
+    <string name="eventor_elem_twit_highlight">@string/eventor_action_twit_highlight</string>
+
+    <string name="eventor_mail_subject_default">Eventor event triggered</string>
+
+    <string name="eventor_elem_mail">send e-mail</string>
+    <string name="eventor_elem_mail_highlight">e-mail</string>
+
+    <string name="eventor_action_mail">send e-mail with subject \"Eventor event triggered\" and message: %s</string>
+    <string name="eventor_action_mail_highlight">@string/eventor_elem_mail_highlight</string>
+    <string name="eventor_action_mail_collapsed">send e-mail with subject \"Eventor event triggered\"</string>
+
+    <string name="eventor_multiple_actions_format">- %s</string>
+
+    <!--TABLE WIDGET SETTINGS-->
+
+    <string name="title_table_columns">Columns</string>
+    <string name="title_table_reordering">Allow reordering</string>
+    <string name="title_table_clickable">Clickable rows</string>
+
+    <string name="alert_table_columns">Set up columns</string>
+    <string name="table_column_name">name</string>
+    <string name="table_column_value">value</string>
+    <string name="table_column_icon">icon</string>
+    <string name="table_column_empty">&lt;empty&gt;</string>
+    <string name="table_column_separtor">|</string>
+
+    <string name="prompt_table_pin_desc">Example:\ntable.addRow(id, column, value)\ntable.addRow(1, name, "temp")</string>
+
+    <!--TIME INPUT WIDGET SETTINGS-->
+
+    <string name="title_selection_format">Format</string>
+    <string name="title_selection_startstop">Allow start/stop input</string>
+    <string name="title_selection_daysofweek">Allow day of week selection</string>
+    <string name="title_selection_sunsetsunrise">Allow sunset/sunrise selection</string>
+    <string name="title_selection_timezone">Allow timezone selection</string>
+
+    <string name="title_set_time">Set the time</string>
+    <string name="title_select_day">Choose days of the week</string>
+    <string name="title_select_start">Start at</string>
+    <string name="title_select_stop">Stop at</string>
+    <string name="title_select_timezone">Time zone</string>
+
+    <string name="monday">Mon</string>
+    <string name="tuesday">Tue</string>
+    <string name="wednesday">Wed</string>
+    <string name="thusday">Thu</string>
+    <string name="friday">Fri</string>
+    <string name="saturday">Sat</string>
+    <string name="sunday">Sun</string>
+
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+
+    <!--WEBHOOK WIDGET SETTINGS-->
+
+    <string name="prompt_method">Method</string>
+    <string name="prompt_content_type">Content Type</string>
+    <string name="prompt_url">Url</string>
+    <string name="prompt_body">Body</string>
+
+    <string name="title_content_type_picker">Select Content Type</string>
+
+    <string name="webhook_toast_url_malformed">Wrong format of url. Should start with http:// or https://</string>
+    <string name="webhook_toast_body_malformed">Body json malformed</string>
+    <string name="webhook_hint_url">Use /pin/ or %s to insert pin data</string>
+    <string name="webhook_hint_body">Use /pin/ to insert pin data</string>
+
+    <!--GPS WIDGETS SETTINGS-->
+
+    <string name="edit_title_trigger">TRIGGER WHEN</string>
+    <string name="edit_battery">BATTERY CONSUMPTION</string>
+    <string name="trigger_enter">ENTER</string>
+    <string name="trigger_exit">EXIT</string>
+    <string name="mode_stream">STREAM</string>
+    <string name="mode_trigger">TRIGGER</string>
+    <string-array name="gps_descriptions">
+        <item>GPS.getLat()</item>
+        <item>GPS.getLon()</item>
+        <item>GPS.getAltitude()</item>
+        <item>GPS.getSpeed()</item>
+    </string-array>
+    <string name="gps_accuracy_high">High Accuracy</string>
+    <string name="gps_accuracy_low">Low Power</string>
+    <string name="gps_accuracy_balanced">Balanced</string>
+
+    <string name="prompt_radius" formatted="false">Radius: %s%s</string>
+    <string name="format_meter">m</string>
+    <string name="format_kilometer">km</string>
+
+    <string name="title_accuracy_picker">Select accuracy</string>
+
+    <string name="title_gps_error_suspened">GPS disconnected</string>
+    <string name="title_gps_error_connection">GPS not inited</string>
+    <string name="prompt_gps_error_suspended_network">Network connection is lost</string>
+    <string name="prompt_gps_error_suspended_service">GPS service has been suspended</string>
+
+    <string name="title_interval">UPDATE INTERVAL</string>
+    <string name="title_select_interval">Select Interval</string>
+
+    <!--SENSORS WIDGET SETTINGS-->
+
+    <string-array name="accelerometer_descriptions">
+        <item>X axis</item>
+        <item>Y axis</item>
+        <item>Z axis</item>
+    </string-array>
+
+    <string-array name="gravity_descriptions">
+        <item>X axis</item>
+        <item>Y axis</item>
+        <item>Z axis</item>
+    </string-array>
+
+    <string name="prompt_temperature">Temperature</string>
+    <string name="prompt_temperature_c">Celsius</string>
+    <string name="prompt_temperature_f">Fahrenheit</string>
+
+    <string name="format_celsius">%s°C</string>
+    <string name="format_fahrenheit">%s°F</string>
+    <string name="format_lux">%slx</string>
+    <string name="format_barometer">%smbar</string>
+
+    <string name="prompt_near">Near</string>
+    <string name="prompt_far">Far</string>
+
+    <!--IMAGE WIDGET SETTINGS-->
+
+    <string name="prompt_image_id">Image id</string>
+    <string name="hint_image_id">Enter image name or id</string>
+
+    <string name="prompt_color_overlay">COLOR OVERLAY</string>
+
+    <!--VIDEO WIDGET SETTINGS-->
+
+    <string name="title_video_custom_url">URL address</string> 
+    <string name="hint_video_edit">http://yourvideostream.url</string>
+
+    <string name="video_url_empty">No video stream available :(</string>
+    
+    <string name="prompt_video_setup">Tap here to specify video stream URL</string>
+
+    <!--BLE&BLUETOOTH WIDGET SETTINGS-->
+
+    <string name="action_connect_ble">Connect BLE device</string>
+    <string name="action_connect_bluetooth">Connect Bluetooth device</string>
+    <string name="title_connect_ble">Select BLE device</string>
+    <string name="title_connect_bluetooth">Select Bluetooth device</string>
+    <string name="error_bluetooth_off">Turn ON Bluetooth in phone settings</string>
+    <string name="error_bluetooth_connect">Can\'t connect. Please retry or choose another device</string>
+
+    <string name="prompt_title_bluetooth_device">Bluetooth device</string>
+
+    <string name="prompt_ble_connecting">Connecting to your bluetooth device</string>
+    <string name="prompt_ble_connected">Connected to your bluetooth device</string>
+    <string name="prompt_ble_disconnected">Disconnected from your bluetooth device</string>
+    <string name="prompt_ble_not_paired">Project is not connected to a bluetooth device</string>
+    <string name="prompt_ble_login_failed">Device is not connected. Please check if the auth token is correct.</string>
+
+    <string name="prompt_stop_ble_project">Another bluetooth connected project is active. Stop it?</string>
+
+    <string name="message_ble_not_supported">BLE is not supported on your device</string>
+
+    <string name="action_disconnect">Disconnect</string>
+
+    <string name="format_ble_error">Can\'t connect.\n%s</string>
+
+    <string name="prompt_ble_scan_empty">No scan results</string>
+
+    <string name="alert_ble_title">BLE</string>
+    <string name="alert_ble_enable_location_message">Please enable location services for scanning bluetooth devices.</string>
+
+    <string name="prompt_no_ble_device">No BLE device</string>
+    <string name="prompt_no_bluetooth_device">No Bluetooth device</string>
+
+    <string name="alert_ble_bluetooth_confirm">This will reset the connection in this widget.</string>
+
+    <string name="prompt_not_supported_with_tiles">Not supported with Device Tiles</string>
+    <!--LABELED DISPLAY WIDGET SETTINGS-->
+
+    <string name="hint_labeled_display_format">e.g: Temp: /pin/ ºC</string>
+
+    <!--TIMER WIDGET SETTINGS-->
+
+    <string name="prompt_timer_startstop">START/STOP TIMERS</string>
+    <string name="prompt_timer_start">START</string>
+    <string name="prompt_timer_stop">STOP</string>
+
+    <string name="prompt_timezone">TimeZone</string>
+    <string name="prompt_timeformat">Time Format</string>
+
+    <!--MENU WIDGET SETTINGS-->
+
+    <string name="prompt_menu_pin_desc">When list item is selected, its\’ [index] will be sent to the pin</string>
+    <string name="prompt_menu_pin_hightlight">[index]</string>
+
+    <string name="prompt_menu_hint">Hint Text</string>
+    <string name="prompt_menu_edit_hint">Make a selection…</string>
+    <string name="prompt_menu_edit_item_1">Item 1</string>
+    <string name="prompt_menu_edit_item_2">Item 2</string>
+
+    <string name="prompt_menu_items">Menu Items</string>
+    <string name="format_menu_item_hint">Item %s</string>
+    <string name="action_add_menu_item">+ Add item</string>
+
+    <!--TABS WIDGET SETTINGS-->
+
+    <string name="prompt_tabs_items">Tabs</string>
+    <string name="format_tabs_item_hint">Tab %d</string>
+    <string name="action_add_tabs_item">+ Add Tab</string>
+
+    <string name="alert_confirm_tab_remove">All widgets on this page will be deleted.\nThis cannot be undone</string>
+    <string name="alert_confirm_tabs_remove">Only widgets on first page will be left.\nThis cannot be undone</string>
+
+    <!--RGB WIDGET SETTINGS-->
+
+    <string name="prompt_red">R</string>
+    <string name="prompt_green">G</string>
+    <string name="prompt_blue">B</string>
+    <string name="prompt_rgb_pin_description">r = param[0].asInt();\ng = param[1].asInt();\nb = param[2].asInt();</string>
+
+    <!--TERMINAL WIDGET SETTINGS-->
+
+    <string name="prompt_terminal_pin_description">Example:\nterminal.print(\"Hello World\")</string>
+
+    <string name="hint_type_here">Type here</string>
+
+    <!--JOYSTICK WIDGET SETTINGS-->
+
+    <string name="prompt_twoaxisjoystick_pin_description">To access values use:\nx = param[0].asInt();\ny = param[1].asInt();</string>
+
+    <string name="prompt_autoreturn">AUTORETURN</string>
+    <string name="prompt_tilt">ROTATE ON TILT</string>
+
+    <!--HISTORY GRAPH WIDGET SETTINGS-->
+
+    <string name="prompt_no_data">No Data</string>
+    <string name="prompt_no_enough_data">No data yet</string>
+
+    <string name="prompt_show_legend">SHOW LEGEND</string>
+    <string name="prompt_logdata">Data to show</string>
+
+    <string name="action_clear_history">Erase data</string>
+    <string name="alert_confirm_clear_history">Are you sure you want to erase the data?</string>
+
+    <string name="alert_export_title">Export data</string>
+    <string name="alert_export_message">CSV files will be sent to your email address</string>
+    <string name="action_export_history">Export to CSV</string>
+
+    <string name="period_1h">1h</string>
+    <string name="period_6h">6h</string>
+    <string name="period_1d">1d</string>
+    <string name="period_1w">1w</string>
+    <string name="period_1m">1m</string>
+    <string name="period_3m">3m</string>
+
+    <string name="auto">AUTO</string>
+    <string name="fixed">CUSTOM</string>
+
+    <string name="prompt_ycoords">Y-AXIS MIN/MAX</string>
+
+    <!--LCD WIDGET SETTINGS-->
+
+    <string name="prompt_pin_lcd_description">Example:\nlcd.print(0, 0, \"Hello LCD!\");</string>
+
+    <string name="hint_pin_lcd_format_line1">Use /pin0/ to insert pin data</string>
+    <string name="hint_pin_lcd_format_line2">Example: Temp: /pin1/ °C</string>
+    <string name="hint_pin1_pattern">/pin0/</string>
+    <string name="hint_pin2_pattern">/pin1/</string>
+
+    <string name="prompt_message">MESSAGE</string>
+
+    <string name="prompt_mode_simple">SIMPLE</string>
+    <string name="prompt_mode_advanced">ADVANCED</string>
+
+    <!--TWITTER WIDGET SETTINGS-->
+
+    <string name="action_connect_twitter">Connect Twitter</string>
+    <string name="action_connecting_twitter">Connecting…</string>
+    <string name="action_disconnect_twitter">Disconnect</string>
+
+    <string name="prompt_twitter_acc">TWITTER ACCOUNT</string>
+
+    <string name="prompt_twitter_connected">%s connected</string>
+
+    <!--MAIL WIDGET SETTINGS-->
+
+    <string name="title_mail_to">To</string>
+    <string name="hint_mail_edit">E-mail</string>
+
+    <!--GRAPH WIDGET SETTINGS-->
+
+    <string name="mode_graph_type_bar">BAR</string>
+    <string name="mode_graph_type_line">LINE</string>
+
+    <string name="prompt_style">STYLE</string>
+
+    <!--GAUGE WIDGET SETTINGS-->
+
+    <string name="prompt_field_empty">----</string>
+
+    <!--BUTTON WIDGET SETTINGS-->
+
+    <string name="prompt_onoff">ON/OFF LABELS</string>
+
+    <!--TERMINAL WIDGET SETTINGS-->
+
+    <string name="prompt_input_line">INPUT LINE</string>
+    <string name="prompt_auto_scroll">AUTOSCROLL</string>
+
+    <!--NOTIFICATION WIDGET SETTINGS-->
+
+    <string name="prompt_notify_when_offline">NOTIFY WHEN HARDWARE GOES OFFLINE</string>
+    <string name="prompt_priority">PRIORITY</string>
+    <string name="prompt_notify_offline_timeout">Offline ignore period</string>
+
+    <string name="mode_normal">NORMAL</string>
+    <string name="mode_high">HIGH</string>
+
+    <string name="prompt_notify_instant">Instant</string>
+    <string name="prompt_sound">Sound</string>
+
+    <string name="prompt_select_sound">Select Sound</string>
+
+    <!--MAP WIDGET SETTINGS -->
+
+    <string name="map_description">Blynk.location(index, lat, lon, value)</string>
+    <string name="prompt_my_location_title">Show my location</string>
+    <string name="prompt_my_location">My location</string>
+
+    <!-- LEVEL DISPLAY WIDGET SETTINGS -->
+
+    <string name="prompt_flip_axis">Flip Axis</string>
+
+    <!-- STEP SETTINGS -->
+
+    <string name="prompt_arrows">\u2191\u2193</string>
+    <string name="prompt_plusminus">\u207A/\u208B</string>
+    <string name="prompt_step">Step</string>
+    <string name="prompt_loop">Loop values</string>
+    <string name="prompt_icons">Icons</string>
+    <string name="prompt_send_step">Send step</string>
+
+    <!-- DEVICE SELECTOR SETTINGS -->
+
+    <string name="prompt_select">Select</string>
+
+    <!-- SUPER GRAPH SETTINGS -->
+
+    <string name="prompt_font_size">Font size</string>
+    <string name="prompt_alignment">Alignment</string>
+
+    <string name="action_font_size">T</string>
+
+    <string name="prompt_stacking">Stacking</string>
+    <string name="prompt_stacking_disabled">Don\'t stack</string>
+    <string name="prompt_stacking_enabled">Stack</string>
+    <string name="prompt_stacking_enabled_100">Stack 100</string>
+
+    <string name="prompt_show">Show</string>
+    <string name="prompt_hide">Hide</string>
+
+    <string name="prompt_title">Title</string>
+    <string name="prompt_legend">Legend</string>
+    <string name="prompt_y_values">Y-axis values</string>
+    <string name="prompt_x_values">Show X-axis (Time)</string>
+    <string name="prompt_allow_fullscreen">Allow full screen mode</string>
+
+    <string name="prompt_goal_line">Goal line</string>
+    <string name="hint_goal_line">No Value</string>
+
+    <string name="prompt_datastreams">Datastreams</string>
+    <string name="hint_datastream_name">Name</string>
+    <string name="action_add_datastream">Add DataStream</string>
+    <string name="datastream_default_title">DataStream</string>
+
+    <string name="title_select_stacking">@string/prompt_stacking</string>
+
+    <string name="prompt_design">Design</string>
+    <string name="format_style">Style: %s</string>
+    <string name="style_line">Line</string>
+    <string name="style_area">Area</string>
+    <string name="style_bar">Bar</string>
+    <string name="style_binary">Binary</string>
+
+    <string name="prompt_color">Color</string>
+    <string name="prompt_math">Math</string>
+    <string name="hint_math">Example: (/pin/*2)/6</string>
+    <string name="prompt_suffix">Suffix</string>
+    <string name="hint_suffix">°C</string>
+    <string name="prompt_smoothing">Smoothing</string>
+    <string name="prompt_connect_missing">Connect missing data points</string>
+    <string name="prompt_y_axis">Y-Axis</string>
+    
+    <string name="prompt_y_axis_strict">values</string>
+    <string name="prompt_y_axis_percent">height, %</string>
+
+    <string name="hint_flip">FLIP</string>
+
+    <string name="prompt_state_labels">State Labels</string>
+    <string name="prompt_true">True</string>
+    <string name="prompt_false">False</string>
+
+    <string name="hint_formula">Formula</string>
+    <string name="title_select_formula">Select formula</string>
+    <string name="title_actions">Actions</string>
+
+    <string name="toast_no_data_range">No data for older range</string>
+
+    <!--DEVICE TILES SETTINGS-->
+
+    <string name="title_templates">Templates</string>
+    <string name="format_template">Template %s</string>
+    <string name="hint_template">New Template</string>
+
+    <string name="title_columns_num">Number of columns</string>
+    <string name="title_rows_num">Number of rows</string>
+
+    <string name="title_template_name">Template Name</string>
+    <string name="prompt_template_name">Every click on the tile with the device named \"Sensor Model A\" will open similar page template</string>
+    <string name="title_show_device_name">Show Device Label</string>
+    <string name="title_template_pin">Tile Data Input</string>
+    <string name="title_template_value_name">Tile Value Name</string>
+    <string name="title_template_value_suffix">Tile Value Suffix</string>
+    <string name="title_template_design">Tile Design</string>
+    <string name="title_template_offline">Disable When Device is Offline</string>
+
+    <string name="action_new_template">Add Page</string>
+
+    <string name="hint_template_value_name">None</string>
+    <string name="hint_template_value_suffix">for example: ºC</string>
+
+    <string name="prompt_dynamic">Dynamic</string>
+
+    <string name="prompt_tile_design">Tile Design</string>
+    <string name="title_template_devices">Apply Template to</string>
+    <string name="prompt_select_devices">Select Devices</string>
+    <string name="action_add_template">Add Template</string>
+    <string name="action_sort">Sort</string>
+
+    <string name="sort_name_asc">Name: A-Z</string>
+    <string name="sort_name_desc">Name: Z-A</string>
+    <string name="sort_type_asc">Device Type \u2193</string>
+    <string name="sort_type_desc">Device Type \u2191</string>
+    <string name="sort_manual">Manual</string>
+
+    <string name="empty">--</string>
+
+    <string name="prompt_select_template">Select template</string>
+
+    <!-- WIDGET SETTINGS -->
+
+    <string name="hint_min">MIN</string>
+    <string name="hint_max">MAX</string>
+
+    <string name="prompt_orientation">ORIENTATION</string>
+    <string name="pin_default">PIN</string>
+
+    <string name="prompt_reading_frequency">READING RATE</string>
+    <string name="prompt_write_frequency">WRITE INTERVAL</string>
+    <string name="frequency_default">PUSH</string>
+    <string name="frequency_ms">Ms</string>
+    <string name="frequency_sec">Sec</string>
+
+    <string name="prompt_colors">COLORS</string>
+
+    <string name="prompt_mode">MODE</string>
+    <string name="prompt_mode_input">INPUT</string>
+    <string name="prompt_mode_output">OUTPUT</string>
+
+    <string name="prompt_orientation_horizonal">HOR</string>
+    <string name="prompt_orientation_vertical">VERT</string>
+
+    <string name="format_ms">%d ms</string>
+    <string name="format_sec">%d sec</string>
+    <string name="format_min">%d min</string>
+    <string name="format_hour">%d hour</string>
+
+    <string name="prompt_screen">Screen</string>
+    <string name="prompt_text">Text</string>
+
+    <string name="prompt_cover">SOON</string>
+
+    <string name="mode_push">PUSH</string>
+    <string name="mode_switch">SWITCH</string>
+
+    <string name="mode_split">SPLIT</string>
+    <string name="mode_merge">MERGE</string>
+
+    <string name="action_text_color">T</string>
+
+    <string name="prompt_label">Label</string>
+
+    <string name="prompt_send_on_release">Send on Release</string>
+
+    <string name="prompt_target">Target</string>
+    <string name="prompt_source">Source</string>
+
+    <string name="alert_timer">Please use Eventor for timer events</string>
+
+    <!--HOME SCREEN WIDGET-->
+
+    <string name="alert_confirm_homescreenwidget_remove">This widget is used on Home Screen. Are you sure to proceed with it\'s removal?</string>
+
+    <string name="alert_confirm_homescreenwidget_energy">Adding this home screen widget costs %s Energy\n\nAfter you add it, Energy will not be refunded \n\nContinue?</string>
+
+    <string name="homescreen_widget_button">@string/widget_button_title</string>
+    <string name="homescreen_widget_led">@string/widget_led_title</string>
+    <string name="homescreen_widget_valuedisplay">Value Display</string>
+    <string name="homescreen_widget_labeledvalue">Labeled Value</string>
+
+    <string name="format_add_homescreen_widget">Add %s Widget</string>
+
+    <string name="alert_homescreen_add_help">Choose the widget you want to add on the home screen and tap on it.</string>
+    <string name="alert_homescreen_bluetooth_not_supported">Widgets from projects with BLE or Bluetooth are not permited for Home Screen widgets.</string>
+
+    <string name="alert_homescreen_local_server">Projects on a local server are not permited for Home Screen widgets.</string>
+</resources>
