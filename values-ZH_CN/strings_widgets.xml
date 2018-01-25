@@ -240,18 +240,18 @@
         <item>GPS.getSpeed()</item>
     </string-array>
     <string name="gps_accuracy_high">High Accuracy</string>
-    <string name="gps_accuracy_low">Low Power</string>
+    <string name="gps_accuracy_low">低电量</string>
     <string name="gps_accuracy_balanced">Balanced</string>
 
     <string name="prompt_radius" formatted="false">Radius: %s%s</string>
-    <string name="format_meter">m</string>
-    <string name="format_kilometer">km</string>
+    <string name="format_meter">米</string>
+    <string name="format_kilometer">千米</string>
 
     <string name="title_accuracy_picker">Select accuracy</string>
 
     <string name="title_gps_error_suspened">GPS disconnected</string>
-    <string name="title_gps_error_connection">GPS not inited</string>
-    <string name="prompt_gps_error_suspended_network">Network connection is lost</string>
+    <string name="title_gps_error_connection">GPS 未初始化</string>
+    <string name="prompt_gps_error_suspended_network">N网络连接丢失</string>
     <string name="prompt_gps_error_suspended_service">GPS service has been suspended</string>
 
     <string name="title_interval">UPDATE INTERVAL</string>
@@ -272,8 +272,8 @@
     </string-array>
 
     <string name="prompt_temperature">温度</string>
-    <string name="prompt_temperature_c">Celsius</string>
-    <string name="prompt_temperature_f">Fahrenheit</string>
+    <string name="prompt_temperature_c">摄氏度</string>
+    <string name="prompt_temperature_f">华氏度</string>
 
     <string name="format_celsius">%s°C</string>
     <string name="format_fahrenheit">%s°F</string>
@@ -337,7 +337,7 @@
     <string name="prompt_not_supported_with_tiles">Not supported with Device Tiles</string>
     <!--LABELED DISPLAY WIDGET SETTINGS-->
 
-    <string name="hint_labeled_display_format">如: Temp: /pin/ ºC</string>
+    <string name="hint_labeled_display_format">如: 温度: /pin/ ºC</string>
 
     <!--TIMER WIDGET SETTINGS-->
 
@@ -382,7 +382,7 @@
 
     <string name="prompt_terminal_pin_description">Example:\nterminal.print(\"Hello World\")</string>
 
-    <string name="hint_type_here">Type here</string>
+    <string name="hint_type_here">请输入</string>
 
     <!--JOYSTICK WIDGET SETTINGS-->
 
@@ -434,8 +434,8 @@
 
     <!--TWITTER WIDGET SETTINGS-->
 
-    <string name="action_connect_twitter">Connect Twitter</string>
-    <string name="action_connecting_twitter">Connecting…</string>
+    <string name="action_connect_twitter">连接Twitter</string>
+    <string name="action_connecting_twitter">连接中…</string>
     <string name="action_disconnect_twitter">Disconnect</string>
 
     <string name="prompt_twitter_acc">TWITTER ACCOUNT</string>
@@ -460,32 +460,32 @@
 
     <!--BUTTON WIDGET SETTINGS-->
 
-    <string name="prompt_onoff">ON/OFF LABELS</string>
+    <string name="prompt_onoff">开/关标签</string>
 
     <!--TERMINAL WIDGET SETTINGS-->
 
     <string name="prompt_input_line">INPUT LINE</string>
-    <string name="prompt_auto_scroll">AUTOSCROLL</string>
+    <string name="prompt_auto_scroll">自动滚动</string>
 
     <!--NOTIFICATION WIDGET SETTINGS-->
 
-    <string name="prompt_notify_when_offline">NOTIFY WHEN HARDWARE GOES OFFLINE</string>
-    <string name="prompt_priority">PRIORITY</string>
+    <string name="prompt_notify_when_offline">当硬件掉线时发通知</string>
+    <string name="prompt_priority">优先级</string>
     <string name="prompt_notify_offline_timeout">Offline ignore period</string>
 
     <string name="mode_normal">NORMAL</string>
     <string name="mode_high">HIGH</string>
 
     <string name="prompt_notify_instant">Instant</string>
-    <string name="prompt_sound">Sound</string>
+    <string name="prompt_sound">声音</string>
 
-    <string name="prompt_select_sound">Select Sound</string>
+    <string name="prompt_select_sound">选择声音</string>
 
     <!--MAP WIDGET SETTINGS -->
 
     <string name="map_description">Blynk.location(index, lat, lon, value)</string>
-    <string name="prompt_my_location_title">Show my location</string>
-    <string name="prompt_my_location">My location</string>
+    <string name="prompt_my_location_title">显示我的位置</string>
+    <string name="prompt_my_location">我的位置</string>
 
     <!-- LEVEL DISPLAY WIDGET SETTINGS -->
 
@@ -497,17 +497,17 @@
     <string name="prompt_plusminus">\u207A/\u208B</string>
     <string name="prompt_step">Step</string>
     <string name="prompt_loop">Loop values</string>
-    <string name="prompt_icons">Icons</string>
+    <string name="prompt_icons">图标</string>
     <string name="prompt_send_step">Send step</string>
 
     <!-- DEVICE SELECTOR SETTINGS -->
 
-    <string name="prompt_select">Select</string>
+    <string name="prompt_select">选择</string>
 
     <!-- SUPER GRAPH SETTINGS -->
 
-    <string name="prompt_font_size">Font size</string>
-    <string name="prompt_alignment">Alignment</string>
+    <string name="prompt_font_size">字体大小</string>
+    <string name="prompt_alignment">对齐</string>
 
     <string name="action_font_size">T</string>
 
@@ -516,22 +516,22 @@
     <string name="prompt_stacking_enabled">Stack</string>
     <string name="prompt_stacking_enabled_100">Stack 100</string>
 
-    <string name="prompt_show">Show</string>
-    <string name="prompt_hide">Hide</string>
+    <string name="prompt_show">显示</string>
+    <string name="prompt_hide">隐藏</string>
 
-    <string name="prompt_title">Title</string>
+    <string name="prompt_title">标题</string>
     <string name="prompt_legend">Legend</string>
     <string name="prompt_y_values">Y-axis values</string>
     <string name="prompt_x_values">Show X-axis (Time)</string>
     <string name="prompt_allow_fullscreen">Allow full screen mode</string>
 
     <string name="prompt_goal_line">Goal line</string>
-    <string name="hint_goal_line">No Value</string>
+    <string name="hint_goal_line">无数据</string>
 
-    <string name="prompt_datastreams">Datastreams</string>
-    <string name="hint_datastream_name">Name</string>
-    <string name="action_add_datastream">Add DataStream</string>
-    <string name="datastream_default_title">DataStream</string>
+    <string name="prompt_datastreams">数据流</string>
+    <string name="hint_datastream_name">数据流名称</string>
+    <string name="action_add_datastream">添加数据流</string>
+    <string name="datastream_default_title">数据流</string>
 
     <string name="title_select_stacking">@string/prompt_stacking</string>
 
@@ -542,21 +542,21 @@
     <string name="style_bar">Bar</string>
     <string name="style_binary">Binary</string>
 
-    <string name="prompt_color">Color</string>
-    <string name="prompt_math">Math</string>
-    <string name="hint_math">Example: (/pin/*2)/6</string>
-    <string name="prompt_suffix">Suffix</string>
+    <string name="prompt_color">颜色</string>
+    <string name="prompt_math">数学</string>
+    <string name="hint_math">例: (/pin/*2)/6</string>
+    <string name="prompt_suffix">后缀</string>
     <string name="hint_suffix">°C</string>
     <string name="prompt_smoothing">Smoothing</string>
     <string name="prompt_connect_missing">Connect missing data points</string>
-    <string name="prompt_y_axis">Y-Axis</string>
+    <string name="prompt_y_axis">Y-轴</string>
     
     <string name="prompt_y_axis_strict">values</string>
     <string name="prompt_y_axis_percent">height, %</string>
 
     <string name="hint_flip">FLIP</string>
 
-    <string name="prompt_state_labels">State Labels</string>
+    <string name="prompt_state_labels">状态标签</string>
     <string name="prompt_true">True</string>
     <string name="prompt_false">False</string>
 
@@ -568,34 +568,34 @@
 
     <!--DEVICE TILES SETTINGS-->
 
-    <string name="title_templates">Templates</string>
-    <string name="format_template">Template %s</string>
-    <string name="hint_template">New Template</string>
+    <string name="title_templates">模板</string>
+    <string name="format_template">模板 %s</string>
+    <string name="hint_template">新建模板</string>
 
     <string name="title_columns_num">Number of columns</string>
     <string name="title_rows_num">Number of rows</string>
 
-    <string name="title_template_name">Template Name</string>
+    <string name="title_template_name">模板名称</string>
     <string name="prompt_template_name">Every click on the tile with the device named \"Sensor Model A\" will open similar page template</string>
-    <string name="title_show_device_name">Show Device Label</string>
+    <string name="title_show_device_name">显示设备标签</string>
     <string name="title_template_pin">Tile Data Input</string>
     <string name="title_template_value_name">Tile Value Name</string>
     <string name="title_template_value_suffix">Tile Value Suffix</string>
     <string name="title_template_design">Tile Design</string>
-    <string name="title_template_offline">Disable When Device is Offline</string>
+    <string name="title_template_offline">当设备掉线时禁用</string>
 
-    <string name="action_new_template">Add Page</string>
+    <string name="action_new_template">新增页</string>
 
     <string name="hint_template_value_name">None</string>
-    <string name="hint_template_value_suffix">for example: ºC</string>
+    <string name="hint_template_value_suffix">如: ºC</string>
 
     <string name="prompt_dynamic">Dynamic</string>
 
     <string name="prompt_tile_design">Tile Design</string>
     <string name="title_template_devices">Apply Template to</string>
-    <string name="prompt_select_devices">Select Devices</string>
-    <string name="action_add_template">Add Template</string>
-    <string name="action_sort">Sort</string>
+    <string name="prompt_select_devices">选择设备</string>
+    <string name="action_add_template">新增模板</string>
+    <string name="action_sort">排序</string>
 
     <string name="sort_name_asc">名称: A-Z</string>
     <string name="sort_name_desc">名称: Z-A</string>
