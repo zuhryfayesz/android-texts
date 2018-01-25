@@ -53,13 +53,13 @@
 
     <string name="title_empty_labeled_display">Labeled</string>
     <string name="title_empty_display">Value</string>
-    <string name="title_empty_light_sensor">Light</string>
-    <string name="title_empty_temp_sensor">Temperature</string>
+    <string name="title_empty_light_sensor">光线</string>
+    <string name="title_empty_temp_sensor">温度</string>
     <string name="title_empty_proximity_sensor">Proximity</string>
-    <string name="title_empty_accelerometer_sensor">Accelermtr</string>
-    <string name="title_empty_gravity_sensor">Gravity</string>
-    <string name="title_empty_barometer_sensor">Barometer</string>
-    <string name="title_empty_humidity_sensor">Humidity</string>
+    <string name="title_empty_accelerometer_sensor">加速度</string>
+    <string name="title_empty_gravity_sensor">重力</string>
+    <string name="title_empty_barometer_sensor">气压</string>
+    <string name="title_empty_humidity_sensor">湿度</string>
     <string name="title_empty_gps">GPS</string>
     <string name="title_empty_device_selector">Selector</string>
     <string name="title_empty_level_display">Level</string>
@@ -72,12 +72,12 @@
     <string name="section_controllers">Controllers</string>
     <string name="section_displays">Displays</string>
     <string name="section_sensors">Smartphone Sensors</string>
-    <string name="section_notifications">Notifications</string>
-    <string name="section_other">Other</string>
+    <string name="section_notifications">通知</string>
+    <string name="section_other">其他</string>
     <string name="section_interface">Interface</string>
     <string name="section_device_management">Device Management</string>
 
-    <string name="prompt_installed">Installed</string>
+    <string name="prompt_installed">已安装</string>
     <string name="prompt_widget_not_supported">Is not supported on your device</string>
     <string name="prompt_widget_conflict">Doesn\'t work with %s. Yet.</string>
 
