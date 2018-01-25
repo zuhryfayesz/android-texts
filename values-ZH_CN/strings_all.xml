@@ -411,28 +411,28 @@
 
 
     <string name="prompt_battery_unlimited">Unlimited</string>
-    <string name="prompt_battery_enjoy"> Added. Enjoy!</string>
+    <string name="prompt_battery_enjoy"> 已添加。享用吧！</string>
     <string name="action_add">+ Add</string>
-    <string name="action_buy">Buy</string>
+    <string name="action_buy">购买</string>
     <string name="inform_energy_not_enough">没有足够能量</string>
 
     <string name="format_price">$%s</string>
     <string name="format_energy"> x %s</string>
-    <string name="prompt_free">Free</string>
+    <string name="prompt_free">免费</string>
 
     <string name="title_energy_purchases">增加能量</string>
 
     <string name="prompt_energy_balance">Your Energy Balance</string>
-    <string name="prompt_select_purchase">Choose Energy Pack</string>
+    <string name="prompt_select_purchase">选择能量包</string>
 
-    <string name="title_low_energy">You need more energy…</string>
-    <string name="action_add_energy">+ Add Energy</string>
+    <string name="title_low_energy">你需要更多能量…</string>
+    <string name="action_add_energy">+ 增加能量</string>
 
-    <string name="title_energy_tutorial">How energy works</string>
-    <string name="prompt_energy_tutorial">Each widget needs Energy to operate\n\nWhen you delete a widget Energy is returned\n\nYou can always get more Energy in our Store.</string>
-    <string name="action_energy_tutorial_ok">Cool! Got it.</string>
+    <string name="title_energy_tutorial">能量原理</string>
+    <string name="prompt_energy_tutorial">每个组件需要使用能量\n\n当组件删除时能量就会返回。\n\n您可以在我们的商店中购买能量。</string>
+    <string name="action_energy_tutorial_ok">酷! 得到啦.</string>
 
-    <string name="title_campaign_reward">Thank you!</string>
+    <string name="title_campaign_reward">十分感谢!</string>
     <string name="prompt_campaign_reward_title">Thank you for supporting us during %s Kickstarter campaign!</string>
     <string name="prompt_campaign_reward_text">Enjoy complimentary %s Energy!</string>
     <string name="action_claim_reward">Get %s Energy</string>

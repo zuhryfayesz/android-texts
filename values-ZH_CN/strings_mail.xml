@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="share_token_title">Auth Token for %s project</string>
+    <string name="share_token_title">项目%s 的授权码</string>
     <string name="share_token_message" formatted="false">Auth Token for %s project “%s”\n\n
         Happy Blynking!\n
         —\n
@@ -29,15 +29,15 @@
         3. Enjoy my app!
     </string>
 
-    <string name="publish_message_title">%s publishing request</string>
+    <string name="publish_message_title">%s 发布请求</string>
     <string name="publish_message_text" formatted="false">
-        App name: %s\n
+        App 名称: %s\n
         App id: %s\n
-        App type: %s\n
+        App 类型: %s\n
         Provisioning type: %s\n
         Email: %s\n
-        Theme: %s\n
-        Color: %s
+        主题: %s\n
+        颜色: %s
     </string>
 
 </resources>
