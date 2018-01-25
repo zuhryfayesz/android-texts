@@ -69,16 +69,16 @@
 
     <string name="title_widgetbox">Widget Box</string>
 
-    <string name="section_controllers">Controllers</string>
-    <string name="section_displays">Displays</string>
+    <string name="section_controllers">控制器</string>
+    <string name="section_displays">显示</string>
     <string name="section_sensors">Smartphone Sensors</string>
-    <string name="section_notifications">Notifications</string>
+    <string name="section_notifications">通知</string>
     <string name="section_other">Other</string>
-    <string name="section_interface">Interface</string>
-    <string name="section_device_management">Device Management</string>
+    <string name="section_interface">界面</string>
+    <string name="section_device_management">设备管理</string>
 
-    <string name="prompt_installed">Installed</string>
-    <string name="prompt_widget_not_supported">Is not supported on your device</string>
+    <string name="prompt_installed">已安装</string>
+    <string name="prompt_widget_not_supported">你的设备不支持</string>
     <string name="prompt_widget_conflict">Doesn\'t work with %s. Yet.</string>
 
     <!--EVENT WIDGET SETTINGS-->
@@ -97,26 +97,26 @@
     <string name="eventor_condition_str_neq">is not like %s</string>
 
     <string name="eventor_action_setpin" formatted="false">set %s to %s</string>
-    <string name="eventor_action_turn_on">turn ON %s</string>
-    <string name="eventor_action_turn_off">turn OFF %s</string>
-    <string name="eventor_action_notify">send notification: %s</string>
-    <string name="eventor_action_notify_highlight">notification</string>
-    <string name="eventor_action_notify_collapsed">send notification</string>
+    <string name="eventor_action_turn_on">打开 %s</string>
+    <string name="eventor_action_turn_off">关闭%s</string>
+    <string name="eventor_action_notify">发送通知: %s</string>
+    <string name="eventor_action_notify_highlight">通知</string>
+    <string name="eventor_action_notify_collapsed">发送通知</string>
 
     <string name="eventor_hint_trigger">Tap to choose a pin or a widget that will act as a trigger</string>
     <string name="eventor_hint_condition">Choose a condition</string>
-    <string name="eventor_hint_enter_value">Input value</string>
-    <string name="eventor_hint_action">Choose action</string>
-    <string name="eventor_hint_select_pin">Select pin</string>
-    <string name="eventor_hint_set_value">Set value</string>
+    <string name="eventor_hint_enter_value">输入值</string>
+    <string name="eventor_hint_action">选择动作</string>
+    <string name="eventor_hint_select_pin">选择针脚</string>
+    <string name="eventor_hint_set_value">设置值</string>
 
-    <string name="eventor_hint_select_time">Select time</string>
+    <string name="eventor_hint_select_time">选择时间</string>
 
     <string name="eventor_elem_when">When…</string>
     <string name="eventor_elem_when_format">When %s</string>
     <string name="eventor_elem_when_time_format">At %s</string>
-    <string name="eventor_elem_vpin">Vpin value</string>
-    <string name="eventor_elem_vpin_highlight">Vpin</string>
+    <string name="eventor_elem_vpin">虚拟针脚值</string>
+    <string name="eventor_elem_vpin_highlight">虚拟针脚</string>
 
     <string name="eventor_elem_setpin">set pin to…</string>
     <string name="eventor_elem_setpin_highlight">pin</string>
@@ -134,18 +134,18 @@
     <string name="alert_eventor_notify_twit">Please don\'t forget to add Twitter widget to your project!</string>
     <string name="alert_eventor_notify_mail">Please don\'t forget to add Mail widget to your project!</string>
 
-    <string name="eventor_prompt_ready">Event is ready. Nice!</string>
-    <string name="prompt_eventor_items">Events</string>
+    <string name="eventor_prompt_ready">事件已经准备完成，赞！</string>
+    <string name="prompt_eventor_items">事件</string>
 
-    <string name="prompt_rule_active">Active</string>
-    <string name="prompt_rule_inactive">Inactive</string>
+    <string name="prompt_rule_active">激活</string>
+    <string name="prompt_rule_inactive">禁用</string>
     <string name="format_rule_index">Event %d</string>
-    <string name="title_new_rule">New event</string>
+    <string name="title_new_rule">新事件</string>
 
-    <string name="eventor_time_everyday">Everyday</string>
-    <string name="eventor_time_workingdays">Mon to Fri</string>
+    <string name="eventor_time_everyday">每天</string>
+    <string name="eventor_time_workingdays">周一-周五</string>
 
-    <string name="eventor_delete_confirm">Delete the event? This cannot be undone.</string>
+    <string name="eventor_delete_confirm">确定要删除事件吗？该操作不可撤销。</string>
 
     <string name="eventor_device_change_confirm">All rules with pins not available in new deivce will be removed. Are you sure?</string>
 
@@ -162,7 +162,7 @@
 
     <string name="eventor_mail_subject_default">Eventor event triggered</string>
 
-    <string name="eventor_elem_mail">send e-mail</string>
+    <string name="eventor_elem_mail">发送 e-mail</string>
     <string name="eventor_elem_mail_highlight">e-mail</string>
 
     <string name="eventor_action_mail">send e-mail with subject \"Eventor event triggered\" and message: %s</string>
@@ -174,7 +174,7 @@
     <!--TABLE WIDGET SETTINGS-->
 
     <string name="title_table_columns">Columns</string>
-    <string name="title_table_reordering">Allow reordering</string>
+    <string name="title_table_reordering">允许重排</string>
     <string name="title_table_clickable">Clickable rows</string>
 
     <string name="alert_table_columns">Set up columns</string>
@@ -260,9 +260,9 @@
     <!--SENSORS WIDGET SETTINGS-->
 
     <string-array name="accelerometer_descriptions">
-        <item>X axis</item>
-        <item>Y axis</item>
-        <item>Z axis</item>
+        <item>X 轴</item>
+        <item>Y 轴</item>
+        <item>Z </item>
     </string-array>
 
     <string-array name="gravity_descriptions">
@@ -393,25 +393,25 @@
 
     <!--HISTORY GRAPH WIDGET SETTINGS-->
 
-    <string name="prompt_no_data">No Data</string>
-    <string name="prompt_no_enough_data">No data yet</string>
+    <string name="prompt_no_data">无数据</string>
+    <string name="prompt_no_enough_data">暂无数据</string>
 
     <string name="prompt_show_legend">SHOW LEGEND</string>
     <string name="prompt_logdata">Data to show</string>
 
-    <string name="action_clear_history">Erase data</string>
-    <string name="alert_confirm_clear_history">Are you sure you want to erase the data?</string>
+    <string name="action_clear_history">擦除数据</string>
+    <string name="alert_confirm_clear_history">你确定要擦除数据吗?</string>
 
-    <string name="alert_export_title">Export data</string>
-    <string name="alert_export_message">CSV files will be sent to your email address</string>
-    <string name="action_export_history">Export to CSV</string>
+    <string name="alert_export_title">导出数据</string>
+    <string name="alert_export_message">CSV文件发送到你的邮箱</string>
+    <string name="action_export_history">导出CSV</string>
 
-    <string name="period_1h">1h</string>
-    <string name="period_6h">6h</string>
-    <string name="period_1d">1d</string>
-    <string name="period_1w">1w</string>
-    <string name="period_1m">1m</string>
-    <string name="period_3m">3m</string>
+    <string name="period_1h">1小时</string>
+    <string name="period_6h">6小时</string>
+    <string name="period_1d">1天</string>
+    <string name="period_1w">1周</string>
+    <string name="period_1m">1月</string>
+    <string name="period_3m">3月</string>
 
     <string name="auto">AUTO</string>
     <string name="fixed">CUSTOM</string>
@@ -668,7 +668,7 @@
     <string name="homescreen_widget_valuedisplay">Value Display</string>
     <string name="homescreen_widget_labeledvalue">Labeled Value</string>
 
-    <string name="format_add_homescreen_widget">Add %s Widget</string>
+    <string name="format_add_homescreen_widget">添加 %s 组件</string>
 
     <string name="alert_homescreen_add_help">Choose the widget you want to add on the home screen and tap on it.</string>
     <string name="alert_homescreen_bluetooth_not_supported">Widgets from projects with BLE or Bluetooth are not permited for Home Screen widgets.</string>

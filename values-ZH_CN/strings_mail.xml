@@ -13,10 +13,10 @@
 
     <string name="share_message_title">Check out %s app I\'ve made.</string>
     <string name="share_message_text" formatted="false">
-        Hey,\n\n
-        I\'ve made %s app. You are welcome to try it out!\n\n
-        To start using it:\n
-        1. Download Blynk App: http://j.mp/blynk_Android or http://j.mp/blynk_iOS\n
+        您好,\n\n
+        我们已经开发好app %s 。欢迎使用！\n\n
+       下载使用:\n
+        1. 下载 Blynk App: http://j.mp/blynk_Android 或 http://j.mp/blynk_iOS\n
         2. Touch the QR icon and point the camera to the code below\n
         3. Enjoy my app!
     </string>

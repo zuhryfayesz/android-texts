@@ -1,32 +1,32 @@
 <resources>
 
-    <string name="action_ready">Ready</string>
-    <string name="action_begin">Begin</string>
+    <string name="action_ready">准备</string>
+    <string name="action_begin">开始</string>
     <string name="action_notnow">Not now</string>
-    <string name="action_connect_to_device">Connect to device</string>
-    <string name="action_setup_device">Set up new Device</string>
-    <string name="action_choose_device">Choose device</string>
+    <string name="action_connect_to_device">连接设备</string>
+    <string name="action_setup_device">设置新设备</string>
+    <string name="action_choose_device">选择设备</string>
     <string name="action_start_over">Start over</string>
-    <string name="action_choose_device_network">Choose device\'s network</string>
+    <string name="action_choose_device_network">选择设备网络</string>
 
-    <string name="alert_wifi_location_enable">Please enable location services for scanning wifi.</string>
+    <string name="alert_wifi_location_enable">请开启无线网络扫描服务。</string>
 
-    <string name="alert_select_wifi">Please, choose the WiFi network</string>
-    <string name="alert_select_device">Please, choose appropriate WiFi network</string>
+    <string name="alert_select_wifi">请选择无线网络</string>
+    <string name="alert_select_device">请选择合适的无线网络</string>
 
-    <string name="prompt_wifi_ap">Please disable Access Point mode to enable scanning for Wi-Fi networks</string>
-    <string name="prompt_wifi_scan_empty">No scan results</string>
-    <string name="prompt_provisioning_wifi_scan_empty">No suitable networks</string>
+    <string name="prompt_wifi_ap">请关闭手机的无线接入点模式，然后扫描无线网络。</string>
+    <string name="prompt_wifi_scan_empty">扫描无结果</string>
+    <string name="prompt_provisioning_wifi_scan_empty">无可用网络</string>
 
-    <string name="prompt_provisioning">You need to setup your device</string>
+    <string name="prompt_provisioning">你需要设置新设备</string>
 
-    <string name="title_provisioning_welcome">Welcome!</string>
+    <string name="title_provisioning_welcome">欢迎！</string>
 
     <string name="title_provisioning_howto">Let\'s connect the device\nto your WiFi network</string>
     <string name="prompt_provisioning_howto">We will guide you through the steps to connect %s to your Wi-Fi network.</string>
 
-    <string name="title_provisioning_wifi">Choose the WiFi network</string>
-    <string name="prompt_provisioning_wifi">Choose a home WiFi network to connect %s</string>
+    <string name="title_provisioning_wifi">选择无线网络</string>
+    <string name="prompt_provisioning_wifi">选择一个家庭无线网络 %s</string>
 
     <string name="title_provisioning_device">Connect to device</string>
     <string name="prompt_provisioning_device">Choose a WiFi network called %s from the list</string>
