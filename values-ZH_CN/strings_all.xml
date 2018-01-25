@@ -193,9 +193,9 @@
 
     <string name="error_qr_not_blynk">这不是有效的 Blynk 代码</string>
     <string name="error_qr_not_public">此二维码允许访问共享的 Blynk 项目。您需要从“登录”屏幕扫描它。\n阅读更多: docs.blynk.cc/#sharing</string>
-    <string name="error_qr_old">太旧的 Blynk 代码</string>
+    <string name="error_qr_old">Blynk程序过于成旧</string>
 
-    <string name="prompt_qr">QR</string>
+    <string name="prompt_qr">二维码</string>
 
     <string name="error_share_qr_not_generated">创建共享二维码出错。\n请尝试刷新或稍后尝试。</string>
 
@@ -227,7 +227,7 @@
 
     <string name="prompt_keep_screen">保持屏幕始终打开</string>
 
-    <string name="inform_token_not_received_yet">项目的验证 Token 尚未被收到</string>
+    <string name="inform_token_not_received_yet">项目的验证授权码尚未被收到</string>
     <string name="inform_reconnect">重新连接到服务器&#8230;</string>
 
     <string name="inform_active_project">在项目处于活动状态时，无法添加新的小部件</string>
@@ -242,17 +242,17 @@
     <string name="alert_widget_singular">只允许一个该类型的部件存在</string>
     <string name="alert_unexpected_error">发生意外错误</string>
 
-    <string name="prompt_token_updating">正在更新 Token ...</string>
+    <string name="prompt_token_updating">正在更新授权码 ...</string>
     <string name="prompt_connecting">正在连接...</string>
 
     <string name="prompt_sending">正在发送...</string>
     <string name="prompt_sent">发送</string>
 
     <string name="prompt_project_model">硬件模型</string>
-    <string name="prompt_project_token">验证 Token</string>
+    <string name="prompt_project_token">验证授权码</string>
     <string name="prompt_project_theme">主题</string>
 
-    <string name="prompt_share_trial">免费 30 天试用</string>
+    <string name="prompt_share_trial">免费试用30天</string>
     <string name="prompt_share_access">共享访问</string>
     <string name="action_enable_share">公开</string>
     <string name="action_disable_share">私人</string>
@@ -263,18 +263,18 @@
     <string name="error_hardware_model_unknown">未知项目的硬件。请再检查一下。</string>
     <string name="prompt_project_actions">操作和项目</string>
 
-    <string name="prompt_tokens">授权 Tokens</string>
+    <string name="prompt_tokens">授权码</string>
     <string name="action_copy_tokens">全部复制</string>
     <string name="action_email_tokens">全部电子邮件</string>
 
     <plurals name="tokens_email">
-        <item quantity="one">发送 Token 到您的电子邮件</item>
-        <item quantity="other">发送 %s tokens 到您的电子邮件</item>
+        <item quantity="one">发送 授权码 到您的电子邮件</item>
+        <item quantity="other">发送 %s 授权码 到您的电子邮件</item>
     </plurals>
 
     <plurals name="tokens_copy">
-        <item quantity="one">已复制 Token 到剪贴板</item>
-        <item quantity="other">复制 %s tokens 到剪贴板</item>
+        <item quantity="one">已复制 授权码 到剪贴板</item>
+        <item quantity="other">复制 %s 授权码 到剪贴板</item>
     </plurals>
 
     <string name="pin_analog">模拟</string>
@@ -298,8 +298,7 @@
 
     <string name="action_new_device">新设备</string>
 
-    <string name="alert_device_removal">%s 正在使用此设备\n
-请先移除它们，然后再删除设备。</string>
+    <string name="alert_device_removal">%s 正在使用此设备\n请先移除它们，然后再删除设备。</string>
 
     <string name="alert_device_removal_confirm">要删除此设备吗？这将无法被撤消。</string>
 
@@ -406,13 +405,13 @@
     <string name="title_purchase_failed">支付失败</string>
 
     <string name="prompt_purchase_not_inited">购买尚未初始化</string>
-    <string name="prompt_purchase_failed">Please update your Play Store and Google Services apps and try again.\nAlso in-app purchases could be not available in your country.\n\nYou could contact us if the problem still exists.</string>
+    <string name="prompt_purchase_failed">请更新您的Play Store和谷歌服务app。\n 可能您所在的国家/地区无法使用支付服务。\n\n如果问题依然存在，您可以与我们取得联系。</string>
     <string name="prompt_google_services">Google 服务</string>
 
 
-    <string name="prompt_battery_unlimited">Unlimited</string>
+    <string name="prompt_battery_unlimited">无限制</string>
     <string name="prompt_battery_enjoy"> 已添加。享用吧！</string>
-    <string name="action_add">+ Add</string>
+    <string name="action_add">+ 增加</string>
     <string name="action_buy">购买</string>
     <string name="inform_energy_not_enough">没有足够能量</string>
 
@@ -433,13 +432,13 @@
     <string name="action_energy_tutorial_ok">酷! 得到啦.</string>
 
     <string name="title_campaign_reward">十分感谢!</string>
-    <string name="prompt_campaign_reward_title">Thank you for supporting us during %s Kickstarter campaign!</string>
+    <string name="prompt_campaign_reward_title">感谢您在Kickstarter上支持我们的活动 %s !</string>
     <string name="prompt_campaign_reward_text">Enjoy complimentary %s Energy!</string>
-    <string name="action_claim_reward">Get %s Energy</string>
+    <string name="action_claim_reward">获得%s 能量</string>
 
-    <string name="alert_confirm_share_energy">Energy for sharing is not recoverable and will not be returned. Are you sure?</string>
+    <string name="alert_confirm_share_energy">分享出去的能量是无法返回的，你确定吗？</string>
 
-    <string name="prompt_energy_drain_option">Enabling this option will drain your battery when not connected to power source.</string>
+    <string name="prompt_energy_drain_option">开启此选项，如果不连接电源将耗尽您的电池。</string>
 
-    <string name="prompt_low_storage_gs">Google Services dependencies cannot be downloaded due to low device storage</string>
+    <string name="prompt_low_storage_gs">您的设备存储空间不足，无法下载谷歌相关服务。</string>
 </resources>

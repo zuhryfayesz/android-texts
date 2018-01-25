@@ -70,8 +70,8 @@
     <string name="title_widgetbox">Widget Box</string>
 
     <string name="section_controllers">控制器</string>
-    <string name="section_displays">Displays</string>
-    <string name="section_sensors">Smartphone Sensors</string>
+    <string name="section_displays">显示</string>
+    <string name="section_sensors">手机传感器</string>
     <string name="section_notifications">通知</string>
     <string name="section_other">其他</string>
     <string name="section_interface">Interface</string>
@@ -79,12 +79,12 @@
 
     <string name="prompt_installed">已安装</string>
     <string name="prompt_widget_not_supported">你的设备不支持</string>
-    <string name="prompt_widget_conflict">Doesn\'t work with %s. Yet.</string>
+    <string name="prompt_widget_conflict">无法工作%s。</string>
 
     <!--EVENT WIDGET SETTINGS-->
     <string name="action_add_new_event">+ 新增事件</string>
 
-    <string name="eventor_trigger_format">When %s</string>
+    <string name="eventor_trigger_format">当 %s</string>
     <string name="eventor_trigger_time">Time</string>
 
     <string name="eventor_condition_lt">is lower than %s</string>
@@ -104,7 +104,7 @@
     <string name="eventor_action_notify_collapsed">发送通知</string>
 
     <string name="eventor_hint_trigger">Tap to choose a pin or a widget that will act as a trigger</string>
-    <string name="eventor_hint_condition">Choose a condition</string>
+    <string name="eventor_hint_condition">选择条件</string>
     <string name="eventor_hint_enter_value">输入值</string>
     <string name="eventor_hint_action">选择动作</string>
     <string name="eventor_hint_select_pin">选择管脚</string>
@@ -112,7 +112,7 @@
 
     <string name="eventor_hint_select_time">选择时间</string>
 
-    <string name="eventor_elem_when">When…</string>
+    <string name="eventor_elem_when">当…</string>
     <string name="eventor_elem_when_format">When %s</string>
     <string name="eventor_elem_when_time_format">At %s</string>
     <string name="eventor_elem_vpin">虚拟管脚值</string>

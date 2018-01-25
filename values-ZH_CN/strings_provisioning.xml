@@ -1,59 +1,59 @@
 <resources>
 
-    <string name="action_ready">Ready</string>
-    <string name="action_begin">Begin</string>
+    <string name="action_ready">准备</string>
+    <string name="action_begin">开始</string>
     <string name="action_notnow">Not now</string>
-    <string name="action_connect_to_device">Connect to device</string>
-    <string name="action_setup_device">Set up new Device</string>
-    <string name="action_choose_device">Choose device</string>
+    <string name="action_connect_to_device">连接设备</string>
+    <string name="action_setup_device">设置新设备</string>
+    <string name="action_choose_device">选择设备</string>
     <string name="action_start_over">Start over</string>
-    <string name="action_choose_device_network">Choose device\'s network</string>
+    <string name="action_choose_device_network">选择设备网络</string>
 
-    <string name="alert_wifi_location_enable">Please enable location services for scanning wifi.</string>
+    <string name="alert_wifi_location_enable">请开启WIFI扫描服务。</string>
 
-    <string name="alert_select_wifi">Please, choose the WiFi network</string>
-    <string name="alert_select_device">Please, choose appropriate WiFi network</string>
+    <string name="alert_select_wifi">请选择WiFi网络</string>
+    <string name="alert_select_device">请选择合适的WiFi网络</string>
 
-    <string name="prompt_wifi_ap">Please disable Access Point mode to enable scanning for Wi-Fi networks</string>
-    <string name="prompt_wifi_scan_empty">No scan results</string>
-    <string name="prompt_provisioning_wifi_scan_empty">No suitable networks</string>
+    <string name="prompt_wifi_ap">请关闭无线热点功能，才能扫描Wi-Fi网络。</string>
+    <string name="prompt_wifi_scan_empty">扫描无结果</string>
+    <string name="prompt_provisioning_wifi_scan_empty">无可用网络</string>
 
-    <string name="prompt_provisioning">You need to setup your device</string>
+    <string name="prompt_provisioning">你需要设置你的设备</string>
 
-    <string name="title_provisioning_welcome">Welcome!</string>
+    <string name="title_provisioning_welcome">欢迎！</string>
 
-    <string name="title_provisioning_howto">Let\'s connect the device\nto your WiFi network</string>
-    <string name="prompt_provisioning_howto">We will guide you through the steps to connect %s to your Wi-Fi network.</string>
+    <string name="title_provisioning_howto">将设备连接到\n WiFi网络</string>
+    <string name="prompt_provisioning_howto">我们将会引导你将%s连接到Wi-Fi网络。</string>
 
-    <string name="title_provisioning_wifi">Choose the WiFi network</string>
-    <string name="prompt_provisioning_wifi">Choose a home WiFi network to connect %s</string>
+    <string name="title_provisioning_wifi">选择WiFi网络</string>
+    <string name="prompt_provisioning_wifi">连接%s 到家庭WiFi网络</string>
 
-    <string name="title_provisioning_device">Connect to device</string>
+    <string name="title_provisioning_device">连接设备</string>
     <string name="prompt_provisioning_device">Choose a WiFi network called %s from the list</string>
 
-    <string name="title_provisioning_error">Can\'t connect :(</string>
+    <string name="title_provisioning_error">无法连接 :(</string>
     <string name="prompt_provisioning_error_email">Try starting over.\nIf you experiencing issues, please email us here:\n%s</string>
     <string name="prompt_provisioning_error_page">Try starting over.\nIf you experiencing issues, please check out the support page:\n%s</string>
 
     <string name="title_provisioning_settingup">Setting up\n%s</string>
 
-    <string name="prompt_provisioning_wait">This may take a minute…</string>
+    <string name="prompt_provisioning_wait">这将花费1分钟左右...</string>
 
-    <string name="prompt_provisioning_progress_device">Waiting for Wifi</string>
-    <string name="prompt_provisioning_progress_wifi">Connecting to the cloud</string>
-    <string name="prompt_provisioning_progress_online">Final check</string>
+    <string name="prompt_provisioning_progress_device">等待Wifi</string>
+    <string name="prompt_provisioning_progress_wifi">连接到云</string>
+    <string name="prompt_provisioning_progress_online">最终检查</string>
 
-    <string name="prompt_provisioning_connected_device">Wifi ready</string>
-    <string name="prompt_provisioning_connected_wifi">Cloud connected</string>
-    <string name="prompt_provisioning_connected_online">Connected</string>
+    <string name="prompt_provisioning_connected_device">Wifi 准备完毕</string>
+    <string name="prompt_provisioning_connected_wifi">已连接到云</string>
+    <string name="prompt_provisioning_connected_online">已连接</string>
 
-    <string name="title_provisioning_success">Finish</string>
-    <string name="prompt_provisioning_success">Connected!\nYou are all set.</string>
+    <string name="title_provisioning_success">完成</string>
+    <string name="prompt_provisioning_success">已连接！\n你已完成全部设置。</string>
 
 
-    <string name="prompt_sparkfun_thanks_title">Thanks for choosing SparkFun hardware!</string>
+    <string name="prompt_sparkfun_thanks_title"> 感谢选择SparkFun 硬件！</string>
     <string name="prompt_sparkfun_thanks_text1">Enjoy the complimentary</string>
-    <string name="prompt_sparkfun_thanks_text2">15,000 of Energy!</string>
+    <string name="prompt_sparkfun_thanks_text2">15,000 能量!</string>
 
     <string name="prompt_sparkfun_howto_text">1. Power up SparkFun Blynk Board by connecting USB cable to a computer or wall adapter.\n\n2. Check that the board is blinking a four color sequence.\n\n3. Make sure your smartphone is connected to the Internet.</string>
 
@@ -65,35 +65,35 @@
     <string name="prompt_sparkfun_network">Choose WiFi network to connect your device to. For example, your home WiFi</string>
 
     <string name="prompt_sparkfun_network_connecting">Connecting SparkFun Blynk Board to %s</string>
-    <string name="prompt_sparkfun_network_connected">Finished!</string>
-    <string name="prompt_sparkfun_wait">This may take a moment…</string>
+    <string name="prompt_sparkfun_network_connected">已完成!</string>
+    <string name="prompt_sparkfun_wait">请稍等…</string>
     <string name="prompt_sparkfun_network_howto">Questions?\nPlease visit sparkfun.com/blynk</string>
 
     <string name="prompt_sparkfun_start_over">Try starting over.</string>
 
     <string name="prompt_sparkfun_issues">Questions?\nPlease visit sparkfun.com/blynk</string>
 
-    <string name="title_sparkfun_thanks">Congrats!</string>
-    <string name="title_sparkfun_howto">Pre-flight check</string>
+    <string name="title_sparkfun_thanks">恭喜!</string>
+    <string name="title_sparkfun_howto">登机前检查</string>
     <string name="title_sparkfun_device_choose">@string/action_choose_device</string>
-    <string name="title_sparkfun_wifi_connecting">Connecting</string>
-    <string name="title_sparkfun_wifi_connect">Connect to WiFi</string>
-    <string name="title_sparkfun_success">Success</string>
-    <string name="title_sparkfun_finish">Finish</string>
+    <string name="title_sparkfun_wifi_connecting">连接中</string>
+    <string name="title_sparkfun_wifi_connect">连接 WiFi</string>
+    <string name="title_sparkfun_success">成功</string>
+    <string name="title_sparkfun_finish">完成</string>
 
-    <string name="prompt_particle_sim_imei">Input SIM card IMEI number or scan barcode located on the device</string>
-    <string name="prompt_particle_authenticating">Authenticating Device…</string>
-    <string name="prompt_particle_authenticated">Authenticated</string>
-    <string name="error_particle_activated">This SIM card was already activated</string>
-    <string name="prompt_particle_set_device_name">Give Device a meaningful name</string>
-    <string name="action_particle_try_another">Try another SIM card</string>
-    <string name="hint_imei">IMEI Number</string>
+    <string name="prompt_particle_sim_imei">输入SIM卡的IMEI号，或者扫描设备上的条形码</string>
+    <string name="prompt_particle_authenticating">设备授权中…</string>
+    <string name="prompt_particle_authenticated">已授权</string>
+    <string name="error_particle_activated">该SIM卡已经激活</string>
+    <string name="prompt_particle_set_device_name">给设备起个有意义的名字</string>
+    <string name="action_particle_try_another">尝试另一张SIM 卡</string>
+    <string name="hint_imei">IMEI 号</string>
 
-    <string name="action_scan_barcode">Scan Barcode</string>
-    <string name="error_invalid_barcode">Not a valid barcode</string>
-    <string name="action_continue_arrow">Continue&#8594;</string>
-    <string name="action_save_continue_arrow">Save and continue&#8594;</string>
+    <string name="action_scan_barcode">扫描条形码</string>
+    <string name="error_invalid_barcode">非法的条形码</string>
+    <string name="action_continue_arrow">继续&#8594;</string>
+    <string name="action_save_continue_arrow">保存并继续&#8594;</string>
 
-    <string name="error_provisioning_wrong_board">Wrong board</string>
-    <string name="error_provisioning_connect_failed">Could not connect to device\'s Wi-Fi</string>
+    <string name="error_provisioning_wrong_board">错误主板</string>
+    <string name="error_provisioning_connect_failed">无法连接到设备的Wi-Fi</string>
 </resources>
