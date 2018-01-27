@@ -249,7 +249,7 @@
 
     <string name="title_accuracy_picker">Select accuracy</string>
 
-    <string name="title_gps_error_suspened">GPS disconnected</string>
+    <string name="title_gps_error_suspened">GPS 断开连接</string>
     <string name="title_gps_error_connection">GPS 未初始化</string>
     <string name="prompt_gps_error_suspended_network">N网络连接丢失</string>
     <string name="prompt_gps_error_suspended_service">GPS service has been suspended</string>
@@ -320,7 +320,7 @@
 
     <string name="message_ble_not_supported">你的设备不支持BLE</string>
 
-    <string name="action_disconnect">Disconnect</string>
+    <string name="action_disconnect">断开连接</string>
 
     <string name="format_ble_error">无法连接。\n%s</string>
 
@@ -436,7 +436,7 @@
 
     <string name="action_connect_twitter">连接Twitter</string>
     <string name="action_connecting_twitter">连接中…</string>
-    <string name="action_disconnect_twitter">取消连接</string>
+    <string name="action_disconnect_twitter">断开连接</string>
 
     <string name="prompt_twitter_acc">TWITTER 账号</string>
 
