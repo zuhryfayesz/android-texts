@@ -82,7 +82,7 @@
     <string name="error_no_data">No data.</string>
     <string name="error_invalid_token">Please check authentication token</string>
 
-    <string name="error_server_connect_error">Sorry, app could not initialize ssl connection to the server.</string>
+    <string name="error_server_connect_error">Sorry, app could not initialize connection to the server.</string>
     <string name="error_server_read_error_blynk">Something went wrong when connecting to the server. Please check 443 port is open in your network.</string>
     <string name="error_server_read_error_local">Something went wrong when connecting to the server. Please check 9443 port is open in your network.</string>
     <string name="error_server_read_error_port">Something went wrong when connecting to the server. Please check %d port is open in your network.</string>
