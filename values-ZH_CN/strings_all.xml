@@ -170,7 +170,7 @@
     <string name="prompt_help_account">无论您使用哪种设备或操作系统，都需要一个帐户为您提供服务，从世界任何地方都可以可靠和安全的访问您的硬件。\n\n
 如果您需要更多的隐私，可以在本地安装您自己的私人 Blynk 服务器。\n
 它是免费的、开源的、可以在 1 分钟内安装完成。</string>
-    <string name="prompt_help_server">阅读关于私人的 Blynk 服务器</string>
+    <string name="prompt_help_server">阅读关于私人的Blynk服务器</string>
 
     <string name="action_account_help">为什么我需要一个帐户？</string>
     <string name="action_close">关闭</string>

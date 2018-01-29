@@ -128,14 +128,14 @@
     <string name="eventor_elem_turn_off">turn OFF pin</string>
     <string name="eventor_elem_turn_off_highlight">@string/eventor_elem_setpin_highlight</string>
 
-    <string name="eventor_hint_write_message">Type in what to send. You can also use /pin/ to include pin value.\n\nFor example: \"Alert! temperature is below /pin/०C\"</string>
+    <string name="eventor_hint_write_message">输入需要发送的内容，可以用/pin/来引用管脚值。\n\n比如: \"警告! 温度低于 /pin/०C\"</string>
 
     <string name="alert_eventor_notify_push">Please don\'t forget to add Push widget to your project!</string>
-    <string name="alert_eventor_notify_twit">Please don\'t forget to add Twitter widget to your project!</string>
-    <string name="alert_eventor_notify_mail">Please don\'t forget to add Mail widget to your project!</string>
+    <string name="alert_eventor_notify_twit">请不要忘记给你的项目增加Twitter组件!</string>
+    <string name="alert_eventor_notify_mail">请不要忘记给你的项目增加邮件组件！</string>
 
-    <string name="eventor_prompt_ready">Event is ready. Nice!</string>
-    <string name="prompt_eventor_items">Events</string>
+    <string name="eventor_prompt_ready">事件已准备，赞！</string>
+    <string name="prompt_eventor_items">事件</string>
 
     <string name="prompt_rule_active">激活</string>
     <string name="prompt_rule_inactive">Inactive</string>
@@ -621,7 +621,7 @@
     <string name="frequency_ms">毫秒</string>
     <string name="frequency_sec">秒</string>
 
-    <string name="prompt_colors">COLORS</string>
+    <string name="prompt_colors">颜色</string>
 
     <string name="prompt_mode">模式</string>
     <string name="prompt_mode_input">输入</string>
