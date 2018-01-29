@@ -421,7 +421,7 @@
 
     <string name="title_energy_purchases">增加能量</string>
 
-    <string name="prompt_energy_balance">Your Energy Balance</string>
+    <string name="prompt_energy_balance">剩余能量</string>
     <string name="prompt_select_purchase">选择能量包</string>
 
     <string name="title_low_energy">你需要更多能量…</string>
@@ -433,7 +433,7 @@
 
     <string name="title_campaign_reward">十分感谢!</string>
     <string name="prompt_campaign_reward_title">感谢您在Kickstarter上支持我们的活动 %s !</string>
-    <string name="prompt_campaign_reward_text">Enjoy complimentary %s Energy!</string>
+    <string name="prompt_campaign_reward_text">尽情享用赠送的 %s 能量!</string>
     <string name="action_claim_reward">获得%s 能量</string>
 
     <string name="alert_confirm_share_energy">分享出去的能量是无法返回的，你确定吗？</string>

@@ -2,7 +2,7 @@
 
     <string name="action_ready">准备</string>
     <string name="action_begin">开始</string>
-    <string name="action_notnow">Not now</string>
+    <string name="action_notnow">暂不充值</string>
     <string name="action_connect_to_device">连接设备</string>
     <string name="action_setup_device">设置新设备</string>
     <string name="action_choose_device">选择设备</string>

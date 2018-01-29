@@ -1,23 +1,23 @@
 <resources>
     <string name="widget_button_title">按钮</string>
-    <string name="widget_rgb_title">zeRGBa</string>
+    <string name="widget_rgb_title">斑马彩灯</string>
     <string name="widget_slider_title">滑块</string>
     <string name="widget_vertical_slider_title">竖直滑块</string>
     <string name="widget_led_title">LED</string>
     <string name="widget_graph_title">图表</string>
     <string name="widget_display_title">显示数值</string>
     <string name="widget_timer_title">计时器</string>
-    <string name="widget_twitter_title">Twitter</string>
+    <string name="widget_twitter_title">推特</string>
     <string name="widget_terminal_title">终端</string>
-    <string name="widget_gauge_title">Gauge</string>
+    <string name="widget_gauge_title">码表</string>
     <string name="widget_notification_title">通知</string>
-    <string name="widget_mail_title">Email</string>
-    <string name="widget_bridge_title">Bridge</string>
+    <string name="widget_mail_title">邮件</string>
+    <string name="widget_bridge_title">桥</string>
     <string name="widget_rtc_title">实时时钟</string>
     <string name="widget_logger_title">历史图表</string>
     <string name="widget_bluetooth_title">BLE</string>
     <string name="widget_bluetooth_serial_title">蓝牙</string>
-    <string name="widget_eventor_title">Eventor</string>
+    <string name="widget_eventor_title">事件</string>
     <string name="widget_joystick_title">摇杆</string>
     <string name="widget_lcd_title">LCD</string>
     <string name="widget_labeled_display_title">标签值</string>
@@ -26,7 +26,7 @@
     <string name="widget_tabs_title">Tabs</string>
     <string name="widget_player_title">音乐播放器</string>
     <string name="widget_twoaxisjoystick_title">摇杆</string>
-    <string name="widget_time_input_title">Time Input</string>
+    <string name="widget_time_input_title">时间输入</string>
     <string name="widget_webhook_title">WebHook</string>
     <string name="widget_image_title">图片</string>
     <string name="widget_video_title">视频流</string>
@@ -41,10 +41,10 @@
     <string name="widget_gps_trigger_title">GPS触发器</string>
     <string name="widget_map_title">Map</string>
     <string name="widget_device_selector_title">设备选择器</string>
-    <string name="widget_level_display_title">Level H</string>
-    <string name="widget_vertical_level_display_title">Level V</string>
-    <string name="widget_step_title">Step H</string>
-    <string name="widget_vertical_step_title">Step V</string>
+    <string name="widget_level_display_title">水平显示仪</string>
+    <string name="widget_vertical_level_display_title">竖直显示仪</string>
+    <string name="widget_step_title">水平步进按钮</string>
+    <string name="widget_vertical_step_title">数值步进按钮</string>
     <string name="widget_input_field_title">输入框</string>
     <string name="widget_supergraph_title">超级图表</string>
     <string name="widget_device_tiles_title">Device Tiles</string>
@@ -52,22 +52,22 @@
     <string name="format_title_widget_settings">%s 设置</string>
 
     <string name="title_empty_labeled_display">Labeled</string>
-    <string name="title_empty_display">Value</string>
+    <string name="title_empty_display">数值</string>
     <string name="title_empty_light_sensor">光线</string>
     <string name="title_empty_temp_sensor">温度</string>
-    <string name="title_empty_proximity_sensor">Proximity</string>
+    <string name="title_empty_proximity_sensor">接近传感器</string>
     <string name="title_empty_accelerometer_sensor">加速度</string>
     <string name="title_empty_gravity_sensor">重力</string>
     <string name="title_empty_barometer_sensor">气压</string>
     <string name="title_empty_humidity_sensor">湿度</string>
     <string name="title_empty_gps">GPS</string>
     <string name="title_empty_device_selector">选择器</string>
-    <string name="title_empty_level_display">Level</string>
-    <string name="title_empty_step">Step</string>
+    <string name="title_empty_level_display">等级</string>
+    <string name="title_empty_step">步</string>
 
     <!--WIDGETBOX-->
 
-    <string name="title_widgetbox">Widget Box</string>
+    <string name="title_widgetbox">组件箱</string>
 
     <string name="section_controllers">控制器</string>
     <string name="section_displays">显示</string>
@@ -341,7 +341,7 @@
 
     <!--TIMER WIDGET SETTINGS-->
 
-    <string name="prompt_timer_startstop">START/STOP TIMERS</string>
+    <string name="prompt_timer_startstop">开始/停止 定时器</string>
     <string name="prompt_timer_start">开始</string>
     <string name="prompt_timer_stop">停止</string>
 
@@ -388,15 +388,15 @@
 
     <string name="prompt_twoaxisjoystick_pin_description">To access values use:\nx = param[0].asInt();\ny = param[1].asInt();</string>
 
-    <string name="prompt_autoreturn">AUTORETURN</string>
-    <string name="prompt_tilt">ROTATE ON TILT</string>
+    <string name="prompt_autoreturn">自动归位</string>
+    <string name="prompt_tilt">倾斜时旋转</string>
 
     <!--HISTORY GRAPH WIDGET SETTINGS-->
 
     <string name="prompt_no_data">无数据</string>
     <string name="prompt_no_enough_data">暂无数据</string>
 
-    <string name="prompt_show_legend">SHOW LEGEND</string>
+    <string name="prompt_show_legend">显示图例</string>
     <string name="prompt_logdata">显示的数据</string>
 
     <string name="action_clear_history">清除数据</string>
@@ -413,8 +413,8 @@
     <string name="period_1m">1月</string>
     <string name="period_3m">3月</string>
 
-    <string name="auto">AUTO</string>
-    <string name="fixed">CUSTOM</string>
+    <string name="auto">自动</string>
+    <string name="fixed">自定义</string>
 
     <string name="prompt_ycoords">Y-轴 最小/最大</string>
 
@@ -464,7 +464,7 @@
 
     <!--TERMINAL WIDGET SETTINGS-->
 
-    <string name="prompt_input_line">INPUT LINE</string>
+    <string name="prompt_input_line">输入框</string>
     <string name="prompt_auto_scroll">自动滚动</string>
 
     <!--NOTIFICATION WIDGET SETTINGS-->
