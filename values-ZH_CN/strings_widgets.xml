@@ -51,7 +51,7 @@
 
     <string name="format_title_widget_settings">%s 设置</string>
 
-    <string name="title_empty_labeled_display">Labeled</string>
+    <string name="title_empty_labeled_display">标签</string>
     <string name="title_empty_display">数值</string>
     <string name="title_empty_light_sensor">光线</string>
     <string name="title_empty_temp_sensor">温度</string>
@@ -85,14 +85,14 @@
     <string name="action_add_new_event">+ 新增事件</string>
 
     <string name="eventor_trigger_format">当 %s</string>
-    <string name="eventor_trigger_time">Time</string>
+    <string name="eventor_trigger_time">时间</string>
 
-    <string name="eventor_condition_lt">is lower than %s</string>
-    <string name="eventor_condition_gt">is higher than %s</string>
-    <string name="eventor_condition_lte">is lower than or equal to %s</string>
-    <string name="eventor_condition_gte">is higher than or equal to %s</string>
-    <string name="eventor_condition_eq">is equal to %s</string>
-    <string name="eventor_condition_neq">is not equal to %s</string>
+    <string name="eventor_condition_lt">小于 %s</string>
+    <string name="eventor_condition_gt">大于 %s</string>
+    <string name="eventor_condition_lte">小于等于 %s</string>
+    <string name="eventor_condition_gte">大于等于 %s</string>
+    <string name="eventor_condition_eq">等于%s</string>
+    <string name="eventor_condition_neq">不等于 %s</string>
     <string name="eventor_condition_str_eq">is like %s</string>
     <string name="eventor_condition_str_neq">is not like %s</string>
 
@@ -103,8 +103,8 @@
     <string name="eventor_action_notify_highlight">通知</string>
     <string name="eventor_action_notify_collapsed">发送通知</string>
 
-    <string name="eventor_hint_trigger">Tap to choose a pin or a widget that will act as a trigger</string>
-    <string name="eventor_hint_condition">选择条件</string>
+    <string name="eventor_hint_trigger">单击选择虚拟管脚或时间作为事件的触发器</string>
+    <string name="eventor_hint_condition">选择情况</string>
     <string name="eventor_hint_enter_value">输入值</string>
     <string name="eventor_hint_action">选择动作</string>
     <string name="eventor_hint_select_pin">选择管脚</string>
@@ -114,23 +114,23 @@
 
     <string name="eventor_elem_when">当…</string>
     <string name="eventor_elem_when_format">When %s</string>
-    <string name="eventor_elem_when_time_format">At %s</string>
+    <string name="eventor_elem_when_time_format">在 %s</string>
     <string name="eventor_elem_vpin">虚拟管脚值</string>
     <string name="eventor_elem_vpin_highlight">虚拟管脚</string>
 
-    <string name="eventor_elem_setpin">set pin to…</string>
+    <string name="eventor_elem_setpin">将管脚设为…</string>
     <string name="eventor_elem_setpin_highlight">管脚</string>
     <string name="eventor_elem_notify">@string/eventor_action_notify_collapsed</string>
     <string name="eventor_elem_notify_highlight">@string/eventor_action_notify_highlight</string>
 
-    <string name="eventor_elem_turn_on">turn ON pin</string>
+    <string name="eventor_elem_turn_on">开启管脚</string>
     <string name="eventor_elem_turn_on_highlight">@string/eventor_elem_setpin_highlight</string>
-    <string name="eventor_elem_turn_off">turn OFF pin</string>
+    <string name="eventor_elem_turn_off">关闭管脚</string>
     <string name="eventor_elem_turn_off_highlight">@string/eventor_elem_setpin_highlight</string>
 
     <string name="eventor_hint_write_message">输入需要发送的内容，可以用/pin/来引用管脚值。\n\n比如: \"警告! 温度低于 /pin/०C\"</string>
 
-    <string name="alert_eventor_notify_push">Please don\'t forget to add Push widget to your project!</string>
+    <string name="alert_eventor_notify_push">请不要忘记给你的项目增加一个按钮组件Push组件！</string>
     <string name="alert_eventor_notify_twit">请不要忘记给你的项目增加Twitter组件!</string>
     <string name="alert_eventor_notify_mail">请不要忘记给你的项目增加邮件组件！</string>
 
@@ -138,8 +138,8 @@
     <string name="prompt_eventor_items">事件</string>
 
     <string name="prompt_rule_active">激活</string>
-    <string name="prompt_rule_inactive">Inactive</string>
-    <string name="format_rule_index">Event %d</string>
+    <string name="prompt_rule_inactive">禁用</string>
+    <string name="format_rule_index">事件 %d</string>
     <string name="title_new_rule">新事件</string>
 
     <string name="eventor_time_everyday">每天</string>
@@ -153,60 +153,60 @@
 
     <string name="eventor_additional_action_prefix">also</string>
 
-    <string name="eventor_action_twit">send tweet: %s</string>
-    <string name="eventor_action_twit_highlight">tweet</string>
-    <string name="eventor_action_twit_collapsed">send tweet</string>
+    <string name="eventor_action_twit">发送推文: %s</string>
+    <string name="eventor_action_twit_highlight">推文</string>
+    <string name="eventor_action_twit_collapsed">发送推文</string>
 
     <string name="eventor_elem_twit">@string/eventor_action_twit_collapsed</string>
     <string name="eventor_elem_twit_highlight">@string/eventor_action_twit_highlight</string>
 
-    <string name="eventor_mail_subject_default">Eventor event triggered</string>
+    <string name="eventor_mail_subject_default">事件已触发</string>
 
     <string name="eventor_elem_mail">发送 e-mail</string>
     <string name="eventor_elem_mail_highlight">e-mail</string>
 
-    <string name="eventor_action_mail">发送主题邮件 \"Eventor event triggered\" and message: %s</string>
+    <string name="eventor_action_mail">发送主题邮件 \"事件已触发\" 消息内容: %s</string>
     <string name="eventor_action_mail_highlight">@string/eventor_elem_mail_highlight</string>
-    <string name="eventor_action_mail_collapsed">send e-mail with subject \"Eventor event triggered\"</string>
+    <string name="eventor_action_mail_collapsed">发送主题邮件\"事件已触发\"</string>
 
     <string name="eventor_multiple_actions_format">- %s</string>
 
     <!--TABLE WIDGET SETTINGS-->
 
-    <string name="title_table_columns">Columns</string>
+    <string name="title_table_columns">列</string>
     <string name="title_table_reordering">允许重排</string>
     <string name="title_table_clickable">Clickable rows</string>
 
-    <string name="alert_table_columns">Set up columns</string>
-    <string name="table_column_name">name</string>
-    <string name="table_column_value">value</string>
+    <string name="alert_table_columns">设置列</string>
+    <string name="table_column_name">名字</string>
+    <string name="table_column_value">数值</string>
     <string name="table_column_icon">图标</string>
     <string name="table_column_empty">&lt;空&gt;</string>
     <string name="table_column_separtor">|</string>
 
-    <string name="prompt_table_pin_desc">Example:\ntable.addRow(id, column, value)\ntable.addRow(1, name, "temp")</string>
+    <string name="prompt_table_pin_desc">举例:\ntable.addRow(id, column, value)\ntable.addRow(1, name, "temp")</string>
 
     <!--TIME INPUT WIDGET SETTINGS-->
 
     <string name="title_selection_format">格式</string>
-    <string name="title_selection_startstop">Allow start/stop input</string>
-    <string name="title_selection_daysofweek">Allow day of week selection</string>
+    <string name="title_selection_startstop">允许输入 开始/结束时间</string>
+    <string name="title_selection_daysofweek">允许按星期选择</string>
     <string name="title_selection_sunsetsunrise">允许选择日落/日出</string>
     <string name="title_selection_timezone">允许选择时区</string>
 
     <string name="title_set_time">设置时间</string>
-    <string name="title_select_day">Choose days of the week</string>
-    <string name="title_select_start">始于</string>
+    <string name="title_select_day">选择一周中的某几天</string>
+    <string name="title_select_start">开始于</string>
     <string name="title_select_stop">结束于</string>
     <string name="title_select_timezone">时区</string>
 
-    <string name="monday">周一</string>
-    <string name="tuesday">周二</string>
-    <string name="wednesday">周三</string>
-    <string name="thusday">周四</string>
-    <string name="friday">周五</string>
-    <string name="saturday">周六</string>
-    <string name="sunday">周日</string>
+    <string name="monday">一</string>
+    <string name="tuesday">二</string>
+    <string name="wednesday">三</string>
+    <string name="thusday">四</string>
+    <string name="friday">五</string>
+    <string name="saturday">六</string>
+    <string name="sunday">日</string>
 
     <string name="sunset">日落</string>
     <string name="sunrise">日出</string>
@@ -214,48 +214,48 @@
     <!--WEBHOOK WIDGET SETTINGS-->
 
     <string name="prompt_method">方法</string>
-    <string name="prompt_content_type">Content Type</string>
+    <string name="prompt_content_type">内容类型</string>
     <string name="prompt_url">Url</string>
-    <string name="prompt_body">Body</string>
+    <string name="prompt_body">发送内容</string>
 
-    <string name="title_content_type_picker">Select Content Type</string>
+    <string name="title_content_type_picker">选择内容类型</string>
 
     <string name="webhook_toast_url_malformed">URL格式错误。 请以 http:// 或https://开头。</string>
     <string name="webhook_toast_body_malformed">Body json malformed</string>
-    <string name="webhook_hint_url">Use /pin/ or %s to insert pin data</string>
-    <string name="webhook_hint_body">Use /pin/ to insert pin data</string>
+    <string name="webhook_hint_url">使用 /pin/ 或 %s 插入针脚数据</string>
+    <string name="webhook_hint_body">使用 /pin/ 插入针脚数据</string>
 
     <!--GPS WIDGETS SETTINGS-->
 
     <string name="edit_title_trigger">TRIGGER WHEN</string>
-    <string name="edit_battery">BATTERY CONSUMPTION</string>
+    <string name="edit_battery">电池消耗</string>
     <string name="trigger_enter">ENTER</string>
     <string name="trigger_exit">EXIT</string>
     <string name="mode_stream">STREAM</string>
-    <string name="mode_trigger">TRIGGER</string>
+    <string name="mode_trigger">触发器</string>
     <string-array name="gps_descriptions">
         <item>GPS.getLat()</item>
         <item>GPS.getLon()</item>
         <item>GPS.getAltitude()</item>
         <item>GPS.getSpeed()</item>
     </string-array>
-    <string name="gps_accuracy_high">High Accuracy</string>
-    <string name="gps_accuracy_low">低电量</string>
-    <string name="gps_accuracy_balanced">Balanced</string>
+    <string name="gps_accuracy_high">高精度</string>
+    <string name="gps_accuracy_low">低耗电</string>
+    <string name="gps_accuracy_balanced">平衡</string>
 
-    <string name="prompt_radius" formatted="false">Radius: %s%s</string>
+    <string name="prompt_radius" formatted="false">角度: %s%s</string>
     <string name="format_meter">米</string>
     <string name="format_kilometer">千米</string>
 
-    <string name="title_accuracy_picker">Select accuracy</string>
+    <string name="title_accuracy_picker">选择精度</string>
 
     <string name="title_gps_error_suspened">GPS 断开连接</string>
     <string name="title_gps_error_connection">GPS 未初始化</string>
     <string name="prompt_gps_error_suspended_network">N网络连接丢失</string>
-    <string name="prompt_gps_error_suspended_service">GPS service has been suspended</string>
+    <string name="prompt_gps_error_suspended_service">GPS 服务中断</string>
 
-    <string name="title_interval">UPDATE INTERVAL</string>
-    <string name="title_select_interval">Select Interval</string>
+    <string name="title_interval">更新间隔</string>
+    <string name="title_select_interval">选择间隔时间</string>
 
     <!--SENSORS WIDGET SETTINGS-->
 
@@ -297,7 +297,7 @@
 
     <string name="video_url_empty">无可用视频流:(</string>
     
-    <string name="prompt_video_setup">Tap here to specify video stream URL</string>
+    <string name="prompt_video_setup">单击此处验证视频流URL。</string>
 
     <!--BLE&BLUETOOTH WIDGET SETTINGS-->
 
@@ -316,7 +316,7 @@
     <string name="prompt_ble_not_paired">项目尚未连接到蓝牙设备。</string>
     <string name="prompt_ble_login_failed">设备尚未连接，请检查授权码是否正确。</string>
 
-    <string name="prompt_stop_ble_project">Another bluetooth connected project is active. Stop it?</string>
+    <string name="prompt_stop_ble_project">另一个连接在此项目上的蓝牙设备处于激活状态，是否要停止它？</string>
 
     <string name="message_ble_not_supported">你的设备不支持BLE</string>
 
@@ -332,7 +332,7 @@
     <string name="prompt_no_ble_device">无BLE设备</string>
     <string name="prompt_no_bluetooth_device">无蓝牙设备</string>
 
-    <string name="alert_ble_bluetooth_confirm">This will reset the connection in this widget.</string>
+    <string name="alert_ble_bluetooth_confirm">浙江重置该组件的连接。</string>
 
     <string name="prompt_not_supported_with_tiles">Not supported with Device Tiles</string>
     <!--LABELED DISPLAY WIDGET SETTINGS-->
@@ -350,32 +350,32 @@
 
     <!--MENU WIDGET SETTINGS-->
 
-    <string name="prompt_menu_pin_desc">When list item is selected, its\’ [index] will be sent to the pin</string>
-    <string name="prompt_menu_pin_hightlight">[index]</string>
+    <string name="prompt_menu_pin_desc">当列表中的项目被选中，其[索引]将会被发送到管脚</string>
+    <string name="prompt_menu_pin_hightlight">[索引]</string>
 
-    <string name="prompt_menu_hint">Hint Text</string>
+    <string name="prompt_menu_hint">提示文本</string>
     <string name="prompt_menu_edit_hint">请选择...</string>
     <string name="prompt_menu_edit_item_1">项目1</string>
     <string name="prompt_menu_edit_item_2">项目2</string>
 
-    <string name="prompt_menu_items">Menu Items</string>
-    <string name="format_menu_item_hint">Item %s</string>
-    <string name="action_add_menu_item">+ Add item</string>
+    <string name="prompt_menu_items">菜单项</string>
+    <string name="format_menu_item_hint">项目 %s</string>
+    <string name="action_add_menu_item">+ 增加项目</string>
 
     <!--TABS WIDGET SETTINGS-->
 
-    <string name="prompt_tabs_items">Tabs</string>
-    <string name="format_tabs_item_hint">Tab %d</string>
-    <string name="action_add_tabs_item">+ Add Tab</string>
+    <string name="prompt_tabs_items">标签</string>
+    <string name="format_tabs_item_hint">标签 %d</string>
+    <string name="action_add_tabs_item">+ 增加标签</string>
 
-    <string name="alert_confirm_tab_remove">All widgets on this page will be deleted.\nThis cannot be undone</string>
-    <string name="alert_confirm_tabs_remove">Only widgets on first page will be left.\nThis cannot be undone</string>
+    <string name="alert_confirm_tab_remove">在该页上的所有组件将会被删除。\n该操作不可撤销。</string>
+    <string name="alert_confirm_tabs_remove">只有第一页上的组件会被删除。\n该操作不可撤销。</string>
 
     <!--RGB WIDGET SETTINGS-->
 
-    <string name="prompt_red">R</string>
-    <string name="prompt_green">G</string>
-    <string name="prompt_blue">B</string>
+    <string name="prompt_red">红</string>
+    <string name="prompt_green">绿</string>
+    <string name="prompt_blue">蓝</string>
     <string name="prompt_rgb_pin_description">r = param[0].asInt();\ng = param[1].asInt();\nb = param[2].asInt();</string>
 
     <!--TERMINAL WIDGET SETTINGS-->
@@ -386,7 +386,7 @@
 
     <!--JOYSTICK WIDGET SETTINGS-->
 
-    <string name="prompt_twoaxisjoystick_pin_description">To access values use:\nx = param[0].asInt();\ny = param[1].asInt();</string>
+    <string name="prompt_twoaxisjoystick_pin_description">获取数据方法:\nx = param[0].asInt();\ny = param[1].asInt();</string>
 
     <string name="prompt_autoreturn">自动归位</string>
     <string name="prompt_tilt">倾斜时旋转</string>
@@ -429,16 +429,16 @@
 
     <string name="prompt_message">消息</string>
 
-    <string name="prompt_mode_simple">SIMPLE</string>
+    <string name="prompt_mode_simple">简单</string>
     <string name="prompt_mode_advanced">高级</string>
 
     <!--TWITTER WIDGET SETTINGS-->
 
-    <string name="action_connect_twitter">连接Twitter</string>
+    <string name="action_connect_twitter">连接推特</string>
     <string name="action_connecting_twitter">连接中…</string>
     <string name="action_disconnect_twitter">断开连接</string>
 
-    <string name="prompt_twitter_acc">TWITTER 账号</string>
+    <string name="prompt_twitter_acc">推特账号</string>
 
     <string name="prompt_twitter_connected">%s 已连接</string>
 
@@ -452,7 +452,7 @@
     <string name="mode_graph_type_bar">BAR</string>
     <string name="mode_graph_type_line">LINE</string>
 
-    <string name="prompt_style">STYLE</string>
+    <string name="prompt_style">类型</string>
 
     <!--GAUGE WIDGET SETTINGS-->
 
@@ -473,10 +473,10 @@
     <string name="prompt_priority">优先级</string>
     <string name="prompt_notify_offline_timeout">Offline ignore period</string>
 
-    <string name="mode_normal">NORMAL</string>
-    <string name="mode_high">HIGH</string>
+    <string name="mode_normal">普通</string>
+    <string name="mode_high">高</string>
 
-    <string name="prompt_notify_instant">Instant</string>
+    <string name="prompt_notify_instant">立即</string>
     <string name="prompt_sound">声音</string>
 
     <string name="prompt_select_sound">选择声音</string>
@@ -489,7 +489,7 @@
 
     <!-- LEVEL DISPLAY WIDGET SETTINGS -->
 
-    <string name="prompt_flip_axis">Flip Axis</string>
+    <string name="prompt_flip_axis">反向</string>
 
     <!-- STEP SETTINGS -->
 
@@ -520,10 +520,10 @@
     <string name="prompt_hide">隐藏</string>
 
     <string name="prompt_title">标题</string>
-    <string name="prompt_legend">Legend</string>
-    <string name="prompt_y_values">Y-axis values</string>
-    <string name="prompt_x_values">Show X-axis (Time)</string>
-    <string name="prompt_allow_fullscreen">Allow full screen mode</string>
+    <string name="prompt_legend">图例</string>
+    <string name="prompt_y_values">Y轴数值</string>
+    <string name="prompt_x_values">显示X轴(时间)</string>
+    <string name="prompt_allow_fullscreen">允许全屏模式</string>
 
     <string name="prompt_goal_line">Goal line</string>
     <string name="hint_goal_line">无数据</string>
@@ -535,10 +535,10 @@
 
     <string name="title_select_stacking">@string/prompt_stacking</string>
 
-    <string name="prompt_design">Design</string>
-    <string name="format_style">Style: %s</string>
-    <string name="style_line">Line</string>
-    <string name="style_area">Area</string>
+    <string name="prompt_design">设计</string>
+    <string name="format_style">样式: %s</string>
+    <string name="style_line">线</string>
+    <string name="style_area">面</string>
     <string name="style_bar">Bar</string>
     <string name="style_binary">Binary</string>
 
@@ -547,22 +547,22 @@
     <string name="hint_math">例: (/pin/*2)/6</string>
     <string name="prompt_suffix">后缀</string>
     <string name="hint_suffix">°C</string>
-    <string name="prompt_smoothing">Smoothing</string>
-    <string name="prompt_connect_missing">Connect missing data points</string>
+    <string name="prompt_smoothing">光滑</string>
+    <string name="prompt_connect_missing">连接无数据的点</string>
     <string name="prompt_y_axis">Y-轴</string>
     
-    <string name="prompt_y_axis_strict">values</string>
-    <string name="prompt_y_axis_percent">height, %</string>
+    <string name="prompt_y_axis_strict">数值</string>
+    <string name="prompt_y_axis_percent">高度, %</string>
 
     <string name="hint_flip">FLIP</string>
 
     <string name="prompt_state_labels">状态标签</string>
-    <string name="prompt_true">True</string>
-    <string name="prompt_false">False</string>
+    <string name="prompt_true">是</string>
+    <string name="prompt_false">否</string>
 
-    <string name="hint_formula">Formula</string>
-    <string name="title_select_formula">Select formula</string>
-    <string name="title_actions">Actions</string>
+    <string name="hint_formula">公式</string>
+    <string name="title_select_formula">选择公式</string>
+    <string name="title_actions">动作</string>
 
     <string name="toast_no_data_range">No data for older range</string>
 
@@ -572,8 +572,8 @@
     <string name="format_template">模板 %s</string>
     <string name="hint_template">新建模板</string>
 
-    <string name="title_columns_num">Number of columns</string>
-    <string name="title_rows_num">Number of rows</string>
+    <string name="title_columns_num">列数</string>
+    <string name="title_rows_num">行数</string>
 
     <string name="title_template_name">模板名称</string>
     <string name="prompt_template_name">Every click on the tile with the device named \"Sensor Model A\" will open similar page template</string>
@@ -586,10 +586,10 @@
 
     <string name="action_new_template">新增页</string>
 
-    <string name="hint_template_value_name">None</string>
+    <string name="hint_template_value_name">无</string>
     <string name="hint_template_value_suffix">如: ºC</string>
 
-    <string name="prompt_dynamic">Dynamic</string>
+    <string name="prompt_dynamic">动态</string>
 
     <string name="prompt_tile_design">Tile Design</string>
     <string name="title_template_devices">Apply Template to</string>
@@ -601,7 +601,7 @@
     <string name="sort_name_desc">名称: Z-A</string>
     <string name="sort_type_asc">设备类型 \u2193</string>
     <string name="sort_type_desc">设备类型 \u2191</string>
-    <string name="sort_manual">Manual</string>
+    <string name="sort_manual">手动</string>
 
     <string name="empty">--</string>
 
@@ -615,8 +615,8 @@
     <string name="prompt_orientation">ORIENTATION</string>
     <string name="pin_default">PIN</string>
 
-    <string name="prompt_reading_frequency">READING RATE</string>
-    <string name="prompt_write_frequency">WRITE INTERVAL</string>
+    <string name="prompt_reading_frequency">读取频率</string>
+    <string name="prompt_write_frequency">写入间隔</string>
     <string name="frequency_default">PUSH</string>
     <string name="frequency_ms">毫秒</string>
     <string name="frequency_sec">秒</string>
@@ -640,17 +640,17 @@
 
     <string name="prompt_cover">SOON</string>
 
-    <string name="mode_push">PUSH</string>
-    <string name="mode_switch">SWITCH</string>
+    <string name="mode_push">按下</string>
+    <string name="mode_switch">切换</string>
 
-    <string name="mode_split">SPLIT</string>
-    <string name="mode_merge">MERGE</string>
+    <string name="mode_split">分离</string>
+    <string name="mode_merge">合并</string>
 
-    <string name="action_text_color">T</string>
+    <string name="action_text_color">颜色</string>
 
-    <string name="prompt_label">Label</string>
+    <string name="prompt_label">标签</string>
 
-    <string name="prompt_send_on_release">Send on Release</string>
+    <string name="prompt_send_on_release">松开后发送</string>
 
     <string name="prompt_target">目标</string>
     <string name="prompt_source">源</string>
@@ -665,8 +665,8 @@
 
     <string name="homescreen_widget_button">@string/widget_button_title</string>
     <string name="homescreen_widget_led">@string/widget_led_title</string>
-    <string name="homescreen_widget_valuedisplay">Value Display</string>
-    <string name="homescreen_widget_labeledvalue">Labeled Value</string>
+    <string name="homescreen_widget_valuedisplay">数值显示</string>
+    <string name="homescreen_widget_labeledvalue">标签值</string>
 
     <string name="format_add_homescreen_widget">添加 %s 组件</string>
 
