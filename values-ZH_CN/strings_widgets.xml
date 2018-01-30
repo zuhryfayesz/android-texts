@@ -71,26 +71,15 @@
 
     <string name="section_controllers">控制器</string>
     <string name="section_displays">显示</string>
-<<<<<<< HEAD
-    <string name="section_sensors">Smartphone Sensors</string>
-    <string name="section_notifications">通知</string>
-    <string name="section_other">Other</string>
-    <string name="section_interface">界面</string>
-=======
     <string name="section_sensors">手机传感器</string>
     <string name="section_notifications">通知</string>
     <string name="section_other">其他</string>
     <string name="section_interface">Interface</string>
->>>>>>> b86d1cc72e56ec168720587021a8754558ed9d33
     <string name="section_device_management">设备管理</string>
 
     <string name="prompt_installed">已安装</string>
     <string name="prompt_widget_not_supported">你的设备不支持</string>
-<<<<<<< HEAD
-    <string name="prompt_widget_conflict">Doesn\'t work with %s. Yet.</string>
-=======
     <string name="prompt_widget_conflict">无法工作%s。</string>
->>>>>>> b86d1cc72e56ec168720587021a8754558ed9d33
 
     <!--EVENT WIDGET SETTINGS-->
     <string name="action_add_new_event">+ 新增事件</string>
@@ -108,29 +97,17 @@
     <string name="eventor_condition_str_neq">is not like %s</string>
 
     <string name="eventor_action_setpin" formatted="false">set %s to %s</string>
-<<<<<<< HEAD
-    <string name="eventor_action_turn_on">打开 %s</string>
-    <string name="eventor_action_turn_off">关闭%s</string>
-=======
     <string name="eventor_action_turn_on">开启 %s</string>
     <string name="eventor_action_turn_off">关闭 %s</string>
->>>>>>> b86d1cc72e56ec168720587021a8754558ed9d33
     <string name="eventor_action_notify">发送通知: %s</string>
     <string name="eventor_action_notify_highlight">通知</string>
     <string name="eventor_action_notify_collapsed">发送通知</string>
 
     <string name="eventor_hint_trigger">Tap to choose a pin or a widget that will act as a trigger</string>
-<<<<<<< HEAD
-    <string name="eventor_hint_condition">Choose a condition</string>
-    <string name="eventor_hint_enter_value">输入值</string>
-    <string name="eventor_hint_action">选择动作</string>
-    <string name="eventor_hint_select_pin">选择针脚</string>
-=======
     <string name="eventor_hint_condition">选择条件</string>
     <string name="eventor_hint_enter_value">输入值</string>
     <string name="eventor_hint_action">选择动作</string>
     <string name="eventor_hint_select_pin">选择管脚</string>
->>>>>>> b86d1cc72e56ec168720587021a8754558ed9d33
     <string name="eventor_hint_set_value">设置值</string>
 
     <string name="eventor_hint_select_time">选择时间</string>
@@ -138,13 +115,8 @@
     <string name="eventor_elem_when">当…</string>
     <string name="eventor_elem_when_format">When %s</string>
     <string name="eventor_elem_when_time_format">At %s</string>
-<<<<<<< HEAD
-    <string name="eventor_elem_vpin">虚拟针脚值</string>
-    <string name="eventor_elem_vpin_highlight">虚拟针脚</string>
-=======
     <string name="eventor_elem_vpin">虚拟管脚值</string>
     <string name="eventor_elem_vpin_highlight">虚拟管脚</string>
->>>>>>> b86d1cc72e56ec168720587021a8754558ed9d33
 
     <string name="eventor_elem_setpin">set pin to…</string>
     <string name="eventor_elem_setpin_highlight">管脚</string>
@@ -162,32 +134,18 @@
     <string name="alert_eventor_notify_twit">请不要忘记给你的项目增加Twitter组件!</string>
     <string name="alert_eventor_notify_mail">请不要忘记给你的项目增加邮件组件！</string>
 
-<<<<<<< HEAD
-    <string name="eventor_prompt_ready">事件已经准备完成，赞！</string>
-    <string name="prompt_eventor_items">事件</string>
-
-    <string name="prompt_rule_active">激活</string>
-    <string name="prompt_rule_inactive">禁用</string>
-=======
     <string name="eventor_prompt_ready">事件已准备，赞！</string>
     <string name="prompt_eventor_items">事件</string>
 
     <string name="prompt_rule_active">激活</string>
     <string name="prompt_rule_inactive">Inactive</string>
->>>>>>> b86d1cc72e56ec168720587021a8754558ed9d33
     <string name="format_rule_index">Event %d</string>
     <string name="title_new_rule">新事件</string>
 
     <string name="eventor_time_everyday">每天</string>
-<<<<<<< HEAD
-    <string name="eventor_time_workingdays">周一-周五</string>
-
-    <string name="eventor_delete_confirm">确定要删除事件吗？该操作不可撤销。</string>
-=======
     <string name="eventor_time_workingdays">周一到周五</string>
 
     <string name="eventor_delete_confirm">删除事件？该操作无法撤销。</string>
->>>>>>> b86d1cc72e56ec168720587021a8754558ed9d33
 
     <string name="eventor_device_change_confirm">在新设备中无法使用的管脚规则都将被删除，确定吗？</string>
 
@@ -304,11 +262,7 @@
     <string-array name="accelerometer_descriptions">
         <item>X 轴</item>
         <item>Y 轴</item>
-<<<<<<< HEAD
-        <item>Z </item>
-=======
         <item>Z 轴</item>
->>>>>>> b86d1cc72e56ec168720587021a8754558ed9d33
     </string-array>
 
     <string-array name="gravity_descriptions">
@@ -445,21 +399,12 @@
     <string name="prompt_show_legend">显示图例</string>
     <string name="prompt_logdata">显示的数据</string>
 
-<<<<<<< HEAD
-    <string name="action_clear_history">擦除数据</string>
-    <string name="alert_confirm_clear_history">你确定要擦除数据吗?</string>
-
-    <string name="alert_export_title">导出数据</string>
-    <string name="alert_export_message">CSV文件发送到你的邮箱</string>
-    <string name="action_export_history">导出CSV</string>
-=======
     <string name="action_clear_history">清除数据</string>
     <string name="alert_confirm_clear_history">你确定要清除数据吗？</string>
 
     <string name="alert_export_title">导出数据</string>
     <string name="alert_export_message">CSV 文件将会发送到你的邮箱中。</string>
     <string name="action_export_history">导出到CSV文件</string>
->>>>>>> b86d1cc72e56ec168720587021a8754558ed9d33
 
     <string name="period_1h">1小时</string>
     <string name="period_6h">6小时</string>

@@ -13,21 +13,12 @@
 
     <string name="share_message_title">检查我做的app %s。</string>
     <string name="share_message_text" formatted="false">
-<<<<<<< HEAD
-        您好,\n\n
-        我们已经开发好app %s 。欢迎使用！\n\n
-       下载使用:\n
-        1. 下载 Blynk App: http://j.mp/blynk_Android 或 http://j.mp/blynk_iOS\n
-        2. Touch the QR icon and point the camera to the code below\n
-        3. Enjoy my app!
-=======
         嗨,\n\n
-        我制作了一个app %s。 欢迎使用哦!\n\n
+        我们已经开发好app %s。 欢迎使用哦!\n\n
         使用方法:\n
         1. 下载 Blynk App: http://j.mp/blynk_Android 或者 http://j.mp/blynk_iOS\n
         2. 点击二维码图标，用手机扫描下方二维码\n
         3. 尽情享用我制作的APP吧!
->>>>>>> b86d1cc72e56ec168720587021a8754558ed9d33
     </string>
     <string name="share_message_text_url" formatted="false">
         嗨,\n\n

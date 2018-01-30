@@ -13,30 +13,22 @@
     <string name="action_continue">继续</string>
     <string name="action_cancel">取消</string>
     <string name="action_logout">注销</string>
-
     <string name="action_save">保存</string>
     <string name="action_create_account">建立新帐户</string>
     <string name="action_create_project">建立新项目</string>
     <string name="action_scan_qr">扫描二维码</string>
     <string name="action_clone">克隆</string>
     <string name="action_generate_link">生成链接</string>
-
     <string name="action_exit">退出</string>
-
     <string name="action_upgrade_app">更新应用</string>
-
     <string name="action_reset">重置</string>
-
     <string name="action_done">完成</string>
-
     <string name="title_project">新项目</string>
-
     <string name="title_pin_picker">选择引脚</string>
     <string name="title_time_picker">选择时间</string>
     <string name="title_hardware_picker">选择您的硬件</string>
     <string name="title_frequency_picker">请求的频率</string>
     <string name="title_themes_picker">选择主题</string>
-
     <string name="prompt_widget_info_not_available">此部件的文档不可用</string>
 
     <string name="alert_logout_confirm">您确定要退出吗？</string>
@@ -386,91 +378,42 @@
     <string name="tutorial_share_text_2">他们将需要下载 Blynk 应用程序</string>
     <string name="tutorial_share_title_3">您每次更新项目时，您的用户信息会被即时更新！</string>
     <string name="tutorial_share_text_3">您可以通过使用本地 Blynk 服务器实现最大化性能和安全性。\n它容易使用并且免费。</string>
-
     <!--PERMISSIONS-->
-
     <string name="prompt_gps_permission">我们需要使用您手机的 GPS 才能启用定位的功能。</string>
     <string name="prompt_wifi_location_permission">Blynk 需要扫描您周围的 WiFi 网络，这是 Android 系统的要求。</string>
     <string name="prompt_ble_location_permission">Blynk 需要扫描您周围的蓝牙设备，这是 Android 系统的要求。</string>
     <string name="action_grant_permission">给予授权</string>
-
     <string name="error_permission_network_state">未授权 Blynk 应用程序访问当前网络状态的权限。这可能导致工作异常。</string>
     <string name="error_permission_internet">未授权 Blynk 应用程序访问互联网的权限。这会导致功能无法使用。</string>
     <string name="error_permission_bluetooth">未授权 Blynk 应用程序访问蓝牙的权限。这会导致功能无法使用。</string>
     <string name="error_permission_camera">未授权 Blynk 应用程序访问相机的权限。这会导致功能无法使用。</string>
-
     <!--ENERGY & BILLING-->
-
     <string name="title_purchase_not_inited">帐单未初始化</string>
     <string name="title_purchase_failed">支付失败</string>
-
     <string name="prompt_purchase_not_inited">购买尚未初始化</string>
-<<<<<<< HEAD
-    <string name="prompt_purchase_failed">请更新您的Play Store和谷歌服务 apps，然后再重试。\n此外，应用内购买可能无法在您的国家/地区提供。\n\n如果问题依然存在，您可以与我们联系。</string>
-=======
     <string name="prompt_purchase_failed">请更新您的Play Store和谷歌服务app。\n 可能您所在的国家/地区无法使用支付服务。\n\n如果问题依然存在，您可以与我们取得联系。</string>
->>>>>>> b86d1cc72e56ec168720587021a8754558ed9d33
     <string name="prompt_google_services">Google 服务</string>
-
-
     <string name="prompt_battery_unlimited">无限制</string>
-<<<<<<< HEAD
     <string name="prompt_battery_enjoy"> 已添加，尽情享受吧!</string>
     <string name="action_add">+ 添加</string>
-=======
-    <string name="prompt_battery_enjoy"> 已添加。享用吧！</string>
-    <string name="action_add">+ 增加</string>
->>>>>>> b86d1cc72e56ec168720587021a8754558ed9d33
     <string name="action_buy">购买</string>
     <string name="inform_energy_not_enough">没有足够能量</string>
-
     <string name="format_price">$%s</string>
     <string name="format_energy"> x %s</string>
     <string name="prompt_free">免费</string>
-
     <string name="title_energy_purchases">增加能量</string>
-
-<<<<<<< HEAD
-    <string name="prompt_energy_balance">Your Energy Balance</string>
-    <string name="prompt_select_purchase">选择能量包</string>
-
-    <string name="title_low_energy">你需要更多能量...</string>
-    <string name="action_add_energy">+ 增加能量</string>
-
-    <string name="title_energy_tutorial">能量工作原理</string>
-    <string name="prompt_energy_tutorial">每个组件都需要能量来操作。\n\n当你删除组件后能量会回充。\n\n你可以在我们的商店中购买更多能量。</string>
-    <string name="action_energy_tutorial_ok">酷! Got it.</string>
-
-    <string name="title_campaign_reward">十分感谢!</string>
-    <string name="prompt_campaign_reward_title">感谢您在Kickstarter上支持我们的 %s  活动!</string>
-    <string name="prompt_campaign_reward_text">享受免费的%s 能量!</string>
-    <string name="action_claim_reward">获得 %s 能量</string>
-
-    <string name="alert_confirm_share_energy">共享出去的能量是不可回收的，不可退回的，你确定吗？</string>
-
-    <string name="prompt_energy_drain_option">启用此选项会在未连接电源时耗尽电池电量。</string>
-
-    <string name="prompt_low_storage_gs">由于设备存储空间不足，无法下载相关Google服务。</string>
-=======
     <string name="prompt_energy_balance">剩余能量</string>
     <string name="prompt_select_purchase">选择能量包</string>
-
     <string name="title_low_energy">你需要更多能量…</string>
     <string name="action_add_energy">+ 增加能量</string>
-
     <string name="title_energy_tutorial">能量原理</string>
     <string name="prompt_energy_tutorial">每个组件需要使用能量\n\n当组件删除时能量就会返回。\n\n您可以在我们的商店中购买能量。</string>
     <string name="action_energy_tutorial_ok">酷! 得到啦.</string>
-
     <string name="title_campaign_reward">十分感谢!</string>
     <string name="prompt_campaign_reward_title">感谢您在Kickstarter上支持我们的活动 %s !</string>
     <string name="prompt_campaign_reward_text">尽情享用赠送的 %s 能量!</string>
     <string name="action_claim_reward">获得%s 能量</string>
-
     <string name="alert_confirm_share_energy">分享出去的能量是无法返回的，你确定吗？</string>
-
     <string name="prompt_energy_drain_option">开启此选项，如果不连接电源将耗尽您的电池。</string>
-
     <string name="prompt_low_storage_gs">您的设备存储空间不足，无法下载谷歌相关服务。</string>
->>>>>>> b86d1cc72e56ec168720587021a8754558ed9d33
 </resources>

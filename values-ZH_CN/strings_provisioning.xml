@@ -2,18 +2,12 @@
 
     <string name="action_ready">准备</string>
     <string name="action_begin">开始</string>
-<<<<<<< HEAD
-    <string name="action_notnow">Not now</string>
-=======
     <string name="action_notnow">暂不充值</string>
->>>>>>> b86d1cc72e56ec168720587021a8754558ed9d33
     <string name="action_connect_to_device">连接设备</string>
     <string name="action_setup_device">设置新设备</string>
     <string name="action_choose_device">选择设备</string>
     <string name="action_start_over">Start over</string>
     <string name="action_choose_device_network">选择设备网络</string>
-
-<<<<<<< HEAD
     <string name="alert_wifi_location_enable">请开启无线网络扫描服务。</string>
 
     <string name="alert_select_wifi">请选择无线网络</string>
@@ -24,32 +18,13 @@
     <string name="prompt_provisioning_wifi_scan_empty">无可用网络</string>
 
     <string name="prompt_provisioning">你需要设置新设备</string>
-=======
-    <string name="alert_wifi_location_enable">请开启WIFI扫描服务。</string>
-
-    <string name="alert_select_wifi">请选择WiFi网络</string>
-    <string name="alert_select_device">请选择合适的WiFi网络</string>
-
-    <string name="prompt_wifi_ap">请关闭无线热点功能，才能扫描Wi-Fi网络。</string>
-    <string name="prompt_wifi_scan_empty">扫描无结果</string>
-    <string name="prompt_provisioning_wifi_scan_empty">无可用网络</string>
-
-    <string name="prompt_provisioning">你需要设置你的设备</string>
->>>>>>> b86d1cc72e56ec168720587021a8754558ed9d33
-
     <string name="title_provisioning_welcome">欢迎！</string>
 
     <string name="title_provisioning_howto">将设备连接到\n WiFi网络</string>
     <string name="prompt_provisioning_howto">我们将会引导你将%s连接到Wi-Fi网络。</string>
 
-<<<<<<< HEAD
     <string name="title_provisioning_wifi">选择无线网络</string>
     <string name="prompt_provisioning_wifi">选择一个家庭无线网络 %s</string>
-=======
-    <string name="title_provisioning_wifi">选择WiFi网络</string>
-    <string name="prompt_provisioning_wifi">连接%s 到家庭WiFi网络</string>
->>>>>>> b86d1cc72e56ec168720587021a8754558ed9d33
-
     <string name="title_provisioning_device">连接设备</string>
     <string name="prompt_provisioning_device">Choose a WiFi network called %s from the list</string>
 
@@ -98,28 +73,6 @@
     <string name="title_sparkfun_thanks">恭喜!</string>
     <string name="title_sparkfun_howto">登机前检查</string>
     <string name="title_sparkfun_device_choose">@string/action_choose_device</string>
-<<<<<<< HEAD
-    <string name="title_sparkfun_wifi_connecting">Connecting</string>
-    <string name="title_sparkfun_wifi_connect">Connect to WiFi</string>
-    <string name="title_sparkfun_success">Success</string>
-    <string name="title_sparkfun_finish">Finish</string>
-
-    <string name="prompt_particle_sim_imei">Input SIM card IMEI number or scan barcode located on the device</string>
-    <string name="prompt_particle_authenticating">Authenticating Device…</string>
-    <string name="prompt_particle_authenticated">Authenticated</string>
-    <string name="error_particle_activated">This SIM card was already activated</string>
-    <string name="prompt_particle_set_device_name">Give Device a meaningful name</string>
-    <string name="action_particle_try_another">Try another SIM card</string>
-    <string name="hint_imei">IMEI 序号</string>
-
-    <string name="action_scan_barcode">Scan Barcode</string>
-    <string name="error_invalid_barcode">Not a valid barcode</string>
-    <string name="action_continue_arrow">继续&#8594;</string>
-    <string name="action_save_continue_arrow">保存并继续&#8594;</string>
-
-    <string name="error_provisioning_wrong_board">Wrong board</string>
-    <string name="error_provisioning_connect_failed">Could not connect to device\'s Wi-Fi</string>
-=======
     <string name="title_sparkfun_wifi_connecting">连接中</string>
     <string name="title_sparkfun_wifi_connect">连接 WiFi</string>
     <string name="title_sparkfun_success">成功</string>
@@ -140,5 +93,4 @@
 
     <string name="error_provisioning_wrong_board">错误主板</string>
     <string name="error_provisioning_connect_failed">无法连接到设备的Wi-Fi</string>
->>>>>>> b86d1cc72e56ec168720587021a8754558ed9d33
 </resources>
