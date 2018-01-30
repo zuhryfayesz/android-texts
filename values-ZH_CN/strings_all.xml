@@ -249,6 +249,7 @@
     <string name="prompt_sent">发送</string>
 
     <string name="prompt_project_model">硬件模型</string>
+    <string name="prompt_project_token">验证授权码</string>
     <string name="prompt_project_theme">主题</string>
 
     <string name="prompt_share_trial">免费试用30天</string>
