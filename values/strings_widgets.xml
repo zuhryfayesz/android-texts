@@ -314,6 +314,7 @@
     <string name="prompt_ble_connected">Connected to your bluetooth device</string>
     <string name="prompt_ble_disconnected">Disconnected from your bluetooth device</string>
     <string name="prompt_ble_not_paired">Project is not connected to a bluetooth device</string>
+    <string name="prompt_ble_not_paired_format">%s is not connected to a bluetooth device</string>
     <string name="prompt_ble_login_failed">Device is not connected. Please check if the auth token is correct.</string>
 
     <string name="prompt_stop_ble_project">Another bluetooth connected project is active. Stop it?</string>
