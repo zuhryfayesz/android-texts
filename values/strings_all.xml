@@ -146,6 +146,8 @@
 
     <string name="and">and</string>
 
+    <string name="error_qr_large_file">Too large file</string>
+
     <!--LOGIN/REGISTER/ETC-->
 
     <string name="action_login">Log In</string>
