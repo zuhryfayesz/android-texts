@@ -98,4 +98,8 @@
     <string name="error_provisioning_connect_failed">Could not connect to device\'s Wi-Fi</string>
 
     <string name="prompt_remember_wifi_psw">Remember the network for other devices</string>
+    <string name="title_2_4_ghz_networks">2.4 Ghz Networks</string>
+    <string name="title_5_ghz_networks">5 Ghz Networks</string>
+
+    <string name="alert_only_2_4_ghz_supported">This device can only connect to  2.4Ghz WiFi networks</string>
 </resources>
