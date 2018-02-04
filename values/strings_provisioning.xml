@@ -50,37 +50,6 @@
     <string name="title_provisioning_success">Finish</string>
     <string name="prompt_provisioning_success">Connected!\nYou are all set.</string>
 
-
-    <string name="prompt_sparkfun_thanks_title">Thanks for choosing SparkFun hardware!</string>
-    <string name="prompt_sparkfun_thanks_text1">Enjoy the complimentary</string>
-    <string name="prompt_sparkfun_thanks_text2">15,000 of Energy!</string>
-
-    <string name="prompt_sparkfun_howto_text">1. Power up SparkFun Blynk Board by connecting USB cable to a computer or wall adapter.\n\n2. Check that the board is blinking a four color sequence.\n\n3. Make sure your smartphone is connected to the Internet.</string>
-
-    <string name="prompt_sparkfun_device">Choose your device. It should be named \"BlynkMe\"</string>
-
-    <string name="prompt_sparkfun_device_connecting">Connecting to\n %s</string>
-    <string name="prompt_sparkfun_device_connected">Connected to\n %s</string>
-
-    <string name="prompt_sparkfun_network">Choose WiFi network to connect your device to. For example, your home WiFi</string>
-
-    <string name="prompt_sparkfun_network_connecting">Connecting SparkFun Blynk Board to %s</string>
-    <string name="prompt_sparkfun_network_connected">Finished!</string>
-    <string name="prompt_sparkfun_wait">This may take a moment…</string>
-    <string name="prompt_sparkfun_network_howto">Questions?\nPlease visit sparkfun.com/blynk</string>
-
-    <string name="prompt_sparkfun_start_over">Try starting over.</string>
-
-    <string name="prompt_sparkfun_issues">Questions?\nPlease visit sparkfun.com/blynk</string>
-
-    <string name="title_sparkfun_thanks">Congrats!</string>
-    <string name="title_sparkfun_howto">Pre-flight check</string>
-    <string name="title_sparkfun_device_choose">@string/action_choose_device</string>
-    <string name="title_sparkfun_wifi_connecting">Connecting</string>
-    <string name="title_sparkfun_wifi_connect">Connect to WiFi</string>
-    <string name="title_sparkfun_success">Success</string>
-    <string name="title_sparkfun_finish">Finish</string>
-
     <string name="prompt_particle_sim_imei">Input SIM card IMEI number or scan barcode located on the device</string>
     <string name="prompt_particle_authenticating">Authenticating Device…</string>
     <string name="prompt_particle_authenticated">Authenticated</string>
@@ -105,4 +74,7 @@
 
     <string name="alert_only_2_4_ghz_supported">This device can only connect to  2.4Ghz WiFi networks</string>
     <string name="alert_only_open_supported">Not a device\'s network</string>
+
+    <string name="prompt_choose_network">Choose WiFi network to connect your device to. For example, your home WiFi</string>
+    <string name="prompt_choose_device">Choose your device</string>
 </resources>
