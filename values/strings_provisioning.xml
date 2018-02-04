@@ -96,4 +96,6 @@
 
     <string name="error_provisioning_wrong_board">Wrong board</string>
     <string name="error_provisioning_connect_failed">Could not connect to device\'s Wi-Fi</string>
+
+    <string name="prompt_remember_wifi_psw">Remember the network for other devices</string>
 </resources>
