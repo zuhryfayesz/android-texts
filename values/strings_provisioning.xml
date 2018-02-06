@@ -64,4 +64,7 @@
 
     <string name="prompt_choose_network">Choose WiFi network to connect your device to. For example, your home WiFi</string>
     <string name="prompt_choose_device">Choose your device</string>
+
+    <string name="hint_choose_wifi">Choose WiFi network</string>
+    <string name="hint_password">password</string>
 </resources>
