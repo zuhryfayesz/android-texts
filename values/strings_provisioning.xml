@@ -22,16 +22,15 @@
 
     <string name="title_provisioning_welcome">Welcome!</string>
 
-    <string name="title_provisioning_howto">Let\'s connect the device\nto your WiFi network</string>
-    <string name="prompt_provisioning_howto">We will guide you through the steps to connect %s to your Wi-Fi network.</string>
-
-    <string name="title_provisioning_wifi">Choose the WiFi network</string>
+    <string name="title_provisioning_wifi">WiFi setup</string>
     <string name="prompt_provisioning_wifi">Choose a home WiFi network to connect %s</string>
 
-    <string name="title_provisioning_device">Connect to device</string>
+    <string name="title_provisioning_device">Check your device</string>
     <string name="prompt_provisioning_device">Choose a WiFi network called %s from the list</string>
 
-    <string name="title_provisioning_error">Can\'t connect :(</string>
+    <string name="title_provisioning_configuring">Configurting device</string>
+    <string name="title_provisioning_connecting">Connecting to device</string>
+    <string name="title_provisioning_error">@string/title_provisioning_connecting</string>
     <string name="prompt_provisioning_error_email">Try starting over.\nIf you experiencing issues, please email us here:\n%s</string>
     <string name="prompt_provisioning_error_page">Try starting over.\nIf you experiencing issues, please check out the support page:\n%s</string>
 
@@ -39,19 +38,16 @@
 
     <string name="prompt_provisioning_wait">This may take a minute…</string>
 
-    <string name="prompt_provisioning_progress_device">Waiting for Wifi</string>
-    <string name="prompt_provisioning_progress_wifi">Connecting to the cloud</string>
-    <string name="prompt_provisioning_progress_online">Final check</string>
-
-    <string name="prompt_provisioning_connected_device">Wifi ready</string>
-    <string name="prompt_provisioning_connected_wifi">Cloud connected</string>
-    <string name="prompt_provisioning_connected_online">Connected</string>
+    <string name="prompt_provisioning_step_device">Configuring WiFi</string>
+    <string name="prompt_provisioning_step_wifi">Waiting for the device</string>
+    <string name="prompt_provisioning_step_online">Final check</string>
 
     <string name="title_provisioning_success">Finish</string>
     <string name="prompt_provisioning_success">Connected!\nYou are all set.</string>
 
-    <string name="error_provisioning_wrong_board">Wrong board</string>
-    <string name="error_provisioning_connect_failed">Could not connect to device\'s Wi-Fi</string>
+    <string name="error_provisioning_wrong_board">This device doesn\'t work\nwith the app</string>
+    <string name="error_provisioning_connect_failed">Can\'t connect to device</string>
+    <string name="error_provisioning_not_found">Can\'t find device</string>
 
     <string name="prompt_remember_wifi_psw">Remember the network for other devices</string>
     <string name="title_2_4_ghz_networks">2.4 Ghz Networks</string>
@@ -62,9 +58,30 @@
     <string name="alert_only_2_4_ghz_supported">This device can only connect to  2.4Ghz WiFi networks</string>
     <string name="alert_only_open_supported">Not a device\'s network</string>
 
-    <string name="prompt_choose_network">Choose WiFi network to connect your device to. For example, your home WiFi</string>
-    <string name="prompt_choose_device">Choose your device</string>
+    <string name="prompt_choose_network">Choose WiFi network\n your device will use</string>
+    <string name="prompt_choose_device">Power on your device and make sure that indicator is %s</string>
+    <string name="device_indicator">breathing green</string>
 
     <string name="hint_choose_wifi">Choose WiFi network</string>
     <string name="hint_password">password</string>
+    <string name="action_grant_perms">Grant permission</string>
+    <string name="action_view_help">View Help</string>
+
+    <string name="prompt_device_check">Make sure that your device and smartphone are very close to the router</string>
+    <string name="prompt_device_change">Try again or choose\na different device</string>
+    <string name="prompt_device_not_found">Wait, or try to reset the device and set it up again</string>
+    <string name="prompt_connecting_long">It takes longer than expected.\nPlease wait.</string>
+
+    <string name="prompt_provisioning_progress_info">Getting device information&#8230;</string>
+
+    <string name="title_provisioning_perms">Give the app access to location data</string>
+    <string name="prompt_provisioning_perms">We don\'t track your location. This app requires access to location data for WiFi scan.</string>
+
+    <string name="title_connecting_to_device">Connecting to device</string>
+
+    <string name="action_retry">Retry</string>
+
+    <string name="prompt_provisioning_connecting">Connecting&#8230;</string>
+
+    <string name="error_selection_5ghz">This is a 5Ghz WiFi. Choose another WiFi.</string>
 </resources>
