@@ -84,4 +84,7 @@
     <string name="prompt_provisioning_connecting">Connecting&#8230;</string>
 
     <string name="error_selection_5ghz">This is a 5Ghz WiFi. Choose another WiFi.</string>
+
+    <string name="prompt_read_more">Read more</string>
+    <string name="prompt_change">Change</string>
 </resources>

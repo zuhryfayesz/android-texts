@@ -599,7 +599,7 @@ Please attach them to other target before deleting the tag.</string>
 
     <string name="format_app_preview_name">%s Preview</string>
 
-    <string name="prompt_read_more">Learn More</string>
+    <string name="prompt_learn_more">Learn More</string>
     <string name="prompt_free_preview">App Preview is FREE</string>
 
     <string name="prompt_device_provisioning">Device Provisioning</string>
