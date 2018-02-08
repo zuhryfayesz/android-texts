@@ -28,7 +28,7 @@
     <string name="title_provisioning_device">Check your device</string>
     <string name="prompt_provisioning_device">Choose a WiFi network called %s from the list</string>
 
-    <string name="title_provisioning_configuring">Configurting device</string>
+    <string name="title_provisioning_configuring">Configuring device</string>
     <string name="title_provisioning_connecting">Connecting to device</string>
     <string name="title_provisioning_error">@string/title_provisioning_connecting</string>
     <string name="prompt_provisioning_error_email">Try starting over.\nIf you experiencing issues, please email us here:\n%s</string>
@@ -85,6 +85,6 @@
 
     <string name="error_selection_5ghz">This is a 5Ghz WiFi. Choose another WiFi.</string>
 
-    <string name="prompt_read_more">Read more</string>
-    <string name="prompt_change">Change</string>
+    <string name="action_read_more">Read more</string>
+    <string name="action_change">Change</string>
 </resources>
