@@ -1,12 +1,7 @@
 <resources>
-
     <string name="action_ready">Ready</string>
-    <string name="action_begin">Begin</string>
-    <string name="action_notnow">Not now</string>
-    <string name="action_connect_to_device">Connect to device</string>
-    <string name="action_setup_device">Set up new Device</string>
+
     <string name="action_choose_device">Choose device</string>
-    <string name="action_start_over">Start over</string>
     <string name="action_choose_device_network">Choose device\'s network</string>
 
     <string name="alert_wifi_location_enable">Please enable location services for scanning wifi.</string>
@@ -18,15 +13,11 @@
     <string name="prompt_wifi_scan_empty">No scan results</string>
     <string name="prompt_provisioning_wifi_scan_empty">No suitable networks</string>
 
-    <string name="prompt_provisioning">You need to setup your device</string>
-
-    <string name="title_provisioning_welcome">Welcome!</string>
+    <string name="title_provisioning_welcome">Welcome</string>
 
     <string name="title_provisioning_wifi">WiFi setup</string>
-    <string name="prompt_provisioning_wifi">Choose a home WiFi network to connect %s</string>
 
     <string name="title_provisioning_device">Check your device</string>
-    <string name="prompt_provisioning_device">Choose a WiFi network called %s from the list</string>
 
     <string name="title_provisioning_configuring">Configuring device</string>
     <string name="title_provisioning_connecting">Connecting to device</string>
@@ -34,16 +25,11 @@
     <string name="prompt_provisioning_error_email">Try starting over.\nIf you experiencing issues, please email us here:\n%s</string>
     <string name="prompt_provisioning_error_page">Try starting over.\nIf you experiencing issues, please check out the support page:\n%s</string>
 
-    <string name="title_provisioning_settingup">Setting up\n%s</string>
-
-    <string name="prompt_provisioning_wait">This may take a minute…</string>
-
     <string name="prompt_provisioning_step_device">Configuring WiFi</string>
     <string name="prompt_provisioning_step_wifi">Waiting for the device</string>
     <string name="prompt_provisioning_step_online">Final check</string>
 
     <string name="title_provisioning_success">Finish</string>
-    <string name="prompt_provisioning_success">Connected!\nYou are all set.</string>
 
     <string name="error_provisioning_wrong_board">This device doesn\'t work\nwith the app</string>
     <string name="error_provisioning_connect_failed">Can\'t connect to device</string>
@@ -87,4 +73,7 @@
 
     <string name="action_read_more">Read more</string>
     <string name="action_change">Change</string>
+
+    <string name="prompt_device_connected">%s\n connected!</string>
+    <string name="prompt_device_name">Name device</string>
 </resources>
