@@ -536,19 +536,6 @@ Please attach them to other target before deleting the tag.</string>
     <string name="prompt_singlefaces">Single Face</string>
     <string name="prompt_multifaces">Blynk.Faces</string>
 
-    <string name="prompt_setup_project">Scan the QR code</string>
-    <string name="prompt_setup_device_via_qr">Scan the provided QR code\nto add new device</string>
-
-    <string name="alert_setuped_device_success">Ready!\nDevice was successfully added</string>
-    <string name="alert_setuped_devices_success">Done!\nAll Devices were successfully added</string>
-
-    <string name="alert_device_already_setuped">This device was added already.</string>
-    <string name="alert_export_illegal_email">This code is for another user</string>
-
-    <string name="action_add_another_device">Add another device</string>
-    <string name="action_add_new_device">Add New Device</string>
-    <string name="action_open_camera">Open camera</string>
-
     <string name="action_make_app">Make App</string>
     <string name="action_create_preview">Create App Preview</string>
     <string name="action_start_preview">Start App Preview</string>
