@@ -74,6 +74,6 @@
     <string name="action_read_more">Read more</string>
     <string name="action_change">Change</string>
 
-    <string name="prompt_device_connected">%s\n connected!</string>
+    <string name="prompt_device_connected">%s\nconnected!</string>
     <string name="prompt_device_name">Name device</string>
 </resources>
