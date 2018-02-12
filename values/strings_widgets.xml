@@ -608,6 +608,8 @@
 
     <string name="prompt_select_template">Select template</string>
 
+    <string name="format_template_id">Template ID: %s</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_min">MIN</string>
