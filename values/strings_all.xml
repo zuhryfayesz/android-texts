@@ -122,6 +122,8 @@
 
     <string name="error_no_email_intent">No email app on your device</string>
 
+    <string name="error_webview_loading_failed">It seems that your WebView package is updating now.\nPlease try again later.</string>
+
     <string name="app_error">Something went wrong. Please report it in community.blynk.cc</string>
 
     <string name="prompt_empty_push">It is an empty push notification</string>
