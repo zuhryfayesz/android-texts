@@ -33,7 +33,7 @@
 
     <string name="error_provisioning_wrong_board">This device doesn\'t work\nwith the app</string>
     <string name="error_provisioning_connect_failed">Can\'t connect to device</string>
-    <string name="error_provisioning_not_found">Can\'t find device</string>
+    <string name="error_provisioning_not_found">Can\'t find your device</string>
 
     <string name="prompt_remember_wifi_psw">Remember the network for other devices</string>
     <string name="title_2_4_ghz_networks">2.4 Ghz Networks</string>
