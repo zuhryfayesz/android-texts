@@ -642,4 +642,6 @@ Please attach them to other target before deleting the tag.</string>
 
     <string name="error_intent_no_web">There are no apps that responds to open web link request</string>
     <string name="alert_app_outdated">Your app is outdated. Please update to the latest app version. Ignoring this notice may affect your projects.</string>
+
+    <string name="prompt_troubleshooting_add">Here you can add troubleshooting guide for your product</string>
 </resources>
