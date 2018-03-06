@@ -81,7 +81,8 @@
     <string name="prompt_widget_not_supported">Is not supported on your device</string>
     <string name="prompt_widget_conflict">Doesn\'t work with %s. Yet.</string>
 
-    <!--EVENT WIDGET SETTINGS-->
+    <!--EVENTOR WIDGET SETTINGS-->
+
     <string name="action_add_new_event">+ Add New Event</string>
 
     <string name="eventor_trigger_format">When %s</string>
@@ -336,6 +337,7 @@
     <string name="alert_ble_bluetooth_confirm">This will reset the connection in this widget.</string>
 
     <string name="prompt_not_supported_with_tiles">Not supported with Device Tiles</string>
+
     <!--LABELED DISPLAY WIDGET SETTINGS-->
 
     <string name="hint_labeled_display_format">e.g: Temp: /pin/ ºC</string>
@@ -614,6 +616,18 @@
 
     <string name="prompt_tile">TILE</string>
     <string name="prompt_value">VALUE</string>
+
+    <!-- SLIDER SETTINGS -->
+
+    <string name="prompt_fraction_digits">FRACTION</string>
+    <string name="title_fraction_picker">Select fraction</string>
+
+    <string name="prompt_no_fraction">No fraction</string>
+    <plurals name="slider_fraction_digits">
+        <item quantity="zero">No fraction</item>
+        <item quantity="one">%d digit</item>
+        <item quantity="other">%d digits</item>
+    </plurals>
 
     <!-- WIDGET SETTINGS -->
 
