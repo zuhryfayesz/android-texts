@@ -679,6 +679,8 @@
 
     <string name="alert_timer">Please use Eventor for timer events</string>
 
+    <string name="alert_confirm_widget_remove">Are you sure want to delete this widget?\nThis cannot be undone</string>
+
     <!--HOME SCREEN WIDGET-->
 
     <string name="alert_confirm_homescreenwidget_remove">This widget is used on Home Screen. Are you sure to proceed with it\'s removal?</string>
