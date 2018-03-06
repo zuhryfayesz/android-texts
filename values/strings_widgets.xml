@@ -592,7 +592,7 @@
 
     <string name="prompt_dynamic">Dynamic</string>
 
-    <string name="prompt_tile_design">Tile Design</string>
+    <string name="prompt_tile_design">Design</string>
     <string name="title_template_devices">Apply Template to</string>
     <string name="prompt_select_devices">Select Devices</string>
     <string name="action_add_template">Add Template</string>
@@ -604,11 +604,16 @@
     <string name="sort_type_desc">Device Type \u2191</string>
     <string name="sort_manual">Manual</string>
 
+    <string name="prompt_value_formatting">VALUE FORMATTING</string>
+
     <string name="empty">--</string>
 
     <string name="prompt_select_template">Select template</string>
 
     <string name="format_template_id">Template ID: %s</string>
+
+    <string name="prompt_tile">TILE</string>
+    <string name="prompt_value">VALUE</string>
 
     <!-- WIDGET SETTINGS -->
 
