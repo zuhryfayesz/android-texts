@@ -621,6 +621,11 @@
     <string name="title_state_labels">STATE LABELS</string>
     <string name="title_labels_visibility">SHOW STATE LABEL</string>
 
+    <string name="title_template_page">Default</string>
+    <string name="prompt_template_page">• Tap opens template page\n• Can be a display only</string>
+    <string name="title_template_button">Button</string>
+    <string name="prompt_template_button">• Tap switches button on/off\n• Tap and hold opens device page\n• Can be a display only</string>
+
     <!-- SLIDER SETTINGS -->
 
     <string name="prompt_fraction_digits">DECIMALS</string>
