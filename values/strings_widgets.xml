@@ -623,15 +623,8 @@
 
     <!-- SLIDER SETTINGS -->
 
-    <string name="prompt_fraction_digits">FRACTION</string>
-    <string name="title_fraction_picker">Select fraction</string>
-
-    <string name="prompt_no_fraction">No fraction</string>
-    <plurals name="slider_fraction_digits">
-        <item quantity="zero">No fraction</item>
-        <item quantity="one">%d digit</item>
-        <item quantity="other">%d digits</item>
-    </plurals>
+    <string name="prompt_fraction_digits">DECIMALS</string>
+    <string name="title_fraction_picker">Number of decimal places</string>
 
     <!-- WIDGET SETTINGS -->
 
