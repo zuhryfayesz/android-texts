@@ -617,6 +617,10 @@
     <string name="prompt_tile">TILE</string>
     <string name="prompt_value">VALUE</string>
 
+    <string name="title_icon_state">TILE ICONS AND STATES</string>
+    <string name="title_state_labels">STATE LABELS</string>
+    <string name="title_labels_visibility">SHOW STATE LABEL</string>
+
     <!-- SLIDER SETTINGS -->
 
     <string name="prompt_fraction_digits">FRACTION</string>
