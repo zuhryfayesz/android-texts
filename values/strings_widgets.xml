@@ -656,6 +656,7 @@
 
     <string name="prompt_screen">Screen</string>
     <string name="prompt_text">Text</string>
+    <string name="prompt_icon">Icon</string>
 
     <string name="prompt_cover">SOON</string>
 
