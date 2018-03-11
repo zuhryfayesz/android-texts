@@ -629,6 +629,11 @@
     <string name="title_choose_template">Choose Action Type</string>
     <string name="title_choose_icon">Choose Icon</string>
 
+    <string name="title_tile_design">TILE DESIGN</string>
+    <string name="prompt_base_color">BASE COLOR</string>
+
+    <string name="hint_pin_format">/pin/</string>
+
     <!-- SLIDER SETTINGS -->
 
     <string name="prompt_fraction_digits">DECIMALS</string>
