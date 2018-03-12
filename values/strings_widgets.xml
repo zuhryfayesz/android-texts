@@ -634,6 +634,9 @@
 
     <string name="hint_pin_format">/pin/</string>
 
+    <string name="title_state_on">ON State</string>
+    <string name="title_state_off">OFF State</string>
+
     <!-- SLIDER SETTINGS -->
 
     <string name="prompt_fraction_digits">DECIMALS</string>
