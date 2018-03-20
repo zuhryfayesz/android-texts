@@ -637,6 +637,8 @@
     <string name="title_state_on">ON State</string>
     <string name="title_state_off">OFF State</string>
 
+    <string name="inform_temlate_id_sent">This template\'s id has been sent to your e-mail</string>
+
     <!-- SLIDER SETTINGS -->
 
     <string name="prompt_fraction_digits">DECIMALS</string>
