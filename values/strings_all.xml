@@ -32,7 +32,6 @@
     <string name="action_done">Done</string>
 
     <string name="action_notnow">Not now</string>
-    <string name="action_setup_device">Set up new Device</string>
     <string name="action_start_over">Start over</string>
 
     <string name="title_project">New Project</string>
