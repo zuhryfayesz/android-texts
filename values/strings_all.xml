@@ -350,8 +350,6 @@ Please attach them to other target before deleting the device.</string>
     <string name="alert_device_selector_removal">This device selector is used by %s.\n
 Please attach them to other target before deleting the device selector.</string>
 
-    <string name="alert_device_removal_confirm">Delete this device? This cannot be undone</string>
-
     <string name="alert_device_limit_exceded">You exceeded limit of devices that could be created.</string>
 
     <string name="alert_tiles_device_create_failed">Tile creation failed. Please try again later.</string>
@@ -366,6 +364,8 @@ Please attach them to other target before deleting the device selector.</string>
     <string name="title_devices">Devices</string>
     <string name="title_my_devices">My Devices</string>
     <string name="title_tag_devices">Tagged Devices</string>
+
+    <string name="alert_confirm_device_removal">Are you sure you want to delete this device and all its data?</string>
 
     <plurals name="devices">
         <item quantity="zero">Add device</item>
