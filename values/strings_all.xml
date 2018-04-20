@@ -92,7 +92,6 @@
 
     <string name="error_network_is_off">You have no internet connection</string>
     <string name="error_account_taken">This account is already taken</string>
-    <string name="error_unknown">Something went wrong. Try later</string>
 
     <string name="error_network_is_off_try">No Internet connection.\nPlease try later</string>
 
@@ -110,7 +109,7 @@
     <string name="error_bluetooth_read_error">Something went wrong when connecting to your bluetooth device. Please try again later.</string>
     <string name="error_bluetooth_timeout">Bluetooth connection timed out. Try again.</string>
 
-    <string name="server_error">Something went wrong on server. Please report it in community.blynk.cc</string>
+    <string name="error_unknown">Something went wrong. We kindly ask you to report it by creating a new topic on our community.blynk.cc.\nThanks!</string>
 
     <string name="error_connection_problem">Couldn\'t connect to the server. Please check your internet connection, or try again.</string>
 
