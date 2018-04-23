@@ -93,4 +93,8 @@
 
     <string name="action_setup_new_device">Set up new Device</string>
     <string name="action_setup_device">Set up Device</string>
+
+    <string name="inform_project_qr_no_devices">Please add new device</string>
+    <string name="inform_project_wifi_no_devices">Please configure the device</string>
+    <string name="action_configure_device">Configure The Device</string>
 </resources>

@@ -613,10 +613,6 @@ Please attach them to other target before deleting the tag.</string>
     <string name="link_publish_plans">blynk.io</string>
     <string name="action_publish_app">Send Request</string>
 
-    <string name="inform_project_qr_no_devices">Please add new device</string>
-    <string name="inform_project_wifi_no_devices">Please configure the device</string>
-    <string name="action_configure_device">Configure The Device</string>
-
     <string name="alert_publish_sent">We will contact you shortly</string>
     <string name="prompt_thanks">Thanks</string>
 
