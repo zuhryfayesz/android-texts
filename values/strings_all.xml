@@ -109,7 +109,9 @@
     <string name="error_bluetooth_read_error">Something went wrong when connecting to your bluetooth device. Please try again later.</string>
     <string name="error_bluetooth_timeout">Bluetooth connection timed out. Try again.</string>
 
-    <string name="error_unknown">Something went wrong. We kindly ask you to report it by creating a new topic on our community.blynk.cc.\nThanks!</string>
+    <string name="error_unknown">Something went wrong. Please try again later.</string>
+
+    <string name="error_unknown_message">![CDATA[Something went wrong. We kindly ask you to report it by creating a new topic on <a href='https://community.blynk.cc/'>our forum</a>.<br/>Thanks!]]</string>
 
     <string name="error_connection_problem">Couldn\'t connect to the server. Please check your internet connection, or try again.</string>
 
