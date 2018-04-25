@@ -575,6 +575,23 @@
     <string name="title_settings_periods">Time Ranges Picker</string>
     <string name="prompt_settings_periods">Time Ranges:</string>
 
+    <string name="live">Live</string>
+    <string name="min15">15 min</string>
+    <string name="min30">30 min</string>
+    <string name="hour1">1 hour</string>
+    <string name="hour3">3 hours</string>
+    <string name="hour6">6 hours</string>
+    <string name="hour12">12 hours</string>
+    <string name="day1">1 day</string>
+    <string name="day2">2 days</string>
+    <string name="day3">3 days</string>
+    <string name="week1">1 week</string>
+    <string name="week2">2 weeks</string>
+    <string name="month1">1 month</string>
+    <string name="month3">3 months</string>
+    <string name="month6">6 months</string>
+    <string name="year1">1 year</string>
+
     <!--DEVICE TILES SETTINGS-->
 
     <string name="title_templates">Templates</string>
