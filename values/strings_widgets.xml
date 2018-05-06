@@ -586,7 +586,6 @@
     <string name="day1_min">1 day (minute)</string>
     <string name="day2">2 days (hourly)</string>
     <string name="day3">3 days (hourly)</string>
-    <string name="day3_min">3 days (min)</string>
     <string name="week1">1 week (daily)</string>
     <string name="week1_hour">1 week (hourly)</string>
     <string name="week2">2 weeks (daily)</string>
