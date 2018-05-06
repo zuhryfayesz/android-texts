@@ -576,21 +576,28 @@
     <string name="prompt_settings_periods">Time Ranges:</string>
 
     <string name="live">Live</string>
-    <string name="min15">15 min</string>
-    <string name="min30">30 min</string>
-    <string name="hour1">1 hour</string>
-    <string name="hour3">3 hours</string>
-    <string name="hour6">6 hours</string>
-    <string name="hour12">12 hours</string>
-    <string name="day1">1 day</string>
-    <string name="day2">2 days</string>
-    <string name="day3">3 days</string>
-    <string name="week1">1 week</string>
-    <string name="week2">2 weeks</string>
-    <string name="month1">1 month</string>
-    <string name="month3">3 months</string>
-    <string name="month6">6 months</string>
-    <string name="year1">1 year</string>
+    <string name="min15">15 min (minute)</string>
+    <string name="min30">30 min (minute)</string>
+    <string name="hour1">1 hour (minute)</string>
+    <string name="hour3">3 hours (minute)</string>
+    <string name="hour6">6 hours (minute)</string>
+    <string name="hour12">12 hours (minute)</string>
+    <string name="day1">1 day (hourly)</string>
+    <string name="day1_min">1 day (minute)</string>
+    <string name="day2">2 days (hourly)</string>
+    <string name="day3">3 days (hourly)</string>
+    <string name="day3_min">3 days (min)</string>
+    <string name="week1">1 week (daily)</string>
+    <string name="week1_hour">1 week (hourly)</string>
+    <string name="week2">2 weeks (daily)</string>
+    <string name="week2_hour">2 weeks (hourly)</string>
+    <string name="month1">1 month (daily)</string>
+    <string name="month1_hour">1 month (hourly)</string>
+    <string name="month3">3 months (daily)</string>
+    <string name="month3_hour">3 months (hourly)</string>
+    <string name="month6">6 months (daily)</string>
+    <string name="year1">1 year (daily)</string>
+    <string name="year1_hour">1 year (hourly)</string>
 
     <!--DEVICE TILES SETTINGS-->
 
