@@ -590,6 +590,20 @@
     <string name="month6">6Mo</string>
     <string name="year1">1Yr</string>
 
+    <string name="title_y_scale">Y Axis Scaling</string>
+    <string name="prompt_scale_auto">Data will be auto-scaled based on min and max values for the given time period</string>
+    <string name="prompt_scale_minmax">Set fixed Min and Max Y-axis values</string>
+    <string name="prompt_scale_height">Set bottom and top position of the chart relative to the widget\'s height. Where 0% is the bottom of the widget, 100% is the top of the widget. </string>
+    <string name="prompt_scale_delta">While data stays within the range, chart will be auto-scaled within the given range. If data fluctuation exceeds the range, chart will be auto-scaled to min/max values.</string>
+    
+    <string name="prompt_top">Top</string>
+    <string name="prompt_bottom">Bottom</string>
+
+    <string name="prompt_delta">Delta</string>
+    <string name="prompt_auto">Auto</string>
+    <string name="prompt_minmax">Min/Max</string>
+    <string name="prompt_height">Height</string>
+
     <!--DEVICE TILES SETTINGS-->
 
     <string name="title_templates">Templates</string>
