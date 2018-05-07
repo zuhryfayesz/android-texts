@@ -605,7 +605,7 @@
     <string name="prompt_height">Height</string>
 
     <string name="prompt_user_delta">While data stays within the range, chart will be auto-scaled within the given range. If data fluctuation exceeds the range, chart will be auto-scaled to min/max values.</string>
-    <string name="format_edit_deltat">%s Delta</string>
+    <string name="format_edit_delta">%s Delta</string>
     <string name="title_allow_user_delta">ALLOW USERS TO MODIFY DELTA</string>
 
     <!--DEVICE TILES SETTINGS-->
