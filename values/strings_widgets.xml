@@ -575,6 +575,8 @@
     <string name="title_settings_periods">Time Ranges Picker</string>
     <string name="prompt_settings_periods">Time Ranges:</string>
 
+    <string name="title_high_resolution">High Resolution</string>
+
     <string name="live">Live</string>
     <string name="min15">15min</string>
     <string name="min30">30min</string>
