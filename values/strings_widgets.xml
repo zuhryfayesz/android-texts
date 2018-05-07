@@ -569,12 +569,8 @@
 
     <string name="toast_no_data_range">No data for older range</string>
 
-    <string name="title_choose_periods">Time Ranges</string>
-    <string name="prompt_choose_periods">Choose up to 7 time ranges</string>
-    <string name="format_periods_selection">%d selected</string>
-    <string name="title_settings_periods">Time Ranges Picker</string>
-    <string name="prompt_settings_periods">Time Ranges:</string>
-
+    <string name="title_settings_periods">Time Ranges Picker (7 max)</string>
+    <string name="title_default_resolution">Standard Resolution</string>
     <string name="title_high_resolution">High Resolution</string>
 
     <string name="live">Live</string>
