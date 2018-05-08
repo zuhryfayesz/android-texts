@@ -48,6 +48,7 @@
     <string name="widget_input_field_title">Input Field</string>
     <string name="widget_supergraph_title">SuperChart</string>
     <string name="widget_device_tiles_title">Device Tiles</string>
+    <string name="widget_styled_button_title">Styled Button</string>
 
     <string name="format_title_widget_settings">%s Settings</string>
 
@@ -682,6 +683,21 @@
 
     <string name="prompt_fraction_digits">DECIMALS</string>
     <string name="title_fraction_picker">Number of decimal places</string>
+
+    <!-- STYLED BUTTON SETTINGS -->
+
+    <string name="title_button_states">ON/OFF States</string>
+    <string name="title_on_label">ON Label</string>
+    <string name="title_off_label">OFF Label</string>
+    <string name="title_on_bg">ON Background</string>
+    <string name="title_off_bg">OFF Background</string>
+    <string name="prompt_rounded">Rounded</string>
+    <string name="prompt_sharp">Sharp</string>
+    <string name="prompt_pill">Pill</string>
+    <string name="prompt_solid">Solid</string>
+    <string name="prompt_outline">Outline</string>
+    <string name="title_lock_size">Lock size</string>
+    <string name="title_style">@string/prompt_style</string>
 
     <!-- WIDGET SETTINGS -->
 
