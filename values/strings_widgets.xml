@@ -703,6 +703,7 @@
     <string name="prompt_outline">Outline</string>
     <string name="title_lock_size">Lock size</string>
     <string name="title_style">@string/prompt_style</string>
+    <string name="title_edges">Edges</string>
     
     <!-- TEXT AND NUMBER INPUT SETTINGS -->
 
