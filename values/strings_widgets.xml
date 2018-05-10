@@ -713,6 +713,14 @@
     <string name="prompt_button_color">Button Color</string>
     <string name="prompt_text_color">Text Color</string>
 
+    <!-- SEGMENTED CONTROl SETTINGS -->
+
+    <string name="prompt_segmented_desc">When option changed, a message with Option ID will be sent to hardware.\nPlease note that first ID = 1.</string>
+    <string name="title_options">Options</string>
+    <string name="action_add_option">+ Add option</string>
+    <string name="title_option_color">Active Option Color</string>
+    <string name="format_segmented_control_hint">Option %s</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_min">MIN</string>
