@@ -50,7 +50,7 @@
     <string name="widget_supergraph_title">SuperChart</string>
     <string name="widget_device_tiles_title">Device Tiles</string>
     <string name="widget_styled_button_title">Styled Button</string>
-    <string name="widget_segmented_control_title">Segmented Control</string>
+    <string name="widget_segmented_control_title">Segmented Switch</string>
 
     <string name="format_title_widget_settings">%s Settings</string>
 
