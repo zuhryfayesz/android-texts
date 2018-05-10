@@ -667,7 +667,7 @@
     <string name="prompt_template_page">• Tap opens template page\n• Can be a display only</string>
     <string name="title_template_button">Button</string>
     <string name="prompt_template_button">• Tap switches button on/off\n• Tap and hold opens device page\n• Can be a display only</string>
-    <string name="title_template_dimmer">Dimmer</string>
+    <string name="title_template_dimmer">Level</string>
     <string name="prompt_template_dimmer">• Tap to set min/max value\n• Long Tap opens a template page\n• Can be a display only</string>
 
     <string name="title_choose_template">Choose Action Type</string>
