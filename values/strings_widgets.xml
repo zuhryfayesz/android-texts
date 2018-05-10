@@ -701,20 +701,13 @@
     <string name="title_style">@string/prompt_style</string>
     
     <!-- TEXT AND NUMBER INPUT SETTINGS -->
-    
-    <string name="title_default_value">Default Value (Optional)</string>
-    <string name="hint_default_value">None</string>
+
     <string name="title_hint">Hint</string>
     <string name="hint_input_hint">Input value here</string>
     <string name="title_character_limit">Character Limit</string>
-    <string name="title_send_by">Send Value By</string>
-    <string name="action_keyboard_button">Keyboard Action</string>
-    <string name="action_field_button">Field Button</string>
-    <string name="prompt_keyboard_button">Value will be sent when user presses SEND  key on the keyboard</string>
-    <string name="prompt_field_button">Value will be sent when user presses button  located on the input field</string>
-    <string name="title_clear_field">Clear the field after value was sent</string>
     <string name="title_suffix_optional">Suffix (Optional)</string>
     <string name="prompt_button_color">Button Color</string>
+    <string name="prompt_text_color">Text Color</string>
 
     <!-- WIDGET SETTINGS -->
 
