@@ -611,6 +611,8 @@
     <string name="format_edit_delta">%s Delta</string>
     <string name="title_allow_user_delta">ALLOW USERS TO MODIFY DELTA</string>
 
+    <string name="title_override_auto_scale">Override Auto Scaling for All DataStreams</string>
+
     <!--DEVICE TILES SETTINGS-->
 
     <string name="title_templates">Templates</string>
