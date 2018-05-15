@@ -330,6 +330,7 @@ It\'s free, open source and can be installed in 1 minute.</string>
     <string name="prompt_shortcut_old_api">Your Launcher app may not support adding shortcuts</string>
 
     <string name="title_offline_notifs">Do not show offline notifications</string>
+    <string name="title_project_bg_on">Show widget\'s background in run state</string>
 
     <!--DEVICE SETTINGS-->
 
