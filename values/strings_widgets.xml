@@ -726,6 +726,8 @@
 
     <!-- WIDGET SETTINGS -->
 
+    <string name="hint_title_optional">Title (optional)</string>
+
     <string name="hint_min">MIN</string>
     <string name="hint_max">MAX</string>
 
