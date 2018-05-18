@@ -624,7 +624,7 @@
 
     <string name="title_template_name">Template Name</string>
     <string name="prompt_template_name">Every click on the tile with the device named \"Sensor Model A\" will open similar page template</string>
-    <string name="title_show_device_name">Show Device Label</string>
+    <string name="title_show_device_name">Show Device Name</string>
     <string name="title_template_pin">Tile Data Input</string>
     <string name="title_template_value_name">Tile Value Name</string>
     <string name="title_template_value_suffix">Tile Value Suffix</string>
