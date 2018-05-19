@@ -779,6 +779,8 @@
 
     <string name="alert_confirm_widget_remove">Are you sure want to delete this widget?\nThis cannot be undone</string>
 
+    <string name="prompt_not_supported">This widget is no longer supported :(</string>
+
     <!--HOME SCREEN WIDGET-->
 
     <string name="alert_confirm_homescreenwidget_remove">This widget is used on Home Screen. Are you sure to proceed with it\'s removal?</string>
