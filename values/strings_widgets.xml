@@ -686,6 +686,15 @@
 
     <string name="inform_temlate_id_sent">This template\'s id has been sent to your e-mail</string>
 
+    <string name="title_interaction">Tap Interaction</string>
+    <string name="mode_button">Button</string>
+    <string name="mode_page">Page</string>
+    <string name="mode_step">Step</string>
+
+    <string name="prompt_interaction_button">Tap on the tile will send Min/Max values, similar to button behavior. Tap\'n\'hold will open device page.</string>
+    <string name="prompt_interaction_page">Tap on the tile will open device page.</string>
+    <string name="prompt_interaction_step">Tap on the tile will increase the value. Choose larger step values to make it possible to quickly tap from min to max.\nTap\'n\'hold will open device page.</string>
+
     <!-- SLIDER SETTINGS -->
 
     <string name="prompt_fraction_digits">DECIMALS</string>
