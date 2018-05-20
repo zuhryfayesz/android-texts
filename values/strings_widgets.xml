@@ -790,6 +790,8 @@
 
     <string name="prompt_not_supported">This widget is no longer supported :(</string>
 
+    <string name="title_show_value">Show Value</string>
+
     <!--HOME SCREEN WIDGET-->
 
     <string name="alert_confirm_homescreenwidget_remove">This widget is used on Home Screen. Are you sure to proceed with it\'s removal?</string>
