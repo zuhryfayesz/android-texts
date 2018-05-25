@@ -734,6 +734,12 @@
     <string name="title_option_color">Active Option Color</string>
     <string name="format_segmented_control_hint">Option %s</string>
 
+    <!-- REPORTING WIDGET SETTINGS -->
+
+    <string name="prompt_reports_no_tile">Reports are only available when you have Device Tiles Widget installed with at least one Device Template</string>
+    <string name="prompt_reports_description">Add Datastreams which should be included into the Reports. When ready,  switch to Play Mode, and create a Report</string>
+    <string name="title_allow_erase">Allow end-users to erase data</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_title_optional">Title (optional)</string>
