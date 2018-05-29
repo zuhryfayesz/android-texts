@@ -735,10 +735,16 @@
     <string name="format_segmented_control_hint">Option %s</string>
 
     <!-- REPORTING WIDGET SETTINGS -->
-
+    <string name="title_reports">Reports</string>
     <string name="prompt_reports_no_tile">Reports are only available when you have Device Tiles Widget installed with at least one Device Template</string>
     <string name="prompt_reports_description">Add Datastreams which should be included into the Reports. When ready,  switch to Play Mode, and create a Report</string>
     <string name="title_allow_erase">Allow end-users to erase data</string>
+
+    <string name="prompt_reports_howto">Click on a report name to configure it. Scheduled reports can be put on hold. Swipe left to delete report.</string>
+    <string name="format_report_subtitle_infinite" formatted="false">Scheduled %s at %s</string>
+    <string name="format_report_subtitle_onetime" formatted="false">One Time report for last %s</string>
+    <string name="action_add_report">New Report</string>
+    <string name="action_erase_data">Erase Data</string>
 
     <!-- WIDGET SETTINGS -->
 
@@ -798,6 +804,14 @@
     <string name="prompt_not_supported">This widget is no longer supported :(</string>
 
     <string name="title_show_value">Show Value</string>
+
+    <string name="daily">daily</string>
+    <string name="weekly">weekly</string>
+    <string name="monthly">monthly</string>
+
+    <string name="day">day</string>
+    <string name="week">week</string>
+    <string name="month">month</string>
 
     <!--HOME SCREEN WIDGET-->
 
