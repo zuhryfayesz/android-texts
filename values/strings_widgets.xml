@@ -747,6 +747,11 @@
     <string name="action_add_report">New Report</string>
     <string name="action_erase_data">Erase Data</string>
 
+    <string name="format_devices_selection">%d devices selected</string>
+
+    <string name="title_select_devices">Choose devices</string>
+    <string name="title_select_sources">Data Sources</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_title_optional">Title (optional)</string>
@@ -813,6 +818,9 @@
     <string name="day">day</string>
     <string name="week">week</string>
     <string name="month">month</string>
+
+    <string name="all">All</string>
+    <string name="none">None</string>
 
     <!--HOME SCREEN WIDGET-->
 
