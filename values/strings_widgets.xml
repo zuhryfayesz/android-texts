@@ -510,6 +510,7 @@
     <!-- DEVICE SELECTOR SETTINGS -->
 
     <string name="prompt_select">Select</string>
+    <string name="title_show_icon">Show Device Icon</string>
 
     <!-- SUPER GRAPH SETTINGS -->
 
