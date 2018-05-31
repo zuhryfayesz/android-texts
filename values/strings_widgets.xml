@@ -751,6 +751,8 @@
 
     <string name="title_select_devices">Choose Devices</string>
     <string name="title_select_sources">Data Sources</string>
+    <string name="title_new_report">New Report</string>
+    <string name="title_report">Report</string>
 
     <!-- WIDGET SETTINGS -->
 
