@@ -748,11 +748,23 @@
     <string name="action_erase_data">Erase Data</string>
 
     <string name="format_devices_selection">%d devices selected</string>
+    <string name="format_devices">%d Devices</string>
+    <string name="format_sources">%d datastreams</string>
 
     <string name="title_select_devices">Choose Devices</string>
     <string name="title_select_sources">Data Sources</string>
     <string name="title_new_report">New Report</string>
     <string name="title_report">Report</string>
+    
+    <string name="title_report_name">Report Name</string>
+    <string name="title_report_data_source">Data Source</string>
+    <string name="action_select_source">Choose Data Source</string>
+    <string name="title_report_freq">Report Frequency</string>
+    <string name="title_report_range">Report Range</string>
+    <string name="title_report_recipients">Recipients</string>
+    <string name="title_report_resolution">Data Resolution</string>
+    <string name="title_report_tz">Time Zone Correction</string>
+    <string name="action_create_report">Generate Report</string>
 
     <!-- WIDGET SETTINGS -->
 
@@ -813,6 +825,7 @@
 
     <string name="title_show_value">Show Value</string>
 
+    <string name="onetime">one-time</string>
     <string name="daily">daily</string>
     <string name="weekly">weekly</string>
     <string name="monthly">monthly</string>
