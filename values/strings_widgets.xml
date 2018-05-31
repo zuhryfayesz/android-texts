@@ -766,6 +766,16 @@
     <string name="title_report_tz">Time Zone Correction</string>
     <string name="action_create_report">Generate Report</string>
     <string name="title_report_time">At Time</string>
+    <string name="title_report_day">Send on Day</string>
+    <string name="title_report_month">Send Report On</string>
+    <string name="title_report_duration">Duration</string>
+    <string name="custom">Custom</string>
+    <string name="infinite">Infinite</string>
+    <string name="first_day_month">First Day of Month</string>
+    <string name="last_day_month">Last Day of Month</string>
+
+    <string name="title_report_start">Start Date</string>
+    <string name="title_report_stop">Stop Date</string>
 
     <!-- WIDGET SETTINGS -->
 
