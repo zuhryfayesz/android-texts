@@ -765,6 +765,7 @@
     <string name="title_report_resolution">Data Resolution</string>
     <string name="title_report_tz">Time Zone Correction</string>
     <string name="action_create_report">Generate Report</string>
+    <string name="title_report_time">At Time</string>
 
     <!-- WIDGET SETTINGS -->
 
