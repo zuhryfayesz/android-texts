@@ -742,8 +742,10 @@
     <string name="title_allow_erase">Allow end-users to erase data</string>
 
     <string name="prompt_reports_howto">Click on a report name to configure it. Scheduled reports can be put on hold. Swipe left to delete report.</string>
-    <string name="format_report_subtitle_infinite" formatted="false">Scheduled %s at %s</string>
+    <string name="format_report_subtitle_recurring" formatted="false">Scheduled %s at %s</string>
     <string name="format_report_subtitle_onetime" formatted="false">One Time report for last %s</string>
+    <string name="format_report_subtitle_last" formatted="false">Last: %s</string>
+    <string name="format_report_subtitle_next" formatted="false">Next: %s</string>
     <string name="action_add_report">New Report (5.000)</string>
     <string name="action_erase_data">Erase Data</string>
 
@@ -847,6 +849,8 @@
 
     <string name="all">All</string>
     <string name="none">None</string>
+
+    <string name="never">Never</string>
 
     <!--HOME SCREEN WIDGET-->
 
