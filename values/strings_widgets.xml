@@ -779,6 +779,8 @@
     <string name="title_report_start">Start Date</string>
     <string name="title_report_stop">Stop Date</string>
 
+    <string name="prompt_reports_list_howto">Click on a report name to configure it. Scheduled reports can be put on hold. Swipe left to delete report.</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_title_optional">Title (optional)</string>
