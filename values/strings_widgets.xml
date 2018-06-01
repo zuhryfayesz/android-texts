@@ -791,6 +791,16 @@
     <string name="error_report_not_created">Sorry, this report could not be generated</string>
     <string name="error_report_not_updated">Sorry, this report could not be updated</string>
 
+    <string name="title_erase_data">Erase Data</string>
+    <string name="action_erase">Erase</string>
+    <string name="action_erase_all">Erase all data from all devices</string>
+    <string name="header_erase_sources">Choose Datastreams to Erase</string>
+    <plurals name="format_erase">
+        <item quantity="one">%d datastream will be erased</item>
+        <item quantity="other">%d datastreams will be erased</item>
+    </plurals>
+    <string name="notice_undone">This can not be undone</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_title_optional">Title (optional)</string>
