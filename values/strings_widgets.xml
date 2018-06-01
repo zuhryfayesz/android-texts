@@ -781,6 +781,14 @@
 
     <string name="prompt_reports_list_howto">Click on a report name to configure it. Scheduled reports can be put on hold. Swipe left to delete report.</string>
 
+    <string name="prompt_report_onetime">One-time report is generated based on the report settings</string>
+    <string name="prompt_report_daily">Get reports every day for the last day</string>
+    <string name="prompt_report_weekly">Get reports every week on a specified date and time</string>
+    <string name="prompt_report_monthly">Get reports every month at a specific time</string>
+
+    <string name="error_report_not_created">Sorry, this report could not be generated</string>
+    <string name="error_report_not_updated">Sorry, this report could not be updated</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_title_optional">Title (optional)</string>
