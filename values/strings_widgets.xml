@@ -794,12 +794,20 @@
     <string name="title_erase_data">Erase Data</string>
     <string name="action_erase">Erase</string>
     <string name="action_erase_all">Erase all data from all devices</string>
-    <string name="header_erase_sources">Choose Datastreams to Erase</string>
-    <plurals name="format_erase">
+    <string name="action_erase_device">Erase all data from device</string>
+    <string name="header_erase_devices">Choose Data to Erase</string>
+    <string name="header_erase_sources">Choose DataStreams to Erase</string>
+    <plurals name="format_erase_streams">
         <item quantity="one">%d datastream will be erased</item>
         <item quantity="other">%d datastreams will be erased</item>
     </plurals>
+    <plurals name="format_erase_devices">
+        <item quantity="one">%d device will be erased</item>
+        <item quantity="other">%d devices will be erased</item>
+    </plurals>
     <string name="notice_undone">This can not be undone</string>
+
+    <string name="default_report_source_name">Source</string>
 
     <!-- WIDGET SETTINGS -->
 
