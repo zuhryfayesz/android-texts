@@ -809,6 +809,9 @@
 
     <string name="default_report_source_name">Source</string>
 
+    <string name="toast_report_export_sent">Please check your email for the reporting data</string>
+    <string name="toast_report_export_failed">Report has failed</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_title_optional">Title (optional)</string>
