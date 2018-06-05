@@ -749,7 +749,7 @@
     <string name="format_report_subtitle_last" formatted="false">Last: %s</string>
     <string name="format_report_subtitle_last_result" formatted="false">Last: %s (%s)</string>
     <string name="format_report_subtitle_next" formatted="false">Next: %s</string>
-    <string name="format_report_date" formatted="false">%s %s</string>
+    <string name="format_report_date" formatted="false">%s at %s</string>
     <string name="action_add_report">New Report (5.000)</string>
     <string name="action_erase_data">Erase Data</string>
 
