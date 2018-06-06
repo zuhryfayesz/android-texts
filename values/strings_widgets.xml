@@ -753,7 +753,7 @@
     <string name="action_add_report">New Report</string>
     <string name="action_erase_data">Erase Data</string>
 
-    <string name="format_devices_selection">%d devices selected</string>
+    <string name="format_devices_selection">%s selected</string>
     <string name="format_devices">%d Devices</string>
     <string name="format_sources">%d datastreams</string>
 

@@ -370,22 +370,24 @@ Please attach them to other target before deleting the device selector.</string>
     <string name="alert_confirm_device_removal">Are you sure you want to delete this device and all its data?</string>
 
     <plurals name="devices">
-        <item quantity="zero">Add device</item>
-        <item quantity="one">%s device</item>
-        <item quantity="other">%s devices</item>
-        <item quantity="many">%s devices</item>
+        <item quantity="zero">No devices</item>
+        <item quantity="one">%d device</item>
+        <item quantity="other">%d devices</item>
+        <item quantity="many">%d devices</item>
     </plurals>
 
     <plurals name="widgets">
-        <item quantity="one">%s widget</item>
-        <item quantity="other">%s widgets</item>
-        <item quantity="many">%s widgets</item>
+        <item quantity="zero">No widgets</item>
+        <item quantity="one">%d widget</item>
+        <item quantity="other">%d widgets</item>
+        <item quantity="many">%d widgets</item>
     </plurals>
 
     <plurals name="projects">
-        <item quantity="one">%s project</item>
-        <item quantity="other">%s projects</item>
-        <item quantity="many">%s projects</item>
+        <item quantity="zero">No projects</item>
+        <item quantity="one">%d project</item>
+        <item quantity="other">%d projects</item>
+        <item quantity="many">%d projects</item>
     </plurals>
 
     <string name="connection_ethernet">Ethernet</string>
