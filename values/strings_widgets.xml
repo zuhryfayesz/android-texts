@@ -745,7 +745,7 @@
 
     <string name="prompt_reports_howto">Click on a report name to configure it. Scheduled reports can be put on hold. Swipe left to delete report.</string>
     <string name="format_report_subtitle_recurring" formatted="false">Scheduled %s at %s</string>
-    <string name="format_report_subtitle_onetime" formatted="false">One Time report for last %s</string>
+    <string name="format_report_subtitle_onetime" formatted="false">One-time report for the last %s</string>
     <string name="format_report_subtitle_last" formatted="false">Last: %s</string>
     <string name="format_report_subtitle_last_result" formatted="false">Last: %s (%s)</string>
     <string name="format_report_subtitle_next" formatted="false">Next: %s</string>
@@ -766,7 +766,8 @@
     <string name="title_report_data_source">Data Source</string>
     <string name="action_select_source">Choose Data Source</string>
     <string name="title_report_freq">Report Frequency</string>
-    <string name="title_report_range">Report Range</string>
+    <string name="title_report_range">Report For</string>
+    <string name="format_report_range">Last %s</string>
     <string name="title_report_recipients">Recipients</string>
     <string name="title_report_resolution">Data Resolution</string>
     <string name="title_report_tz">Time Zone Correction</string>
@@ -781,7 +782,7 @@
     <string name="last_day_month">Last Day of Month</string>
 
     <string name="title_report_start">Start Date</string>
-    <string name="title_report_stop">Stop Date</string>
+    <string name="title_report_stop">End Date</string>
 
     <string name="prompt_reports_list_howto">Click on a report name to configure it. Scheduled reports can be put on hold. Swipe left to delete report.</string>
 
