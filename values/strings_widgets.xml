@@ -816,6 +816,8 @@
     <string name="toast_report_export_no_data">No data for this report</string>
     <string name="toast_report_create_failed">Report is wrongly configured</string>
 
+    <string name="prompt_button">Button</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_title_optional">Title (optional)</string>
