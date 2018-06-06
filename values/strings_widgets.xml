@@ -814,6 +814,7 @@
     <string name="toast_report_export_sent">Please check your email for the reporting data</string>
     <string name="toast_report_export_failed">Report has failed</string>
     <string name="toast_report_export_no_data">No data for this report</string>
+    <string name="toast_report_create_failed">Report is wrongly configured</string>
 
     <!-- WIDGET SETTINGS -->
 
