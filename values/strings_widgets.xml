@@ -771,7 +771,7 @@
     <string name="title_report_recipients">Recipients</string>
     <string name="title_report_resolution">Data Resolution</string>
     <string name="title_report_tz">Time Zone Correction</string>
-    <string name="action_create_report">Generate Report</string>
+    <string name="action_generate_report">Generate Report</string>
     <string name="title_report_time">At Time</string>
     <string name="title_report_day">Send on Day</string>
     <string name="title_report_month">Send Report On</string>
@@ -791,7 +791,7 @@
     <string name="prompt_report_weekly">Get reports every week on a specified date and time</string>
     <string name="prompt_report_monthly">Get reports every month at a specific time</string>
 
-    <string name="error_report_not_created">Sorry, this report could not be generated</string>
+    <string name="error_report_not_created">Sorry, this report could not be created</string>
     <string name="error_report_not_updated">Sorry, this report could not be updated</string>
 
     <string name="title_erase_data">Erase Data</string>
@@ -816,8 +816,11 @@
     <string name="toast_report_export_failed">Report has failed</string>
     <string name="toast_report_export_no_data">No data for this report</string>
     <string name="toast_report_create_failed">Report is wrongly configured</string>
+    <string name="toast_report_exporting">Report is generating</string>
 
     <string name="prompt_button">Button</string>
+
+    <string name="action_report_generating">Generating Report...</string>
 
     <!-- WIDGET SETTINGS -->
 
