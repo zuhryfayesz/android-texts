@@ -754,8 +754,11 @@
     <string name="action_erase_data">Erase Data</string>
 
     <string name="format_devices_selection">%s selected</string>
-    <string name="format_devices">%d Devices</string>
-    <string name="format_sources">%d datastreams</string>
+    <plurals name="datastreams">
+        <item quantity="zero">No datastreams</item>
+        <item quantity="one">%d datastream</item>
+        <item quantity="other">%d datastreams</item>
+    </plurals>
 
     <string name="title_select_devices">Choose Devices</string>
     <string name="title_select_sources">Data Sources</string>
@@ -800,14 +803,7 @@
     <string name="action_erase_device">Erase all data from device</string>
     <string name="header_erase_devices">Choose Data to Erase</string>
     <string name="header_erase_sources">Choose DataStreams to Erase</string>
-    <plurals name="format_erase_streams">
-        <item quantity="one">%d datastream will be erased</item>
-        <item quantity="other">%d datastreams will be erased</item>
-    </plurals>
-    <plurals name="format_erase_devices">
-        <item quantity="one">%d device will be erased</item>
-        <item quantity="other">%d devices will be erased</item>
-    </plurals>
+    <string name="format_be_erased">%s will be erased</string>
     <string name="notice_undone">This can not be undone</string>
 
     <string name="default_report_source_name">Source</string>
