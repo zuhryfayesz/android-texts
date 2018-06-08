@@ -774,7 +774,8 @@
     <string name="title_report_recipients">Recipients</string>
     <string name="title_report_resolution">Data Resolution</string>
     <string name="title_report_tz">Time Zone Correction</string>
-    <string name="action_generate_report">Generate Report</string>
+    <string name="action_generate_report">Run Report</string>
+    <string name="action_create_report">Create Report</string>
     <string name="title_report_time">At Time</string>
     <string name="title_report_day">Send on Day</string>
     <string name="title_report_month">Send Report On</string>
