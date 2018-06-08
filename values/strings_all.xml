@@ -347,10 +347,8 @@ It\'s free, open source and can be installed in 1 minute.</string>
 
     <string name="action_new_device">New Device</string>
 
-    <string name="alert_device_removal">This device is used by %s.\n
-Please attach them to other target before deleting the device.</string>
-    <string name="alert_device_selector_removal">This device selector is used by %s.\n
-Please attach them to other target before deleting the device selector.</string>
+    <string name="alert_device_removal">This device is used by %s.\nPlease attach them to other target before deleting the device.</string>
+    <string name="alert_device_selector_removal">This device selector is used by %s.\nPlease attach them to other target before deleting the device selector.</string>
 
     <string name="alert_device_limit_exceded">You exceeded limit of devices that could be created.</string>
 
