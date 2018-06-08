@@ -809,7 +809,7 @@
     <string name="default_report_source_name">Source</string>
 
     <string name="toast_report_export_sent">Latest report is in your inbox</string>
-    <string name="toast_report_export_failed">Report has failed</string>
+    <string name="toast_report_export_failed">Report failed. Check settings or try later</string>
     <string name="toast_report_export_no_data">There is no data for this report</string>
     <string name="toast_report_create_failed">Report is not configured properly</string>
     <string name="toast_report_exporting">Generating report. It may take some time&#8230;</string>
