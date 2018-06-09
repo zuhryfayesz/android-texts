@@ -816,7 +816,7 @@
     <string name="toast_report_export_no_data">There is no data for this report</string>
     <string name="toast_report_create_failed">Report is not configured properly</string>
     <string name="toast_report_exporting">Generating report. It may take some time&#8230;</string>
-
+    <string name="toast_report_export_quota">You are allowed to run only 1 report per minute</string>
     <string name="prompt_button">Button</string>
 
     <string name="action_report_generating">Generating Report&#8230;</string>
