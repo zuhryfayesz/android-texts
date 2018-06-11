@@ -740,7 +740,7 @@
     <string name="prompt_reports_settings_no_tile">Reports are only available when you have Device Tiles Widget installed with at least one Device Template</string>
     <string name="prompt_reports_no_tiles">Reports are only available when you have at least one tile</string>
     <string name="prompt_reports_no_sources">No Data Sources</string>
-    <string name="prompt_reports_description">Add Datastreams which should be included into the Reports. When ready,  switch to Play Mode, and create a Report</string>
+    <string name="prompt_reports_description">Add Datastreams which should be included into the Reports. When ready, switch to Play Mode, and create a Report</string>
     <string name="title_allow_erase">Allow end-users to erase data</string>
 
     <string name="prompt_reports_howto">Click on a report name to configure it. Scheduled reports can be put on hold. Swipe left to delete report.</string>
@@ -820,6 +820,8 @@
     <string name="prompt_button">Button</string>
 
     <string name="action_report_generating">Generating Report&#8230;</string>
+
+    <string name="title_devices_source">Project\'s Devices</string>
 
     <!-- WIDGET SETTINGS -->
 
