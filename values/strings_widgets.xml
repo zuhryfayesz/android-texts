@@ -823,6 +823,9 @@
 
     <string name="title_devices_source">Project\'s Devices</string>
 
+    <string name="action_add_report_email">+ Add Recipient</string>
+    <string name="hint_report_email">Recipient\'s e-mail</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_title_optional">Title (optional)</string>
