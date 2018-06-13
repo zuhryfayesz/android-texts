@@ -788,7 +788,7 @@
     <string name="title_report_start">Start Date</string>
     <string name="title_report_stop">End Date</string>
 
-    <string name="title_report_format">Datetime Format</string>
+    <string name="title_report_format">Date and Time Format</string>
 
     <string name="prompt_reports_list_howto">Click on a report name to configure it. Scheduled reports can be put on hold. Swipe left to delete report.</string>
 
