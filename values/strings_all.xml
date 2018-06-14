@@ -404,7 +404,7 @@ Please remove them before it\'s deleting.</string>
     <string name="title_select_date">Select Date</string>
     <string name="title_select_option">Select Option</string>
 
-    <string name="prompt_firmware_info">Firmware version: %s</string>
+    <string name="prompt_firmware_info">Firmware Version</string>
 
     <!--TAG SETTINGS-->
 
