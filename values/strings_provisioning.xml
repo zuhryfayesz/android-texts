@@ -88,13 +88,13 @@
 
     <string name="action_add_another_device">Add another device</string>
     <string name="action_add_another_device_plus">+ Add another device</string>
-    <string name="action_add_new_device">Add New Device</string>
+    <string name="action_add_new_device">Add new device</string>
     <string name="action_open_camera">Open camera</string>
 
     <string name="action_setup_new_device">Set up new Device</string>
     <string name="action_setup_device">Set up Device</string>
 
-    <string name="inform_project_qr_no_devices">Please add new device</string>
-    <string name="inform_project_wifi_no_devices">Please configure the device</string>
-    <string name="action_configure_device">Configure The Device</string>
+    <string name="prompt_no_devices">You don\'t have any devices connected yet</string>
+    <string name="prompt_no_devices_howto_qr">Scan QR code attached the device to start adding it</string>
+    <string name="prompt_no_devices_howto_wifi_tiles">Click the button below to start adding a new device</string>
 </resources>
