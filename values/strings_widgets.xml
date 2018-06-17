@@ -304,6 +304,28 @@
     
     <string name="prompt_video_setup">Tap here to specify video stream URL</string>
 
+    <string name="error_generic">Playback failed</string>
+
+    <string name="error_unrecognized_abr_algorithm">Unrecognized ABR algorithm</string>
+
+    <string name="error_drm_not_supported">Protected content not supported on API levels below 18</string>
+
+    <string name="error_drm_unsupported_scheme">This device does not support the required DRM scheme</string>
+
+    <string name="error_drm_unknown">An unknown DRM error occurred</string>
+
+    <string name="error_no_decoder">This device does not provide a decoder for %s</string>
+
+    <string name="error_no_secure_decoder">This device does not provide a secure decoder for %s</string>
+
+    <string name="error_querying_decoders">Unable to query device decoders</string>
+
+    <string name="error_instantiating_decoder">Unable to instantiate decoder %s</string>
+
+    <string name="error_unsupported_video">Media includes video tracks, but none are playable by this device</string>
+
+    <string name="error_unsupported_audio">Media includes audio tracks, but none are playable by this device</string>
+
     <!--BLE&BLUETOOTH WIDGET SETTINGS-->
 
     <string name="action_connect_ble">Connect BLE device</string>
