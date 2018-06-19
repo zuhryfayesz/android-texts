@@ -388,7 +388,7 @@
     <string name="prompt_menu_edit_item_2">Item 2</string>
 
     <string name="prompt_menu_items">Menu Items</string>
-    <string name="format_menu_item_hint">Item %s</string>
+    <string name="format_menu_item_hint">Item %d</string>
     <string name="action_add_menu_item">+ Add item</string>
 
     <!--TABS WIDGET SETTINGS-->
