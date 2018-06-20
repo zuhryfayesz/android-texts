@@ -405,6 +405,7 @@ Please remove them before it\'s deleting.</string>
     <string name="title_select_option">Select Option</string>
 
     <string name="prompt_firmware_info">Firmware Version</string>
+    <string name="firmware_info_empty">No info</string>
 
     <!--TAG SETTINGS-->
 
