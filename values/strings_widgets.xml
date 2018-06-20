@@ -776,6 +776,7 @@
     <string name="action_add_report">New Report</string>
     <string name="action_erase_data">Erase Data</string>
 
+    <string name="format_weekly">weekly (%s)</string>
     <string name="format_devices_selection">%s selected</string>
     <plurals name="datastreams">
         <item quantity="zero">No datastreams</item>
