@@ -495,6 +495,7 @@
 
     <string name="prompt_input_line">INPUT LINE</string>
     <string name="prompt_auto_scroll">AUTOSCROLL</string>
+    <string name="prompt_newline">ADD NEWLINE</string>
 
     <!--NOTIFICATION WIDGET SETTINGS-->
 
