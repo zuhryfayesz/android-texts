@@ -853,6 +853,10 @@
     <string name="prompt_sources_no_tile">Reports sources selection is not available due to not available template\'s setup</string>
     <string name="prompt_sources_no_device">Reports sources selection is not available due to not available device\'s setup</string>
 
+    <string name="title_report_file_output">Report File Output</string>
+    <string name="report_csv_pin">Per pin</string>
+    <string name="report_csv_device">Per device</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_title_optional">Title (optional)</string>
