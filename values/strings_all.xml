@@ -332,6 +332,8 @@ It\'s free, open source and can be installed in 1 minute.</string>
     <string name="title_offline_notifs">Do not show offline notifications</string>
     <string name="title_project_bg_on">Show widget\'s background in play mode</string>
 
+    <string name="title_select_target">Select Target</string>
+
     <!--DEVICE SETTINGS-->
 
     <string name="hint_device_name">Device Name</string>
