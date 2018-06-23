@@ -854,11 +854,13 @@
     <string name="prompt_sources_no_device">Reports sources selection is not available due to not available device\'s setup</string>
 
     <string name="title_report_file_output">Group Data in Reports</string>
-    <string name="report_csv_pin">By Datastream</string>
-    <string name="report_csv_device">By Device</string>
+    <string name="report_csv_pin">Datastream</string>
+    <string name="report_csv_device">Device</string>
+    <string name="report_csv_merged">Report</string>
 
     <string name="prompt_csv_pin">You will receive separate files for every datastream for each device</string>
     <string name="prompt_csv_device">You will receive one file for all Datastreams for each device</string>
+    <string name="prompt_csv_merged">You will receive one file for all devices and datastreams</string>
 
     <!-- WIDGET SETTINGS -->
 
