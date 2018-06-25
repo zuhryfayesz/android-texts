@@ -929,6 +929,8 @@
     <string name="day">Day</string>
     <string name="week">Week</string>
     <string name="month">Month</string>
+    <string name="three_month">3 Months</string>
+    <string name="six_month">6 Months</string>
 
     <string name="all">All</string>
     <string name="none">None</string>
