@@ -853,7 +853,7 @@
     <string name="prompt_sources_no_tile">Reports sources selection is not available due to not available template\'s setup</string>
     <string name="prompt_sources_no_device">Reports sources selection is not available due to not available device\'s setup</string>
 
-    <string name="title_report_file_output">Group Data in Reports</string>
+    <string name="title_report_file_output">Group Data in Reports By</string>
     <string name="report_csv_pin">Datastream</string>
     <string name="report_csv_device">Device</string>
     <string name="report_csv_merged">Report</string>
