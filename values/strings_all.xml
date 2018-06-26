@@ -652,4 +652,29 @@ Please attach them to other target before deleting the tag.</string>
     <string name="alert_app_outdated">Your app is outdated. Please update to the latest app version. Ignoring this notice may affect your projects.</string>
 
     <string name="prompt_troubleshooting_add">Here you can add troubleshooting guide for your product</string>
+
+    <!--RESET PASSWORD-->
+
+    <string name="title_forgot_password">Forgot password?</string>
+    <string name="prompt_forgot_password">It happens. Just let us know the email address you used to login and we will send you an email with instructions</string>
+
+    <string name="action_send">Send</string>
+
+    <string name="title_change_password">Set new password</string>
+    <string name="action_change_password">Change password</string>
+
+    <string name="hint_new_psw">New password</string>
+    <string name="hint_psw_confirm">Confirm password</string>
+    <string name="error_password_math">Passwords don\'t match</string>
+
+    <string name="title_reset_token_expired">Link has expired</string>
+    <string name="error_reset_token_expired">The link you use is incorrect or has been expired</string>
+
+    <string name="action_new_link">Get new link</string>
+
+    <string name="title_check_inbox">Check your inbox</string>
+    <string name="prompt_check_inbox">If the email you entered is associated with existing account in our records, you will receive an email with instructions for resetting your password</string>
+
+    <string name="action_back_to_login">Back to Login</string>
+
 </resources>
