@@ -659,6 +659,7 @@ Please attach them to other target before deleting the tag.</string>
     <string name="prompt_forgot_password">It happens. Just let us know the email address you used to login and we will send you an email with instructions</string>
 
     <string name="action_send">Send</string>
+    <string name="action_sending">Sending&#8230;</string>
 
     <string name="title_change_password">Set new password</string>
     <string name="action_change_password">Change password</string>
