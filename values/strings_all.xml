@@ -472,6 +472,7 @@ Please attach them to other target before deleting the tag.</string>
     <string name="format_server">Server: %s</string>
 
     <string name="action_open_blynk_community">Blynk Community</string>
+    <string name="action_open_blynk_help">Blynk Help Center</string>
     <string name="action_open_acknowledgements">Third party libraries</string>
     <string name="action_send_logs">Send logs to developer</string>
 
