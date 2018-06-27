@@ -666,12 +666,14 @@ Please attach them to other target before deleting the tag.</string>
 
     <string name="hint_new_psw">New password</string>
     <string name="hint_psw_confirm">Confirm password</string>
-    <string name="error_password_math">Passwords don\'t match</string>
+    <string name="error_password_match">Passwords don\'t match</string>
 
     <string name="title_reset_token_expired">Link has expired</string>
     <string name="error_reset_token_expired">The link you use is incorrect or has been expired</string>
 
     <string name="action_new_link">Get new link</string>
+
+    <string name="prompt_new_password">Your new password is set</string>
 
     <string name="title_check_inbox">Check your inbox</string>
     <string name="prompt_check_inbox">If the email you entered is associated with existing account in our records, you will receive an email with instructions for resetting your password</string>
