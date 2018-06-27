@@ -670,6 +670,7 @@ Please attach them to other target before deleting the tag.</string>
 
     <string name="title_reset_token_expired">Link has expired</string>
     <string name="error_reset_token_expired">The link you use is incorrect or has been expired</string>
+    <string name="error_reset_token_sent">Instructions for resetting your password has been already sent</string>
 
     <string name="action_new_link">Get new link</string>
 
