@@ -230,6 +230,12 @@
     <string name="webhook_hint_url">Use /pin/ or %s to insert pin data</string>
     <string name="webhook_hint_body">Use /pin/ to insert pin data</string>
 
+    <string name="action_generate_test">Run Test</string>
+    <string name="action_generating_test">Running Test</string>
+    <string name="prompt_test_run_success">Result: OK</string>
+    <string name="prompt_test_run_error">Result: Error (Failed to connect)</string>
+    <string name="prompt_test_run_error_code">Result: Error (Code - %d)</string>
+
     <!--GPS WIDGETS SETTINGS-->
 
     <string name="edit_title_trigger">TRIGGER WHEN</string>
