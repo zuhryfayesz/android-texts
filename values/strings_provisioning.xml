@@ -4,18 +4,18 @@
     <string name="action_choose_device">Choose device</string>
     <string name="action_choose_device_network">Choose device\'s network</string>
 
-    <string name="alert_wifi_location_enable">Please enable location services for scanning wifi.</string>
+    <string name="alert_wifi_location_enable">Enable location services to allow scanning Wi-Fi networks.</string>
 
-    <string name="alert_select_wifi">Please, choose the WiFi network</string>
-    <string name="alert_select_device">Please, choose appropriate WiFi network</string>
+    <string name="alert_select_wifi">Choose Wi-Fi network</string>
+    <string name="alert_select_device">Choose supported Wi-Fi network</string>
 
-    <string name="prompt_wifi_ap">Please disable Access Point mode to enable scanning for Wi-Fi networks</string>
-    <string name="prompt_wifi_scan_empty">No scan results</string>
-    <string name="prompt_provisioning_wifi_scan_empty">No suitable networks</string>
+    <string name="prompt_wifi_ap">Disable Access Point mode to enable scanning of Wi-Fi networks</string>
+    <string name="prompt_wifi_scan_empty">No Wi-Fi networks found</string>
+    <string name="prompt_provisioning_wifi_scan_empty">No supported Wi-Fi networks around</string>
 
     <string name="title_provisioning_welcome">Welcome</string>
 
-    <string name="title_provisioning_wifi">WiFi setup</string>
+    <string name="title_provisioning_wifi">Wi-Fi setup</string>
 
     <string name="title_provisioning_device">Check your device</string>
 
@@ -25,7 +25,7 @@
     <string name="prompt_provisioning_error_email">Try starting over.\nIf you experiencing issues, please email us here:\n%s</string>
     <string name="prompt_provisioning_error_page">Try starting over.\nIf you experiencing issues, please check out the support page:\n%s</string>
 
-    <string name="prompt_provisioning_step_device">Configuring WiFi</string>
+    <string name="prompt_provisioning_step_device">Configuring Wi-Fi</string>
     <string name="prompt_provisioning_step_wifi">Waiting for the device</string>
     <string name="prompt_provisioning_step_online">Final check</string>
 
@@ -36,32 +36,32 @@
     <string name="error_provisioning_not_found">Can\'t find your device</string>
 
     <string name="prompt_remember_wifi_psw">Remember the network for other devices</string>
-    <string name="title_2_4_ghz_networks">2.4 Ghz Networks</string>
-    <string name="title_5_ghz_networks">5 Ghz Networks</string>
+    <string name="title_2_4_ghz_networks">2.4 Ghz networks</string>
+    <string name="title_5_ghz_networks">5 Ghz networks</string>
     <string name="title_device_networks">Devices</string>
-    <string name="title_other_networks">Other Networks</string>
+    <string name="title_other_networks">Other networks</string>
 
-    <string name="alert_only_2_4_ghz_supported">This device can only connect to  2.4Ghz WiFi networks</string>
+    <string name="alert_only_2_4_ghz_supported">This device can only connect to 2.4Ghz Wi-Fi networks</string>
     <string name="alert_only_open_supported">Not a device\'s network</string>
 
-    <string name="prompt_choose_network">Choose WiFi network\n your device will use</string>
-    <string name="prompt_choose_device">Power on your device and make sure that indicator is %s</string>
+    <string name="prompt_choose_network">Choose Wi-Fi network\n your device will use</string>
+    <string name="prompt_choose_device">Power On your device and make sure that indicator is %s</string>
     <string name="device_indicator_decription">breathing blue</string>
 
-    <string name="hint_choose_wifi">Choose WiFi network</string>
+    <string name="hint_choose_wifi">Choose Wi-Fi network</string>
     <string name="hint_password">password</string>
     <string name="action_grant_perms">Grant permission</string>
     <string name="action_view_help">View Help</string>
 
     <string name="prompt_device_check">Make sure that your device and smartphone are very close to the router</string>
     <string name="prompt_device_change">Try again or choose\na different device</string>
-    <string name="prompt_device_not_found">Wait, or try to reset the device and set it up again</string>
+    <string name="prompt_device_not_found">Wait, or try resetting the device and set it up again</string>
     <string name="prompt_connecting_long">It takes longer than expected.\nPlease wait.</string>
 
     <string name="prompt_provisioning_progress_info">Getting device information&#8230;</string>
 
-    <string name="title_provisioning_perms">Give the app access to location data</string>
-    <string name="prompt_provisioning_perms">We don\'t track your location. This app requires access to location data for WiFi scan.</string>
+    <string name="title_provisioning_perms">App needs your permission to access location data</string>
+    <string name="prompt_provisioning_perms">We don\'t track your location. This app requires access to location data to scan Wi-Fi networks around.</string>
 
     <string name="title_connecting_to_device">Connecting to device</string>
 
@@ -69,7 +69,7 @@
 
     <string name="prompt_provisioning_connecting">Connecting&#8230;</string>
 
-    <string name="error_selection_5ghz">This is a 5Ghz WiFi. Choose another WiFi.</string>
+    <string name="error_selection_5ghz">This is a 5Ghz Wi-Fi. Choose another Wi-Fi.</string>
 
     <string name="action_read_more">Read more</string>
     <string name="action_change">Change</string>
@@ -78,7 +78,7 @@
     <string name="prompt_device_name">Name device</string>
 
     <string name="prompt_setup_project">Scan the QR code</string>
-    <string name="prompt_setup_device_via_qr">Scan the provided QR code\nto add new device</string>
+    <string name="prompt_setup_device_via_qr">Scan the provided QR-code\nto add new device</string>
 
     <string name="alert_setuped_device_success">Ready!\nDevice was successfully added</string>
     <string name="alert_setuped_devices_success">Done!\nAll Devices were successfully added</string>
@@ -95,6 +95,6 @@
     <string name="action_setup_device">Set up Device</string>
 
     <string name="prompt_no_devices">You don\'t have any devices connected yet</string>
-    <string name="prompt_no_devices_howto_qr">Scan QR code attached the device to start adding it</string>
+    <string name="prompt_no_devices_howto_qr">Scan QR-code attached the device to start adding it</string>
     <string name="prompt_no_devices_howto_wifi_tiles">Click the button below to start adding a new device</string>
 </resources>
