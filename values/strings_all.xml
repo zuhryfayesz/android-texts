@@ -47,7 +47,7 @@
 
     <string name="alert_logout_confirm">Are you sure you want to log out?</string>
     <string name="alert_default_confirm">Are you sure?</string>
-    <string name="alert_widgets_reset_confirm">This will reset all widgets' settings in the project.</string>
+    <string name="alert_widgets_reset_confirm">This will reset all widgets\' settings in the project.</string>
 
     <string name="off">OFF</string>
     <string name="on">ON</string>
