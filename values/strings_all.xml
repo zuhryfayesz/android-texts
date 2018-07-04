@@ -39,15 +39,15 @@
     <string name="title_pin_picker">Select pin</string>
     <string name="title_time_picker">Select time</string>
     <string name="title_hardware_picker">Select your hardware</string>
-    <string name="title_frequency_picker">Rate of requests</string>
-    <string name="title_write_frequency_picker">Write interval</string>
+    <string name="title_frequency_picker">Refresh rate</string>
+    <string name="title_write_frequency_picker">Writing interval</string>
     <string name="title_themes_picker">Select theme</string>
 
-    <string name="prompt_widget_info_not_available">Documentation for this widget is not available</string>
+    <string name="prompt_widget_info_not_available">Documentation for this widget is not yet available</string>
 
     <string name="alert_logout_confirm">Are you sure you want to log out?</string>
     <string name="alert_default_confirm">Are you sure?</string>
-    <string name="alert_widgets_reset_confirm">This will reset all widget settings in your project.</string>
+    <string name="alert_widgets_reset_confirm">This will reset all widgets' settings in the project.</string>
 
     <string name="off">OFF</string>
     <string name="on">ON</string>
@@ -56,22 +56,22 @@
 
     <string name="hint_project_name">Project Name</string>
 
-    <string name="error_no_route_to_host">Couldn\'t connect to the server. Please, check the settings of your wifi-router.</string>
+    <string name="error_no_route_to_host">Can\'t connect to server. Please, check settings of your wifi-router.</string>
 
-    <string name="error_command_malformed">Command is bad formed, check syntax and passed params</string>
-    <string name="error_too_many_requests">You are currently performing too many requests.</string>
+    <string name="error_command_malformed">Incorrect command, check syntax and passed parameters</string>
+    <string name="error_too_many_requests">You are making too many requests.</string>
     <string name="error_user_not_registered">User is not registered.</string>
-    <string name="error_user_already_registered">User with such name is already registered</string>
-    <string name="error_user_not_logined">Authentication failed. Please check your login and pass.</string>
-    <string name="error_user_not_allowed">User not allowed to perform this operation</string>
+    <string name="error_user_already_registered">This email address is used by other account</string>
+    <string name="error_user_not_logined">Incorrect password or email.\n Please check and try again.</string>
+    <string name="error_user_not_allowed">This operation is not allowed</string>
 
     <string name="error_board_one_is_off">Device is offline</string>
-    <string name="error_device_one_went_offline">Device was disconnected.</string>
+    <string name="error_device_one_went_offline">Device disconnected.</string>
     <string name="error_board_is_off">One of your devices is offline</string>
-    <string name="error_device_went_offline">One of your devices was disconnected.</string>
+    <string name="error_device_went_offline">One of your devices disconnected.</string>
 
-    <string name="error_format_device_offline">%s has disconnected.</string>
-    <string name="error_format_device_online">%s has connected.</string>
+    <string name="error_format_device_offline">%s disconnected.</string>
+    <string name="error_format_device_online">%s connected.</string>
 
     <string name="error_project_board_one_is_off">Device of %s is offline</string>
     <string name="error_project_device_one_went_offline">Device of %s was disconnected.</string>
