@@ -330,7 +330,7 @@
 
     <string name="error_unsupported_video">Media includes video tracks, but they can\'t be played on this device</string>
 
-    <string name="error_unsupported_audio">Media includes audio tracks, but but they can\'t be played on this device</string>
+    <string name="error_unsupported_audio">Media includes audio tracks, but they can\'t be played on this device</string>
 
     <!--BLE&BLUETOOTH WIDGET SETTINGS-->
 
@@ -358,7 +358,7 @@
 
     <string name="format_ble_error">Can\'t connect.\n%s</string>
 
-    <string name="prompt_ble_scan_empty">Can't find BLE devices around</string>
+    <string name="prompt_ble_scan_empty">Can\'t find BLE devices around</string>
 
     <string name="alert_ble_title">BLE</string>
     <string name="alert_ble_enable_location_message">Enable location services to search for Bluetooth devices.</string>
@@ -961,7 +961,7 @@
     <string name="format_add_homescreen_widget">Add %s Widget</string>
 
     <string name="alert_homescreen_add_help">Tap on the Widget you would like to add to home screen of your smartphone</string>
-    <string name="alert_homescreen_bluetooth_not_supported">Can't add home screen widgets from Projects where BLE or Bluetooth is used. Sorry.</string>
+    <string name="alert_homescreen_bluetooth_not_supported">Can\'t add home screen widgets from Projects where BLE or Bluetooth is used. Sorry.</string>
 
-    <string name="alert_homescreen_local_server">Can't add home screen widgets from Projects running on a local server. Sorry.</string>
+    <string name="alert_homescreen_local_server">Can\'t add home screen widgets from Projects running on a local server. Sorry.</string>
 </resources>

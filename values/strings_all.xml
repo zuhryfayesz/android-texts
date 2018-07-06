@@ -56,6 +56,7 @@
 
     <string name="hint_project_name">Project Name</string>
 
+    <string name="error_connect_to_server">Can\'t connect to server. Try later.</string>
     <string name="error_no_route_to_host">Can\'t connect to server. Please, check settings of your wifi-router.</string>
 
     <string name="error_command_malformed">Incorrect command, check syntax and passed parameters</string>
@@ -133,7 +134,7 @@
     <string name="notification_title">%s - Notification </string>
     <string name="notification_date">Sent at %s</string>
 
-    <string name="alert_project_limit_exceded">You've reached the max number of Projects.</string>
+    <string name="alert_project_limit_exceded">You\'ve reached the max number of Projects.</string>
 
     <string name="alert_retry">%s\nTry later.</string>
 
@@ -265,9 +266,9 @@ It\'s free, open-source, and you can install it in 1 minute.</string>
     <string name="inform_token_not_received_yet">Project\'s auth token hasn\'t been received yet</string>
     <string name="inform_reconnect">Reconnecting to the server&#8230;</string>
 
-    <string name="inform_active_project">You can't add new widgets when the project is active</string>
+    <string name="inform_active_project">You can\'t add new widgets when the project is active</string>
 
-    <string name="models_not_loaded">Hardware models haven't been loaded yet. Try later.</string>
+    <string name="models_not_loaded">Hardware models haven\'t been loaded yet. Try later.</string>
 
     <string name="action_send_email">Email</string>
     <string name="action_refresh">Refresh</string>
@@ -354,9 +355,9 @@ It\'s free, open-source, and you can install it in 1 minute.</string>
     <string name="alert_device_removal">This device is used by %s.\nRe-attach them to another target before deleting the device.</string>
     <string name="alert_device_selector_removal">This device selector is used by %s.\nPRe-attach them to other target before deleting the device selector.</string>
 
-    <string name="alert_device_limit_exceded">You've reached the max number of devices you can add</string>
+    <string name="alert_device_limit_exceded">You\'ve reached the max number of devices you can add</string>
 
-    <string name="alert_tiles_device_create_failed">Can't create a Tile. Please try again later.</string>
+    <string name="alert_tiles_device_create_failed">Can\'t create a Tile. Please try again later.</string>
     <string name="alert_selector_no_devices">No devices connected to the Device Selector</string>
 
     <string name="prompt_online">Online</string>
@@ -481,15 +482,15 @@ Re-attach them to another Target before deleting the Tag.</string>
     <!--PERMISSIONS-->
 
     <string name="prompt_gps_permission">We would need access to your smartphone\’s GPS to enable location-based functionality.</string>
-    <string name="prompt_wifi_location_permission">Blynk needs your permission to use location data just to to scan the WiFi networks around. It\’s an Android OS requirement.</string>
+    <string name="prompt_wifi_location_permission">Blynk needs your permission to use location data just to scan the WiFi networks around. It\’s an Android OS requirement.</string>
     <string name="prompt_ble_location_permission">Blynk needs your permission to use location data to scan the Bluetooth devices around. It\'s an Android OS requirement.</string>
     <string name="action_grant_permission">Grant permission</string>
 
     <string name="prompt_url_permission">Blynk app has no permission to view links using your selected browser app.</string>
 
     <string name="error_permission_network_state">You didn\'t give permission to access Network State data. It can cause unstable work.</string>
-    <string name="error_permission_internet">You didn\'t give Blynk app a permission to connect to Internet. Unfortunately, it can'/t work without it.</string>
-    <string name="error_permission_bluetooth">You didn\'t give Blynk app a permission to use Bluetooth. It can'/t work without it.</string>
+    <string name="error_permission_internet">You didn\'t give Blynk app a permission to connect to Internet. Unfortunately, it can\'t work without it.</string>
+    <string name="error_permission_bluetooth">You didn\'t give Blynk app a permission to use Bluetooth. It can\'t work without it.</string>
     <string name="error_permission_camera">You didn\'t give Blynk app a permission to access camera. This feature will not work without it.</string>
     <string name="error_permission_read_sound">You didn\'t give Blynk app a permission to access Storage. This is required if you want to use custom sounds for notifications.</string>
 
@@ -523,7 +524,7 @@ Re-attach them to another Target before deleting the Tag.</string>
     <string name="prompt_select_purchase">Choose Energy Pack</string>
 
     <string name="title_low_energy">Not enough Energy</string>
-    <string name="prompt_low_energy_simple">You don't have enough Energy</string>
+    <string name="prompt_low_energy_simple">You don\'t have enough Energy</string>
     <string name="prompt_low_energy" formatted="false">This Project requires a total of %d Energy.\nYou only have %d.\n\nAdd at least %d Energy</string>
     <string name="action_add_energy">+ Add Energy</string>
 
@@ -633,9 +634,9 @@ Re-attach them to another Target before deleting the Tag.</string>
     <string name="prompt_scan_project">Start by scanning provided QR-code</string>
     <string name="action_scan_project">Scan QR-code</string>
 
-    <string name="prompt_multiface_update_failed">Can't add new Face. Please try again later.</string>
+    <string name="prompt_multiface_update_failed">Can\'t add new Face. Please try again later.</string>
     <string name="prompt_app_face_qr_sent">Check your email.</string>
-    <string name="prompt_app_face_qr_failed">Couldn't sent Auth Token your email address.</string>
+    <string name="prompt_app_face_qr_failed">Couldn\'t sent Auth Token your email address.</string>
 
     <string name="alert_dynamic_not_supported">Dynamic Provisioning is not supported by the Faces you selected</string>
 
