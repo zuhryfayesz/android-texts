@@ -360,6 +360,7 @@
     <string name="format_ble_error">Can\'t connect.\n%s</string>
 
     <string name="prompt_ble_scan_empty">Can\'t find BLE devices around</string>
+    <string name="prompt_bluetooth_scan_empty">Can\'t find Bluetooth devices around</string>
 
     <string name="alert_ble_title">BLE</string>
     <string name="alert_ble_enable_location_message">Enable location services to search for Bluetooth devices.</string>
