@@ -4,7 +4,7 @@
     <string name="action_choose_device">Choose device</string>
     <string name="action_choose_device_network">Choose device\'s network</string>
 
-    <string name="title_wifi_device">Find your device</string>
+    <string name="title_wifi_device">Choose your device</string>
     <string name="title_wifi_network">Choose your Wi-Fi network</string>
 
     <string name="alert_wifi_location_enable">Enable location services to allow scanning Wi-Fi networks.</string>
