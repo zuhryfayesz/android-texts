@@ -780,6 +780,8 @@
     <string name="format_report_subtitle_last" formatted="false">Last: %s</string>
     <string name="format_report_subtitle_last_result" formatted="false">Last: %s (%s)</string>
     <string name="format_report_subtitle_next" formatted="false">Next: %s</string>
+    <string name="format_report_subtitle_start" formatted="false">Start Date: %s</string>
+    <string name="format_report_subtitle_stop" formatted="false">End Date: %s</string>
     <string name="format_report_date" formatted="false">%s at %s</string>
     <string name="action_add_report">New Report</string>
     <string name="action_erase_data">Erase Data</string>
@@ -948,6 +950,8 @@
     <string name="today">Today</string>
     <string name="yesterday">Yesterday</string>
     <string name="tomorrow">Tomorrow</string>
+
+    <string name="completed">Completed</string>
 
     <!--HOME SCREEN WIDGET-->
 
