@@ -776,7 +776,7 @@
 
     <string name="prompt_reports_howto">Click on a report name to configure it. Scheduled reports can be put on hold. Swipe left to delete report.</string>
     <string name="format_report_subtitle_recurring" formatted="false">Scheduled %s at %s</string>
-    <string name="format_report_subtitle_onetime" formatted="false">One-time report for the last %s</string>
+    <string name="format_report_subtitle_onetime" formatted="false">One-time report for the %s</string>
     <string name="format_report_subtitle_last" formatted="false">Last: %s</string>
     <string name="format_report_subtitle_last_result" formatted="false">Last: %s (%s)</string>
     <string name="format_report_subtitle_next" formatted="false">Next: %s</string>
