@@ -192,7 +192,7 @@
     <string name="alert_fb_login_failed_message">Check that you have email address in your Facebook profile and retry.</string>
 
     <string name="prompt_help_account">Account is needed to provide you with a reliable and secure access to your hardware from anywhere in the world, no matter which device or OS you use.\n\n
-If you need more privacy you can nstall your own Private Blynk Server and run it locally.\n
+If you need more privacy you can install your own Private Blynk Server and run it locally.\n
 It\'s free, open-source, and you can install it in 1 minute.</string>
     <string name="prompt_help_server">Read more about Private Blynk Server</string>
 
