@@ -217,6 +217,10 @@
     <string name="sunset">Sunset</string>
     <string name="sunrise">Sunrise</string>
 
+    <string name="time_weekdays">Weekdays</string>
+    <string name="time_weekends">Weekends</string>
+    <string name="time_all">Everyday</string>
+
     <!--WEBHOOK WIDGET SETTINGS-->
 
     <string name="prompt_method">Method</string>
