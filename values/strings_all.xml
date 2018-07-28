@@ -101,8 +101,8 @@
     <string name="error_email_validation_failed">Not a valid email address</string>
     <string name="error_password_empty">Password can\'t be empty</string>
 
-    <string name="error_server_outdated">Your local server is outdated, please update.</string>
-    <string name="error_app_outdated">Your app is outdated, please update.</string>
+    <string name="error_server_outdated">You need to update your server. It\'s outdated.</string>
+    <string name="error_app_outdated">You need to update the app. It\'s outdated.</string>
 
     <string name="error_server_timeout">Connection time out. Try again.</string>
     <string name="error_server_close">Sorry, server connection was closed. Try later.</string>
