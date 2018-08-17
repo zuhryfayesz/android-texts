@@ -60,7 +60,7 @@
     <string name="error_no_route_to_host">Can\'t connect to server. Please, check settings of your wifi-router.</string>
 
     <string name="error_command_malformed">Incorrect command, check syntax and passed parameters</string>
-    <string name="error_too_many_requests">You've reached the maximum number of Projects.</string>
+    <string name="error_too_many_requests">You\'ve reached the maximum number of Projects.</string>
     <string name="error_user_not_registered">User is not registered.</string>
     <string name="error_user_already_registered">This email address is used by other account</string>
     <string name="error_user_not_logined">Incorrect password or email address.\n Please check and try again.</string>
