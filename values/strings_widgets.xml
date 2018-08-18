@@ -301,10 +301,23 @@
 
     <!--IMAGE WIDGET SETTINGS-->
 
-    <string name="prompt_image_id">Image ID</string>
-    <string name="hint_image_id">Enter image name or ID</string>
+    <string name="prompt_image_pin">Send Image ID from hardware: Blynk.vritualWrite(vPin, imageID)\nIDs start with 1. Default ID is 1</string>
+
+    <string name="title_image_source">Images Source</string>
+    <string name="prompt_album">Album</string>
+    <string name="prompt_url_desc">Add one or more Image URLs</string>
+    <string name="prompt_album_desc">Add images stored on your device. A permission to access albums will be needed.</string>
+    <string name="notice_album_desc">NOTE! These images won\'t be seen when you share projects with others</string>
+    
+    <string name="title_image_scale">Images Scaling</string>
+    <string name="prompt_fill">Fill</string>
+    <string name="prompt_fit">Fit</string>
+    <string name="prompt_fill_desc">Image will be scaled to fill the widget area.\nCropping may occur.</string>
+    <string name="prompt_fit_desc">Image will be scaled to fit height or width of the widget.</string>
 
     <string name="prompt_color_overlay">COLOR OVERLAY</string>
+
+    <string name="prompt_images_list">Swipe left to remove images. Drag to reorder. Tap on the image to change URL</string>
 
     <!--VIDEO WIDGET SETTINGS-->
 
