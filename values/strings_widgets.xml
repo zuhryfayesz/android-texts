@@ -301,7 +301,7 @@
 
     <!--IMAGE WIDGET SETTINGS-->
 
-    <string name="prompt_image_pin">Send Image ID from hardware: Blynk.vritualWrite(vPin, imageID)\nIDs start with 1. Default ID is 1</string>
+    <string name="prompt_image_pin">Send Image ID from hardware: Blynk.virtualWrite(vPin, imageID)\nIDs start with 1. Default ID is 1</string>
 
     <string name="title_image_source">Images Source</string>
     <string name="prompt_album">Album</string>
@@ -321,7 +321,15 @@
 
     <string name="prompt_images_list">Swipe left to remove images. Drag to reorder. Tap on the image to change URL</string>
 
-    <string name="action_add_image">Add Image URL</string>
+    <string name="action_add_image_url">Add Image URL</string>
+    <string name="action_add_image">Add Image</string>
+
+    <string name="title_image_url">Image URL</string>
+    <string name="prompt_image_copyright">Images you add may be a subject to copyright.</string>
+    <string name="error_image_load">Can\'t load image from this URL</string>
+
+    <string name="hint_url">https://</string>
+
 
     <!--VIDEO WIDGET SETTINGS-->
 
