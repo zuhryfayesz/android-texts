@@ -308,7 +308,9 @@
     <string name="prompt_url_desc">Add one or more Image URLs</string>
     <string name="prompt_album_desc">Add images stored on your device. A permission to access albums will be needed.</string>
     <string name="notice_album_desc">NOTE! These images won\'t be seen when you share projects with others</string>
-    
+
+    <string name="title_images_list">Images</string>
+
     <string name="title_image_scale">Images Scaling</string>
     <string name="prompt_fill">Fill</string>
     <string name="prompt_fit">Fit</string>
@@ -318,6 +320,8 @@
     <string name="prompt_color_overlay">COLOR OVERLAY</string>
 
     <string name="prompt_images_list">Swipe left to remove images. Drag to reorder. Tap on the image to change URL</string>
+
+    <string name="action_add_image">Add Image URL</string>
 
     <!--VIDEO WIDGET SETTINGS-->
 
@@ -784,6 +788,7 @@
     <string name="format_segmented_control_hint">Option %s</string>
 
     <!-- REPORTING WIDGET SETTINGS -->
+
     <string name="title_reports">Reports</string>
     <string name="prompt_reports_settings_no_tile">Reports are only available when you have Device Tiles Widget installed with at least one Device Template</string>
     <string name="prompt_reports_no_tiles">Reports are only available when you have at least one Tile Template</string>
