@@ -102,4 +102,23 @@
     <string name="prompt_no_devices">You don\'t have any devices connected yet</string>
     <string name="prompt_no_devices_howto_qr">Scan QR-code attached the device to start adding it</string>
     <string name="prompt_no_devices_howto_wifi_tiles">Click the button below to start adding a new device</string>
+
+    <string name="title_setup_device">Device Setup</string>
+
+    <string name="title_setup_device_start">Let\'s finish setting up\n%s</string>
+    <string name="prompt_setup_device_start">Follow next steps to add information about your new device</string>
+
+    <string name="label_model">Model</string>
+    <string name="prompt_setup_device_model">Choose the correct model</string>
+
+    <string name="title_setup_device_info">General Information</string>
+    <string name="title_setup_device_location">Device Location</string>
+
+    <string name="title_setup_device_ready">%s is ready to use\nMetadata successfully applied</string>
+    <string name="prompt_setup_device_ready">You can check Device Info to view and edit Metadata</string>
+
+    <string name="title_setup_device_next">What\'s next?</string>
+    <string name="prompt_setup_device_continue">Continue adding devices or exit provisioning</string>
+    <string name="action_add_new_device_with_metadata">Add new device and apply most recent metadata</string>
+    <string name="action_exit_to_app">Exit to app</string>
 </resources>
