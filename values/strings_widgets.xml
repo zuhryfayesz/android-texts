@@ -553,6 +553,8 @@
     <string name="map_description">Blynk.location(index, lat, lon, value)</string>
     <string name="prompt_my_location_title">Show my location</string>
     <string name="prompt_my_location">My location</string>
+    <string name="mode_map">Map</string>
+    <string name="mode_satellite">Satellite</string>
 
     <!-- LEVEL DISPLAY WIDGET SETTINGS -->
 
