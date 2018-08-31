@@ -105,6 +105,8 @@
 
     <string name="title_setup_device">Device Setup</string>
 
+    <string name="prompt_setup_device_steps" formatted="false">%d of %d</string>
+
     <string name="title_setup_device_start">Let\'s finish setting up\n%s</string>
     <string name="prompt_setup_device_start">Follow next steps to add information about your new device</string>
 
@@ -121,4 +123,6 @@
     <string name="prompt_setup_device_continue">Continue adding devices or exit provisioning</string>
     <string name="action_add_new_device_with_metadata">Add new device and apply most recent metadata</string>
     <string name="action_exit_to_app">Exit to app</string>
+
+    <string name="action_next">Next</string>
 </resources>
