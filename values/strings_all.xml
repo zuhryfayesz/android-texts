@@ -118,6 +118,8 @@
 
     <string name="error_not_supported_api_version">This version is not supported. Please update.</string>
 
+    <string name="error_limit_apps">You reached limit of the apps</string>
+
     <string name="error_widget_user_not_logined">Authentication failed. Please log in via Blynk app.</string>
     <string name="error_widget_empty_profile">Your profile is empty. Please use Blynk app to create a project.</string>
 
