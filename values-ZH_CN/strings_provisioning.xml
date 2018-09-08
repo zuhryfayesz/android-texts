@@ -1,13 +1,13 @@
 <resources>
     <string name="action_ready">Ready</string>
 
-    <string name="action_choose_device">Choose device</string>
-    <string name="action_choose_device_network">Choose device\'s network</string>
+    <string name="action_choose_device">选择设备</string>
+    <string name="action_choose_device_network">选择设备网络</string>
 
-    <string name="title_device_info">Device Info</string>
+    <string name="title_device_info">设备信息</string>
 
-    <string name="title_wifi_device">Choose your device</string>
-    <string name="title_wifi_network">Choose your Wi-Fi network</string>
+    <string name="title_wifi_device">选择你的设备</string>
+    <string name="title_wifi_network">选择Wi-Fi</string>
 
     <string name="alert_wifi_location_enable">请开启无线网络扫描服务。</string>
 
@@ -20,21 +20,21 @@
 
     <string name="title_provisioning_welcome">欢迎！</string>
 
-    <string name="title_provisioning_wifi">Wi-Fi setup</string>
+    <string name="title_provisioning_wifi">Wi-Fi 设置</string>
 
     <string name="title_provisioning_device">连接设备</string>
 
-    <string name="title_provisioning_configuring">Configuring device</string>
-    <string name="title_provisioning_connecting">Connecting to device</string>
+    <string name="title_provisioning_configuring">配置设备</string>
+    <string name="title_provisioning_connecting">连接到设备</string>
     <string name="title_provisioning_error">@string/title_provisioning_connecting</string>
     <string name="prompt_provisioning_error_email">Try starting over.\nIf you experiencing issues, please email us here:\n%s</string>
     <string name="prompt_provisioning_error_page">Try starting over.\nIf you experiencing issues, please check out the support page:\n%s</string>
 
-    <string name="prompt_provisioning_step_device">Configuring Wi-Fi</string>
+    <string name="prompt_provisioning_step_device">设置 Wi-Fi</string>
     <string name="prompt_provisioning_step_wifi">Waiting for the device</string>
     <string name="prompt_provisioning_step_online">Final check</string>
 
-    <string name="title_provisioning_success">Finish</string>
+    <string name="title_provisioning_success">完成</string>
 
     <string name="error_provisioning_wrong_board">This device doesn\'t work\nwith the app</string>
     <string name="error_provisioning_connect_failed">Can\'t connect to device</string>
@@ -43,8 +43,8 @@
     <string name="prompt_remember_wifi_psw">Remember the network for other devices</string>
     <string name="title_2_4_ghz_networks">2.4 Ghz networks</string>
     <string name="title_5_ghz_networks">5 Ghz networks</string>
-    <string name="title_device_networks">Devices</string>
-    <string name="title_other_networks">Other networks</string>
+    <string name="title_device_networks">设备</string>
+    <string name="title_other_networks">其他网络</string>
 
     <string name="alert_only_2_4_ghz_supported">This device can only connect to 2.4Ghz Wi-Fi networks</string>
     <string name="alert_only_open_supported">Not a device\'s network</string>
@@ -53,10 +53,10 @@
     <string name="prompt_choose_device">Power On your device and make sure that indicator is %s</string>
     <string name="device_indicator_decription">breathing blue</string>
 
-    <string name="hint_choose_wifi">Choose Wi-Fi network</string>
-    <string name="hint_password">password</string>
+    <string name="hint_choose_wifi">选择 Wi-Fi</string>
+    <string name="hint_password">密码</string>
     <string name="action_grant_perms">Grant permission</string>
-    <string name="action_view_help">View Help</string>
+    <string name="action_view_help">查看帮助</string>
 
     <string name="prompt_device_check">Make sure that your device and smartphone are very close to the router</string>
     <string name="prompt_device_change">Try again or choose\na different device</string>
@@ -68,21 +68,21 @@
     <string name="title_provisioning_perms">App needs your permission to access location data</string>
     <string name="prompt_provisioning_perms">We don\'t track your location. This app requires access to location data to scan Wi-Fi networks around.</string>
 
-    <string name="title_connecting_to_device">Connecting to device</string>
+    <string name="title_connecting_to_device">正在连接设备</string>
 
-    <string name="action_retry">Retry</string>
+    <string name="action_retry">重试</string>
 
-    <string name="prompt_provisioning_connecting">Connecting&#8230;</string>
+    <string name="prompt_provisioning_connecting">连接中&#8230;</string>
 
-    <string name="error_selection_5ghz">This is a 5Ghz Wi-Fi. Choose another Wi-Fi.</string>
+    <string name="error_selection_5ghz">这是一个5 Ghz Wi-Fi. 请选择另一个Wi-Fi.</string>
 
-    <string name="action_read_more">Read more</string>
-    <string name="action_change">Change</string>
+    <string name="action_read_more">阅读更多</string>
+    <string name="action_change">更换</string>
 
-    <string name="prompt_device_connected">%s\nconnected!</string>
+    <string name="prompt_device_connected">%s\n已连接!</string>
     <string name="prompt_device_name">Name device</string>
 
-    <string name="prompt_setup_project">Scan the QR code</string>
+    <string name="prompt_setup_project">扫描二维码</string>
     <string name="prompt_setup_device_via_qr">Scan the provided QR-code\nto add new device</string>
 
     <string name="alert_setuped_device_success">Ready!\nDevice was successfully added</string>
@@ -91,19 +91,19 @@
     <string name="alert_device_already_setuped">This device was added already.</string>
     <string name="alert_export_illegal_email">This code is for another user</string>
 
-    <string name="action_add_another_device">Add another device</string>
-    <string name="action_add_another_device_plus">+ Add another device</string>
-    <string name="action_add_new_device">Add new device</string>
-    <string name="action_open_camera">Open camera</string>
+    <string name="action_add_another_device">添加新设备</string>
+    <string name="action_add_another_device_plus">+ 添加新设备</string>
+    <string name="action_add_new_device">添加新设备</string>
+    <string name="action_open_camera">打开相机</string>
 
-    <string name="action_setup_new_device">Set up new Device</string>
-    <string name="action_setup_device">Set up Device</string>
+    <string name="action_setup_new_device">设置新设备</string>
+    <string name="action_setup_device">设置新设备</string>
 
-    <string name="prompt_no_devices">You don\'t have any devices connected yet</string>
+    <string name="prompt_no_devices">当前您没有连接设备</string>
     <string name="prompt_no_devices_howto_qr">Scan QR-code attached the device to start adding it</string>
     <string name="prompt_no_devices_howto_wifi_tiles">Click the button below to start adding a new device</string>
 
-    <string name="title_setup_device">Device Setup</string>
+    <string name="title_setup_device">设置设备</string>
 
     <string name="prompt_setup_device_steps" formatted="false">%d of %d</string>
 

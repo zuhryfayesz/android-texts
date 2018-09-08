@@ -45,13 +45,13 @@
     <string name="widget_vertical_level_display_title">竖直显示仪</string>
     <string name="widget_step_title">水平步进按钮</string>
     <string name="widget_vertical_step_title">数值步进按钮</string>
-    <string name="widget_text_input_title">Text Input</string>
-    <string name="widget_number_input_title">Numeric Input</string>
+    <string name="widget_text_input_title">文本输入</string>
+    <string name="widget_number_input_title">数字输入</string>
     <string name="widget_supergraph_title">超级图表</string>
     <string name="widget_device_tiles_title">Device Tiles</string>
-    <string name="widget_styled_button_title">Styled Button</string>
-    <string name="widget_segmented_control_title">Segmented Switch</string>
-    <string name="widget_reports_title">Reports</string>
+    <string name="widget_styled_button_title">风格按钮</string>
+    <string name="widget_segmented_control_title">分段按钮</string>
+    <string name="widget_reports_title">报告</string>
 
     <string name="format_title_widget_settings">%s 设置</string>
 
@@ -78,7 +78,7 @@
     <string name="section_sensors">手机传感器</string>
     <string name="section_notifications">通知</string>
     <string name="section_other">其他</string>
-    <string name="section_interface">Interface</string>
+    <string name="section_interface">界面</string>
     <string name="section_device_management">设备管理</string>
 
     <string name="prompt_installed">已安装</string>
@@ -100,7 +100,7 @@
     <string name="eventor_condition_neq">不等于 %s</string>
     <string name="eventor_condition_str_eq">is like %s</string>
     <string name="eventor_condition_str_neq">is not like %s</string>
-    <string name="eventor_condition_changed">is changed </string>
+    <string name="eventor_condition_changed">改变 </string>
 
     <string name="eventor_action_setpin" formatted="false">set %s to %s</string>
     <string name="eventor_action_turn_on">开启 %s</string>
@@ -119,7 +119,7 @@
     <string name="eventor_hint_select_time">选择时间</string>
 
     <string name="eventor_elem_when">当…</string>
-    <string name="eventor_elem_when_format">When %s</string>
+    <string name="eventor_elem_when_format">当 %s</string>
     <string name="eventor_elem_when_time_format">在 %s</string>
     <string name="eventor_elem_vpin">虚拟管脚值</string>
     <string name="eventor_elem_vpin_highlight">虚拟管脚</string>
@@ -217,9 +217,9 @@
     <string name="sunset">日落</string>
     <string name="sunrise">日出</string>
 
-    <string name="time_weekdays">Weekdays</string>
-    <string name="time_weekends">Weekends</string>
-    <string name="time_all">Everyday</string>
+    <string name="time_weekdays">工作日</string>
+    <string name="time_weekends">周末</string>
+    <string name="time_all">每天</string>
 
     <!--WEBHOOK WIDGET SETTINGS-->
 
@@ -237,16 +237,16 @@
 
     <string name="action_generate_test">Run Test</string>
     <string name="action_generating_test">Running Test</string>
-    <string name="prompt_test_run_success">Result: OK</string>
-    <string name="prompt_test_run_error">Result: Error (Failed to connect)</string>
-    <string name="prompt_test_run_error_code">Result: Error (Code - %d)</string>
+    <string name="prompt_test_run_success">结果: OK</string>
+    <string name="prompt_test_run_error">结果: 错误 (无法连接)</string>
+    <string name="prompt_test_run_error_code">结果: 错误 (代码 - %d)</string>
 
     <!--GPS WIDGETS SETTINGS-->
 
-    <string name="edit_title_trigger">TRIGGER WHEN</string>
+    <string name="edit_title_trigger">触发条件</string>
     <string name="edit_battery">电池消耗</string>
-    <string name="trigger_enter">ENTER</string>
-    <string name="trigger_exit">EXIT</string>
+    <string name="trigger_enter">进入</string>
+    <string name="trigger_exit">退出</string>
     <string name="mode_stream">STREAM</string>
     <string name="mode_trigger">触发器</string>
     <string-array name="gps_descriptions">
@@ -303,17 +303,17 @@
 
     <string name="prompt_image_pin">Send Image ID from hardware: Blynk.virtualWrite(vPin, imageID)\nIDs start with 1. Default ID is 1</string>
 
-    <string name="title_image_source">Images Source</string>
-    <string name="prompt_album">Album</string>
-    <string name="prompt_url_desc">Add one or more Image URLs</string>
+    <string name="title_image_source">图片源</string>
+    <string name="prompt_album">相册</string>
+    <string name="prompt_url_desc">添加一张或者多张图片地址</string>
     <string name="prompt_album_desc">Add images stored on your device. A permission to access albums will be needed.</string>
     <string name="notice_album_desc">NOTE! These images won\'t be seen when you share projects with others</string>
 
-    <string name="title_images_list">Images</string>
+    <string name="title_images_list">图片</string>
 
-    <string name="title_image_scale">Images Scaling</string>
-    <string name="prompt_fill">Fill</string>
-    <string name="prompt_fit">Fit</string>
+    <string name="title_image_scale">图片缩放/string>
+    <string name="prompt_fill">充满</string>
+    <string name="prompt_fit">适合</string>
     <string name="prompt_fill_desc">Image will be scaled to fill the widget area.\nCropping may occur.</string>
     <string name="prompt_fit_desc">Image will be scaled to fit height or width of the widget.</string>
 
@@ -848,15 +848,15 @@
     <string name="title_report_duration">Duration</string>
     <string name="custom">Custom</string>
     <string name="infinite">Infinite</string>
-    <string name="first_day_month">First Day of Month</string>
-    <string name="last_day_month">Last Day of Month</string>
+    <string name="first_day_month">每月第一天</string>
+    <string name="last_day_month">每月最后一天</string>
 
-    <string name="title_report_start">Start Date</string>
-    <string name="title_report_stop">End Date</string>
+    <string name="title_report_start">开始日期</string>
+    <string name="title_report_stop">结束日期</string>
 
-    <string name="title_report_format">Date and Time Format</string>
+    <string name="title_report_format">日期和时间格式</string>
 
-    <string name="prompt_reports_list_howto">Click on a report name to configure it. Scheduled reports can be put on hold 鈥撀爑se switch on the right. Swipe left to delete report.</string>
+    <string name="prompt_reports_list_howto">Click on a report name to configure it. Scheduled reports can be put on hold – use switch on the right. Swipe left to delete report.</string>
 
     <string name="prompt_report_onetime">One-time report is generated based on the report settings</string>
     <string name="prompt_report_daily">Get reports every day for the last day</string>
@@ -906,7 +906,7 @@
 
     <!-- WIDGET SETTINGS -->
 
-    <string name="hint_title_optional">Title (optional)</string>
+    <string name="hint_title_optional">标题 (选填)</string>
 
     <string name="hint_min">最小</string>
     <string name="hint_max">最大</string>
@@ -936,7 +936,7 @@
 
     <string name="prompt_screen">屏幕</string>
     <string name="prompt_text">文字</string>
-    <string name="prompt_icon">Icon</string>
+    <string name="prompt_icon">图标</string>
 
     <string name="prompt_cover">SOON</string>
 
@@ -961,29 +961,29 @@
 
     <string name="prompt_not_supported">This Widget is no longer supported :(</string>
 
-    <string name="title_show_value">Show Value</string>
+    <string name="title_show_value">显示数值</string>
 
-    <string name="onetime">one-time</string>
-    <string name="daily">daily</string>
-    <string name="weekly">weekly</string>
-    <string name="monthly">monthly</string>
+    <string name="onetime">单次</string>
+    <string name="daily">每天</string>
+    <string name="weekly">每周</string>
+    <string name="monthly">每月</string>
 
-    <string name="day">Day</string>
-    <string name="week">Week</string>
-    <string name="month">Month</string>
-    <string name="three_month">3 Months</string>
-    <string name="six_month">6 Months</string>
+    <string name="day">日</string>
+    <string name="week">周</string>
+    <string name="month">月</string>
+    <string name="three_month">3个月</string>
+    <string name="six_month">6个月</string>
 
-    <string name="all">All</string>
+    <string name="all">全部</string>
     <string name="none">None</string>
 
-    <string name="never">Never</string>
+    <string name="never">永不</string>
 
-    <string name="today">Today</string>
-    <string name="yesterday">Yesterday</string>
-    <string name="tomorrow">Tomorrow</string>
+    <string name="today">今天</string>
+    <string name="yesterday">昨天</string>
+    <string name="tomorrow">明天</string>
 
-    <string name="completed">Completed</string>
+    <string name="completed">完成</string>
 
     <!--HOME SCREEN WIDGET-->
 
