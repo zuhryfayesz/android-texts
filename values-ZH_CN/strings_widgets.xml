@@ -1,8 +1,8 @@
 <resources>
     <string name="widget_button_title">按钮</string>
     <string name="widget_rgb_title">斑马彩灯</string>
-    <string name="widget_slider_title">滑块</string>
-    <string name="widget_vertical_slider_title">竖直滑块</string>
+    <string name="widget_slider_title">滑杆</string>
+    <string name="widget_vertical_slider_title">竖直滑杆</string>
     <string name="widget_led_title">LED</string>
     <string name="widget_graph_title">图表</string>
     <string name="widget_display_title">显示数值</string>
