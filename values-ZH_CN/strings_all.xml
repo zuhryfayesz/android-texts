@@ -18,7 +18,7 @@
     <string name="action_create_account">建立新帐户</string>
     <string name="action_create_project">建立新项目</string>
     <string name="action_open_apps">My Apps</string>
-    <string name="action_community">Community</string>
+    <string name="action_community">社区</string>
     <string name="action_scan_qr">扫描二维码</string>
     <string name="action_clone">克隆</string>
     <string name="action_generate_link">生成链接</string>
@@ -31,7 +31,7 @@
 
     <string name="action_done">完成</string>
 
-    <string name="action_notnow">Not now</string>
+    <string name="action_notnow">暂不</string>
     <string name="action_start_over">Start over</string>
 
     <string name="title_project">新项目</string>
@@ -110,8 +110,8 @@
     <string name="error_bluetooth_read_error">蓝牙设备连接出错，请重试。</string>
     <string name="error_bluetooth_timeout">蓝牙设备连接超时，请重试。</string>
 
-    <string name="error_unknown">Something went wrong. Please try again later.</string>
-    <string name="error_get_server">Couldn\'t connect to the server. Try again later.</string>
+    <string name="error_unknown">出错，请稍后重试。</string>
+    <string name="error_get_server">无法连接到服务器，请稍后重试。</string>
     <string name="error_unknown_message"><![CDATA[Something went wrong. We kindly ask you to report it by creating a new topic on our <a href=\'https://community.blynk.cc\'>forum</a>.<br />Thanks!]]></string>
 
     <string name="error_connection_problem">无法连接到服务器，请检查您的网络连接并重试。</string>
@@ -120,10 +120,10 @@
 
     <string name="error_limit_apps">You reached limit of the apps</string>
 
-    <string name="error_widget_user_not_logined">Authentication failed. Please log in via Blynk app.</string>
-    <string name="error_widget_empty_profile">Your profile is empty. Please use Blynk app to create a project.</string>
+    <string name="error_widget_user_not_logined">授权失败，请通过Blynk app登录.</string>
+    <string name="error_widget_empty_profile">你的个人资料为空，请用Blynk app创建项目.</string>
 
-    <string name="error_no_email_intent">Can\'t find any email app on your device</string>
+    <string name="error_no_email_intent">在您的设备上无法找到 email 类app</string>
 
     <string name="error_webview_loading_failed">It seems that your WebView package is updating now.\nPlease try again later.</string>
 
@@ -134,7 +134,7 @@
     <string name="title_acknowledgements">致谢</string>
 
     <string name="notification_title">%s - 通知 </string>
-    <string name="notification_date">Sent at %s</string>
+    <string name="notification_date">发送时间 %s</string>
 
     <string name="alert_project_limit_exceded">您超出了可以创建的项目的限制。</string>
 
@@ -224,9 +224,9 @@
     <string name="error_qr_not_blynk">这不是有效的 Blynk 代码</string>
     <string name="error_qr_not_public">此二维码允许访问共享的 Blynk 项目。您需要从“登录”屏幕扫描它。\n阅读更多: docs.blynk.cc/#sharing</string>
     <string name="error_qr_old">Blynk程序过于成旧</string>
-    <string name="error_qr_connect_exception">Can\'t clone project. %s is not available.</string>
+    <string name="error_qr_connect_exception">无法克隆项目， %s is not available.</string>
 
-    <string name="error_qr_not_valid">This QR-code is not valid</string>
+    <string name="error_qr_not_valid">二维码无效</string>
 
     <string name="prompt_qr">二维码</string>
 
@@ -277,9 +277,9 @@
     <string name="action_share">分享</string>
 
     <string name="alert_project_no_space">没有足够的空位</string>
-    <string name="alert_tabs_no_space">First row is not empty</string>
-    <string name="alert_widget_singular">You can only add one widget of this type</string>
-    <string name="alert_unexpected_error">Unexpected error occurred</string>
+    <string name="alert_tabs_no_space">第一行不为空</string>
+    <string name="alert_widget_singular">你只能添加一个该类型的组件</string>
+    <string name="alert_unexpected_error">意想不到的错误发生</string>
 
     <string name="prompt_token_updating">正在更新授权码 ...</string>
     <string name="prompt_connecting">正在连接...</string>
@@ -323,21 +323,21 @@
     <string name="pin_is_pwm">PWM</string>
     <string name="pin_is_used">USED</string>
 
-    <string name="prompt_auth_token_sent">Auth Token was sent to:\n%s</string>
-    <string name="prompt_token_search">You can also find it in %s</string>
-    <string name="prompt_dont_show">Don\'t show again</string>
+    <string name="prompt_auth_token_sent">授权码已发送给:\n%s</string>
+    <string name="prompt_token_search">你也可以在这里找到%s</string>
+    <string name="prompt_dont_show">不再显示</string>
 
-    <string name="title_shortcut">Home Screen shortcut</string>
-    <string name="action_shortcut_add">Add Shortcut</string>
-    <string name="action_shortcut_remove">Remove Shortcut</string>
+    <string name="title_shortcut">发送快捷方式到桌面</string>
+    <string name="action_shortcut_add">添加快捷方式</string>
+    <string name="action_shortcut_remove">移除快捷方式</string>
     <string name="prompt_shortcut_limit">Shortcuts limit exceeded</string>
 
     <string name="prompt_shortcut_old_api">Your Launcher app might not support shortcuts</string>
 
-    <string name="title_offline_notifs">Don\'t show offline notifications</string>
-    <string name="title_project_bg_on">Show widget background in Play mode</string>
+    <string name="title_offline_notifs">不显示下线通知</string>
+    <string name="title_project_bg_on">在开启模式显示组件背景</string>
 
-    <string name="title_select_target">Select Target</string>
+    <string name="title_select_target">选择目标</string>
 
     <!--DEVICE SETTINGS-->
 
@@ -363,10 +363,10 @@
     <string name="alert_selector_no_devices">No devices connected to the Device Selector</string>
 
     <string name="prompt_online">在线</string>
-    <string name="format_online">Online since %s</string>
-    <string name="prompt_offline">Offline</string>
-    <string name="format_offline">Offline since %s</string>
-    <string name="prompt_offline_never">Wasn\'t online yet</string>
+    <string name="format_online">上线时间 %s</string>
+    <string name="prompt_offline">离线</string>
+    <string name="format_offline">离线时间 %s</string>
+    <string name="prompt_offline_never">暂未上线</string>
 
     <string name="title_devices">设备</string>
     <string name="title_my_devices">我的设备</string>
@@ -382,17 +382,17 @@
     </plurals>
 
     <plurals name="widgets">
-        <item quantity="zero">No widgets</item>
-        <item quantity="one">%s 小部件</item>
-        <item quantity="other">%s 小部件</item>
-        <item quantity="many">%s 小部件</item>
+        <item quantity="zero">无组件</item>
+        <item quantity="one">%s 组件</item>
+        <item quantity="other">%s 组件</item>
+        <item quantity="many">%s 组件</item>
     </plurals>
 
     <plurals name="projects">
-        <item quantity="zero">No projects</item>
-        <item quantity="one">%d project</item>
-        <item quantity="other">%d projects</item>
-        <item quantity="many">%d projects</item>
+        <item quantity="zero">无项目</item>
+        <item quantity="one">%d 项目</item>
+        <item quantity="other">%d 项目</item>
+        <item quantity="many">%d 项目</item>
     </plurals>
 
     <string name="connection_ethernet">有线网络</string>
@@ -402,17 +402,17 @@
     <string name="connection_ble">BLE</string>
     <string name="connection_gsm">GSM</string>
 
-    <string name="title_selectors">Device Selectors</string>
+    <string name="title_selectors">设备选择器</string>
     <string name="alert_selector_removal">This device selector is used by %s.\n
 Remove them before deleting the Widget.</string>
 
-    <string name="action_edit">Edit</string>
+    <string name="action_edit">编辑</string>
 
-    <string name="title_select_date">Select Date</string>
+    <string name="title_select_date">选择日期</string>
     <string name="title_select_option">Select Option</string>
 
-    <string name="prompt_firmware_info">Firmware Version</string>
-    <string name="firmware_info_empty">No info</string>
+    <string name="prompt_firmware_info">固件版本</string>
+    <string name="firmware_info_empty">无信息</string>
 
     <!--TAG SETTINGS-->
 
@@ -470,16 +470,16 @@ Remove them before deleting the Widget.</string>
 
     <!--ABOUT-->
 
-    <string name="title_about">About</string>
+    <string name="title_about">关于</string>
 
-    <string name="format_version">Version: %s</string>
-    <string name="format_account">Account: %s</string>
-    <string name="format_server">Server: %s</string>
+    <string name="format_version">版本: %s</string>
+    <string name="format_account">账号: %s</string>
+    <string name="format_server">服务器: %s</string>
 
-    <string name="action_open_blynk_community">Blynk Community</string>
-    <string name="action_open_blynk_help">Blynk Help Center</string>
-    <string name="action_open_acknowledgements">Third party libraries</string>
-    <string name="action_send_logs">Send logs to developer</string>
+    <string name="action_open_blynk_community">Blynk 社区</string>
+    <string name="action_open_blynk_help">Blynk 帮助中心</string>
+    <string name="action_open_acknowledgements">第三方库</string>
+    <string name="action_send_logs">发送日志给开发者</string>
 
     <!--PERMISSIONS-->
 
@@ -509,7 +509,7 @@ Remove them before deleting the Widget.</string>
     <string name="prompt_google_services">Google 服务</string>
 
     <string name="prompt_billing_disconnected">Billing service was disconnected. Please try to reconnect.</string>
-    <string name="action_reconnect">Reconnect</string>
+    <string name="action_reconnect">重新连接</string>
 
     <string name="prompt_battery_unlimited">无限制</string>
     <string name="prompt_battery_enjoy"> 已添加，尽情享受吧!</string>
@@ -527,7 +527,7 @@ Remove them before deleting the Widget.</string>
     <string name="prompt_select_purchase">选择能量包</string>
 
     <string name="title_low_energy">你需要更多能量…</string>
-    <string name="prompt_low_energy_simple">You don\'t have enough Energy</string>
+    <string name="prompt_low_energy_simple">你没有足够能量</string>
     <string name="prompt_low_energy" formatted="false">This Project requires a total of %d Energy.\nYou only have %d.\n\nAdd at least %d Energy</string>
     <string name="action_add_energy">+ 增加能量</string>
 
@@ -559,7 +559,7 @@ Remove them before deleting the Widget.</string>
     <string name="action_make_app">Make App</string>
     <string name="action_create_preview">Create App Preview</string>
     <string name="action_start_preview">Start App Preview</string>
-    <string name="action_help">Help</string>
+    <string name="action_help">帮助</string>
 
     <string name="title_export_make_app">App Preview</string>
     <string name="title_export_app">@string/prompt_new_app</string>
@@ -585,15 +585,15 @@ Remove them before deleting the Widget.</string>
     <string name="prompt_light">LIGHT</string>
     <string name="prompt_dark">DARK</string>
 
-    <string name="prompt_type_static">Static</string>
-    <string name="prompt_type_dynamic">Dynamic</string>
+    <string name="prompt_type_static">静态</string>
+    <string name="prompt_type_dynamic">动态</string>
 
-    <string name="prompt_export_ready">Your App is ready</string>
+    <string name="prompt_export_ready">你的App已就绪</string>
     <string name="prompt_export_check">Check your email for the instructions on how to prepare your firmware.</string>
     <string name="prompt_export_firmware_ready">My firmware is ready and uploaded</string>
     <string name="prompt_export_preview_later">Preview later</string>
 
-    <string name="hint_app_name">App Name</string>
+    <string name="hint_app_name">App 名称</string>
 
     <string name="text_export_about">Every project you build in Blynk can be exported into your own Mobile App.\n\nThen it can be published to app stores with your icon, logo, colors, etc.\n\nStart by creating App Preview and learn how to prepare and test everything before publishing.</string>
 
@@ -602,15 +602,15 @@ Remove them before deleting the Widget.</string>
 
     <string name="text_export_faces">Choose one of your Projects to include in the app.\n\nYou can also enable <b>Blynk.Faces™</b> - a feature to include multiple Projects inside a single app, which will work for different clients or with multiple products.\n\nEvery Project you add becomes a new <b>Face</b> in your app.</string>
 
-    <string name="title_export_static">Static Auth Token</string>
-    <string name="title_export_dynamic">Dynamic Auth Token</string>
+    <string name="title_export_static">静态授权码</string>
+    <string name="title_export_dynamic">动态授权码</string>
 
     <string name="action_remove_app">Remove Preview App</string>
     <string name="action_edit_app">Edit Preview App</string>
 
     <string name="format_app_preview_name">%s Preview</string>
 
-    <string name="prompt_learn_more">Learn More</string>
+    <string name="prompt_learn_more">查看更多</string>
     <string name="prompt_free_preview">App Preview is FREE</string>
 
     <string name="prompt_device_provisioning">Device Provisioning</string>
@@ -621,8 +621,8 @@ Remove them before deleting the Widget.</string>
 
     <string name="title_my_apps">My Apps</string>
 
-    <string name="action_publish">Publish</string>
-    <string name="action_preview">Preview</string>
+    <string name="action_publish">发布</string>
+    <string name="action_preview">预览</string>
 
     <string name="prompt_publish_header">Another awesome app! Let\'s publish it.</string>
     <string name="prompt_publish_paid">App publishing is a paid service</string>
@@ -630,12 +630,12 @@ Remove them before deleting the Widget.</string>
     <string name="link_publish_plans">blynk.io</string>
     <string name="action_publish_app">Send Request</string>
 
-    <string name="alert_publish_sent">We will contact you shortly</string>
-    <string name="prompt_thanks">Thanks</string>
+    <string name="alert_publish_sent">我们会尽快联系你</string>
+    <string name="prompt_thanks">感谢</string>
 
-    <string name="title_projects">Projects</string>
-    <string name="prompt_scan_project">Start by scanning provided QR-code</string>
-    <string name="action_scan_project">Scan QR-code</string>
+    <string name="title_projects">项目</string>
+    <string name="prompt_scan_project">开始扫描二维码</string>
+    <string name="action_scan_project">扫描二维码</string>
 
     <string name="prompt_multiface_update_failed">Can\'t add new Face. Please try again later.</string>
     <string name="prompt_app_face_qr_sent">Check your email.</string>
@@ -643,14 +643,14 @@ Remove them before deleting the Widget.</string>
 
     <string name="alert_dynamic_not_supported">Dynamic Provisioning is not supported by the Faces you selected</string>
 
-    <string name="action_try_again">Try again</string>
+    <string name="action_try_again">再试一次</string>
 
     <string name="prompt_icon_desc">You will be able to upload your own icon before publishing to app stores</string>
 
-    <string name="action_update_faces">Update Apps</string>
-    <string name="prompt_faces_updated">Apps are updated</string>
-    <string name="prompt_faces_updating">Updating&#8230;</string>
-    <string name="prompt_faces_failed">Apps update failed</string>
+    <string name="action_update_faces">更新App</string>
+    <string name="prompt_faces_updated">App已更新</string>
+    <string name="prompt_faces_updating">更新中&#8230;</string>
+    <string name="prompt_faces_failed">App更新失败</string>
 
     <string name="notification_channel_projects">Projects</string>
 
@@ -661,30 +661,30 @@ Remove them before deleting the Widget.</string>
 
     <!--RESET PASSWORD-->
 
-    <string name="title_forgot_password">Forgot password?</string>
+    <string name="title_forgot_password">忘记密码?</string>
     <string name="prompt_forgot_password">It happens. Just let us know the email address you used to log in and we will send you an email with instructions</string>
 
-    <string name="action_send">Send</string>
-    <string name="action_sending">Sending&#8230;</string>
+    <string name="action_send">发送</string>
+    <string name="action_sending">发送中&#8230;</string>
 
-    <string name="title_change_password">Set new password</string>
-    <string name="action_change_password">Change password</string>
+    <string name="title_change_password">设置新密码</string>
+    <string name="action_change_password">更改密码</string>
 
-    <string name="hint_new_psw">New password</string>
-    <string name="hint_psw_confirm">Confirm password</string>
-    <string name="error_password_match">Passwords don\'t match</string>
+    <string name="hint_new_psw">新密码</string>
+    <string name="hint_psw_confirm">确认密码</string>
+    <string name="error_password_match">两次输入的密码不匹配</string>
 
-    <string name="title_reset_token_expired">Link has expired</string>
+    <string name="title_reset_token_expired">链接已经过期</string>
     <string name="error_reset_token_expired">The link you use is incorrect or has been expired</string>
     <string name="error_reset_token_sent">Instructions for resetting your password has been already sent</string>
 
-    <string name="action_new_link">Get new link</string>
+    <string name="action_new_link">获取新链接</string>
 
-    <string name="prompt_new_password">Your new password is set!</string>
+    <string name="prompt_new_password">您的新密码设置完毕!</string>
 
-    <string name="title_check_inbox">Check your inbox</string>
+    <string name="title_check_inbox">查看您的收件箱</string>
     <string name="prompt_check_inbox">If this email address is associated with existing account, you will receive an email with instructions for resetting your password</string>
 
-    <string name="action_back_to_login">Back to Login</string>
+    <string name="action_back_to_login">返回登录</string>
 
 </resources>
