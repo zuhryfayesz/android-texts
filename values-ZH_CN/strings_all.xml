@@ -13,23 +13,37 @@
     <string name="action_continue">继续</string>
     <string name="action_cancel">取消</string>
     <string name="action_logout">注销</string>
+
     <string name="action_save">保存</string>
     <string name="action_create_account">建立新帐户</string>
     <string name="action_create_project">建立新项目</string>
+    <string name="action_open_apps">My Apps</string>
+    <string name="action_community">Community</string>
     <string name="action_scan_qr">扫描二维码</string>
     <string name="action_clone">克隆</string>
     <string name="action_generate_link">生成链接</string>
+
     <string name="action_exit">退出</string>
+
     <string name="action_upgrade_app">更新应用</string>
+
     <string name="action_reset">重置</string>
+
     <string name="action_done">完成</string>
+
+    <string name="action_notnow">Not now</string>
+    <string name="action_start_over">Start over</string>
+
     <string name="title_project">新项目</string>
+
     <string name="title_pin_picker">选择引脚</string>
     <string name="title_time_picker">选择时间</string>
     <string name="title_hardware_picker">选择您的硬件</string>
     <string name="title_frequency_picker">请求的频率</string>
+    <string name="title_write_frequency_picker">Writing interval</string>
     <string name="title_themes_picker">选择主题</string>
-    <string name="prompt_widget_info_not_available">此部件的文档不可用</string>
+
+    <string name="prompt_widget_info_not_available">Documentation for this widget is not yet available</string>
 
     <string name="alert_logout_confirm">您确定要退出吗？</string>
     <string name="alert_default_confirm">你确定？</string>
@@ -42,7 +56,8 @@
 
     <string name="hint_project_name">项目名称</string>
 
-    <string name="error_no_route_to_host">无法连接到服务器！请检查您的 WiFi 路由器设置。</string>
+    <string name="error_connect_to_server">Can\'t connect to server. Try later.</string>
+    <string name="error_no_route_to_host">Can\'t connect to server. Please, check settings of your wifi-router.</string>
 
     <string name="error_command_malformed">命令错误，请检查语法和传递的参数。</string>
     <string name="error_too_many_requests">您目前执行的请求太多</string>
@@ -56,10 +71,13 @@
     <string name="error_board_is_off">您的其中一个设备以离线</string>
     <string name="error_device_went_offline">您的其中一个设备已断开线</string>
 
-    <string name="error_project_board_one_is_off">%s 设备已离线</string>
-    <string name="error_project_device_one_went_offline">%s 设备已断开连接</string>
-    <string name="error_project_board_is_off">您的一个 %s 设备离线</string>
-    <string name="error_project_device_went_offline">您的一个 %s 设备已断开连接</string>
+    <string name="error_format_device_offline">%s disconnected.</string>
+    <string name="error_format_device_online">%s connected.</string>
+
+    <string name="error_project_board_one_is_off">Device of %s is offline</string>
+    <string name="error_project_device_one_went_offline">Device of %s was disconnected.</string>
+    <string name="error_project_board_is_off">One of your devices of %s is offline</string>
+    <string name="error_project_device_went_offline">One of your devices from %s was disconnected.</string>
 
     <string name="error_no_active_project">请重新启动项目</string>
     <string name="error_illegal_body_command">处理客户端命令时出错</string>
@@ -69,36 +87,45 @@
     <string name="error_invalid_token">请检查身份认证的 Token</string>
 
     <string name="error_server_connect_error">很抱歉，应用无法初始化到服务器的 SSL 连接。</string>
-    <string name="error_server_read_error">连接到服务器时出错，请稍后再试。</string>
+    <string name="error_server_read_error_blynk">Something went wrong when connecting to the server. Please check if port 443 is open in your network.</string>
+    <string name="error_server_read_error_local">Something went wrong when connecting to the server. Please check if port 9443 is open in your network.</string>
+    <string name="error_server_read_error_port">Something went wrong when connecting to the server. Please check if port %d is open in your network.</string>
 
     <string name="error_network_is_off">您没有连接到互联网</string>
     <string name="error_account_taken">此帐户已被占用</string>
-    <string name="error_unknown">出错了，请稍后再试。</string>
 
-    <string name="error_network_is_off_try">有连接到互联网\n请稍后再试</string>
+    <string name="error_network_is_off_try">No Internet connection.\nPlease try later</string>
 
-    <string name="error_server_invalid">服务器地址格式无效</string>
-    <string name="error_email_empty">您需要提供您的电子邮件</string>
-    <string name="error_email_validation_failed">这不是有效的电子邮件地址</string>
-    <string name="error_password_empty">您需要提供密码</string>
+    <string name="error_server_invalid">Invalid format of the server address</string>
+    <string name="error_email_empty">Email address can\'t be empty</string>
+    <string name="error_email_validation_failed">Not a valid email address</string>
+    <string name="error_password_empty">Password can\'t be empty</string>
 
-    <string name="error_server_outdated">您的本地服务器已经过时，请更新。</string>
-    <string name="error_app_outdated">您的应用程序已经过时，请更新。</string>
+    <string name="error_server_outdated">You need to update your server. It\'s outdated.</string>
+    <string name="error_app_outdated">You need to update the app. It\'s outdated.</string>
 
-    <string name="error_server_timeout">连接超时。请再试一次。</string>
-    <string name="error_server_close">很抱歉，服务器连接已关闭。请稍后再试。</string>
+    <string name="error_server_timeout">Connection time out. Try again.</string>
+    <string name="error_server_close">Sorry, server connection was closed. Try later.</string>
 
-    <string name="error_bluetooth_read_error">连接到您的蓝牙设备时出现问题。请稍后再试。</string>
-    <string name="error_bluetooth_timeout">蓝牙连接超时。请再试一次。</string>
+    <string name="error_bluetooth_read_error">Something went wrong when connecting to your bluetooth device. Please try again later.</string>
+    <string name="error_bluetooth_timeout">Bluetooth connection timed out. Try again.</string>
 
-    <string name="server_error">服务器发生错误。请到 community.blynk.cc 报告问题。</string>
+    <string name="error_unknown">Something went wrong. Please try again later.</string>
+    <string name="error_get_server">Couldn\'t connect to the server. Try again later.</string>
+    <string name="error_unknown_message"><![CDATA[Something went wrong. We kindly ask you to report it by creating a new topic on our <a href=\'https://community.blynk.cc\'>forum</a>.<br />Thanks!]]></string>
 
-    <string name="error_connection_problem">无法连接到服务器。请检查您的网络连接，或重试。</string>
+    <string name="error_connection_problem">Couldn\'t connect to the server. Check your internet connection and try again.</string>
 
-    <string name="error_not_supported_api_version">不支持的版本。请更新。</string>
+    <string name="error_not_supported_api_version">This version is not supported. Please update.</string>
 
-    <string name="error_widget_user_not_logined">验证失败。请通过 Blynk 应用程序登录。</string>
-    <string name="error_widget_empty_profile">您的个人资料为空。请使用 Blynk 应用程序创建一个项目。</string>
+    <string name="error_limit_apps">You reached limit of the apps</string>
+
+    <string name="error_widget_user_not_logined">Authentication failed. Please log in via Blynk app.</string>
+    <string name="error_widget_empty_profile">Your profile is empty. Please use Blynk app to create a project.</string>
+
+    <string name="error_no_email_intent">Can\'t find any email app on your device</string>
+
+    <string name="error_webview_loading_failed">It seems that your WebView package is updating now.\nPlease try again later.</string>
 
     <string name="app_error">应用发生错误。请到 community.blynk.cc 报告问题。</string>
 
@@ -106,7 +133,8 @@
 
     <string name="title_acknowledgements">致谢</string>
 
-    <string name="notification_title">新通知</string>
+    <string name="notification_title">%s - Notification </string>
+    <string name="notification_date">Sent at %s</string>
 
     <string name="alert_project_limit_exceded">您超出了可以创建的项目的限制。</string>
 
@@ -120,11 +148,14 @@
     <string name="inform_location_disabled">您的设备上的位置服务已停用</string>
     <string name="action_enable">启用</string>
 
+    <string name="prompt_still_working">Still working&#8230;</string>
 
     <string name="no">否</string>
     <string name="yes">是</string>
 
     <string name="and">和</string>
+
+    <string name="error_qr_large_file">File is too large</string>
 
     <!--LOGIN/REGISTER/ETC-->
 
@@ -151,9 +182,12 @@
     <string name="inform_token_copied">Token 已复制到剪贴板</string>
     <string name="inform_loading">加载中...</string>
 
-    <string name="error_credentials_empty">您需要提供您的电子邮件和密码</string>
+    <string name="error_clipboard_broken">App has no access to the clipboard.</string>
 
-    <string name="error_facebook_login">Facebook 登录失败</string>
+    <string name="error_credentials_empty">Please provide your email and password</string>
+
+    <string name="error_facebook_login_failed">Facebook login failed</string>
+    <string name="error_facebook_login_with_psw">Looks like you have previously logged in with Facebook. Use Facebook login button to log in.</string>
     <string name="action_facebook_login">用 Facebook 账号登陆</string>
 
     <string name="alert_fb_login_failed_title">对不起，无法登录</string>
@@ -172,6 +206,10 @@
     <string name="mode_server_blynk">BLYNK</string>
     <string name="mode_server_custom">CUSTOM</string>
 
+    <string name="prompt_reset_desc">We will send you an email with the link to reset your password</string>
+    <string name="prompt_reset_success">We sent an email with the link to reset your password to %s</string>
+    <string name="action_got_it">Got It!</string>
+
     <!--QR-->
 
     <string name="error_code_redeemed">此兑换码已被兑换。\n有问题请发电子邮件到 %s</string>
@@ -186,10 +224,14 @@
     <string name="error_qr_not_blynk">这不是有效的 Blynk 代码</string>
     <string name="error_qr_not_public">此二维码允许访问共享的 Blynk 项目。您需要从“登录”屏幕扫描它。\n阅读更多: docs.blynk.cc/#sharing</string>
     <string name="error_qr_old">Blynk程序过于成旧</string>
+    <string name="error_qr_connect_exception">Can\'t clone project. %s is not available.</string>
+
+    <string name="error_qr_not_valid">This QR-code is not valid</string>
 
     <string name="prompt_qr">二维码</string>
 
     <string name="error_share_qr_not_generated">创建共享二维码出错。\n请尝试刷新或稍后尝试。</string>
+    <string name="error_clone_qr_not_generated">Problems with creating QR-code to clone your Project.</string>
 
     <string name="error_share_qr_too_big">项目大小超出二维码限制</string>
 
@@ -199,6 +241,8 @@
 
     <string name="action_autofocus_on">开启自动对焦</string>
     <string name="action_autofocus_off">关闭自动对焦</string>
+
+    <string name="action_scan_file">Scan from file</string>
 
     <!--PROJECT SETTINGS-->
 
@@ -219,8 +263,10 @@
 
     <string name="prompt_keep_screen">保持屏幕始终打开</string>
 
-    <string name="inform_token_not_received_yet">项目的验证授权码尚未被收到</string>
-    <string name="inform_reconnect">重新连接到服务器&#8230;</string>
+    <string name="prompt_send_connected">Notify devices when app connected</string>
+
+    <string name="inform_token_not_received_yet">Project\'s auth token hasn\'t been received yet</string>
+    <string name="inform_reconnect">Reconnecting to the server&#8230;</string>
 
     <string name="inform_active_project">在项目处于活动状态时，无法添加新的小部件</string>
 
@@ -231,8 +277,9 @@
     <string name="action_share">分享</string>
 
     <string name="alert_project_no_space">没有足够的空位</string>
-    <string name="alert_widget_singular">只允许一个该类型的部件存在</string>
-    <string name="alert_unexpected_error">发生意外错误</string>
+    <string name="alert_tabs_no_space">First row is not empty</string>
+    <string name="alert_widget_singular">You can only add one widget of this type</string>
+    <string name="alert_unexpected_error">Unexpected error occurred</string>
 
     <string name="prompt_token_updating">正在更新授权码 ...</string>
     <string name="prompt_connecting">正在连接...</string>
@@ -274,6 +321,23 @@
     <string name="pin_digital">数字</string>
     <string name="pin_is_busy">忙</string>
     <string name="pin_is_pwm">PWM</string>
+    <string name="pin_is_used">USED</string>
+
+    <string name="prompt_auth_token_sent">Auth Token was sent to:\n%s</string>
+    <string name="prompt_token_search">You can also find it in %s</string>
+    <string name="prompt_dont_show">Don\'t show again</string>
+
+    <string name="title_shortcut">Home Screen shortcut</string>
+    <string name="action_shortcut_add">Add Shortcut</string>
+    <string name="action_shortcut_remove">Remove Shortcut</string>
+    <string name="prompt_shortcut_limit">Shortcuts limit exceeded</string>
+
+    <string name="prompt_shortcut_old_api">Your Launcher app might not support shortcuts</string>
+
+    <string name="title_offline_notifs">Don\'t show offline notifications</string>
+    <string name="title_project_bg_on">Show widget background in Play mode</string>
+
+    <string name="title_select_target">Select Target</string>
 
     <!--DEVICE SETTINGS-->
 
@@ -291,15 +355,24 @@
     <string name="action_new_device">新设备</string>
 
     <string name="alert_device_removal">%s 正在使用此设备\n请先移除它们，然后再删除设备。</string>
+    <string name="alert_device_selector_removal">This device selector is used by %s.\nPRe-attach them to other target before deleting the device selector.</string>
 
-    <string name="alert_device_removal_confirm">要删除此设备吗？这将无法被撤消。</string>
+    <string name="alert_device_limit_exceded">You\'ve reached the max number of devices you can add</string>
+
+    <string name="alert_tiles_device_create_failed">Can\'t create a Tile. Please try again later.</string>
+    <string name="alert_selector_no_devices">No devices connected to the Device Selector</string>
 
     <string name="prompt_online">在线</string>
-    <string name="prompt_offline">离线至 %s</string>
-    <string name="prompt_offline_never">尚未上线</string>
+    <string name="format_online">Online since %s</string>
+    <string name="prompt_offline">Offline</string>
+    <string name="format_offline">Offline since %s</string>
+    <string name="prompt_offline_never">Wasn\'t online yet</string>
 
     <string name="title_devices">设备</string>
     <string name="title_my_devices">我的设备</string>
+    <string name="title_tag_devices">Tagged Devices</string>
+
+    <string name="alert_confirm_device_removal">Are you sure you want to delete this device and all it\'s data?</string>
 
     <plurals name="devices">
         <item quantity="zero">添加设备</item>
@@ -309,9 +382,17 @@
     </plurals>
 
     <plurals name="widgets">
+        <item quantity="zero">No widgets</item>
         <item quantity="one">%s 小部件</item>
         <item quantity="other">%s 小部件</item>
         <item quantity="many">%s 小部件</item>
+    </plurals>
+
+    <plurals name="projects">
+        <item quantity="zero">No projects</item>
+        <item quantity="one">%d project</item>
+        <item quantity="other">%d projects</item>
+        <item quantity="many">%d projects</item>
     </plurals>
 
     <string name="connection_ethernet">有线网络</string>
@@ -321,9 +402,17 @@
     <string name="connection_ble">BLE</string>
     <string name="connection_gsm">GSM</string>
 
-    <string name="title_selectors">设备选择器</string>
-    <string name="alert_selector_removal">该设备被使用于 %s \n
-请在移除之前将其删除。</string>
+    <string name="title_selectors">Device Selectors</string>
+    <string name="alert_selector_removal">This device selector is used by %s.\n
+Remove them before deleting the Widget.</string>
+
+    <string name="action_edit">Edit</string>
+
+    <string name="title_select_date">Select Date</string>
+    <string name="title_select_option">Select Option</string>
+
+    <string name="prompt_firmware_info">Firmware Version</string>
+    <string name="firmware_info_empty">No info</string>
 
     <!--TAG SETTINGS-->
 
@@ -378,42 +467,224 @@
     <string name="tutorial_share_text_2">他们将需要下载 Blynk 应用程序</string>
     <string name="tutorial_share_title_3">您每次更新项目时，您的用户信息会被即时更新！</string>
     <string name="tutorial_share_text_3">您可以通过使用本地 Blynk 服务器实现最大化性能和安全性。\n它容易使用并且免费。</string>
+
+    <!--ABOUT-->
+
+    <string name="title_about">About</string>
+
+    <string name="format_version">Version: %s</string>
+    <string name="format_account">Account: %s</string>
+    <string name="format_server">Server: %s</string>
+
+    <string name="action_open_blynk_community">Blynk Community</string>
+    <string name="action_open_blynk_help">Blynk Help Center</string>
+    <string name="action_open_acknowledgements">Third party libraries</string>
+    <string name="action_send_logs">Send logs to developer</string>
+
     <!--PERMISSIONS-->
-    <string name="prompt_gps_permission">我们需要使用您手机的 GPS 才能启用定位的功能。</string>
-    <string name="prompt_wifi_location_permission">Blynk 需要扫描您周围的 WiFi 网络，这是 Android 系统的要求。</string>
-    <string name="prompt_ble_location_permission">Blynk 需要扫描您周围的蓝牙设备，这是 Android 系统的要求。</string>
-    <string name="action_grant_permission">给予授权</string>
-    <string name="error_permission_network_state">未授权 Blynk 应用程序访问当前网络状态的权限。这可能导致工作异常。</string>
-    <string name="error_permission_internet">未授权 Blynk 应用程序访问互联网的权限。这会导致功能无法使用。</string>
-    <string name="error_permission_bluetooth">未授权 Blynk 应用程序访问蓝牙的权限。这会导致功能无法使用。</string>
-    <string name="error_permission_camera">未授权 Blynk 应用程序访问相机的权限。这会导致功能无法使用。</string>
+
+    <string name="prompt_gps_permission">We would need access to your smartphone\’s GPS to enable location-based functionality.</string>
+    <string name="prompt_wifi_location_permission">Blynk needs your permission to use location data just to scan the WiFi networks around. It\’s an Android OS requirement.</string>
+    <string name="prompt_ble_location_permission">Blynk needs your permission to use location data to scan the Bluetooth devices around. It\'s an Android OS requirement.</string>
+    <string name="action_grant_permission">Grant permission</string>
+
+    <string name="prompt_url_permission">Blynk app has no permission to view links using your selected browser app.</string>
+
+    <string name="error_permission_network_state">You didn\'t give permission to access Network State data. It can cause unstable work.</string>
+    <string name="error_permission_internet">You didn\'t give Blynk app a permission to connect to Internet. Unfortunately, it can\'t work without it.</string>
+    <string name="error_permission_bluetooth">You didn\'t give Blynk app a permission to use Bluetooth. It can\'t work without it.</string>
+    <string name="error_permission_camera">You didn\'t give Blynk app a permission to access camera. This feature will not work without it.</string>
+    <string name="error_permission_read_sound">You didn\'t give Blynk app a permission to access Storage. This is required if you want to use custom sounds for notifications.</string>
+    <string name="error_permission_read_image">You didn\'t give Blynk app a permission to access Storage. This is required if you want to use images from your file-system.</string>
+
     <!--ENERGY & BILLING-->
-    <string name="title_purchase_not_inited">帐单未初始化</string>
+
     <string name="title_purchase_failed">支付失败</string>
-    <string name="prompt_purchase_not_inited">购买尚未初始化</string>
-    <string name="prompt_purchase_failed">请更新您的Play Store和谷歌服务app。\n 可能您所在的国家/地区无法使用支付服务。\n\n如果问题依然存在，您可以与我们取得联系。</string>
+    <string name="title_billing_not_available">Billing is not available</string>
+    <string name="title_billing_disconnected">Billing diconnected</string>
+
+    <string name="prompt_billing_not_available">Make sure your Google Play Store and Google Services apps are set correctly and updated to the latest version.\n\nContact us if the problem persists.</string>
+
+    <string name="prompt_purchase_failed">Make sure your Google Play Store and Google Services apps are set correctly and updated to the latest version.\nPlease check that in-app purchases are available in your country.\n\nContact us if the problem persists.</string>
     <string name="prompt_google_services">Google 服务</string>
+
+    <string name="prompt_billing_disconnected">Billing service was disconnected. Please try to reconnect.</string>
+    <string name="action_reconnect">Reconnect</string>
+
     <string name="prompt_battery_unlimited">无限制</string>
     <string name="prompt_battery_enjoy"> 已添加，尽情享受吧!</string>
     <string name="action_add">+ 添加</string>
     <string name="action_buy">购买</string>
     <string name="inform_energy_not_enough">没有足够能量</string>
+
     <string name="format_price">$%s</string>
     <string name="format_energy"> x %s</string>
     <string name="prompt_free">免费</string>
+
     <string name="title_energy_purchases">增加能量</string>
+
     <string name="prompt_energy_balance">剩余能量</string>
     <string name="prompt_select_purchase">选择能量包</string>
+
     <string name="title_low_energy">你需要更多能量…</string>
+    <string name="prompt_low_energy_simple">You don\'t have enough Energy</string>
+    <string name="prompt_low_energy" formatted="false">This Project requires a total of %d Energy.\nYou only have %d.\n\nAdd at least %d Energy</string>
     <string name="action_add_energy">+ 增加能量</string>
+
     <string name="title_energy_tutorial">能量原理</string>
     <string name="prompt_energy_tutorial">每个组件需要使用能量\n\n当组件删除时能量就会返回。\n\n您可以在我们的商店中购买能量。</string>
     <string name="action_energy_tutorial_ok">酷! 得到啦.</string>
+
     <string name="title_campaign_reward">十分感谢!</string>
     <string name="prompt_campaign_reward_title">感谢您在Kickstarter上支持我们的活动 %s !</string>
+    <string name="prompt_campaign_reward_text">Enjoy complimentary %s Energy!</string>
+    <string name="action_campaign_claim_reward">Get %s Energy</string>
+
+    <string name="title_reward">@string/title_campaign_reward</string>
+    <string name="prompt_reward_title" formatted="false">Congrats!\n\nYou got %s Energy\nfrom %s</string>
     <string name="prompt_campaign_reward_text">尽情享用赠送的 %s 能量!</string>
     <string name="action_claim_reward">获得%s 能量</string>
-    <string name="alert_confirm_share_energy">分享出去的能量是无法返回的，你确定吗？</string>
-    <string name="prompt_energy_drain_option">开启此选项，如果不连接电源将耗尽您的电池。</string>
-    <string name="prompt_low_storage_gs">您的设备存储空间不足，无法下载谷歌相关服务。</string>
+
+    <string name="alert_confirm_share_energy">Attention! Energy spent for sharing IS NOT recoverable and WILL NOT be returned or refunded. Continue?</string>
+
+    <string name="prompt_battery_drain_option">This option will drain battery. Connecting your device to power source is recommended.</string>
+
+    <string name="prompt_low_storage_gs">Not enough space. Google Services dependencies cannot be downloaded.</string>
+
+    <!-- EXPORT APP -->
+
+    <string name="prompt_singlefaces">Single Face</string>
+    <string name="prompt_multifaces">Blynk.Faces</string>
+
+    <string name="action_make_app">Make App</string>
+    <string name="action_create_preview">Create App Preview</string>
+    <string name="action_start_preview">Start App Preview</string>
+    <string name="action_help">Help</string>
+
+    <string name="title_export_make_app">App Preview</string>
+    <string name="title_export_app">@string/prompt_new_app</string>
+    <string name="title_export_project">@string/prompt_multifaces</string>
+    <string name="title_export_provisioning">Blynk.Inject™</string>
+    <string name="title_export_final">App preview is ready</string>
+
+    <string name="prompt_export_make_app">Build your own App</string>
+    <string name="prompt_export_project">Project</string>
+    <string name="prompt_export_appname">App Name</string>
+    <string name="prompt_new_app">New App</string>
+    <string name="prompt_export_icon">Choose temporary icon</string>
+    <string name="prompt_export_color">Choose color</string>
+    <string name="prompt_export_theme">Choose base theme</string>
+    <string name="prompt_export_provisioning">Provisioning type</string>
+    <string name="prompt_export_faces">Choose projects</string>
+    <string name="prompt_export_face">Choose project</string>
+    <string name="prompt_app_provisioning">@string/prompt_export_provisioning</string>
+    <string name="prompt_app_type">App type</string>
+    <string name="prompt_app_theme">Base Theme</string>
+    <string name="prompt_app_color">Primary Color</string>
+
+    <string name="prompt_light">LIGHT</string>
+    <string name="prompt_dark">DARK</string>
+
+    <string name="prompt_type_static">Static</string>
+    <string name="prompt_type_dynamic">Dynamic</string>
+
+    <string name="prompt_export_ready">Your App is ready</string>
+    <string name="prompt_export_check">Check your email for the instructions on how to prepare your firmware.</string>
+    <string name="prompt_export_firmware_ready">My firmware is ready and uploaded</string>
+    <string name="prompt_export_preview_later">Preview later</string>
+
+    <string name="hint_app_name">App Name</string>
+
+    <string name="text_export_about">Every project you build in Blynk can be exported into your own Mobile App.\n\nThen it can be published to app stores with your icon, logo, colors, etc.\n\nStart by creating App Preview and learn how to prepare and test everything before publishing.</string>
+
+    <string name="text_export_dynamic">Use it for WiFi devices that can act as a WiFi Access Point. For example: ESP8266 and similar.\n\n<b>Blynk.Inject™</b> will help your customers to connect device to home WiFi network and will dynamically generate new Auth Token.</string>
+    <string name="text_export_static">Static Auth Token is used for devices that connect to the Internet over the Ethernet cable or Cellular network.\n\nIn this workflow, every device should be pre-flashed with Auth Token.\n\nYou will receive new Auth Tokens to your email address.</string>
+
+    <string name="text_export_faces">Choose one of your Projects to include in the app.\n\nYou can also enable <b>Blynk.Faces™</b> - a feature to include multiple Projects inside a single app, which will work for different clients or with multiple products.\n\nEvery Project you add becomes a new <b>Face</b> in your app.</string>
+
+    <string name="title_export_static">Static Auth Token</string>
+    <string name="title_export_dynamic">Dynamic Auth Token</string>
+
+    <string name="action_remove_app">Remove Preview App</string>
+    <string name="action_edit_app">Edit Preview App</string>
+
+    <string name="format_app_preview_name">%s Preview</string>
+
+    <string name="prompt_learn_more">Learn More</string>
+    <string name="prompt_free_preview">App Preview is FREE</string>
+
+    <string name="prompt_device_provisioning">Device Provisioning</string>
+    <string name="text_export_provisioning">Every device on Blynk IoT platform requires Auth Token.\n\n<b>Blynk.Inject™</b> is a workflow to generate and assign Auth Tokens to devices after your product is ready. It also helps your customers to get the product connected to the Internet.</string>
+    <string name="prompt_export_provision_ready">I understand how Blynk.Inject™ works</string>
+
+    <string name="prompt_remove_app_confirm">Are you sure you want to remove app preview?\nIt won\'t be accessible for anyone.</string>
+
+    <string name="title_my_apps">My Apps</string>
+
+    <string name="action_publish">Publish</string>
+    <string name="action_preview">Preview</string>
+
+    <string name="prompt_publish_header">Another awesome app! Let\'s publish it.</string>
+    <string name="prompt_publish_paid">App publishing is a paid service</string>
+    <string name="prompt_publish_plans">Check out our plans at blynk.io</string>
+    <string name="link_publish_plans">blynk.io</string>
+    <string name="action_publish_app">Send Request</string>
+
+    <string name="alert_publish_sent">We will contact you shortly</string>
+    <string name="prompt_thanks">Thanks</string>
+
+    <string name="title_projects">Projects</string>
+    <string name="prompt_scan_project">Start by scanning provided QR-code</string>
+    <string name="action_scan_project">Scan QR-code</string>
+
+    <string name="prompt_multiface_update_failed">Can\'t add new Face. Please try again later.</string>
+    <string name="prompt_app_face_qr_sent">Check your email.</string>
+    <string name="prompt_app_face_qr_failed">Couldn\'t sent Auth Token your email address.</string>
+
+    <string name="alert_dynamic_not_supported">Dynamic Provisioning is not supported by the Faces you selected</string>
+
+    <string name="action_try_again">Try again</string>
+
+    <string name="prompt_icon_desc">You will be able to upload your own icon before publishing to app stores</string>
+
+    <string name="action_update_faces">Update Apps</string>
+    <string name="prompt_faces_updated">Apps are updated</string>
+    <string name="prompt_faces_updating">Updating&#8230;</string>
+    <string name="prompt_faces_failed">Apps update failed</string>
+
+    <string name="notification_channel_projects">Projects</string>
+
+    <string name="error_intent_no_web">There are no apps that respond to open web link request</string>
+    <string name="alert_app_outdated">Your app is outdated. Please update to the latest app version asap. Ignoring this notice may affect all of your Projects.</string>
+
+    <string name="prompt_troubleshooting_add">Here you can add troubleshooting guide for your product</string>
+
+    <!--RESET PASSWORD-->
+
+    <string name="title_forgot_password">Forgot password?</string>
+    <string name="prompt_forgot_password">It happens. Just let us know the email address you used to log in and we will send you an email with instructions</string>
+
+    <string name="action_send">Send</string>
+    <string name="action_sending">Sending&#8230;</string>
+
+    <string name="title_change_password">Set new password</string>
+    <string name="action_change_password">Change password</string>
+
+    <string name="hint_new_psw">New password</string>
+    <string name="hint_psw_confirm">Confirm password</string>
+    <string name="error_password_match">Passwords don\'t match</string>
+
+    <string name="title_reset_token_expired">Link has expired</string>
+    <string name="error_reset_token_expired">The link you use is incorrect or has been expired</string>
+    <string name="error_reset_token_sent">Instructions for resetting your password has been already sent</string>
+
+    <string name="action_new_link">Get new link</string>
+
+    <string name="prompt_new_password">Your new password is set!</string>
+
+    <string name="title_check_inbox">Check your inbox</string>
+    <string name="prompt_check_inbox">If this email address is associated with existing account, you will receive an email with instructions for resetting your password</string>
+
+    <string name="action_back_to_login">Back to Login</string>
+
 </resources>

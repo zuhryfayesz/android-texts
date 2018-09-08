@@ -45,9 +45,13 @@
     <string name="widget_vertical_level_display_title">竖直显示仪</string>
     <string name="widget_step_title">水平步进按钮</string>
     <string name="widget_vertical_step_title">数值步进按钮</string>
-    <string name="widget_input_field_title">输入框</string>
+    <string name="widget_text_input_title">Text Input</string>
+    <string name="widget_number_input_title">Numeric Input</string>
     <string name="widget_supergraph_title">超级图表</string>
     <string name="widget_device_tiles_title">Device Tiles</string>
+    <string name="widget_styled_button_title">Styled Button</string>
+    <string name="widget_segmented_control_title">Segmented Switch</string>
+    <string name="widget_reports_title">Reports</string>
 
     <string name="format_title_widget_settings">%s 设置</string>
 
@@ -81,7 +85,8 @@
     <string name="prompt_widget_not_supported">你的设备不支持</string>
     <string name="prompt_widget_conflict">无法工作%s。</string>
 
-    <!--EVENT WIDGET SETTINGS-->
+    <!--EVENTOR WIDGET SETTINGS-->
+
     <string name="action_add_new_event">+ 新增事件</string>
 
     <string name="eventor_trigger_format">当 %s</string>
@@ -95,6 +100,7 @@
     <string name="eventor_condition_neq">不等于 %s</string>
     <string name="eventor_condition_str_eq">is like %s</string>
     <string name="eventor_condition_str_neq">is not like %s</string>
+    <string name="eventor_condition_changed">is changed </string>
 
     <string name="eventor_action_setpin" formatted="false">set %s to %s</string>
     <string name="eventor_action_turn_on">开启 %s</string>
@@ -211,6 +217,10 @@
     <string name="sunset">日落</string>
     <string name="sunrise">日出</string>
 
+    <string name="time_weekdays">Weekdays</string>
+    <string name="time_weekends">Weekends</string>
+    <string name="time_all">Everyday</string>
+
     <!--WEBHOOK WIDGET SETTINGS-->
 
     <string name="prompt_method">方法</string>
@@ -224,6 +234,12 @@
     <string name="webhook_toast_body_malformed">Body json malformed</string>
     <string name="webhook_hint_url">使用 /pin/ 或 %s 插入针脚数据</string>
     <string name="webhook_hint_body">使用 /pin/ 插入针脚数据</string>
+
+    <string name="action_generate_test">Run Test</string>
+    <string name="action_generating_test">Running Test</string>
+    <string name="prompt_test_run_success">Result: OK</string>
+    <string name="prompt_test_run_error">Result: Error (Failed to connect)</string>
+    <string name="prompt_test_run_error_code">Result: Error (Code - %d)</string>
 
     <!--GPS WIDGETS SETTINGS-->
 
@@ -285,10 +301,35 @@
 
     <!--IMAGE WIDGET SETTINGS-->
 
-    <string name="prompt_image_id">图片 id</string>
-    <string name="hint_image_id">输入图片名称或id</string>
+    <string name="prompt_image_pin">Send Image ID from hardware: Blynk.virtualWrite(vPin, imageID)\nIDs start with 1. Default ID is 1</string>
+
+    <string name="title_image_source">Images Source</string>
+    <string name="prompt_album">Album</string>
+    <string name="prompt_url_desc">Add one or more Image URLs</string>
+    <string name="prompt_album_desc">Add images stored on your device. A permission to access albums will be needed.</string>
+    <string name="notice_album_desc">NOTE! These images won\'t be seen when you share projects with others</string>
+
+    <string name="title_images_list">Images</string>
+
+    <string name="title_image_scale">Images Scaling</string>
+    <string name="prompt_fill">Fill</string>
+    <string name="prompt_fit">Fit</string>
+    <string name="prompt_fill_desc">Image will be scaled to fill the widget area.\nCropping may occur.</string>
+    <string name="prompt_fit_desc">Image will be scaled to fit height or width of the widget.</string>
 
     <string name="prompt_color_overlay">COLOR OVERLAY</string>
+
+    <string name="prompt_images_list">Swipe left to remove images. Drag to reorder. Tap on the image to change URL</string>
+
+    <string name="action_add_image_url">Add Image URL</string>
+    <string name="action_add_image">Add Image</string>
+
+    <string name="title_image_url">Image URL</string>
+    <string name="prompt_image_copyright">Images you add may be a subject to copyright.</string>
+    <string name="error_image_load">Can\'t load image from this URL</string>
+
+    <string name="hint_url">https://</string>
+
 
     <!--VIDEO WIDGET SETTINGS-->
 
@@ -298,6 +339,28 @@
     <string name="video_url_empty">无可用视频流:(</string>
     
     <string name="prompt_video_setup">单击此处验证视频流URL。</string>
+
+    <string name="error_generic">Playback failed</string>
+
+    <string name="error_unrecognized_abr_algorithm">Unrecognized ABR algorithm</string>
+
+    <string name="error_drm_not_supported">Protected content not supported on API levels below 18</string>
+
+    <string name="error_drm_unsupported_scheme">This device does not support the required DRM scheme</string>
+
+    <string name="error_drm_unknown">An unknown DRM error occurred</string>
+
+    <string name="error_no_decoder">This device does not provide a decoder for %s</string>
+
+    <string name="error_no_secure_decoder">This device does not provide a secure decoder for %s</string>
+
+    <string name="error_querying_decoders">Unable to query device decoders</string>
+
+    <string name="error_instantiating_decoder">Unable to instantiate decoder %s</string>
+
+    <string name="error_unsupported_video">Media includes video tracks, but they can\'t be played on this device</string>
+
+    <string name="error_unsupported_audio">Media includes audio tracks, but they can\'t be played on this device</string>
 
     <!--BLE&BLUETOOTH WIDGET SETTINGS-->
 
@@ -314,7 +377,8 @@
     <string name="prompt_ble_connected">已经连接到你的蓝牙设备</string>
     <string name="prompt_ble_disconnected">从你蓝牙设备断开连接</string>
     <string name="prompt_ble_not_paired">项目尚未连接到蓝牙设备。</string>
-    <string name="prompt_ble_login_failed">设备尚未连接，请检查授权码是否正确。</string>
+    <string name="prompt_ble_not_paired_format">%s is not connected to Bluetooth device</string>
+    <string name="prompt_ble_login_failed">Device is not connected. Please check if the Auth Token is correct.</string>
 
     <string name="prompt_stop_ble_project">另一个连接在此项目上的蓝牙设备处于激活状态，是否要停止它？</string>
 
@@ -325,6 +389,7 @@
     <string name="format_ble_error">无法连接。\n%s</string>
 
     <string name="prompt_ble_scan_empty">扫描无结果</string>
+    <string name="prompt_bluetooth_scan_empty">Can\'t find Bluetooth devices around</string>
 
     <string name="alert_ble_title">BLE</string>
     <string name="alert_ble_enable_location_message">请开启扫描蓝牙的本地服务。</string>
@@ -335,6 +400,7 @@
     <string name="alert_ble_bluetooth_confirm">浙江重置该组件的连接。</string>
 
     <string name="prompt_not_supported_with_tiles">Not supported with Device Tiles</string>
+
     <!--LABELED DISPLAY WIDGET SETTINGS-->
 
     <string name="hint_labeled_display_format">如: 温度: /pin/ ºC</string>
@@ -466,6 +532,7 @@
 
     <string name="prompt_input_line">输入框</string>
     <string name="prompt_auto_scroll">自动滚动</string>
+    <string name="prompt_newline">ADD NEWLINE</string>
 
     <!--NOTIFICATION WIDGET SETTINGS-->
 
@@ -486,6 +553,8 @@
     <string name="map_description">Blynk.location(index, lat, lon, value)</string>
     <string name="prompt_my_location_title">显示我的位置</string>
     <string name="prompt_my_location">我的位置</string>
+    <string name="mode_map">Map</string>
+    <string name="mode_satellite">Satellite</string>
 
     <!-- LEVEL DISPLAY WIDGET SETTINGS -->
 
@@ -503,6 +572,7 @@
     <!-- DEVICE SELECTOR SETTINGS -->
 
     <string name="prompt_select">选择</string>
+    <string name="title_show_icon">Show Device Icon</string>
 
     <!-- SUPER GRAPH SETTINGS -->
 
@@ -566,6 +636,47 @@
 
     <string name="toast_no_data_range">No data for older range</string>
 
+    <string name="title_settings_periods">Time Ranges Picker (7 max)</string>
+    <string name="title_default_resolution">Standard Resolution</string>
+    <string name="title_high_resolution">High Resolution</string>
+
+    <string name="live">Live</string>
+    <string name="min15">15min</string>
+    <string name="min30">30min</string>
+    <string name="hour1">1h</string>
+    <string name="hour3">3h</string>
+    <string name="hour6">6h</string>
+    <string name="hour12">12h</string>
+    <string name="day1">1d</string>
+    <string name="day2">2d</string>
+    <string name="day3">3d</string>
+    <string name="week1">1wk</string>
+    <string name="week2">2wk</string>
+    <string name="month1">1Mo</string>
+    <string name="month3">3Mo</string>
+    <string name="month6">6Mo</string>
+    <string name="year1">1Yr</string>
+
+    <string name="title_y_scale">Y-axis scaling</string>
+    <string name="prompt_scale_auto">Data will be auto-scaled based on min and max values for the given time period</string>
+    <string name="prompt_scale_minmax">Set fixed Min and Max Y-axis values</string>
+    <string name="prompt_scale_height">Set bottom and top position of the chart relative to the Widget\'s height.\n0% is the bottom of the Widget, 100% is the top of the Widget. </string>
+    <string name="prompt_scale_delta">While data stays within the given Delta value, chart will be auto-scaled within this range. If delta exceeds the range, chart will be auto-scaled to min/max values for the given period.</string>
+    
+    <string name="prompt_top">Top</string>
+    <string name="prompt_bottom">Bottom</string>
+
+    <string name="prompt_delta">Delta</string>
+    <string name="prompt_auto">Auto</string>
+    <string name="prompt_minmax">Min/Max</string>
+    <string name="prompt_height">Height</string>
+
+    <string name="prompt_user_delta">While data stays within the given Delta value, chart will be auto-scaled within this range. If delta exceeds the range, chart will be auto-scaled to min/max values for the given period..</string>
+    <string name="format_edit_delta">%s Delta</string>
+    <string name="title_allow_user_delta">ALLOW USERS TO MODIFY DELTA</string>
+
+    <string name="title_override_auto_scale">Override Auto Scaling for All DataStreams</string>
+
     <!--DEVICE TILES SETTINGS-->
 
     <string name="title_templates">模板</string>
@@ -603,11 +714,199 @@
     <string name="sort_type_desc">设备类型 \u2191</string>
     <string name="sort_manual">手动</string>
 
+    <string name="prompt_value_formatting">VALUE FORMATTING</string>
+
     <string name="empty">--</string>
 
-    <string name="prompt_select_template">选择模板</string>
+    <string name="prompt_select_template">Select template</string>
+
+    <string name="format_template_id">Template ID: %s</string>
+
+    <string name="prompt_tile">TILE</string>
+    <string name="prompt_value">VALUE</string>
+    <string name="prompt_level">LEVEL</string>
+
+    <string name="title_icon_state">TILE ICONS AND STATES</string>
+    <string name="title_state_labels">STATE LABELS</string>
+    <string name="title_labels_visibility">SHOW STATE LABEL</string>
+
+    <string name="title_template_page">Default</string>
+    <string name="prompt_template_page">鈥?Tap opens template page</string>
+    <string name="title_template_button">Button</string>
+    <string name="prompt_template_button">鈥?Tap switches button on/off\n鈥?Tap and hold opens device page</string>
+    <string name="title_template_dimmer">Level</string>
+    <string name="prompt_template_dimmer">鈥?Tap to set Min/Max value\n鈥?Long Tap opens a template page</string>
+
+    <string name="title_choose_template">Choose Action Type</string>
+    <string name="title_choose_icon">Choose Icon</string>
+
+    <string name="title_tile_design">TILE DESIGN</string>
+    <string name="prompt_base_color">BASE COLOR</string>
+
+    <string name="hint_pin_format">/pin/</string>
+
+    <string name="title_state_on">ON State</string>
+    <string name="title_state_off">OFF State</string>
+
+    <string name="inform_temlate_id_sent">Template ID was sent to your email</string>
+
+    <string name="title_interaction">Tap Interaction</string>
+    <string name="mode_button">Button</string>
+    <string name="mode_page">Page</string>
+    <string name="mode_step">Step</string>
+
+    <string name="prompt_interaction_button">Tap on the tile will send Min/Max values, similar to button behavior. Tap\'n\'hold will open device page.</string>
+    <string name="prompt_interaction_page">Tap on the tile will open device page.</string>
+    <string name="prompt_interaction_step">Tap on the tile will increase the value. Choose larger step values to make it possible to quickly tap from min to max.\nTap\'n\'hold will open device page.</string>
+
+    <!-- SLIDER SETTINGS -->
+
+    <string name="prompt_fraction_digits">DECIMALS</string>
+    <string name="title_fraction_picker">Number of decimal places</string>
+
+    <!-- STYLED BUTTON SETTINGS -->
+
+    <string name="title_button_states">ON/OFF States</string>
+    <string name="title_on_label">ON Label</string>
+    <string name="title_off_label">OFF Label</string>
+    <string name="title_on_bg">ON Background</string>
+    <string name="title_off_bg">OFF Background</string>
+    <string name="prompt_rounded">Rounded</string>
+    <string name="prompt_sharp">Sharp</string>
+    <string name="prompt_pill">Pill</string>
+    <string name="prompt_solid">Solid</string>
+    <string name="prompt_outline">Outline</string>
+    <string name="title_lock_size">Lock size</string>
+    <string name="title_style">@string/prompt_style</string>
+    <string name="title_edges">Edges</string>
+    
+    <!-- TEXT AND NUMBER INPUT SETTINGS -->
+
+    <string name="title_hint">Hint</string>
+    <string name="hint_input_hint">Input value here</string>
+    <string name="title_character_limit">Character Limit</string>
+    <string name="title_suffix_optional">Suffix (Optional)</string>
+    <string name="prompt_button_color">Button Color</string>
+    <string name="prompt_text_color">Text Color</string>
+
+    <!-- SEGMENTED CONTROl SETTINGS -->
+
+    <string name="prompt_segmented_desc">When option changed, a message with Option ID will be sent to hardware.\nPlease note that first ID = 1.</string>
+    <string name="title_options">Options</string>
+    <string name="action_add_option">+ Add option</string>
+    <string name="title_option_color">Active Option Color</string>
+    <string name="format_segmented_control_hint">Option %s</string>
+
+    <!-- REPORTING WIDGET SETTINGS -->
+
+    <string name="title_reports">Reports</string>
+    <string name="prompt_reports_settings_no_tile">Reports are only available when you have Device Tiles Widget installed with at least one Device Template</string>
+    <string name="prompt_reports_no_tiles">Reports are only available when you have at least one Tile Template</string>
+    <string name="prompt_reports_no_sources">No Data Sources</string>
+    <string name="prompt_reports_description">Add Datastreams which should be included into the Reports. When ready, switch to Play Mode, and create a Report</string>
+    <string name="title_allow_erase">Allow end-users to erase data</string>
+
+    <string name="prompt_reports_howto">Click on a report name to configure it. Scheduled reports can be put on hold. Swipe left to delete report.</string>
+    <string name="format_report_subtitle_recurring" formatted="false">Scheduled %s at %s</string>
+    <string name="format_report_subtitle_onetime" formatted="false">One-time report for the %s</string>
+    <string name="format_report_subtitle_last" formatted="false">Last: %s</string>
+    <string name="format_report_subtitle_last_result" formatted="false">Last: %s (%s)</string>
+    <string name="format_report_subtitle_next" formatted="false">Next: %s</string>
+    <string name="format_report_subtitle_start" formatted="false">Start Date: %s</string>
+    <string name="format_report_subtitle_stop" formatted="false">End Date: %s</string>
+    <string name="format_report_date" formatted="false">%s at %s</string>
+    <string name="action_add_report">New Report</string>
+    <string name="action_erase_data">Erase Data</string>
+
+    <string name="format_weekly">weekly (%s)</string>
+    <string name="format_devices_selection">%s selected</string>
+    <plurals name="datastreams">
+        <item quantity="zero">No Datastreams available</item>
+        <item quantity="one">%d Datastream</item>
+        <item quantity="other">%d Datastreams</item>
+    </plurals>
+
+    <string name="title_select_devices">Choose Devices</string>
+    <string name="title_select_sources">Data Sources</string>
+    <string name="title_new_report">New Report</string>
+    <string name="title_report">Report</string>
+    
+    <string name="title_report_name">Report Name</string>
+    <string name="title_report_data_source">Data Source</string>
+    <string name="action_select_source">Choose Data Source</string>
+    <string name="title_report_freq">Report Frequency</string>
+    <string name="title_report_range">Report For</string>
+    <string name="format_report_range">Last %s</string>
+    <string name="title_report_recipients">Recipients</string>
+    <string name="title_report_resolution">Data Resolution</string>
+    <string name="title_report_tz">Time Zone Correction</string>
+    <string name="action_generate_report">Run Report</string>
+    <string name="action_create_report">Create Report</string>
+    <string name="title_report_time">At Time</string>
+    <string name="title_report_day">Send on Day</string>
+    <string name="title_report_month">Send Report On</string>
+    <string name="title_report_duration">Duration</string>
+    <string name="custom">Custom</string>
+    <string name="infinite">Infinite</string>
+    <string name="first_day_month">First Day of Month</string>
+    <string name="last_day_month">Last Day of Month</string>
+
+    <string name="title_report_start">Start Date</string>
+    <string name="title_report_stop">End Date</string>
+
+    <string name="title_report_format">Date and Time Format</string>
+
+    <string name="prompt_reports_list_howto">Click on a report name to configure it. Scheduled reports can be put on hold 鈥撀爑se switch on the right. Swipe left to delete report.</string>
+
+    <string name="prompt_report_onetime">One-time report is generated based on the report settings</string>
+    <string name="prompt_report_daily">Get reports every day for the last day</string>
+    <string name="prompt_report_weekly">Get reports every week on a specified date and time</string>
+    <string name="prompt_report_monthly">Get reports every month on a specified day</string>
+
+    <string name="error_report_not_created">Sorry, this report can not be created</string>
+    <string name="error_report_not_updated">Sorry, this report can not be updated</string>
+
+    <string name="title_erase_data">Erase Data</string>
+    <string name="action_erase">Erase</string>
+    <string name="action_erase_all">Erase all data from all devices</string>
+    <string name="action_erase_device">Erase all data from device</string>
+    <string name="header_erase_devices">Choose Data to Erase</string>
+    <string name="header_erase_sources">Choose Datastreams to Erase</string>
+    <string name="format_be_erased">%s will be erased</string>
+    <string name="notice_undone">This can not be undone</string>
+
+    <string name="default_report_source_name">Source</string>
+
+    <string name="toast_report_export_sent">Latest report is in your inbox</string>
+    <string name="toast_report_export_failed">Report failed. Check settings or try later</string>
+    <string name="toast_report_export_no_data">There is no data for this report</string>
+    <string name="toast_report_create_failed">Report is not configured properly</string>
+    <string name="toast_report_exporting">Generating report. It may take some time&#8230;</string>
+    <string name="toast_report_export_quota">You are allowed to run only 1 report per minute</string>
+    <string name="prompt_button">Button</string>
+
+    <string name="action_report_generating">Generating Report&#8230;</string>
+
+    <string name="title_devices_source">Project\'s Devices</string>
+
+    <string name="action_add_report_email">+ Add recipients</string>
+    <string name="hint_report_email">Recipient\'s email</string>
+
+    <string name="prompt_sources_no_tile">Data sources for report are unavailable. Set up Tile Template.</string>
+    <string name="prompt_sources_no_device">Data sources for report are unavailable. Set up Devices properly.</string>
+
+    <string name="title_report_file_output">Group data in Reports By</string>
+    <string name="report_csv_pin">Datastream</string>
+    <string name="report_csv_device">Device</string>
+    <string name="report_csv_merged">Report</string>
+
+    <string name="prompt_csv_pin">Get separate report files for every datastream for every device</string>
+    <string name="prompt_csv_device">Get one report containing all datastreams for every device </string>
+    <string name="prompt_csv_merged">Get one file for all devices and their datastreams</string>
 
     <!-- WIDGET SETTINGS -->
+
+    <string name="hint_title_optional">Title (optional)</string>
 
     <string name="hint_min">最小</string>
     <string name="hint_max">最大</string>
@@ -637,6 +936,7 @@
 
     <string name="prompt_screen">屏幕</string>
     <string name="prompt_text">文字</string>
+    <string name="prompt_icon">Icon</string>
 
     <string name="prompt_cover">SOON</string>
 
@@ -656,6 +956,34 @@
     <string name="prompt_source">源</string>
 
     <string name="alert_timer">Please use Eventor for timer events</string>
+
+    <string name="alert_confirm_widget_remove">Are you sure want to delete this Widget?\nThis cannot be undone</string>
+
+    <string name="prompt_not_supported">This Widget is no longer supported :(</string>
+
+    <string name="title_show_value">Show Value</string>
+
+    <string name="onetime">one-time</string>
+    <string name="daily">daily</string>
+    <string name="weekly">weekly</string>
+    <string name="monthly">monthly</string>
+
+    <string name="day">Day</string>
+    <string name="week">Week</string>
+    <string name="month">Month</string>
+    <string name="three_month">3 Months</string>
+    <string name="six_month">6 Months</string>
+
+    <string name="all">All</string>
+    <string name="none">None</string>
+
+    <string name="never">Never</string>
+
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="tomorrow">Tomorrow</string>
+
+    <string name="completed">Completed</string>
 
     <!--HOME SCREEN WIDGET-->
 
