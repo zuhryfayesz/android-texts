@@ -414,6 +414,12 @@ Remove them before deleting the Widget.</string>
     <string name="prompt_firmware_info">Firmware Version</string>
     <string name="firmware_info_empty">No info</string>
 
+    <string name="prompt_country">Country</string>
+    <string name="prompt_zip">Zip</string>
+    <string name="prompt_state">State</string>
+    <string name="prompt_city">City</string>
+    <string name="prompt_street">Street address</string>
+
     <!--TAG SETTINGS-->
 
     <string name="hint_tag_name">Tag Name</string>
