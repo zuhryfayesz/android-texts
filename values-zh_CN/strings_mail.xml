@@ -20,14 +20,6 @@
         2. 点击二维码图标，用手机扫描下方二维码\n
         3. 尽情享用我制作的APP吧!
     </string>
-    <string name="share_message_text_url" formatted="false">
-        嗨,\n\n
-        我制作了一个app %s。 欢迎使用哦!\n\n
-使用方法\n
-        1. 下载Blynk App: http://j.mp/blynk_Android 或者 http://j.mp/blynk_iOS\n
-        2. 点击二维码图标，用手机扫描下方二维码，或者点击下面的链接 - %s\n
-        3. 尽情享用我制作的APP吧!
-    </string>
 
     <string name="publish_message_title">%s 发布请求</string>
     <string name="publish_message_text" formatted="false">

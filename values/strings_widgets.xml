@@ -662,7 +662,7 @@
     <string name="prompt_scale_minmax">Set fixed Min and Max Y-axis values</string>
     <string name="prompt_scale_height">Set bottom and top position of the chart relative to the Widget\'s height.\n0% is the bottom of the Widget, 100% is the top of the Widget. </string>
     <string name="prompt_scale_delta">While data stays within the given Delta value, chart will be auto-scaled within this range. If delta exceeds the range, chart will be auto-scaled to min/max values for the given period.</string>
-    
+
     <string name="prompt_top">Top</string>
     <string name="prompt_bottom">Bottom</string>
 
@@ -779,7 +779,7 @@
     <string name="title_lock_size">Lock size</string>
     <string name="title_style">@string/prompt_style</string>
     <string name="title_edges">Edges</string>
-    
+
     <!-- TEXT AND NUMBER INPUT SETTINGS -->
 
     <string name="title_hint">Hint</string>
@@ -830,7 +830,7 @@
     <string name="title_select_sources">Data Sources</string>
     <string name="title_new_report">New Report</string>
     <string name="title_report">Report</string>
-    
+
     <string name="title_report_name">Report Name</string>
     <string name="title_report_data_source">Data Source</string>
     <string name="action_select_source">Choose Data Source</string>

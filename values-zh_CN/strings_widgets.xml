@@ -311,7 +311,7 @@
 
     <string name="title_images_list">图片</string>
 
-    <string name="title_image_scale">图片缩放/string>
+    <string name="title_image_scale">图片缩放</string>
     <string name="prompt_fill">充满</string>
     <string name="prompt_fit">适合</string>
     <string name="prompt_fill_desc">Image will be scaled to fill the widget area.\nCropping may occur.</string>
@@ -420,7 +420,7 @@
     <string name="prompt_menu_pin_hightlight">[索引]</string>
 
     <string name="prompt_menu_hint">提示文本</string>
-    <string name="prompt_menu_edit_hint">请选择...</string>
+    <string name="prompt_menu_edit_hint">请选择&#8230;</string>
     <string name="prompt_menu_edit_item_1">项目1</string>
     <string name="prompt_menu_edit_item_2">项目2</string>
 
