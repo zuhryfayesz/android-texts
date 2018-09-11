@@ -39,6 +39,7 @@
     <string name="error_provisioning_wrong_board">This device doesn\'t work\nwith the app</string>
     <string name="error_provisioning_connect_failed">Can\'t connect to device</string>
     <string name="error_provisioning_not_found">Can\'t find your device</string>
+    <string name="error_provisioning_connect_wifi_failed">Can\'t connect to the network</string>
 
     <string name="prompt_remember_wifi_psw">Remember the network for other devices</string>
     <string name="title_2_4_ghz_networks">2.4 Ghz networks</string>
@@ -62,6 +63,7 @@
     <string name="prompt_device_change">Try again or choose\na different device</string>
     <string name="prompt_device_not_found">Wait, or try resetting the device and set it up again</string>
     <string name="prompt_connecting_long">It takes longer than expected.\nPlease wait.</string>
+    <string name="prompt_wifi_not_found">Try again or choose\na different W-Fi network</string>
 
     <string name="prompt_provisioning_progress_info">Getting device information&#8230;</string>
 
