@@ -40,6 +40,8 @@
     <string name="error_provisioning_connect_failed">Can\'t connect to device</string>
     <string name="error_provisioning_not_found">Can\'t find your device</string>
     <string name="error_provisioning_connect_wifi_failed">Can\'t connect to the network</string>
+    <string name="error_provisioning_internet_failed">Can\'t connect to network</string>
+    <string name="prompt_provisioning_internet_failed">Try resetting the device and set it up again</string>
 
     <string name="prompt_remember_wifi_psw">Remember the network for other devices</string>
     <string name="title_2_4_ghz_networks">2.4 Ghz networks</string>
