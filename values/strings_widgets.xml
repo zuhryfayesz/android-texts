@@ -959,7 +959,7 @@
 
     <string name="alert_confirm_widget_remove">Are you sure want to delete this Widget?\nThis cannot be undone</string>
 
-    <string name="prompt_not_supported">This Widget is no longer supported :(</string>
+    <string name="prompt_not_supported">This Widget is not supported :(</string>
 
     <string name="title_show_value">Show Value</string>
 
