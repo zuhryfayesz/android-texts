@@ -114,6 +114,9 @@
     <string name="title_setup_device_start">Let\'s finish setting up\n%s</string>
     <string name="prompt_setup_device_start">Follow next steps to add information about your new device</string>
 
+    <string name="title_setup_device_end">%s is ready to use\nMetadata successfully applied</string>
+    <string name="prompt_setup_device_end">You can check Device Info to view and edit Metadata</string>
+
     <string name="label_model">Model</string>
     <string name="prompt_setup_device_model">Choose the correct model</string>
 
