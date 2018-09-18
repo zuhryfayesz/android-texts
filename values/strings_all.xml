@@ -418,7 +418,12 @@ Remove them before deleting the Widget.</string>
     <string name="prompt_zip">Zip</string>
     <string name="prompt_state">State</string>
     <string name="prompt_city">City</string>
-    <string name="prompt_street">Street address</string>
+    <string name="prompt_street">Address</string>
+    <string name="prompt_zone">Zone</string>
+    <string name="prompt_sitename">Site Name</string>
+    <string name="prompt_room">Room</string>
+    <string name="prompt_building">Building Name</string>
+    <string name="prompt_unit">Unit</string>
 
     <!--TAG SETTINGS-->
 
