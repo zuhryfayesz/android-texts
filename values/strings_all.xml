@@ -424,6 +424,8 @@ Remove them before deleting the Widget.</string>
     <string name="prompt_room">Room</string>
     <string name="prompt_building">Building Name</string>
     <string name="prompt_unit">Unit</string>
+    <string name="prompt_phone">Phone Number</string>
+    <string name="prompt_contact">Contact</string>
 
     <!--TAG SETTINGS-->
 
