@@ -132,4 +132,8 @@
     <string name="action_exit_to_app">Exit to app</string>
 
     <string name="action_next">Next</string>
+
+    <string name="hint_metafield_edit">Enter&#8230;</string>
+    <string name="hint_metafield_no_references">No referenced devices</string>
+    <string name="hint_metafield_list">Select</string>
 </resources>
