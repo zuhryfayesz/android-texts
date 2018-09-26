@@ -137,4 +137,6 @@
     <string name="hint_metafield_edit">Enter&#8230;</string>
     <string name="hint_metafield_no_references">No referenced devices</string>
     <string name="hint_metafield_list">Select</string>
+
+    <string name="prompt_setup_device_review">Scroll down to review and apply info</string>
 </resources>
