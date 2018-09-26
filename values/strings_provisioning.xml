@@ -108,6 +108,7 @@
     <string name="prompt_no_devices_howto_wifi_tiles">Click the button below to start adding a new device</string>
 
     <string name="title_setup_device">Device Setup</string>
+    <string name="title_review">Review</string>
 
     <string name="prompt_setup_device_steps" formatted="false">%d of %d</string>
 
