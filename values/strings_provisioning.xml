@@ -141,4 +141,6 @@
     <string name="hint_metafield_list">Select</string>
     <string name="hint_metafield_device_owner">device.owner@email.com</string>
 
+
+    <string name="action_review_apply">Review and apply</string>
 </resources>
