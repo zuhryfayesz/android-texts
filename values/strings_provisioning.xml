@@ -114,6 +114,8 @@
 
     <string name="title_setup_device_start">Let\'s finish setting up\n%s</string>
     <string name="prompt_setup_device_start">Follow next steps to add information about your new device</string>
+    <string name="title_setup_device_start_recent">Let\'s finish set up your device</string>
+    <string name="prompt_setup_device_start_recent">Follow the steps to configure your device</string>
 
     <string name="title_setup_device_end">%s is ready to use\nMetadata successfully applied</string>
     <string name="prompt_setup_device_end">You can check Device Info to view and edit Metadata</string>
@@ -143,4 +145,6 @@
 
 
     <string name="action_review_apply">Review and apply</string>
+    <string name="action_setup_recent">Set up from recent</string>
+    <string name="action_change_template">Change template</string>
 </resources>
