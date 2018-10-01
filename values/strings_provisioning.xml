@@ -143,4 +143,5 @@
 
     <string name="format_title_select_list">Choose %s</string>
 
+    <string name="action_rescan">Rescan networks</string>
 </resources>
