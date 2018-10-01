@@ -120,12 +120,6 @@
     <string name="title_setup_device_end">%s is ready to use\nMetadata successfully applied</string>
     <string name="prompt_setup_device_end">You can check Device Info to view and edit Metadata</string>
 
-    <string name="label_model">Model</string>
-    <string name="prompt_setup_device_model">Choose the correct model</string>
-
-    <string name="title_setup_device_info">General Information</string>
-    <string name="title_setup_device_location">Device Location</string>
-
     <string name="title_setup_device_ready">%s is ready to use\nMetadata successfully applied</string>
     <string name="prompt_setup_device_ready">You can check Device Info to view and edit Metadata</string>
 
@@ -143,8 +137,10 @@
     <string name="hint_metafield_list">Select</string>
     <string name="hint_metafield_device_owner">device.owner@email.com</string>
 
-
     <string name="action_review_apply">Review and apply</string>
     <string name="action_setup_recent">Set up from recent</string>
     <string name="action_change_template">Change template</string>
+
+    <string name="format_title_select_list">Choose %s</string>
+
 </resources>
