@@ -52,6 +52,7 @@
     <string name="widget_styled_button_title">Styled Button</string>
     <string name="widget_segmented_control_title">Segmented Switch</string>
     <string name="widget_reports_title">Reports</string>
+    <string name="widget_link_button_title">WebPage Button</string>
 
     <string name="format_title_widget_settings">%s Settings</string>
 
@@ -903,6 +904,18 @@
     <string name="prompt_csv_pin">Get separate report files for every datastream for every device</string>
     <string name="prompt_csv_device">Get one report containing all datastreams for every device </string>
     <string name="prompt_csv_merged">Get one file for all devices and their datastreams</string>
+
+    <!-- LINK BUTTON -->
+
+    <string name="title_shape">Shape</string>
+    <string name="prompt_idle_label">Idle Label</string>
+    <string name="prompt_press_label">Press Label</string>
+    <string name="prompt_idle_bg">Idle Background</string>
+    <string name="prompt_press_bg">Press Background</string>
+
+    <string name="title_link_name">Link Name</string>
+    <string name="hint_link_name">Link</string>
+    <string name="title_button_design">Button Design</string>
 
     <!-- WIDGET SETTINGS -->
 
