@@ -144,4 +144,6 @@
     <string name="format_title_select_list">Choose %s</string>
 
     <string name="action_rescan_wifi">Rescan networks</string>
+
+    <string name="error_device_removed">This device has been removed</string>
 </resources>
