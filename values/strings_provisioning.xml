@@ -117,14 +117,11 @@
     <string name="title_setup_device_start_recent">Let\'s finish set up your device</string>
     <string name="prompt_setup_device_start_recent">Follow the steps to configure your device</string>
 
-    <string name="title_setup_device_end">%s is ready to use\nMetadata successfully applied</string>
-    <string name="prompt_setup_device_end">You can check Device Info to view and edit Metadata</string>
-
-    <string name="title_setup_device_ready">%s is ready to use\nMetadata successfully applied</string>
-    <string name="prompt_setup_device_ready">You can check Device Info to view and edit Metadata</string>
+    <string name="title_setup_device_end">Profile was successfully created.\n%s is ready to use.</string>
+    <string name="prompt_setup_device_end">You can view and edit this profile\nin the Info section</string>
 
     <string name="title_setup_device_next">What\'s next?</string>
-    <string name="prompt_setup_device_continue">Continue adding devices or exit provisioning</string>
+    <string name="prompt_setup_device_continue">Continue adding new devices\nor finish and exit</string>
     <string name="action_add_new_device_with_metadata">Add new device and apply most recent metadata</string>
     <string name="action_exit_to_app">Exit to app</string>
 
@@ -146,4 +143,7 @@
     <string name="action_rescan_wifi">Rescan networks</string>
 
     <string name="error_device_removed">This device has been removed</string>
+
+    <string name="title_thanks">Thank You!</string>
+    <string name="action_ok_great">OK, great!</string>
 </resources>
