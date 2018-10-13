@@ -138,7 +138,7 @@
     <string name="hint_metafield_device_owner">device.owner@email.com</string>
 
     <string name="action_review_apply">Review and apply</string>
-    <string name="action_setup_recent">Set up from recent</string>
+    <string name="action_setup_recent">Apply recently used profile</string>
     <string name="action_change_template">Change template</string>
 
     <string name="format_title_select_list">Choose %s</string>
