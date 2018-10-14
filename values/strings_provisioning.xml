@@ -124,7 +124,7 @@
     <string name="prompt_setup_device_continue">Continue adding new devices\nor finish and exit</string>
     <string name="action_add_new_device_with_metadata">Add new device and apply most recent metadata</string>
     <string name="action_exit_to_app">Exit to app</string>
-
+    <string name="action_finish_exit">Finish and exit</string>
     <string name="action_next">Next</string>
 
     <string name="prompt_setup_device_review">Scroll down to review and apply info</string>
