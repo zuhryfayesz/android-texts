@@ -1,6 +1,6 @@
 <resources>
     <string name="action_ready">Ready</string>
-    <string name="action_choose">Choose device&#8230;</string>
+    <string name="action_choose">Choose&#8230;</string>
     <string name="action_choose_device">Choose device</string>
     <string name="action_choose_device_network">Choose device\'s network</string>
 
