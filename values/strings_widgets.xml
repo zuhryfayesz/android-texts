@@ -966,7 +966,7 @@
 
     <string name="prompt_label">Label</string>
 
-    <string name="prompt_send_on_release">Send on Release</string>
+    <string name="prompt_send_on_release">SEND ON RELEASE</string>
 
     <string name="prompt_target">Target</string>
     <string name="prompt_source">Source</string>
@@ -977,7 +977,7 @@
 
     <string name="prompt_not_supported">This Widget is not supported :(</string>
 
-    <string name="title_show_value">Show Value</string>
+    <string name="title_show_value">SHOW VALUE</string>
 
     <string name="onetime">one-time</string>
     <string name="daily">daily</string>
