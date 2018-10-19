@@ -9,14 +9,14 @@
     <string name="title_wifi_device">Choose your device</string>
     <string name="title_wifi_network">Choose your Wi-Fi network</string>
 
-    <string name="alert_wifi_location_enable">Enable location services to allow scanning Wi-Fi networks.</string>
+    <string name="alert_wifi_location_enable">Enable location services to allow scanning Wi-Fi&#160;networks.</string>
 
     <string name="alert_select_wifi">Choose Wi-Fi network</string>
     <string name="alert_select_device">Choose supported Wi-Fi network</string>
 
-    <string name="prompt_wifi_ap">Disable Access Point mode to enable scanning of Wi-Fi networks</string>
+    <string name="prompt_wifi_ap">Disable Access Point mode to enable scanning of Wi-Fi&#160;networks</string>
     <string name="prompt_wifi_scan_empty">No Wi-Fi networks found</string>
-    <string name="prompt_provisioning_wifi_scan_empty">No supported Wi-Fi networks around</string>
+    <string name="prompt_provisioning_wifi_scan_empty">No supported Wi-Fi networks&#160;around</string>
 
     <string name="title_provisioning_welcome">Welcome</string>
 
@@ -36,12 +36,12 @@
 
     <string name="title_provisioning_success">Finish</string>
 
-    <string name="error_provisioning_wrong_board">This device doesn\'t work\nwith the app</string>
+    <string name="error_provisioning_wrong_board">This device doesn\'t work with the&#160;app</string>
     <string name="error_provisioning_connect_failed">Can\'t connect to device</string>
     <string name="error_provisioning_not_found">Can\'t find your device</string>
     <string name="error_provisioning_connect_wifi_failed">Can\'t connect to the network</string>
     <string name="error_provisioning_internet_failed">Can\'t connect to network</string>
-    <string name="prompt_provisioning_internet_failed">Try resetting the device and set it up again</string>
+    <string name="prompt_provisioning_internet_failed">Try resetting the device and set it up&#160;again</string>
 
     <string name="prompt_remember_wifi_psw">Remember the network for other devices</string>
     <string name="title_2_4_ghz_networks">2.4 Ghz networks</string>
@@ -49,7 +49,7 @@
     <string name="title_device_networks">Devices</string>
     <string name="title_other_networks">Other networks</string>
 
-    <string name="alert_only_2_4_ghz_supported">This device can only connect to 2.4Ghz Wi-Fi networks</string>
+    <string name="alert_only_2_4_ghz_supported">This device can only connect to 2.4Ghz Wi-Fi&#160;networks</string>
     <string name="alert_only_open_supported">Not a device\'s network</string>
 
     <string name="prompt_choose_network">Choose Wi-Fi network\n your device will use</string>
@@ -61,16 +61,16 @@
     <string name="action_grant_perms">Grant permission</string>
     <string name="action_view_help">View Help</string>
 
-    <string name="prompt_device_check">Make sure that your device and smartphone are very close to the router</string>
+    <string name="prompt_device_check">Make sure that your device and smartphone are very close to the&#160;router</string>
     <string name="prompt_device_change">Try again or choose\na different device</string>
-    <string name="prompt_device_not_found">Wait, or try resetting the device and set it up again</string>
+    <string name="prompt_device_not_found">Wait, or try resetting the device and set it up&#160;again</string>
     <string name="prompt_connecting_long">It takes longer than expected.\nPlease wait.</string>
     <string name="prompt_wifi_not_found">Try again or choose\na different W-Fi network</string>
 
     <string name="prompt_provisioning_progress_info">Getting device information&#8230;</string>
 
     <string name="title_provisioning_perms">App needs your permission to access location data</string>
-    <string name="prompt_provisioning_perms">We don\'t track your location. This app requires access to location data to scan Wi-Fi networks around.</string>
+    <string name="prompt_provisioning_perms">We don\'t track your location. This app requires access to location data to scan Wi-Fi networks&#160;around.</string>
 
     <string name="title_connecting_to_device">Connecting to device</string>
 
@@ -103,9 +103,9 @@
     <string name="action_setup_new_device">Set up new Device</string>
     <string name="action_setup_device">Set up Device</string>
 
-    <string name="prompt_no_devices">You don\'t have any devices connected yet</string>
-    <string name="prompt_no_devices_howto_qr">Scan QR-code attached the device to start adding it</string>
-    <string name="prompt_no_devices_howto_wifi_tiles">Click the button below to start adding a new device</string>
+    <string name="prompt_no_devices">You don\'t have any devices connected&#160;yet</string>
+    <string name="prompt_no_devices_howto_qr">Scan QR-code attached the device to start adding&#160;it</string>
+    <string name="prompt_no_devices_howto_wifi_tiles">Click the button below to start adding a new&#160;device</string>
 
     <string name="title_setup_device">Device Setup</string>
     <string name="title_review">Review</string>
@@ -113,21 +113,21 @@
     <string name="prompt_setup_device_steps" formatted="false">%d of %d</string>
 
     <string name="title_setup_device_start">Let\'s finish setting up\n%s</string>
-    <string name="prompt_setup_device_start">Follow next steps to add information about your new device</string>
+    <string name="prompt_setup_device_start">Follow next steps to add information about your new&#160;device</string>
     <string name="title_setup_device_start_recent">Let\'s finish set up your device</string>
-    <string name="prompt_setup_device_start_recent">Follow the steps to configure your device</string>
+    <string name="prompt_setup_device_start_recent">Follow the steps to configure your&#160;device</string>
 
     <string name="title_setup_device_end">Profile was successfully created.\n%s is ready to use.</string>
     <string name="prompt_setup_device_end">You can view and edit this profile\nin the Info section</string>
 
     <string name="title_setup_device_next">What\'s next?</string>
-    <string name="prompt_setup_device_continue">Continue adding new devices\nor finish and exit</string>
-    <string name="action_add_new_device_with_metadata">Add new device and apply most recent profile</string>
+    <string name="prompt_setup_device_continue">Continue adding new devices or finish&#160;and&#160;exit</string>
+    <string name="action_add_new_device_with_metadata">Add new device and apply most recent&#160;profile</string>
     <string name="action_exit_to_app">Exit to app</string>
     <string name="action_finish_exit">Finish and exit</string>
     <string name="action_next">Next</string>
 
-    <string name="prompt_setup_device_review">Scroll down to review and apply info</string>
+    <string name="prompt_setup_device_review">Scroll down to review and apply&#160;info</string>
 
     <string name="hint_metafield_text">Enter&#8230;</string>
     <string name="hint_metafield_no_references">No referenced devices</string>
