@@ -112,10 +112,10 @@
 
     <string name="prompt_setup_device_steps" formatted="false">%d of %d</string>
 
-    <string name="title_setup_device_start">Let\'s finish setting up\n%s</string>
-    <string name="prompt_setup_device_start">Follow next steps to add information about your new&#160;device</string>
-    <string name="title_setup_device_start_recent">Let\'s finish set up your device</string>
-    <string name="prompt_setup_device_start_recent">Follow the steps to configure your&#160;device</string>
+    <string name="title_setup_device_start">Let\'s finish setting up n%s</string>
+    <string name="prompt_setup_device_start">Follow next steps to create a new&#160;device&#160;profile</string>
+    <string name="title_setup_device_start_recent">Let\'s finish setting up your device</string>
+    <string name="prompt_setup_device_start_recent">Follow the steps to configure your&#160;device&#160;profile</string>
 
     <string name="title_setup_device_end">Profile was successfully created.\n%s is ready to use.</string>
     <string name="prompt_setup_device_end">You can view and edit this profile\nin the Info section</string>
@@ -146,4 +146,5 @@
 
     <string name="title_thanks">Thank You!</string>
     <string name="action_ok_great">OK, great!</string>
+    <string name="action_setup_new">Set up as new</string>
 </resources>
