@@ -721,6 +721,7 @@
 
     <string name="prompt_select_template">Select template</string>
 
+    <string name="title_template_id">Template ID</string>
     <string name="format_template_id">Template ID: %s</string>
 
     <string name="prompt_tile">TILE</string>
@@ -759,6 +760,9 @@
     <string name="prompt_interaction_button">Tap on the tile will send Min/Max values, similar to button behavior. Tap\'n\'hold will open device page.</string>
     <string name="prompt_interaction_page">Tap on the tile will open device page.</string>
     <string name="prompt_interaction_step">Tap on the tile will increase the value. Choose larger step values to make it possible to quickly tap from min to max.\nTap\'n\'hold will open device page.</string>
+
+    <string name="error_template_id_empty">Template Id could not be empty</string>
+    <string name="error_template_id_unique">Template Id should be unique</string>
 
     <!-- SLIDER SETTINGS -->
 
