@@ -763,6 +763,7 @@
 
     <string name="error_template_id_empty">Template Id could not be empty</string>
     <string name="error_template_id_unique">Template Id should be unique</string>
+    <string name="error_template_id_small">Template Id should be of %d symbols or more</string>
 
     <!-- SLIDER SETTINGS -->
 
