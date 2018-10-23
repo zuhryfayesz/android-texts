@@ -28,7 +28,7 @@
     <string name="widget_twoaxisjoystick_title">Joystick</string>
     <string name="widget_time_input_title">Time Input</string>
     <string name="widget_webhook_title">WebHook</string>
-    <string name="widget_image_title">Image</string>
+    <string name="widget_image_title">Image Gallery</string>
     <string name="widget_video_title">Video Streaming</string>
     <string name="widget_light_sensor_title">Light Sensor</string>
     <string name="widget_temp_sensor_title">Temperature Sensor</string>
