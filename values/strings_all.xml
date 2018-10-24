@@ -28,7 +28,7 @@
     <string name="action_upgrade_app">Update app</string>
 
     <string name="action_reset">Reset</string>
-
+    <string name="action_load">Load</string>
     <string name="action_done">Done</string>
 
     <string name="action_notnow">Not now</string>
