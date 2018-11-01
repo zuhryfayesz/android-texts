@@ -200,6 +200,7 @@
     <string name="title_selection_daysofweek">Allow day of week selection</string>
     <string name="title_selection_sunsetsunrise">Allow sunset/sunrise selection</string>
     <string name="title_selection_timezone">Allow timezone selection</string>
+    <string name="title_selection_seconds">Allow seconds selection</string>
 
     <string name="title_set_time">Set the time</string>
     <string name="title_select_day">Choose days of the week</string>
