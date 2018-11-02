@@ -436,9 +436,13 @@
     <string name="prompt_tabs_items">Tabs</string>
     <string name="format_tabs_item_hint">Tab %d</string>
     <string name="action_add_tabs_item">+ Add Tab</string>
+    <string name="title_design">Design</string>
 
     <string name="alert_confirm_tab_remove">All Widgets on this page will be deleted.\nThis cannot be undone</string>
     <string name="alert_confirm_tabs_remove">Only Widgets on first page will remain.\nThis cannot be undone</string>
+    <string name="prompt_background">Background</string>
+    <string name="prompt_active_text">Active Text</string>
+    <string name="prompt_underscore">Underscore</string>
 
     <!--RGB WIDGET SETTINGS-->
 
