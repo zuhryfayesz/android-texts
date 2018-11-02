@@ -109,6 +109,7 @@
     <string name="eventor_action_notify">send notification: %s</string>
     <string name="eventor_action_notify_highlight">notification</string>
     <string name="eventor_action_notify_collapsed">send notification</string>
+    <string name="eventor_action_setproperty" formatted="false">set %s property %s to %s</string>
 
     <string name="eventor_hint_trigger">Tap to choose a pin or a Widget that will act as a trigger</string>
     <string name="eventor_hint_condition">Choose a condition</string>
