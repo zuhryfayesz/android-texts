@@ -117,7 +117,7 @@
     <string name="eventor_hint_action">Choose action</string>
     <string name="eventor_hint_select_pin">Select pin</string>
     <string name="eventor_hint_set_value">Set value</string>
-
+    <string name="eventor_hint_select_prop">Select property</string>
     <string name="eventor_hint_select_time">Select time</string>
 
     <string name="eventor_elem_when">When…</string>
@@ -126,6 +126,8 @@
     <string name="eventor_elem_vpin">Vpin value</string>
     <string name="eventor_elem_vpin_highlight">Vpin</string>
 
+    <string name="eventor_elem_setproperty">set pin property to…</string>
+    <string name="eventor_elem_setproperty_highlight">property</string>
     <string name="eventor_elem_setpin">set pin to…</string>
     <string name="eventor_elem_setpin_highlight">pin</string>
     <string name="eventor_elem_notify">@string/eventor_action_notify_collapsed</string>
