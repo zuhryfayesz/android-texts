@@ -402,6 +402,9 @@
     <string name="prompt_no_ble_device">No BLE device</string>
     <string name="prompt_no_bluetooth_device">No Bluetooth device</string>
 
+    <string name="alert_no_ble_device">There is no device with BLE connection type in this project.</string>
+    <string name="alert_no_bluetooth_device">There is no device with Bluetooth connection type in this project.</string>
+
     <string name="alert_ble_bluetooth_confirm">This will reset the connection in this Widget.</string>
 
     <string name="prompt_not_supported_with_tiles">Not supported with Device Tiles Widget</string>
