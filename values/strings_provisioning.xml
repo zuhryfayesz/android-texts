@@ -147,4 +147,6 @@
     <string name="title_thanks">Thank You!</string>
     <string name="action_ok_great">OK, great!</string>
     <string name="action_setup_new">Set up as new</string>
+
+    <string name="title_select_tz">Select TimeZone</string>
 </resources>
