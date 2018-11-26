@@ -39,6 +39,7 @@
     <string name="error_provisioning_wrong_board">This device doesn\'t work with the&#160;app</string>
     <string name="error_provisioning_connect_failed">Can\'t connect to device</string>
     <string name="error_provisioning_not_found">Can\'t find your device</string>
+    <string name="error_provisioning_not_online">Your device couldn\'t connect to the network</string>
     <string name="error_provisioning_connect_wifi_failed">Can\'t connect to the network</string>
     <string name="error_provisioning_internet_failed">Can\'t connect to network</string>
     <string name="prompt_provisioning_internet_failed">Try resetting the device and set it up&#160;again</string>
