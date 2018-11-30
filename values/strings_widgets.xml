@@ -560,6 +560,8 @@
 
     <string name="prompt_select_sound">Select Sound</string>
 
+    <string name="action_setup_notification_oreo">Customize Behavior</string>
+
     <!--MAP WIDGET SETTINGS -->
 
     <string name="map_description">Blynk.location(index, lat, lon, value)</string>
