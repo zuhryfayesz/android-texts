@@ -1021,6 +1021,8 @@
 
     <string name="completed">Completed</string>
 
+    <string name="title_select_color">Select Color</string>
+
     <!--HOME SCREEN WIDGET-->
 
     <string name="alert_confirm_homescreenwidget_remove">This Widget is used on Home Screen. Remove both?</string>

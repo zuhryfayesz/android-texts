@@ -340,6 +340,9 @@ It\'s free, open-source, and you can install it in 1 minute.</string>
     <string name="title_select_target">Select Target</string>
 
     <string name="hint_hex_color">#RRGGBB or #AARRGGBB</string>
+    <string name="prompt_theme_colors">Theme Colors</string>
+    <string name="prompt_custom_colors">Custom Colors</string>
+    <string name="prompt_new_color">Add Color</string>
 
     <!--DEVICE SETTINGS-->
 
