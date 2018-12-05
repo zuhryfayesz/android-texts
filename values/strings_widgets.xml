@@ -938,6 +938,8 @@
     <string name="title_nav_bar">Navigation Bar</string>
     <string name="title_open_in_browser">Allow Opening In Browser</string>
 
+    <string name="linkbutton_toast_url_malformed">Wrong URL format</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_title_optional">Title (optional)</string>
