@@ -150,4 +150,6 @@
     <string name="action_setup_new">Set up as new</string>
 
     <string name="title_select_tz">Select TimeZone</string>
+
+    <string name="toast_wifi_scan_limit">WiFi scan limit reached. Please try again in a minute.</string>
 </resources>
