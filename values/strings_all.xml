@@ -676,6 +676,7 @@ Re-attach them to another Target before deleting the Tag.</string>
 
     <string name="notification_channel_group_default">All Notifications Group</string>
     <string name="notification_channel_global">Global</string>
+    <string name="notification_channel_devices">Devices</string>
 
     <string name="error_intent_no_web">There are no apps that respond to open web link request</string>
     <string name="alert_app_outdated">Your app is outdated. Please update to the latest app version asap. Ignoring this notice may affect all of your Projects.</string>
