@@ -133,7 +133,6 @@
 
     <string name="title_acknowledgements">Acknowledgements</string>
 
-    <string name="notification_title">%s - Notification </string>
     <string name="notification_date">Sent at %s</string>
     <string name="action_open_device">Open Device</string>
 
