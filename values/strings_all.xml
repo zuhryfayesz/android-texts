@@ -689,6 +689,8 @@ Re-attach them to another Target before deleting the Tag.</string>
     <string name="title_forgot_password">Forgot password?</string>
     <string name="prompt_forgot_password">It happens. Just let us know the email address you used to log in and we will send you an email with instructions</string>
 
+    <string name="action_scan_reset_qr">Scan reset QR code</string>
+
     <string name="action_send">Send</string>
     <string name="action_sending">Sending&#8230;</string>
 
