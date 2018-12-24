@@ -156,6 +156,7 @@
     <string name="and">and</string>
 
     <string name="error_qr_large_file">File is too large</string>
+    <string name="error_qr_decode_failed">QR Code decoding failed</string>
 
     <!--LOGIN/REGISTER/ETC-->
 
