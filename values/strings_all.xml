@@ -436,6 +436,9 @@ Remove them before deleting the Widget.</string>
     <string name="prompt_first_name">First Name</string>
     <string name="prompt_last_name">Last Name</string>
 
+    <string name="tab_device_info">Information</string>
+    <string name="tab_device_events">Timeline</string>
+
     <!--TAG SETTINGS-->
 
     <string name="hint_tag_name">Tag Name</string>
