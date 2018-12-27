@@ -70,140 +70,7 @@
     <string name="title_empty_level_display">Level</string>
     <string name="title_empty_step">Step</string>
 
-    <!--WIDGETBOX-->
-
-    <string name="title_widgetbox">Widget Box</string>
-
-    <string name="section_controllers">Controllers</string>
-    <string name="section_displays">Displays</string>
-    <string name="section_sensors">Smartphone Sensors</string>
-    <string name="section_notifications">Notifications</string>
-    <string name="section_other">Other</string>
-    <string name="section_interface">Interface</string>
-    <string name="section_device_management">Device Management</string>
-
-    <string name="prompt_installed">Installed</string>
-    <string name="prompt_widget_not_supported">Is not supported on your device</string>
-    <string name="prompt_widget_conflict">Doesn\'t work with %s. Yet.</string>
-
-    <!--EVENTOR WIDGET SETTINGS-->
-
-    <string name="action_add_new_event">+ Add New Event</string>
-
-    <string name="eventor_trigger_format">When %s</string>
-    <string name="eventor_trigger_time">Time</string>
-
-    <string name="eventor_condition_lt">is lower than %s</string>
-    <string name="eventor_condition_gt">is higher than %s</string>
-    <string name="eventor_condition_lte">is lower than or equal to %s</string>
-    <string name="eventor_condition_gte">is higher than or equal to %s</string>
-    <string name="eventor_condition_eq">is equal to %s</string>
-    <string name="eventor_condition_neq">is not equal to %s</string>
-    <string name="eventor_condition_str_eq">is like %s</string>
-    <string name="eventor_condition_str_neq">is not like %s</string>
-    <string name="eventor_condition_changed">is changed </string>
-
-    <string name="eventor_action_setpin" formatted="false">set %s to %s</string>
-    <string name="eventor_action_turn_on">turn ON %s</string>
-    <string name="eventor_action_turn_off">turn OFF %s</string>
-    <string name="eventor_action_notify">send notification: %s</string>
-    <string name="eventor_action_notify_highlight">notification</string>
-    <string name="eventor_action_notify_collapsed">send notification</string>
-    <string name="eventor_action_setproperty" formatted="false">set %s property %s to %s</string>
-
-    <string name="eventor_hint_trigger">Tap to choose a pin or a Widget that will act as a trigger</string>
-    <string name="eventor_hint_condition">Choose a condition</string>
-    <string name="eventor_hint_enter_value">Input value</string>
-    <string name="eventor_hint_action">Choose action</string>
-    <string name="eventor_hint_select_pin">Select pin</string>
-    <string name="eventor_hint_set_value">Set value</string>
-    <string name="eventor_hint_select_prop">Select property</string>
-    <string name="eventor_hint_select_time">Select time</string>
-
-    <string name="eventor_elem_when">When…</string>
-    <string name="eventor_elem_when_format">When %s</string>
-    <string name="eventor_elem_when_time_format">At %s</string>
-    <string name="eventor_elem_vpin">Vpin value</string>
-    <string name="eventor_elem_vpin_highlight">Vpin</string>
-
-    <string name="eventor_elem_setproperty">set pin property to…</string>
-    <string name="eventor_elem_setproperty_highlight">property</string>
-    <string name="eventor_elem_setpin">set pin to…</string>
-    <string name="eventor_elem_setpin_highlight">pin</string>
-    <string name="eventor_elem_notify">@string/eventor_action_notify_collapsed</string>
-    <string name="eventor_elem_notify_highlight">@string/eventor_action_notify_highlight</string>
-
-    <string name="eventor_elem_turn_on">turn ON pin</string>
-    <string name="eventor_elem_turn_on_highlight">@string/eventor_elem_setpin_highlight</string>
-    <string name="eventor_elem_turn_off">turn OFF pin</string>
-    <string name="eventor_elem_turn_off_highlight">@string/eventor_elem_setpin_highlight</string>
-
-    <string name="eventor_hint_write_message">Type in what to send. You can also use /pin/ to include pin value.\n\nFor example: \"Alert! temperature is below /pin/०C\"</string>
-
-    <string name="alert_eventor_notify_push">Don\'t forget to add Push Notifications Widget to your Project</string>
-    <string name="alert_eventor_notify_twit">Don\'t forget to add Twitter Widget to your Project</string>
-    <string name="alert_eventor_notify_mail">Don\'t forget to add Email Widget to your Project</string>
-
-    <string name="eventor_prompt_ready">Event is ready. Nice!</string>
-    <string name="prompt_eventor_items">Events</string>
-
-    <string name="prompt_rule_active">Active</string>
-    <string name="prompt_rule_inactive">Inactive</string>
-    <string name="format_rule_index">Event %d</string>
-    <string name="title_new_rule">New event</string>
-
-    <string name="eventor_time_everyday">Everyday</string>
-    <string name="eventor_time_workingdays">Mon to Fri</string>
-
-    <string name="eventor_delete_confirm">Delete event? This cannot be undone.</string>
-
-    <string name="eventor_device_change_confirm">All events with pins not available on new deivce will be removed. Are you sure?</string>
-
-    <string name="eventor_hint_add_more_actions">But you can add one more action. How cool is that?</string>
-
-    <string name="eventor_additional_action_prefix">also</string>
-
-    <string name="eventor_action_twit">tweet: %s</string>
-    <string name="eventor_action_twit_highlight">tweet</string>
-    <string name="eventor_action_twit_collapsed">tweet</string>
-
-    <string name="eventor_elem_twit">@string/eventor_action_twit_collapsed</string>
-    <string name="eventor_elem_twit_highlight">@string/eventor_action_twit_highlight</string>
-
-    <string name="eventor_mail_subject_default">Eventor event triggered</string>
-
-    <string name="eventor_elem_mail">send email</string>
-    <string name="eventor_elem_mail_highlight">email</string>
-
-    <string name="eventor_action_mail">send email with subject \"Eventor event triggered\" and message: %s</string>
-    <string name="eventor_action_mail_highlight">@string/eventor_elem_mail_highlight</string>
-    <string name="eventor_action_mail_collapsed">send email with subject \"Eventor event triggered\"</string>
-
-    <string name="eventor_multiple_actions_format">- %s</string>
-
-    <!--TABLE WIDGET SETTINGS-->
-
-    <string name="title_table_columns">Columns</string>
-    <string name="title_table_reordering">Allow reordering</string>
-    <string name="title_table_clickable">Clickable rows</string>
-
-    <string name="alert_table_columns">Set up columns</string>
-    <string name="table_column_name">name</string>
-    <string name="table_column_value">value</string>
-    <string name="table_column_icon">icon</string>
-    <string name="table_column_empty">&lt;empty&gt;</string>
-    <string name="table_column_separtor">|</string>
-
-    <string name="prompt_table_pin_desc">Example:\ntable.addRow(id, column, value)\ntable.addRow(1, name, "temp")</string>
-
     <!--TIME INPUT WIDGET SETTINGS-->
-
-    <string name="title_selection_format">Format</string>
-    <string name="title_selection_startstop">Allow start/stop input</string>
-    <string name="title_selection_daysofweek">Allow day of week selection</string>
-    <string name="title_selection_sunsetsunrise">Allow sunset/sunrise selection</string>
-    <string name="title_selection_timezone">Allow timezone selection</string>
-    <string name="title_selection_seconds">Allow seconds selection</string>
 
     <string name="title_set_time">Set the time</string>
     <string name="title_select_day">Choose days of the week</string>
@@ -226,75 +93,7 @@
     <string name="time_weekends">Weekends</string>
     <string name="time_all">Everyday</string>
 
-    <!--WEBHOOK WIDGET SETTINGS-->
-
-    <string name="prompt_method">Method</string>
-    <string name="prompt_content_type">Content Type</string>
-    <string name="prompt_url">Url</string>
-    <string name="prompt_body">Body</string>
-
-    <string name="title_content_type_picker">Select Content Type</string>
-
-    <string name="webhook_toast_url_malformed">Wrong URL format. Address should start with http:// or https://</string>
-    <string name="webhook_toast_body_malformed">JSON body malformed</string>
-    <string name="webhook_hint_url">Use /pin/ or %s to insert pin data</string>
-    <string name="webhook_hint_body">Use /pin/ to insert pin data</string>
-
-    <string name="action_generate_test">Run Test</string>
-    <string name="action_generating_test">Running Test</string>
-    <string name="prompt_test_run_success">Result: OK</string>
-    <string name="prompt_test_run_error">Result: Error (Failed to connect)</string>
-    <string name="prompt_test_run_error_code">Result: Error (Code - %d)</string>
-
-    <!--GPS WIDGETS SETTINGS-->
-
-    <string name="edit_title_trigger">TRIGGER WHEN</string>
-    <string name="edit_battery">BATTERY CONSUMPTION</string>
-    <string name="trigger_enter">ENTER</string>
-    <string name="trigger_exit">EXIT</string>
-    <string name="mode_stream">STREAM</string>
-    <string name="mode_trigger">TRIGGER</string>
-    <string-array name="gps_descriptions">
-        <item>GPS.getLat()</item>
-        <item>GPS.getLon()</item>
-        <item>GPS.getAltitude()</item>
-        <item>GPS.getSpeed()</item>
-    </string-array>
-    <string name="gps_accuracy_high">High Accuracy</string>
-    <string name="gps_accuracy_low">Low Power</string>
-    <string name="gps_accuracy_balanced">Balanced</string>
-
-    <string name="prompt_radius" formatted="false">Radius: %s%s</string>
-    <string name="format_meter">m</string>
-    <string name="format_kilometer">km</string>
-
-    <string name="title_accuracy_picker">Select accuracy</string>
-
-    <string name="title_gps_error_suspened">GPS disconnected</string>
-    <string name="title_gps_error_connection">GPS is not initiated</string>
-    <string name="prompt_gps_error_suspended_network">Network connection is lost</string>
-    <string name="prompt_gps_error_suspended_service">GPS service suspended</string>
-
-    <string name="title_interval">UPDATE INTERVAL</string>
-    <string name="title_select_interval">Select Interval</string>
-
     <!--SENSORS WIDGET SETTINGS-->
-
-    <string-array name="accelerometer_descriptions">
-        <item>X-axis</item>
-        <item>Y-axis</item>
-        <item>Z-axis</item>
-    </string-array>
-
-    <string-array name="gravity_descriptions">
-        <item>X-axis</item>
-        <item>Y-axis</item>
-        <item>Z-axis</item>
-    </string-array>
-
-    <string name="prompt_temperature">Temperature</string>
-    <string name="prompt_temperature_c">Celsius</string>
-    <string name="prompt_temperature_f">Fahrenheit</string>
 
     <string name="format_celsius">%s°C</string>
     <string name="format_fahrenheit">%s°F</string>
@@ -303,38 +102,6 @@
 
     <string name="prompt_near">Near</string>
     <string name="prompt_far">Far</string>
-
-    <!--IMAGE WIDGET SETTINGS-->
-
-    <string name="prompt_image_pin">Send Image ID from hardware: Blynk.virtualWrite(vPin, imageID)\nIDs start with 1. Default ID is 1</string>
-
-    <string name="title_image_source">Images Source</string>
-    <string name="prompt_album">Album</string>
-    <string name="prompt_url_desc">Add one or more Image URLs</string>
-    <string name="prompt_album_desc">Add images stored on your device. A permission to access albums will be needed.</string>
-    <string name="notice_album_desc">NOTE! These images won\'t be seen when you share projects with others</string>
-
-    <string name="title_images_list">Images</string>
-
-    <string name="title_image_scale">Images Scaling</string>
-    <string name="prompt_fill">Fill</string>
-    <string name="prompt_fit">Fit</string>
-    <string name="prompt_fill_desc">Image will be scaled to fill the widget area.\nCropping may occur.</string>
-    <string name="prompt_fit_desc">Image will be scaled to fit height or width of the widget.</string>
-
-    <string name="prompt_color_overlay">COLOR OVERLAY</string>
-
-    <string name="prompt_images_list">Swipe left to remove images. Drag to reorder. Tap on the image to change URL</string>
-
-    <string name="action_add_image_url">Add Image URL</string>
-    <string name="action_add_image">Add Image</string>
-
-    <string name="title_image_url">Image URL</string>
-    <string name="prompt_image_copyright">Images you add may be a subject to copyright.</string>
-    <string name="error_image_load">Can\'t load image from this URL</string>
-
-    <string name="hint_url">https://</string>
-
 
     <!--VIDEO WIDGET SETTINGS-->
 
@@ -409,10 +176,6 @@
 
     <string name="prompt_not_supported_with_tiles">Not supported with Device Tiles Widget</string>
 
-    <!--LABELED DISPLAY WIDGET SETTINGS-->
-
-    <string name="hint_labeled_display_format">e.g: Temp: /pin/ ºC</string>
-
     <!--TIMER WIDGET SETTINGS-->
 
     <string name="prompt_timer_startstop">START/STOP TIMERS</string>
@@ -424,91 +187,26 @@
 
     <!--MENU WIDGET SETTINGS-->
 
-    <string name="prompt_menu_pin_desc">When list item is selected, its\’ [index] will be sent to the pin</string>
-    <string name="prompt_menu_pin_hightlight">[index]</string>
-
-    <string name="prompt_menu_hint">Hint Text</string>
     <string name="prompt_menu_edit_hint">Make a selection…</string>
-    <string name="prompt_menu_edit_item_1">Item 1</string>
-    <string name="prompt_menu_edit_item_2">Item 2</string>
-
-    <string name="prompt_menu_items">Menu Items</string>
-    <string name="format_menu_item_hint">Item %d</string>
-    <string name="action_add_menu_item">+ Add item</string>
-
-    <!--TABS WIDGET SETTINGS-->
-
-    <string name="prompt_tabs_items">Tabs</string>
-    <string name="format_tabs_item_hint">Tab %d</string>
-    <string name="action_add_tabs_item">+ Add Tab</string>
-    <string name="title_design">Design</string>
-
-    <string name="alert_confirm_tab_remove">All Widgets on this page will be deleted.\nThis cannot be undone</string>
-    <string name="alert_confirm_tabs_remove">Only Widgets on first page will remain.\nThis cannot be undone</string>
-    <string name="prompt_background">Background</string>
-    <string name="prompt_active_text">Active Text</string>
-    <string name="prompt_underscore">Underscore</string>
 
     <!--RGB WIDGET SETTINGS-->
 
     <string name="prompt_red">R</string>
     <string name="prompt_green">G</string>
     <string name="prompt_blue">B</string>
-    <string name="prompt_rgb_pin_description">r = param[0].asInt();\ng = param[1].asInt();\nb = param[2].asInt();</string>
 
     <!--TERMINAL WIDGET SETTINGS-->
 
-    <string name="prompt_terminal_pin_description">Example:\nterminal.print(\"Hello World\")</string>
-
     <string name="hint_type_here">Type here</string>
 
-    <!--JOYSTICK WIDGET SETTINGS-->
-
-    <string name="prompt_twoaxisjoystick_pin_description">To access values use:\nx = param[0].asInt();\ny = param[1].asInt();</string>
-
-    <string name="prompt_autoreturn">AUTORETURN</string>
-    <string name="prompt_tilt">ROTATE ON TILT</string>
-
-    <!--HISTORY GRAPH WIDGET SETTINGS-->
+    <!-- TABLE -->
 
     <string name="prompt_no_data">No Data</string>
-    <string name="prompt_no_enough_data">No data yet</string>
 
-    <string name="prompt_show_legend">SHOW LEGEND</string>
-    <string name="prompt_logdata">Data to show</string>
+    <!-- MAIL -->
 
-    <string name="action_clear_history">Erase data</string>
-    <string name="alert_confirm_clear_history">Are you sure you want to erase the data?</string>
-
-    <string name="alert_export_title">Export data</string>
-    <string name="alert_export_message">CSV files will be sent to your email address</string>
-    <string name="action_export_history">Export to CSV</string>
-
-    <string name="period_1h">1h</string>
-    <string name="period_6h">6h</string>
-    <string name="period_1d">1d</string>
-    <string name="period_1w">1w</string>
-    <string name="period_1m">1m</string>
-    <string name="period_3m">3m</string>
-
-    <string name="auto">AUTO</string>
-    <string name="fixed">CUSTOM</string>
-
-    <string name="prompt_ycoords">Y-AXIS MIN/MAX</string>
-
-    <!--LCD WIDGET SETTINGS-->
-
-    <string name="prompt_pin_lcd_description">Example:\nlcd.print(0, 0, \"Hello LCD!\");</string>
-
-    <string name="hint_pin_lcd_format_line1">Use /pin0/ to insert pin data</string>
-    <string name="hint_pin_lcd_format_line2">Example: Temp: /pin1/ °C</string>
-    <string name="hint_pin1_pattern">/pin0/</string>
-    <string name="hint_pin2_pattern">/pin1/</string>
-
-    <string name="prompt_message">MESSAGE</string>
-
-    <string name="prompt_mode_simple">SIMPLE</string>
-    <string name="prompt_mode_advanced">ADVANCED</string>
+    <string name="title_mail_to">To</string>
+    <string name="hint_mail_edit">Email</string>
 
     <!--TWITTER WIDGET SETTINGS-->
 
@@ -520,139 +218,12 @@
 
     <string name="prompt_twitter_connected">%s connected</string>
 
-    <!--MAIL WIDGET SETTINGS-->
-
-    <string name="title_mail_to">To</string>
-    <string name="hint_mail_edit">Email</string>
-
-    <!--GRAPH WIDGET SETTINGS-->
-
-    <string name="mode_graph_type_bar">BAR</string>
-    <string name="mode_graph_type_line">LINE</string>
-
-    <string name="prompt_style">STYLE</string>
-
-    <!--GAUGE WIDGET SETTINGS-->
-
-    <string name="prompt_field_empty">----</string>
-
-    <!--BUTTON WIDGET SETTINGS-->
-
-    <string name="prompt_onoff">ON/OFF LABELS</string>
-
-    <!--TERMINAL WIDGET SETTINGS-->
-
-    <string name="prompt_input_line">INPUT LINE</string>
-    <string name="prompt_auto_scroll">AUTOSCROLL</string>
-    <string name="prompt_newline">ADD NEWLINE</string>
-
-    <!--NOTIFICATION WIDGET SETTINGS-->
-
-    <string name="prompt_notify_when_offline">NOTIFY WHEN HARDWARE GOES OFFLINE</string>
-    <string name="prompt_priority">PRIORITY</string>
-    <string name="prompt_notify_offline_timeout">Offline ignore period</string>
-
-    <string name="mode_normal">NORMAL</string>
-    <string name="mode_high">HIGH</string>
-
-    <string name="prompt_notify_instant">Instant</string>
-    <string name="prompt_sound">Sound</string>
-
-    <string name="prompt_select_sound">Select Sound</string>
-
-    <string name="action_setup_notification_oreo">Customize Behavior</string>
-
-    <!--MAP WIDGET SETTINGS -->
-
-    <string name="map_description">Blynk.location(index, lat, lon, value)</string>
-    <string name="prompt_my_location_title">Show my location</string>
-    <string name="prompt_my_location">My location</string>
-    <string name="mode_map">Map</string>
-    <string name="mode_satellite">Satellite</string>
-
-    <!-- LEVEL DISPLAY WIDGET SETTINGS -->
-
-    <string name="prompt_flip_axis">Flip Axis</string>
-
     <!-- STEP SETTINGS -->
 
     <string name="prompt_arrows">\u2191\u2193</string>
     <string name="prompt_plusminus">\u207A/\u208B</string>
-    <string name="prompt_step">Step</string>
-    <string name="prompt_loop">Loop values</string>
-    <string name="prompt_icons">Icons</string>
-    <string name="prompt_send_step">Send step</string>
-
-    <!-- DEVICE SELECTOR SETTINGS -->
-
-    <string name="prompt_select">Select</string>
-    <string name="title_show_icon">Show Device Icon</string>
 
     <!-- SUPER GRAPH SETTINGS -->
-
-    <string name="prompt_font_size">Font size</string>
-    <string name="prompt_alignment">Alignment</string>
-
-    <string name="action_font_size">T</string>
-
-    <string name="prompt_stacking">Stacking</string>
-    <string name="prompt_stacking_disabled">Don\'t stack</string>
-    <string name="prompt_stacking_enabled">Stack</string>
-    <string name="prompt_stacking_enabled_100">Stack 100</string>
-
-    <string name="prompt_show">Show</string>
-    <string name="prompt_hide">Hide</string>
-
-    <string name="prompt_title">Title</string>
-    <string name="prompt_legend">Legend</string>
-    <string name="prompt_y_values">Y-axis values</string>
-    <string name="prompt_x_values">Show X-axis (Time)</string>
-    <string name="prompt_allow_fullscreen">Allow full screen mode</string>
-
-    <string name="prompt_goal_line">Goal line</string>
-    <string name="hint_goal_line">No Value</string>
-
-    <string name="prompt_datastreams">Datastreams</string>
-    <string name="hint_datastream_name">Name</string>
-    <string name="action_add_datastream">Add Datastream</string>
-    <string name="datastream_default_title">Datastream</string>
-
-    <string name="title_select_stacking">@string/prompt_stacking</string>
-
-    <string name="prompt_design">Design</string>
-    <string name="format_style">Style: %s</string>
-    <string name="style_line">Line</string>
-    <string name="style_area">Area</string>
-    <string name="style_bar">Bar</string>
-    <string name="style_binary">Binary</string>
-
-    <string name="prompt_color">Color</string>
-    <string name="prompt_math">Math</string>
-    <string name="hint_math">Example: (/pin/*2)/6</string>
-    <string name="prompt_suffix">Suffix</string>
-    <string name="hint_suffix">°C</string>
-    <string name="prompt_smoothing">Smoothing</string>
-    <string name="prompt_connect_missing">Connect missing data points</string>
-    <string name="prompt_y_axis">Y-Axis</string>
-    
-    <string name="prompt_y_axis_strict">values</string>
-    <string name="prompt_y_axis_percent">height, %</string>
-
-    <string name="hint_flip">FLIP</string>
-
-    <string name="prompt_state_labels">State Labels</string>
-    <string name="prompt_true">True</string>
-    <string name="prompt_false">False</string>
-
-    <string name="hint_formula">Formula</string>
-    <string name="title_select_formula">Select formula</string>
-    <string name="title_actions">Actions</string>
-
-    <string name="toast_no_data_range">No data for older range</string>
-
-    <string name="title_settings_periods">Time Ranges Picker (7 max)</string>
-    <string name="title_default_resolution">Standard Resolution</string>
-    <string name="title_high_resolution">High Resolution</string>
 
     <string name="live">Live</string>
     <string name="min15">15min</string>
@@ -671,150 +242,16 @@
     <string name="month6">6Mo</string>
     <string name="year1">1Yr</string>
 
-    <string name="title_y_scale">Y-axis scaling</string>
-    <string name="prompt_scale_auto">Data will be auto-scaled based on min and max values for the given time period</string>
-    <string name="prompt_scale_minmax">Set fixed Min and Max Y-axis values</string>
-    <string name="prompt_scale_height">Set bottom and top position of the chart relative to the Widget\'s height.\n0% is the bottom of the Widget, 100% is the top of the Widget. </string>
-    <string name="prompt_scale_delta">While data stays within the given Delta value, chart will be auto-scaled within this range. If delta exceeds the range, chart will be auto-scaled to min/max values for the given period.</string>
-    
-    <string name="prompt_top">Top</string>
-    <string name="prompt_bottom">Bottom</string>
-
-    <string name="prompt_delta">Delta</string>
-    <string name="prompt_auto">Auto</string>
-    <string name="prompt_minmax">Min/Max</string>
-    <string name="prompt_height">Height</string>
-
     <string name="prompt_user_delta">While data stays within the given Delta value, chart will be auto-scaled within this range. If delta exceeds the range, chart will be auto-scaled to min/max values for the given period..</string>
     <string name="format_edit_delta">%s Delta</string>
-    <string name="title_allow_user_delta">ALLOW USERS TO MODIFY DELTA</string>
 
-    <string name="title_override_auto_scale">Override Auto Scaling for All DataStreams</string>
+    <string name="prompt_no_enough_data">No data yet</string>
+    <string name="action_clear_history">Erase data</string>
+    <string name="alert_confirm_clear_history">Are you sure you want to erase the data?</string>
 
-    <!--DEVICE TILES SETTINGS-->
-
-    <string name="title_templates">Templates</string>
-    <string name="format_template">Template %s</string>
-    <string name="hint_template">New Template</string>
-
-    <string name="title_columns_num">Number of columns</string>
-    <string name="title_rows_num">Number of rows</string>
-
-    <string name="title_template_name">Template Name</string>
-    <string name="prompt_template_name">Every click on the tile with the device named \"Sensor Model A\" will open similar page template</string>
-    <string name="title_show_device_name">Show Device Name</string>
-    <string name="title_template_pin">Tile Data Input</string>
-    <string name="title_template_value_name">Tile Value Name</string>
-    <string name="title_template_value_suffix">Tile Value Suffix</string>
-    <string name="title_template_design">Tile Design</string>
-    <string name="title_template_offline">Disable When Device is Offline</string>
-
-    <string name="action_new_template">Add Page</string>
-
-    <string name="hint_template_value_name">None</string>
-    <string name="hint_template_value_suffix">for example: ºC</string>
-
-    <string name="prompt_dynamic">Dynamic</string>
-
-    <string name="prompt_tile_design">Design</string>
-    <string name="title_template_devices">Apply Template to</string>
-    <string name="prompt_select_devices">Select Devices</string>
-    <string name="action_add_template">Add Template</string>
-    <string name="action_sort">Sort</string>
-
-    <string name="sort_name_asc">Name: A-Z</string>
-    <string name="sort_name_desc">Name: Z-A</string>
-    <string name="sort_type_asc">Device Type \u2193</string>
-    <string name="sort_type_desc">Device Type \u2191</string>
-    <string name="sort_manual">Manual</string>
-
-    <string name="prompt_value_formatting">VALUE FORMATTING</string>
-
-    <string name="empty">--</string>
-
-    <string name="prompt_select_template">Select template</string>
-
-    <string name="title_template_id">Template ID</string>
-    <string name="format_template_id">Template ID: %s</string>
-
-    <string name="prompt_tile">TILE</string>
-    <string name="prompt_value">VALUE</string>
-    <string name="prompt_level">LEVEL</string>
-
-    <string name="title_icon_state">TILE ICONS AND STATES</string>
-    <string name="title_state_labels">STATE LABELS</string>
-    <string name="title_labels_visibility">SHOW STATE LABEL</string>
-
-    <string name="title_template_page">Default</string>
-    <string name="prompt_template_page">• Tap opens template page\n• Can be a display only</string>
-    <string name="title_template_button">Button</string>
-    <string name="prompt_template_button">• Tap switches button on/off\n• Tap and hold opens device page\n• Can be a display only</string>
-    <string name="title_template_dimmer">Level</string>
-    <string name="prompt_template_dimmer">• Tap to set Min/Max value\n• Long Tap opens a template page\n• Can be a display only</string>
-
-    <string name="title_choose_template">Choose Action Type</string>
-    <string name="title_choose_icon">Choose Icon</string>
-
-    <string name="title_tile_design">TILE DESIGN</string>
-    <string name="prompt_base_color">BASE COLOR</string>
-
-    <string name="hint_pin_format">/pin/</string>
-
-    <string name="title_state_on">ON State</string>
-    <string name="title_state_off">OFF State</string>
-
-    <string name="inform_temlate_id_sent">Template ID was sent to your email</string>
-
-    <string name="title_interaction">Tap Interaction</string>
-    <string name="mode_button">Button</string>
-    <string name="mode_page">Page</string>
-    <string name="mode_step">Step</string>
-
-    <string name="prompt_interaction_button">Tap on the tile will send Min/Max values, similar to button behavior. Tap\'n\'hold will open device page.</string>
-    <string name="prompt_interaction_page">Tap on the tile will open device page.</string>
-    <string name="prompt_interaction_step">Tap on the tile will increase the value. Choose larger step values to make it possible to quickly tap from min to max.\nTap\'n\'hold will open device page.</string>
-
-    <string name="error_template_id_empty">Template Id could not be empty</string>
-    <string name="error_template_id_unique">Template Id should be unique</string>
-    <string name="error_template_id_small">Template Id should be of %d symbols or more</string>
-
-    <!-- SLIDER SETTINGS -->
-
-    <string name="prompt_fraction_digits">DECIMALS</string>
-    <string name="title_fraction_picker">Number of decimal places</string>
-
-    <!-- STYLED BUTTON SETTINGS -->
-
-    <string name="title_button_states">ON/OFF States</string>
-    <string name="title_on_label">ON Label</string>
-    <string name="title_off_label">OFF Label</string>
-    <string name="title_on_bg">ON Background</string>
-    <string name="title_off_bg">OFF Background</string>
-    <string name="prompt_rounded">Rounded</string>
-    <string name="prompt_sharp">Sharp</string>
-    <string name="prompt_pill">Pill</string>
-    <string name="prompt_solid">Solid</string>
-    <string name="prompt_outline">Outline</string>
-    <string name="title_lock_size">Lock size</string>
-    <string name="title_style">@string/prompt_style</string>
-    <string name="title_edges">Edges</string>
-    
-    <!-- TEXT AND NUMBER INPUT SETTINGS -->
-
-    <string name="title_hint">Hint</string>
-    <string name="hint_input_hint">Input value here</string>
-    <string name="title_character_limit">Character Limit</string>
-    <string name="title_suffix_optional">Suffix (Optional)</string>
-    <string name="prompt_button_color">Button Color</string>
-    <string name="prompt_text_color">Text Color</string>
-
-    <!-- SEGMENTED CONTROl SETTINGS -->
-
-    <string name="prompt_segmented_desc">When option changed, a message with Option ID will be sent to hardware.\nPlease note that first ID = 1.</string>
-    <string name="title_options">Options</string>
-    <string name="action_add_option">+ Add option</string>
-    <string name="title_option_color">Active Option Color</string>
-    <string name="format_segmented_control_hint">Option %s</string>
+    <string name="alert_export_title">Export data</string>
+    <string name="alert_export_message">CSV files will be sent to your email address</string>
+    <string name="action_export_history">Export to CSV</string>
 
     <!-- REPORTING WIDGET SETTINGS -->
 
@@ -922,122 +359,4 @@
     <string name="prompt_csv_pin">Get separate report files for every datastream for every device</string>
     <string name="prompt_csv_device">Get one report containing all datastreams for every device </string>
     <string name="prompt_csv_merged">Get one file for all devices and their datastreams</string>
-
-    <!-- LINK BUTTON -->
-
-    <string name="title_shape">Shape</string>
-    <string name="prompt_idle_label">Idle Label</string>
-    <string name="prompt_press_label">Press Label</string>
-    <string name="prompt_idle_bg">Idle Background</string>
-    <string name="prompt_press_bg">Press Background</string>
-
-    <string name="title_link_name">Link Name</string>
-    <string name="hint_link_name">Link</string>
-    <string name="title_button_design">Button Design</string>
-
-    <string name="title_nav_bar">Navigation Bar</string>
-    <string name="title_open_in_browser">Allow Opening In Browser</string>
-
-    <string name="linkbutton_toast_url_malformed">Wrong URL format</string>
-
-    <!-- WIDGET SETTINGS -->
-
-    <string name="hint_title_optional">Title (optional)</string>
-
-    <string name="hint_min">MIN</string>
-    <string name="hint_max">MAX</string>
-
-    <string name="prompt_orientation">ORIENTATION</string>
-    <string name="pin_default">PIN</string>
-
-    <string name="prompt_reading_frequency">READING RATE</string>
-    <string name="prompt_write_frequency">WRITE INTERVAL</string>
-    <string name="frequency_default">PUSH</string>
-    <string name="frequency_ms">Ms</string>
-    <string name="frequency_sec">Sec</string>
-
-    <string name="prompt_colors">COLORS</string>
-
-    <string name="prompt_mode">MODE</string>
-    <string name="prompt_mode_input">INPUT</string>
-    <string name="prompt_mode_output">OUTPUT</string>
-
-    <string name="prompt_orientation_horizonal">HOR</string>
-    <string name="prompt_orientation_vertical">VERT</string>
-
-    <string name="format_ms">%d ms</string>
-    <string name="format_sec">%d sec</string>
-    <string name="format_min">%d min</string>
-    <string name="format_hour">%d hour</string>
-
-    <string name="prompt_screen">Screen</string>
-    <string name="prompt_text">Text</string>
-    <string name="prompt_icon">Icon</string>
-
-    <string name="prompt_cover">SOON</string>
-
-    <string name="mode_push">PUSH</string>
-    <string name="mode_switch">SWITCH</string>
-
-    <string name="mode_split">SPLIT</string>
-    <string name="mode_merge">MERGE</string>
-
-    <string name="action_text_color">T</string>
-
-    <string name="prompt_label">Label</string>
-
-    <string name="prompt_send_on_release">SEND ON RELEASE</string>
-
-    <string name="prompt_target">Target</string>
-    <string name="prompt_source">Source</string>
-
-    <string name="alert_timer">Use Eventor Widget for timer events</string>
-
-    <string name="alert_confirm_widget_remove">Are you sure want to delete this Widget?\nThis cannot be undone</string>
-
-    <string name="prompt_not_supported">This Widget is not supported :(</string>
-
-    <string name="title_show_value">SHOW VALUE</string>
-
-    <string name="onetime">one-time</string>
-    <string name="daily">daily</string>
-    <string name="weekly">weekly</string>
-    <string name="monthly">monthly</string>
-
-    <string name="day">Day</string>
-    <string name="week">Week</string>
-    <string name="month">Month</string>
-    <string name="three_month">3 Months</string>
-    <string name="six_month">6 Months</string>
-
-    <string name="all">All</string>
-    <string name="none">None</string>
-
-    <string name="never">Never</string>
-
-    <string name="today">Today</string>
-    <string name="yesterday">Yesterday</string>
-    <string name="tomorrow">Tomorrow</string>
-
-    <string name="completed">Completed</string>
-
-    <string name="title_select_color">Select Color</string>
-
-    <!--HOME SCREEN WIDGET-->
-
-    <string name="alert_confirm_homescreenwidget_remove">This Widget is used on Home Screen. Remove both?</string>
-
-    <string name="alert_confirm_homescreenwidget_energy">WARNING! Home screen widget costs %s Energy\n\nOnce you add it Energy WILL NOT be refunded. \n\nContinue?</string>
-
-    <string name="homescreen_widget_button">@string/widget_button_title</string>
-    <string name="homescreen_widget_led">@string/widget_led_title</string>
-    <string name="homescreen_widget_valuedisplay">Value Display</string>
-    <string name="homescreen_widget_labeledvalue">Labeled Value</string>
-
-    <string name="format_add_homescreen_widget">Add %s Widget</string>
-
-    <string name="alert_homescreen_add_help">Tap on the Widget you would like to add to home screen of your smartphone</string>
-    <string name="alert_homescreen_bluetooth_not_supported">Can\'t add home screen widgets from Projects where BLE or Bluetooth is used. Sorry.</string>
-
-    <string name="alert_homescreen_local_server">Can\'t add home screen widgets from Projects running on a local server. Sorry.</string>
 </resources>
