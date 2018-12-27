@@ -70,7 +70,7 @@
     <string name="title_empty_level_display">Level</string>
     <string name="title_empty_step">Step</string>
 
-    <!--TIME INPUT WIDGET SETTINGS-->
+    <!-- TIME INPUT -->
 
     <string name="title_set_time">Set the time</string>
     <string name="title_select_day">Choose days of the week</string>
@@ -93,7 +93,7 @@
     <string name="time_weekends">Weekends</string>
     <string name="time_all">Everyday</string>
 
-    <!--SENSORS WIDGET SETTINGS-->
+    <!-- SENSORS -->
 
     <string name="format_celsius">%s°C</string>
     <string name="format_fahrenheit">%s°F</string>
@@ -103,7 +103,7 @@
     <string name="prompt_near">Near</string>
     <string name="prompt_far">Far</string>
 
-    <!--VIDEO WIDGET SETTINGS-->
+    <!-- VIDEO -->
 
     <string name="title_video_custom_url">URL address</string> 
     <string name="hint_video_edit">http://yourvideostream.url</string>
@@ -134,7 +134,7 @@
 
     <string name="error_unsupported_audio">Media includes audio tracks, but they can\'t be played on this device</string>
 
-    <!--BLE&BLUETOOTH WIDGET SETTINGS-->
+    <!-- BLE&BLUETOOTH -->
 
     <string name="action_connect_ble">Connect BLE device</string>
     <string name="action_connect_bluetooth">Connect Bluetooth device</string>
@@ -176,7 +176,7 @@
 
     <string name="prompt_not_supported_with_tiles">Not supported with Device Tiles Widget</string>
 
-    <!--TIMER WIDGET SETTINGS-->
+    <!-- TIMER -->
 
     <string name="prompt_timer_startstop">START/STOP TIMERS</string>
     <string name="prompt_timer_start">START</string>
@@ -185,17 +185,17 @@
     <string name="prompt_timezone">TimeZone</string>
     <string name="prompt_timeformat">Time Format</string>
 
-    <!--MENU WIDGET SETTINGS-->
+    <!-- MENU -->
 
     <string name="prompt_menu_edit_hint">Make a selection…</string>
 
-    <!--RGB WIDGET SETTINGS-->
+    <!-- RGB -->
 
     <string name="prompt_red">R</string>
     <string name="prompt_green">G</string>
     <string name="prompt_blue">B</string>
 
-    <!--TERMINAL WIDGET SETTINGS-->
+    <!-- TERMINAL -->
 
     <string name="hint_type_here">Type here</string>
 
@@ -208,7 +208,7 @@
     <string name="title_mail_to">To</string>
     <string name="hint_mail_edit">Email</string>
 
-    <!--TWITTER WIDGET SETTINGS-->
+    <!-- TWITTER -->
 
     <string name="action_connect_twitter">Connect Twitter</string>
     <string name="action_connecting_twitter">Connecting…</string>
@@ -218,12 +218,12 @@
 
     <string name="prompt_twitter_connected">%s connected</string>
 
-    <!-- STEP SETTINGS -->
+    <!-- STEP -->
 
     <string name="prompt_arrows">\u2191\u2193</string>
     <string name="prompt_plusminus">\u207A/\u208B</string>
 
-    <!-- SUPER GRAPH SETTINGS -->
+    <!-- SUPER CHART -->
 
     <string name="live">Live</string>
     <string name="min15">15min</string>
@@ -253,7 +253,7 @@
     <string name="alert_export_message">CSV files will be sent to your email address</string>
     <string name="action_export_history">Export to CSV</string>
 
-    <!-- REPORTING WIDGET SETTINGS -->
+    <!-- REPORTING WIDGET -->
 
     <string name="title_reports">Reports</string>
     <string name="prompt_reports_settings_no_tile">Reports are only available when you have Device Tiles Widget installed with at least one Device Template</string>
