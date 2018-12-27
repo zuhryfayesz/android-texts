@@ -243,6 +243,10 @@
         <item quantity="many">%d devices</item>
     </plurals>
 
+    <string name="device_timeline_empty">No events during this period</string>
+    <string name="device_event_online">Device Online</string>
+    <string name="device_event_offline">Device Offline</string>
+
     <!--ABOUT-->
 
     <string name="title_about">About</string>
