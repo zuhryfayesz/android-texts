@@ -520,6 +520,17 @@
     <string name="error_template_id_unique">Template Id should be unique</string>
     <string name="error_template_id_small">Template Id should be of %d symbols or more</string>
 
+    <string name="prompt_groups">Groups</string>
+    <string name="action_add_group_template">New Functional Group</string>
+    <string name="hint_group_template">New Group Template</string>
+    <string name="hint_description">Description</string>
+    <string name="title_group_template_name">Group Template Name</string>
+    <string name="title_name">Name</string>
+    <string name="title_value_format">Value Format</string>
+    <string name="title_suffix">Suffix</string>
+    <string name="format_label">Label %d</string>
+    <string name="title_group_switch">Group Switch</string>
+
     <!-- SLIDER SETTINGS -->
 
     <string name="prompt_fraction_digits">DECIMALS</string>
