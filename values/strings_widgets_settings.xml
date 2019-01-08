@@ -530,6 +530,7 @@
     <string name="title_suffix">Suffix</string>
     <string name="format_label">Label %d</string>
     <string name="title_group_switch">Group Switch</string>
+    <string name="title_group_design">Group Design</string>
 
     <!-- SLIDER SETTINGS -->
 
