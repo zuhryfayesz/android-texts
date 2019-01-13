@@ -135,6 +135,8 @@
     <string name="error_qr_large_file">File is too large</string>
     <string name="error_qr_decode_failed">QR Code decoding failed</string>
 
+    <string name="error_no_project">Dashboard is not available now. Please try again later</string>
+
     <!--LOGIN/REGISTER/ETC-->
 
     <string name="action_login">Log In</string>
