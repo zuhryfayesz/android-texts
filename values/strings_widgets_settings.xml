@@ -673,6 +673,8 @@
     <string name="auto">AUTO</string>
     <string name="prompt_style">STYLE</string>
 
+    <string name="error_color_exist">This color has been already added</string>
+
     <!--HOME SCREEN WIDGET-->
 
     <string name="alert_confirm_homescreenwidget_remove">This Widget is used on Home Screen. Remove both?</string>
