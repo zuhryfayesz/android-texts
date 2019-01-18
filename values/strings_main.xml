@@ -392,6 +392,8 @@ F
 
     <string name="prompt_troubleshooting_add">Here you can add troubleshooting guide for your product</string>
 
+    <string name="prompt_theme_color">Theme</string>
+
     <!--QR-->
 
     <string name="error_code_redeemed">This code was already redeemed.\nHave questions - email to %s</string>
