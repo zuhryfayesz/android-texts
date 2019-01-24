@@ -345,7 +345,7 @@
 
     <string name="title_devices_source">Project\'s Devices</string>
 
-    <string name="action_add_report_email">+ Add recipients</string>
+    <string name="action_add_report_email">Add recipient</string>
     <string name="hint_report_email">Recipient\'s email</string>
 
     <string name="prompt_sources_no_tile">Data sources for report are unavailable. Set up Tile Template.</string>
