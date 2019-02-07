@@ -99,7 +99,6 @@
     <string name="action_add_another_device">Add another device</string>
     <string name="action_add_another_device_plus">+ Add another device</string>
     <string name="action_add_new_device">Add new device</string>
-    <string name="action_add_new_group">Add new group</string>
     <string name="action_open_camera">Open camera</string>
 
     <string name="action_setup_new_device">Set up new Device</string>
