@@ -359,4 +359,14 @@
     <string name="prompt_csv_pin">Get separate report files for every datastream for every device</string>
     <string name="prompt_csv_device">Get one report containing all datastreams for every device </string>
     <string name="prompt_csv_merged">Get one file for all devices and their datastreams</string>
+
+    <!-- DEVICE TILES -->
+
+    <string name="action_add_new_group">Add new group</string>
+    <string name="title_new_group">New group</string>
+    <string name="prompt_groups_add_device">Choose devices to add to the Group</string>
+    <string name="action_create_group">Create Group</string>
+    <string name="title_group_name">Group Name</string>
+    <string name="title_group_devices">Devices</string>
+
 </resources>
