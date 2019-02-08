@@ -692,4 +692,9 @@
     <string name="alert_homescreen_bluetooth_not_supported">Can\'t add home screen widgets from Projects where BLE or Bluetooth is used. Sorry.</string>
 
     <string name="alert_homescreen_local_server">Can\'t add home screen widgets from Projects running on a local server. Sorry.</string>
+
+    <!-- ================================== -->
+
+    <string name="hint_icon_search">Search...</string>
+
 </resources>
