@@ -137,6 +137,8 @@
 
     <string name="error_no_project">Dashboard is not available now. Please try again later</string>
 
+    <string name="error_twitter_initialization">Twitter configuration failed</string>
+
     <!--LOGIN/REGISTER/ETC-->
 
     <string name="action_login">Log In</string>
