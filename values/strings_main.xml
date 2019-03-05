@@ -440,7 +440,11 @@ F
 
     <string name="alert_confirm_shared_app_logout">Are you sure you want to exit?\nYou will need to re-scan the QR-code again</string>
 
-    <!-- SPARKFUN PROVISIONING -->
+    <!-- PROVISIONING -->
+
+    <string name="prompt_export_verify_failed">Check BOARD_VENDOR field.</string>
+    <string name="prompt_export_online_failed">Check the entered password and network.\nTry another Wi-Fi network or device.\nCheck the Internet and firewall settings.</string>
+    <string name="prompt_export_connect_failed">Make sure the board has sufficient power or does not restart during Dynamic Provisioning flow.</string>
 
     <string name="prompt_sparkfun_thanks_title">Thanks for choosing SparkFun hardware!</string>
     <string name="prompt_sparkfun_thanks_text1">Enjoy the complimentary</string>
