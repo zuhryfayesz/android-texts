@@ -67,7 +67,7 @@
     <string name="prompt_device_not_found">Wait, or try resetting the device and set it up&#160;again</string>
     <string name="prompt_connecting_long">It takes longer than expected.\nPlease wait.</string>
     <string name="prompt_wifi_not_found">Try again or choose\na different W-Fi network</string>
-
+    <string name="prompt_provisioning_canceled">Please start over</string>
     <string name="prompt_provisioning_progress_info">Getting device information&#8230;</string>
 
     <string name="title_provisioning_perms">App needs your permission to access location data</string>
