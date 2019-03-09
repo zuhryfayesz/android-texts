@@ -394,6 +394,8 @@ F
 
     <string name="prompt_theme_color">Theme</string>
 
+    <string name="alert_app_removal">Deleting the Preview Application will affect your Application and it will no longer work correctly.\nPlease make sure that this Preview Application is no longer needed and is not used by any application before deleting it!</string>
+
     <!--QR-->
 
     <string name="error_code_redeemed">This code was already redeemed.\nHave questions - email to %s</string>
