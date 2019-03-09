@@ -362,7 +362,7 @@
 
     <!-- DEVICE TILES -->
 
-    <string name="action_add_new_group">Add new group</string>
+    <string name="action_add_new_group">Create new group</string>
     <string name="title_new_group">New group</string>
     <string name="prompt_groups_add_device">Choose devices to add to the Group</string>
     <string name="action_create_group">Create Group</string>
