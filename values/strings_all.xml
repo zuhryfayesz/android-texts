@@ -290,4 +290,8 @@
     <string name="notification_channel_global">Global</string>
     <string name="notification_channel_devices">Devices</string>
 
+    <!-- SHELL APP -->
+
+    <string name="title_org_picker">Choose Organization</string>
+
 </resources>
