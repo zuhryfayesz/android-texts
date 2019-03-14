@@ -104,6 +104,7 @@
     <string name="action_setup_new_device">Set up new Device</string>
     <string name="action_setup_device">Set up Device</string>
 
+    <string name="title_no_devices">No devices yet</string>
     <string name="prompt_no_devices">You don\'t have any devices connected&#160;yet</string>
     <string name="prompt_no_devices_howto_qr">Scan QR-code attached the device to start adding&#160;it</string>
     <string name="prompt_no_devices_howto_wifi_tiles">Click the button below to start adding a new&#160;device</string>
