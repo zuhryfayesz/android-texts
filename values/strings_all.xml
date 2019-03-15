@@ -251,6 +251,10 @@
     <string name="device_event_online">Device Online</string>
     <string name="device_event_offline">Device Offline</string>
 
+
+    <string name="action_reconfigure_device">Reconfigure</string>
+    <string name="action_actions">Actions</string>
+
     <!--ABOUT-->
 
     <string name="title_about">About</string>
