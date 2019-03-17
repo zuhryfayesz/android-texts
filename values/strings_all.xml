@@ -212,6 +212,8 @@
     <string name="prompt_firmware_info">Firmware Version</string>
     <string name="firmware_info_empty">No info</string>
 
+    <string name="title_status">Status</string>
+
     <string name="prompt_online">Online</string>
     <string name="format_online">Online since %s</string>
     <string name="prompt_offline">Offline</string>
