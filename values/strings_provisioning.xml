@@ -133,6 +133,7 @@
 
     <string name="hint_metafield_text">Enter&#8230;</string>
     <string name="hint_metafield_no_references">No referenced devices</string>
+    <string name="hint_metafield_no_tz">Select time zone</string>
     <string name="hint_metafield_list">Choose %s</string>
     <string name="hint_metafield_device_owner">device.owner@email.com</string>
 
