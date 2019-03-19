@@ -3,6 +3,8 @@
     <string name="widget_rgb_title">zeRGBa</string>
     <string name="widget_slider_title">Slider</string>
     <string name="widget_vertical_slider_title">Vertical Slider</string>
+    <string name="widget_step_slider_title">Step Slider</string>
+    <string name="widget_vertical_step_slider_title">Vertical Step Slider</string>
     <string name="widget_led_title">LED</string>
     <string name="widget_graph_title">Graph</string>
     <string name="widget_display_title">Value Display</string>
