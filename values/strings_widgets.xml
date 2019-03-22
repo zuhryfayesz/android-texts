@@ -56,6 +56,7 @@
     <string name="widget_reports_title">Reports</string>
     <string name="widget_link_button_title">WebPage Button</string>
     <string name="widget_radial_gauge_title">Radial Gauge</string>
+    <string name="widget_gradient_ramp_title">Gradient Ramp</string>
 
     <string name="format_title_widget_settings">%s Settings</string>
 
