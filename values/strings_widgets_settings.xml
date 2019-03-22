@@ -588,6 +588,13 @@
 
     <string name="linkbutton_toast_url_malformed">Wrong URL format</string>
 
+    <!-- GRADIENT RAMP -->
+
+    <string name="title_show_minmax">Show Min/Max values</string>
+    <string name="title_bottom_label">Bottom label(optional)</string>
+    <string name="title_ramp_colors">Ramp colors (6 Max)</string>
+    <string name="action_add_color">Add Color</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_title_optional">Title (optional)</string>
