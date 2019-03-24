@@ -303,5 +303,7 @@
     <string name="title_profile">My Profile</string>
     <string name="action_change_email">Change email</string>
     <string name="action_delete_acc">Delete account</string>
+    <string name="error_acc_name_empty">Username can\'t be empty</string>
+    <string name="action_change_acc_name">Change username</string>
 
 </resources>
