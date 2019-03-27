@@ -190,6 +190,7 @@
     <string name="action_new_link">Get new link</string>
 
     <string name="prompt_new_password">Your new password is set!</string>
+    <string name="error_password_change">Password change failed. Please try later</string>
 
     <string name="title_check_inbox">Check your inbox</string>
     <string name="prompt_check_inbox">If this email address is associated with existing account, you will receive an email with instructions for resetting your password</string>
