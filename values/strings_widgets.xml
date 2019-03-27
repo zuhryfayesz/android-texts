@@ -159,6 +159,7 @@
     <string name="prompt_stop_ble_project">Another Bluetooth connected project is active. Stop it?</string>
 
     <string name="message_ble_not_supported">BLE is not supported by your device</string>
+    <string name="message_bluetooth_not_supported">Bluetooth is not supported by your device</string>
 
     <string name="action_disconnect">Disconnect</string>
 
