@@ -594,6 +594,7 @@
     <string name="title_bottom_label">Bottom label(optional)</string>
     <string name="title_ramp_colors">Ramp colors (6 Max)</string>
     <string name="action_add_color">Add Color</string>
+    <string name="hint_none">None</string>
 
     <!-- WIDGET SETTINGS -->
 
