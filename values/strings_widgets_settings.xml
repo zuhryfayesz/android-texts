@@ -522,6 +522,7 @@
     <string name="error_template_id_small">Template Id should be of %d symbols or more</string>
 
     <string name="prompt_groups">Groups</string>
+    <string name="prompt_alerts">Alerts</string>
     <string name="action_add_group_template">New Functional Group</string>
     <string name="hint_group_template">New Group Template</string>
     <string name="hint_description">Description</string>
