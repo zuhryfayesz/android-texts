@@ -507,6 +507,8 @@
     <string name="title_state_off">OFF State</string>
 
     <string name="inform_temlate_id_sent">Template ID was sent to your email</string>
+    <string name="inform_template_clone">Template has been cloned</string>
+    <string name="error_template_clone">Template has not been cloned. Try again later</string>
 
     <string name="title_interaction">Tap Interaction</string>
     <string name="mode_button">Button</string>
@@ -522,7 +524,6 @@
     <string name="error_template_id_small">Template Id should be of %d symbols or more</string>
 
     <string name="prompt_groups">Groups</string>
-    <string name="prompt_alerts">Alerts</string>
     <string name="action_add_group_template">New Functional Group</string>
     <string name="hint_group_template">New Group Template</string>
     <string name="hint_description">Description</string>
@@ -554,7 +555,7 @@
     <string name="title_lock_size">Lock size</string>
     <string name="title_style">@string/prompt_style</string>
     <string name="title_edges">Edges</string>
-    
+
     <!-- TEXT AND NUMBER INPUT SETTINGS -->
 
     <string name="title_hint">Hint</string>
@@ -588,14 +589,6 @@
     <string name="title_open_in_browser">Allow Opening In Browser</string>
 
     <string name="linkbutton_toast_url_malformed">Wrong URL format</string>
-
-    <!-- GRADIENT RAMP -->
-
-    <string name="title_show_minmax">Show Min/Max values</string>
-    <string name="title_bottom_label">Bottom label(optional)</string>
-    <string name="title_ramp_colors">Ramp colors (6 Max)</string>
-    <string name="action_add_color">Add Color</string>
-    <string name="hint_none">None</string>
 
     <!-- WIDGET SETTINGS -->
 
