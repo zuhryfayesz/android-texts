@@ -533,6 +533,9 @@
     <string name="format_label">Label %d</string>
     <string name="title_group_switch">Group Switch</string>
     <string name="title_group_design">Group Design</string>
+    
+    <string name="inform_template_clone">Template has been cloned</string>
+    <string name="error_template_clone">Template has not been cloned. Try again later</string>
 
     <!-- SLIDER SETTINGS -->
 
