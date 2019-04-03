@@ -384,6 +384,7 @@
     <string name="prompt_design">Design</string>
     <string name="format_style">Style: %s</string>
     <string name="style_line">Line</string>
+    <string name="style_step_line">Step Line</string>
     <string name="style_area">Area</string>
     <string name="style_bar">Bar</string>
     <string name="style_binary">Binary</string>
