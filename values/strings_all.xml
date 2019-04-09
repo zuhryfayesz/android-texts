@@ -307,5 +307,10 @@
     <string name="error_acc_name_empty">Username can\'t be empty</string>
     <string name="action_change_acc_name">Change username</string>
     <string name="tiles_events_empty">All is good now. List of latest important events will be logged here.</string>
+    <string name="title_sorting">Sorting</string>
+    <string name="sort_alphabetical_asc">A-Z</string>
+    <string name="sort_alphabetical_desc">Z-A</string>
+    <string name="sort_added_desc">Last Added</string>
+    <string name="sort_added_asc">First Added</string>
 
 </resources>
