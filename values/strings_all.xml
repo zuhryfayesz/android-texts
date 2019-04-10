@@ -255,6 +255,11 @@
     <string name="device_event_online">Device Online</string>
     <string name="device_event_offline">Device Offline</string>
 
+    <string name="format_field_mandatory">%s (Mandatory)</string>
+    <string name="error_metafield_empty">Entered value can not be empty</string>
+    <string name="error_metafield_large">Entered value is too large (should be less or equal to %d)</string>
+    <string name="error_metafields_not_all_mandatory">Please fill the mandatory fields</string>
+
 
     <string name="action_reconfigure_device">Reconfigure</string>
     <string name="action_actions">Actions</string>
