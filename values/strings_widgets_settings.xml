@@ -601,6 +601,18 @@
     <string name="action_add_color">Add Color</string>
     <string name="hint_none">None</string>
 
+    <!-- SLOPE CONTROL -->
+
+    <string name="prompt_slope_pin_help">Values will be passed as an array of four values: [x1,y1,x2,y2]</string>
+    <string name="format_axis_label">%s Axis</string>
+    <string name="format_hint_axis_name">%s-axis name</string>
+    <string name="format_value_min">%s Min</string>
+    <string name="format_value_max">%s Max</string>
+    <string name="format_axis_move_step">%s Move Step</string>
+    <string name="format_axis_grid_step">%s Grid Step</string>
+    <string name="title_points">Points</string>
+    <string name="format_hint_point_name">%s name</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_title_optional">Title (optional)</string>
