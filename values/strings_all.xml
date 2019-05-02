@@ -179,9 +179,11 @@
     <string name="title_change_password">Set new password</string>
     <string name="action_change_password">Change password</string>
 
+    <string name="hint_old_psw">Current password</string>
     <string name="hint_new_psw">New password</string>
     <string name="hint_psw_confirm">Confirm password</string>
     <string name="error_password_match">Passwords don\'t match</string>
+    <string name="error_enter_cur_psw">Enter current password</string>
 
     <string name="title_reset_token_expired">Link has expired</string>
     <string name="error_reset_token_expired">The link you use is incorrect or has been expired</string>
