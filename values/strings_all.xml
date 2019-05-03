@@ -261,7 +261,7 @@
     <string name="error_metafield_empty">Entered value can not be empty</string>
     <string name="error_metafield_large">Entered value is too large (should be less or equal to %d)</string>
     <string name="error_metafields_not_all_mandatory">Please fill the mandatory fields</string>
-
+    <string name="error_metafield_regexp_failed">Value doesn\'t match the validation expression</string>
 
     <string name="action_reconfigure_device">Reconfigure</string>
     <string name="action_actions">Actions</string>
