@@ -258,10 +258,10 @@
     <string name="device_event_offline">Device Offline</string>
 
     <string name="format_field_mandatory">%s (Required)</string>
-    <string name="error_metafield_empty">Entered value can not be empty</string>
+    <string name="error_edit_validation_empty">This information is required</string>
+    <string name="error_edit_validation_regexp">Check the format</string>
     <string name="error_metafield_large">Entered value is too large (should be less or equal to %d)</string>
     <string name="error_metafields_not_all_mandatory">Please fill the mandatory fields</string>
-    <string name="error_metafield_regexp_failed">Value doesn\'t match the validation expression</string>
 
     <string name="action_reconfigure_device">Reconfigure</string>
     <string name="action_actions">Actions</string>
