@@ -123,7 +123,7 @@
     <string name="prompt_setup_device_end">You can view and edit this profile\nin the Info section</string>
 
     <string name="title_setup_device_next">What\'s next?</string>
-    <string name="prompt_setup_device_continue">Continue adding new devices or finish&#160;and&#160;exit</string>
+    <string name="prompt_setup_device_continue">Continue adding devices or exit&#160;provisioning</string>
     <string name="action_add_new_device_with_metadata">Add new device and apply most recent&#160;profile</string>
     <string name="action_exit_to_app">Exit to app</string>
     <string name="action_finish_exit">Finish and exit</string>
