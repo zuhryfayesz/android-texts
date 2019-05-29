@@ -132,6 +132,7 @@
     <string name="prompt_setup_device_review">Scroll down to review and apply&#160;info</string>
 
     <string name="hint_metafield_text">Enter&#8230;</string>
+    <string name="hint_metafield_empty">No value</string>
     <string name="hint_metafield_no_references">No referenced devices</string>
     <string name="hint_metafield_no_tz">Select time zone</string>
     <string name="hint_metafield_list">Choose %s</string>
