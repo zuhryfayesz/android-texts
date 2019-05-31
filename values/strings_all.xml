@@ -223,6 +223,7 @@
     <string name="format_offline">Offline since %s</string>
     <string name="prompt_offline_never">Wasn\'t online yet</string>
     <string name="format_offline_since">Offline since %s</string>
+    <string name="format_date_since">since %s</string>
 
     <string name="title_devices">Devices</string>
     <string name="title_my_devices">My Devices</string>
