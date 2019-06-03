@@ -58,6 +58,8 @@
     <string name="widget_radial_gauge_title">Radial Gauge</string>
     <string name="widget_gradient_ramp_title">Gradient Ramp</string>
     <string name="widget_slope_control_title">Slope Control</string>
+    <string name="widget_text_title">Text</string>
+    <string name="widget_switch_title">Switch</string>
 
     <string name="format_title_widget_settings">%s Settings</string>
 

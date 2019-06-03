@@ -613,6 +613,15 @@
     <string name="title_points">Points</string>
     <string name="format_hint_point_name">%s name</string>
 
+    <!-- TEXT -->
+
+    <string name="title_text_value">Text Value</string>
+    <string name="hint_text_value">Input value here</string>
+
+    <!-- SWITCH -->
+
+    <string name="title_handle">Handle</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_title_optional">Title (optional)</string>
