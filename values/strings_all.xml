@@ -43,6 +43,7 @@
     <string name="action_info">Info</string>
 
     <string name="hint_project_name">Project Name</string>
+    <string name="format_choose">Choose %s</string>
 
     <string name="error_connect_to_server">Can\'t connect to server. Try later.</string>
     <string name="error_no_route_to_host">Can\'t connect to server. Please, check settings of your wifi-router.</string>
@@ -251,6 +252,12 @@
 
     <string name="title_address_search">Search Address</string>
     <string name="hint_address_search">Start typing the address</string>
+    <string name="title_country_select">Choose Country</string>
+
+    <plurals name="locations">
+        <item quantity="one">Location</item>
+        <item quantity="other">Locations</item>
+    </plurals>
 
     <plurals name="devices">
         <item quantity="zero">No devices</item>
