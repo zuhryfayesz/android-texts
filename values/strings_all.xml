@@ -234,7 +234,7 @@
     <string name="prompt_city">City</string>
     <string name="prompt_street">Street</string>
     <string name="prompt_address1">Address Line 1</string>
-    <string name="prompt_address2">Address Line 2</string>
+    <string name="prompt_address2">Address Line 2 (Optional)</string>
     <string name="prompt_zone">Zone</string>
     <string name="prompt_sitename">Site Name</string>
     <string name="prompt_room">Room</string>
