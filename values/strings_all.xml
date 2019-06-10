@@ -240,7 +240,9 @@
     <string name="prompt_sitename">Site Name</string>
     <string name="prompt_room">Room</string>
     <string name="prompt_floor">Floor</string>
-    <string name="prompt_building">Building Name</string>
+    <string name="prompt_address">Street Address</string>
+    <string name="prompt_building">Building</string>
+    <string name="prompt_building_name">Building Name</string>
     <string name="prompt_unit">Unit</string>
     <string name="prompt_phone">Phone Number</string>
     <string name="prompt_contact">Contact</string>
