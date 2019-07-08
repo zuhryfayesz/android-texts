@@ -155,4 +155,6 @@
     <string name="title_select_tz">Select TimeZone</string>
 
     <string name="toast_wifi_scan_limit">WiFi scan limit reached. Please try again in a minute.</string>
+
+    <string name="alert_confirm_profiling_exit">Are you sure you want to stop this device set up?</string>
 </resources>
