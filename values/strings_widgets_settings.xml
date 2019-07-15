@@ -622,6 +622,10 @@
 
     <string name="title_handle">Handle</string>
 
+    <!-- ICON BUTTON -->
+
+    <string name="title_icons_states">ICONS AND STATES</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_title_optional">Title (optional)</string>
