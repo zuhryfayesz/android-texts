@@ -61,6 +61,8 @@
     <string name="widget_text_title">Text</string>
     <string name="widget_switch_title">Switch</string>
     <string name="widget_icon_button_title">Icon Button</string>
+    <string name="widget_level_slider_title">Level Slider</string>
+    <string name="widget_level_step_slider_title">Level Step Slider</string>
 
     <string name="format_title_widget_settings">%s Settings</string>
 
