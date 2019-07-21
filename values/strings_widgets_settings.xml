@@ -631,6 +631,17 @@
     <string name="shape_square">Square</string>
     <string name="shape_rectangle">Rectangle</string>
 
+    <!-- LEVEL SLIDER -->
+
+    <string name="title_num_segments">Number of segments</string>
+    <string name="title_corners_radius">Corners Radius</string>
+    <string name="title_progress_gradient">Progress Gradient</string>
+    <string name="prompt_custom">Custom</string>
+    <string name="prompt_color_1">Progress Bottom</string>
+    <string name="prompt_color_2">Progress Top</string>
+    <string name="prompt_handle">Handle</string>
+    <string name="prompt_progress">Progress</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_title_optional">Title (optional)</string>
