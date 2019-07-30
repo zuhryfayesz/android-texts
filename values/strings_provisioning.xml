@@ -36,6 +36,7 @@
 
     <string name="title_provisioning_success">Finish</string>
 
+    <string name="error_provisioning_wrong_template">Not correct device</string>
     <string name="error_provisioning_wrong_board">This device doesn\'t work with the&#160;app</string>
     <string name="error_provisioning_connect_failed">Can\'t connect to device</string>
     <string name="error_provisioning_not_found">Can\'t find your device</string>
