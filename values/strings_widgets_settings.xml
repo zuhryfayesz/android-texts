@@ -642,6 +642,11 @@
     <string name="prompt_handle">Handle</string>
     <string name="prompt_progress">Progress</string>
 
+    <!-- RGB LIGHT CONTROL -->
+
+    <string name="title_pin_color">Color Pin</string>
+    <string name="title_pin_button">Button Pin</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_title_optional">Title (optional)</string>
