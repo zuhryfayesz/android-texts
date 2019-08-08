@@ -647,6 +647,11 @@
     <string name="title_pin_color">Color Pin</string>
     <string name="title_pin_button">Button Pin</string>
 
+    <!-- ICON -->
+
+    <string name="prompt_size_relative">Size</string>
+    <string name="prompt_icon_pin">Send Image ID from hardware: Blynk.virtualWrite(vPin, imageID)\nIDs start with 0. Default ID is 0</string>
+
     <!-- WIDGET SETTINGS -->
 
     <string name="hint_title_optional">Title (optional)</string>
