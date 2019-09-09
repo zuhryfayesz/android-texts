@@ -646,6 +646,7 @@
 
     <string name="title_pin_color">Color Pin</string>
     <string name="title_pin_button">Button Pin</string>
+    <string name="title_brightness_button">Brightness Pin</string>
 
     <!-- ICON -->
 
