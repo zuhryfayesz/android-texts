@@ -478,6 +478,8 @@
 
     <string name="prompt_select_template">Select template</string>
 
+    <string name="title_product">Connected Product</string>
+    <string name="hint_select_product">Select Product</string>
     <string name="title_template_id">Template ID</string>
     <string name="format_template_id">Template ID: %s</string>
 
