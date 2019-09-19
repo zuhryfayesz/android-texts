@@ -740,6 +740,8 @@
 
     <string name="error_color_exist">This color has been already added</string>
 
+    <string name="error_no_connected_product">Not connected to any product</string>
+
     <!--HOME SCREEN WIDGET-->
 
     <string name="alert_confirm_homescreenwidget_remove">This Widget is used on Home Screen. Remove both?</string>
