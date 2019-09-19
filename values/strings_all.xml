@@ -335,5 +335,6 @@
     <string name="sort_alphabetical_desc">Z-A</string>
     <string name="sort_added_desc">Last Added</string>
     <string name="sort_added_asc">First Added</string>
+    <string name="prompt_no_icon">No Icon</string>
 
 </resources>

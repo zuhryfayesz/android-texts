@@ -136,6 +136,7 @@
     <string name="hint_metafield_empty">No value</string>
     <string name="hint_metafield_no_references">No referenced devices</string>
     <string name="hint_metafield_no_tz">Select time zone</string>
+    <string name="hint_metafield_no_location">No information about %s</string>
     <string name="hint_metafield_list">Choose %s</string>
     <string name="hint_metafield_device_owner">device.owner@email.com</string>
 

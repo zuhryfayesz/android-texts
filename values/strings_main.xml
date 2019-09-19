@@ -504,6 +504,7 @@ F
     <string name="publish_message_text" formatted="false">
         App name: %s\n
         App id: %s\n
+        App Preview server: %s\n
         App type: %s\n
         Provisioning type: %s\n
         Email: %s\n
