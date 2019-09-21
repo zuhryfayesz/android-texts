@@ -199,7 +199,29 @@
     <string name="prompt_check_inbox">If this email address is associated with existing account, you will receive an email with instructions for resetting your password</string>
 
     <string name="action_back_to_login">Back to Login</string>
-
+    
+    
+    <string name="prompt_invite_link">Fill in your email address and we will send an account activation link.</string>
+    <string name="hint_email_address">your.email@email.com</string>
+    <string name="check_sign_up">I agree to Terms and Conditions and accept Privacy Policy</string>
+    <string name="format_terms">Terms and Conditions</string>
+    <string name="format_privacy">Privacy Policy</string>
+    <string name="title_email_sent">Email sent!</string>
+    <string name="title_sign_up">Sign Up</string>
+    <string name="prompt_invite_email">Check your inbox and click on a link to verify your email address.</string>
+    <string name="prompt_check_spam">Sometimes you need to wait a bit or check SPAM folder. Make sure to add %s to your list of contacts.</string>
+    <string name="action_invite_resend">Resend a link</string>
+    <string name="prompt_invite_resend">Wait %d seconds to resend a link</string>
+    <string name="title_invite_password">Set a password</string>
+    <string name="prompt_invite_password">Create a password which is hard to guess.</string>
+    <string name="prompt_invite_password_strength">• Make it longer than 8 symbols\n• Use uncommon words\n• Use non-standard uPPercaSing,\n• Use creatif spellllllling\n• Use non-obvi0u$ number$ &amp; symbo1s</string>
+    <string name="prompt_weak">Weak</string>
+    <string name="prompt_medium">Medium</string>
+    <string name="prompt_strong">Strong</string>
+    <string name="prompt_very_strong">Very Strong</string>
+    <string name="title_invite_alredy">Already a member</string>
+    <string name="prompt_invite_already" formatted="true">Looks like you have been invited by %s already. You will be added as a member of %s.</string>
+    <string name="action_ok_got">Ok. Got It.</string>
     <!--QR-->
 
     <string name="error_no_camera">Can\'t find camera</string>
