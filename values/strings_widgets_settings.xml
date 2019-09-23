@@ -650,6 +650,7 @@
     <string name="title_pin_color">Color Pin</string>
     <string name="title_pin_button">Button Pin</string>
     <string name="title_brightness_button">Brightness Pin</string>
+    <string name="title_white_only">White Only</string>
 
     <!-- ICON -->
 
