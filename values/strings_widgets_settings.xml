@@ -500,6 +500,7 @@
     <string name="prompt_template_dimmer">• Tap to set Min/Max value\n• Long Tap opens a template page\n• Can be a display only</string>
     <string name="title_template_icon_button">Icon Button</string>
     <string name="title_template_icon_dimmer">Icon Level</string>
+    <string name="title_template_color_brightness">Color Brightness</string>
 
     <string name="title_choose_template">Choose Action Type</string>
     <string name="title_choose_icon">Choose Icon</string>
